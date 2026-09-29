@@ -1,0 +1,222 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:05:42",
+  "received_at": "2026-09-29T12:06:13",
+  "latency_seconds": 31.033,
+  "prompt_tokens": 74290,
+  "completion_tokens": 2088,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5760,
+  "total_tokens": 76378,
+  "cost_usd_api": 0.07423614,
+  "cost_usd_reconstructed": 0.037215948000000006,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676348-SDNyhDH6XbA05rmXXIDp",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato Interministeriale per la Programmazione Economica e lo Sviluppo Sostenibile",
+    "ministero_2": null,
+    "natura_atto": "approvazione",
+    "atti_collegati": [
+      {
+        "estremi": "Delibera CIPE 4 aprile 2019, n. 6",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Delibera CIPESS 23 aprile 2024, n. 14",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e dei trasporti 4 marzo 2015, n. 82",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente è la Delibera CIPESS n. 86/2024 del 19 dicembre 2024, che approva il progetto definitivo della Linea 4.1 del sistema tramviario fiorentino. La delibera dispone la copertura finanziaria del costo dell'intervento, indicando le risorse statali e comunali. Non sono presenti azioni di definanziamento o rimodulazione disposte dall'atto corrente; il definanziamento FSC citato è stato disposto da una precedente delibera (n. 14/2024) e qui solo richiamato. Gli allegati 1 e 2 contengono prescrizioni e raccomandazioni, ma non azioni di finanziamento."
+  },
+  "records": [
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "annualita": null,
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "passaggio_testuale": "95.000.000,00 euro a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "passaggio_testuale": "47.000.000,00 euro a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "passaggio_testuale": "29.900.000,00 euro a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "passaggio_testuale": "7.100.598,76 euro dalle risorse «quota Comune di Firenze»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "passaggio_testuale": "22.900.000,00 euro dalle risorse «quota Comune di Firenze - trasferimenti da RFI»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "passaggio_testuale": "245.577,80 euro dalle risorse «RFI - ulteriore finanziamento (inserito nel 2012)»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

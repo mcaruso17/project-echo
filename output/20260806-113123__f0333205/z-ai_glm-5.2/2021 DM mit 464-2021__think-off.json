@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:39:32",
+  "received_at": "2026-08-06T11:39:44",
+  "latency_seconds": 11.448,
+  "prompt_tokens": 9281,
+  "completion_tokens": 929,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10210,
+  "cost_usd_api": 0.017081,
+  "cost_usd_reconstructed": 0.00939455,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009173-t5yBByUgBo4RLXjQ3yUJ",
+    "provider": "Fireworks",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta esplicitamente il proprio numero e data di emanazione nell'intestazione o nel testo fornito. L'articolo 1 dispone la ripartizione di 660.660.678,33 euro tra gli interventi dell'Allegato 1 utilizzando le risorse dei capitoli 7400 (piani gestionali 7 e 1). Poiché l'Allegato 1 non distingue l'origine del finanziamento per ogni singolo progetto tra piano gestionale 7 e 1, tutti gli importi sono stati attribuiti al piano gestionale 7, che rappresenta la quota principale (634.174.000,00 euro) rispetto al piano gestionale 1 (114.902.425,07 euro)."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, Allegato 1",
+      "note": "Comune di Padova - LINEA SIR 2 DEL TRAM-COMPLETAMENTO DEL SISTEMA INTERMEDIO A RETE DELLA CITTA' DI PADOVA"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, Allegato 1",
+      "note": "Comune di Brescia - NUOVA LINEA TRANVIARIA 'PENDOLINA- FIERA (T2)'"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, Allegato 1",
+      "note": "Roma Capitale - RINNOVO MATERIALE LINEE A e B-B1 DELLA METROPOLITANA"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, Allegato 1",
+      "note": "Comune di Torino - ATTESTAMENTO LINEA TRANVIARIA 15 PRESSO OSPEDALE MARTINI E MODIFICA INSTRADAMENTO IN ZONA CENTRO"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, Allegato 1",
+      "note": "Comune di Torino - METROPOLITANA AUTOMATICA DI TORINO - LINEA 1: PROLUNGAMENTO OVEST COLLEGNO - CASCINE VICA: NUOVO FABBRICATO DEPOSITO TRENI"
+    }
+  ],
+  "raw_content": null
+}

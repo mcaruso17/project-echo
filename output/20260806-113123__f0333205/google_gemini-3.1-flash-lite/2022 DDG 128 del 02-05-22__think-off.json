@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:54:48",
+  "received_at": "2026-08-06T11:54:51",
+  "latency_seconds": 3.392,
+  "prompt_tokens": 7383,
+  "completion_tokens": 819,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8202,
+  "cost_usd_api": 0.00307425,
+  "cost_usd_reconstructed": 0.00307425,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010088-cZY3HoplyhomAtGdL2to",
+    "provider": "Google",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto non sono esplicitamente indicati nel testo fornito. Gli importi rappresentano il totale pluriennale assegnato ai progetti come da allegato."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato parte integrante",
+      "note": "Assegnazione pluriennale"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato parte integrante",
+      "note": "Assegnazione pluriennale"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato parte integrante",
+      "note": "Assegnazione pluriennale"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato parte integrante",
+      "note": "Assegnazione pluriennale"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 3 e Allegato parte integrante",
+      "note": "Assegnazione pluriennale"
+    }
+  ],
+  "raw_content": null
+}

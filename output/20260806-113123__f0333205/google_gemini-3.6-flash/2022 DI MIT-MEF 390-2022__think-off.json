@@ -1,0 +1,87 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:01:10",
+  "received_at": "2026-08-06T12:01:28",
+  "latency_seconds": 17.721,
+  "prompt_tokens": 7547,
+  "completion_tokens": 4239,
+  "reasoning_tokens": 3424,
+  "cached_tokens": 0,
+  "total_tokens": 11786,
+  "cost_usd_api": 0.043113,
+  "cost_usd_reconstructed": 0.043113,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786010471-YgNZyl6pxKofR1wferJk",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto delibera l'assegnazione complessiva di 46,20 milioni di euro a valere sul DL 68/2022 art. 8 c. 12. Il testo fornito non specifica numero e data del decreto corrente, né contiene l'Allegato 1 dettagliato con i singoli codici CUP e capitoli di bilancio."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione a Regione Liguria per acquisto materiale rotabile (2023: 5,00M, 2024: 5,00M, 2025: 4,00M)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione a Regione Toscana per acquisto materiale rotabile (2023: 5,00M, 2024: 4,00M, 2025: 4,00M)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Trento per acquisto materiale rotabile (2023: 4,00M, 2024: 3,00M, 2025: 3,00M)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Bolzano per acquisto materiale rotabile (2023: 3,20M, 2024: 3,00M, 2025: 3,00M)"
+    }
+  ],
+  "raw_content": null
+}

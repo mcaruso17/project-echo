@@ -1,0 +1,109 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:19:39",
+  "received_at": "2026-08-06T15:20:20",
+  "latency_seconds": 40.238,
+  "prompt_tokens": 93520,
+  "completion_tokens": 3105,
+  "reasoning_tokens": 361,
+  "cached_tokens": 0,
+  "total_tokens": 96625,
+  "cost_usd_api": 1.09045,
+  "cost_usd_reconstructed": 1.09045,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786022380-cI4HnZYplXmNAmCp5k38",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il documento è la delibera CIPESS n. 86/2024 del 19 dicembre 2024 di approvazione del progetto definitivo della Linea 4.1 del sistema tramviario fiorentino (CUP H11J12000200001), costo complessivo 200.120.520,56 euro. La parte dispositiva (punto 1.2) non stanzia risorse nuove ma pone la copertura finanziaria a valere su risorse già stanziate da precedenti provvedimenti, indicando esplicitamente capitoli e piani gestionali del MIT: tali voci sono state estratte come azioni di assegnazione/copertura al progetto. Il definanziamento FSC di 27.550.000,00 euro citato nel preambolo è stato disposto dalla precedente delibera CIPESS n. 14/2024 e pertanto non è stato estratto come azione del provvedimento corrente."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Copertura finanziaria a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, piano gestionale 9 del MIT), istituito dall'art. 18, comma 1, del decreto-legge n. 69 del 2013, rifinanziato dall'art. 3, comma 2, lettera c), del decreto-legge n. 133 del 2014. Risorse già stanziate con precedenti provvedimenti (DM 4 marzo 2015, n. 82, rideterminate con delibera CIPE n. 6/2019), qui poste a copertura del costo dell'intervento «Sistema Tramviario Fiorentino - Linea 4.1 Tratta Leopolda-Piagge»."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Copertura finanziaria a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, piano di gestione 2 del MIT). Risorse già assegnate con DM 22 dicembre 2017, n. 587, qui poste a copertura del costo dell'intervento."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Copertura finanziaria a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane» (capitolo 7423, piano di gestione 1 del MIT), di cui all'art. 1, comma 88 della legge n. 147 del 2013. Risorse già previste con DM 2 marzo 2018, n. 86 e DM 28 settembre 2023, n. 244, qui poste a copertura del costo dell'intervento."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze («quota Comune di Firenze»), parte della quota complessiva comunale di 30.246.176,56 euro. Non si tratta di capitolo del bilancio dello Stato."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze dalle risorse «quota Comune di Firenze - trasferimenti da RFI». Non si tratta di capitolo del bilancio dello Stato."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze dalle risorse «RFI - ulteriore finanziamento (inserito nel 2012)». Non si tratta di capitolo del bilancio dello Stato."
+    }
+  ],
+  "raw_content": null
+}

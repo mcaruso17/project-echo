@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:22:44",
+  "received_at": "2026-08-11T16:22:49",
+  "latency_seconds": 4.9,
+  "prompt_tokens": 3880,
+  "completion_tokens": 280,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4160,
+  "cost_usd_api": 0.0264,
+  "cost_usd_reconstructed": 0.0264,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458164-6IbV1osauLCQC4yWhaCu",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga al 31 dicembre 2022 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 4 del d.m. 587/2017 e art. 4 del d.m. 86/2018). Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione) né importi o CUP. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

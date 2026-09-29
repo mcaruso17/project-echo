@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:59:12",
+  "received_at": "2026-08-06T11:59:22",
+  "latency_seconds": 9.493,
+  "prompt_tokens": 7364,
+  "completion_tokens": 823,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 8187,
+  "cost_usd_api": 0.0621955,
+  "cost_usd_reconstructed": 0.06151,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010352-tWTvlfJIX6H4hzsofYD1",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "note_estrazione": "Il testo non riporta numero e data del decreto corrente. L’Allegato 1, che contiene il dettaglio degli interventi e dei relativi CUP, non è incluso. Non sono indicati capitolo di spesa o piano gestionale. La quota residua di 103,80 milioni di euro non è estratta perché l’art. 1, comma 3, ne rinvia la ripartizione a un successivo decreto."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella – Regione Liguria",
+      "note": "Assegnazione alla Regione Liguria: 5,00 milioni di euro nel 2023, 5,00 milioni nel 2024 e 4,00 milioni nel 2025. Il CUP è rinviato all’Allegato 1, non incluso nel testo fornito."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella – Regione Toscana",
+      "note": "Assegnazione alla Regione Toscana: 5,00 milioni di euro nel 2023, 4,00 milioni nel 2024 e 4,00 milioni nel 2025. Il CUP è rinviato all’Allegato 1, non incluso nel testo fornito."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella – Provincia Autonoma di Trento",
+      "note": "Assegnazione alla Provincia Autonoma di Trento: 4,00 milioni di euro nel 2023, 3,00 milioni nel 2024 e 3,00 milioni nel 2025. Il CUP è rinviato all’Allegato 1, non incluso nel testo fornito."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella – Provincia Autonoma di Bolzano",
+      "note": "Assegnazione alla Provincia Autonoma di Bolzano: 3,20 milioni di euro nel 2023, 3,00 milioni nel 2024 e 3,00 milioni nel 2025. Il CUP è rinviato all’Allegato 1, non incluso nel testo fornito."
+    }
+  ],
+  "raw_content": null
+}

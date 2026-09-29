@@ -1,0 +1,137 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:50:19",
+  "received_at": "2026-09-24T13:50:37",
+  "latency_seconds": 18.17,
+  "prompt_tokens": 8364,
+  "completion_tokens": 1605,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9969,
+  "cost_usd_api": 0.0015417,
+  "cost_usd_reconstructed": 0.0028596,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790250619-UbqkhmMmUuxon4M1KGIO",
+    "provider": "Darkbloom",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto è un Decreto Diretoriale (o Direttoriale) del Direttore Generale del Dipartimento per i trasporti e la navigazione. Non è presente un numero di decreto esplicito nella parte intestativa o dispositiva visibile, né una data di firma esplicita oltre a quelle degli atti citati. La natura è 'attuazione' poiché approva un atto modificativo di convenzione esistente. Il CUP B21F19000040009 è estratto dal preambolo (VISTO il decreto-legge...) e collegato all'art. 2. Gli importi sono stati scomposti in totale e quote come richiesto dalle regole R4/R5 poiché l'atto specifica esplicitamente la ripartizione."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all’art. 1 è pari a complessivi € 915.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo ripartito in due quote: € 900.000.000,00 (legge 145/2018, d.d. n. 381/2019) e € 15.000.000,00 (legge 234/2021, d.d. n. 108/2024). Il CUP B21F19000040009 è associato all'atto modificativo."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "di cui € 900.000.000,00 a valere sulle risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota principale derivante dalla legge 145/2018."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "ed € 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024.",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota aggiuntiva derivante dalla legge 234/2021."
+    }
+  ],
+  "raw_content": null
+}

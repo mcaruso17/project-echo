@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:26",
+  "received_at": "2026-08-06T12:34:31",
+  "latency_seconds": 5.66,
+  "prompt_tokens": 4995,
+  "completion_tokens": 298,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5293,
+  "cost_usd_api": 0.01297,
+  "cost_usd_reconstructed": 0.01297,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012466-5yX6Zb9RZRAFeUweVbAj",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente proroga esclusivamente i termini per il conseguimento delle obbligazioni giuridicamente vincolanti relativi a interventi già finanziati con decreti precedenti (n. 587/2017, n. 86/2018, n. 607/2019, nn. 235, 350, 517 del 2020). Non contiene alcuna nuova azione di finanziamento, definanziamento o rimodulazione di risorse, né riferimenti a capitoli, piani gestionali o CUP con importi specifici. Pertanto non è stato estratto alcun record."
+  },
+  "records": [],
+  "raw_content": null
+}

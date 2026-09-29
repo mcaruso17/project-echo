@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:31:45",
+  "received_at": "2026-08-06T11:32:00",
+  "latency_seconds": 14.846,
+  "prompt_tokens": 13779,
+  "completion_tokens": 1336,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15115,
+  "cost_usd_api": 0.102295,
+  "cost_usd_reconstructed": 0.102295,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786008705-xm03iaRoeHvF6VVsJbM7",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta esplicitamente numero e data del provvedimento corrente nel testo fornito (la firma è indicata solo come 'IL MINISTRO'). Il capitolo 7400 è citato nell'art. 1 (piani gestionali 7 e 1), ma l'Allegato 1 non specifica il piano gestionale per ciascun intervento, pertanto piano_gestionale è null. Totale ripartito € 660.660.678,33. Residuo di € 88.415.746,74 rinviato a successivo provvedimento (non oggetto di assegnazione in questo decreto)."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto - Comune di Padova",
+      "note": "Linea Sir 2 del tram - completamento del sistema intermedio a rete della città di Padova. Costo totale intervento € 335.211.901,76. Intervento già ammesso a finanziamento per € 238.057.777,66 nell'ambito Misura M2C2-4.2 del PNRR."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto - Comune di Brescia",
+      "note": "Nuova linea tranviaria \"Pendolina-Fiera (T2)\". Costo totale intervento € 363.288.528,40."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto - Roma Capitale",
+      "note": "Rinnovo materiale linee A e B-B1 della metropolitana. Costo totale intervento € 159.466.174,12."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto - Comune di Torino",
+      "note": "Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro. Costo totale intervento € 9.408.502,67."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto - Comune di Torino",
+      "note": "Metropolitana automatica di Torino - Linea 1: prolungamento ovest Collegno - Cascine Vica: nuovo fabbricato deposito treni. Costo totale intervento € 35.085.990,37."
+    }
+  ],
+  "raw_content": null
+}

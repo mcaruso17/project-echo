@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:58:00",
+  "received_at": "2026-08-06T11:58:05",
+  "latency_seconds": 4.893,
+  "prompt_tokens": 7206,
+  "completion_tokens": 610,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7816,
+  "cost_usd_api": 0.002564,
+  "cost_usd_reconstructed": 0.0015467800000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010281-POHK4i1hstdAtBfRijIT",
+    "provider": "CoreWeave",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta esplicitamente numero e data nella parte iniziale del testo fornito (spesso presenti nell'intestazione formale non inclusa qui). I ministeri sono stati dedotti dall'intestazione e dal testo. Le azioni estratte sono le autorizzazioni di impegno (finanziamento) disposte dagli articoli 1, 2 e 3. I CUP presenti nell'allegato non sono associati direttamente alle righe degli articoli come vincolo di assegnazione specifica in quel contesto sintattico, ma gli importi sono generici per i piani gestionali; pertanto i CUP sono lasciati nulli per rispettare la regola di non dedurre associazioni non esplicite nel testo normativo principale."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Autorizzazione impegno in conto residui di stanziamento"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Autorizzazione impegno in conto competenza per gli esercizi 2022-2034"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 3",
+      "note": "Autorizzazione impegno in conto competenza per gli esercizi 2029-2034"
+    }
+  ],
+  "raw_content": null
+}

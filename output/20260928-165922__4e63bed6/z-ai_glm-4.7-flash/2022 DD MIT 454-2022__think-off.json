@@ -1,0 +1,108 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T16:59:26",
+  "received_at": "2026-09-28T16:59:49",
+  "latency_seconds": 22.673,
+  "prompt_tokens": 9124,
+  "completion_tokens": 1067,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 10191,
+  "cost_usd_api": 0.00085264,
+  "cost_usd_reconstructed": 0.000983364,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790607566-1iTR8wRdbgvmALRDDzVt",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non presenta numero né data di decreto espliciti. La parte dispositiva è costituita da due articoli che autorizzano impegni di spesa a favore di Roma Capitale per l'intervento 'Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma' (CUP E51I04000010007). Le somme citate nel preambolo (finanziamento di € 155 milioni del DM 498/2014, impegno di € 9.279.359,97 del DD 220/2020, contributo di € 608.690.000,00 del DM 97/2022) non sono record perché meramente richiamate. La ripartizione annuale dell'impegno di € 131.000.000,00 (art. 2) non genera record separati in quanto quote annuali di un importo complessivo già registrato."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Articolo 1",
+      "passaggio_testuale": "l'impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui, lettera F, esercizio di provenienza 2021"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Articolo 2",
+      "passaggio_testuale": "per l'importo complessivo di € 131.000.000,00 a favore di Roma Capitale",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno complessivo ripartito: 2022: 35.000.000,00; 2023: 40.000.000,00; 2024: 33.500.000,00; 2025: 22.500.000,00"
+    }
+  ],
+  "raw_content": null
+}

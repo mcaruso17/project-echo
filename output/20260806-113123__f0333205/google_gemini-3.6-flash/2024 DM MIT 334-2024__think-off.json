@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T15:04:22",
+  "received_at": "2026-08-06T15:05:03",
+  "latency_seconds": 40.843,
+  "prompt_tokens": 15120,
+  "completion_tokens": 7948,
+  "reasoning_tokens": 7678,
+  "cached_tokens": 0,
+  "total_tokens": 23068,
+  "cost_usd_api": 0.08229,
+  "cost_usd_reconstructed": 0.08229,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786021462-YwyQdWfJ58wgRFiAiCgY",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": null,\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 48768102.54,\n      \"importo_originale\": \"48.768.102,54 €\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 2, comma 1\",\n      \"note\": \"Assegnazione al Comune di Trieste per l'intervento Cabinovia metropolitana Trieste-Porto Vecchio-Carso a valere su risorse ex art. 1, comma 14, L. n. 160/2019\"\n    },\n    {\n      \"cup\": null,\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 21675659.62,\n      \"importo_originale\": \"21.675.659,62"
+}

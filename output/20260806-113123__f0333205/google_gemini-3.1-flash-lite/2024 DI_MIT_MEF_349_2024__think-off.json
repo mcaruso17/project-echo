@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:18",
+  "received_at": "2026-08-06T14:53:19",
+  "latency_seconds": 1.58,
+  "prompt_tokens": 3461,
+  "completion_tokens": 142,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3603,
+  "cost_usd_api": 0.00107825,
+  "cost_usd_reconstructed": 0.00107825,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020798-CMqMsNZBHIbHGcYPZGQe",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto analizzato dispone esclusivamente proroghe di termini e modifiche procedurali (abrogazione di un obiettivo intermedio). Non sono presenti azioni di finanziamento, assegnazioni di risorse o variazioni di bilancio nel testo del decreto."
+  },
+  "records": [],
+  "raw_content": null
+}

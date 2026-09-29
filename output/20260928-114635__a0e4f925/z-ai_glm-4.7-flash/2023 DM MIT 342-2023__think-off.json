@@ -1,0 +1,174 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T11:56:26",
+  "received_at": "2026-09-28T11:57:05",
+  "latency_seconds": 38.296,
+  "prompt_tokens": 31471,
+  "completion_tokens": 2061,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 33532,
+  "cost_usd_api": 0.0027283955,
+  "cost_usd_reconstructed": 0.0027441310000000003,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790589387-R7MBTr7qj356bRvy741B",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "2024",
+    "data_decreto": "2024-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto direttoriale n. 342 del 26 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale del 26 luglio 2022, n. 235",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto direttoriale del 22 settembre 2022, n. 270",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto direttoriale del 17 luglio 2023, n. 257",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "note_estrazione": "L'atto rettifica errori materiali nell'Allegato 3 del DM 364/2021. Le modifiche riguardano esclusivamente le annualità 2032 e 2033 per le Regioni Veneto e Emilia Romagna. I CUP D69D15002090001 e D49D15001920001 (Lotto 4 e Lotto 3 della dorsale Salento) vengono corretti. Non sono presenti nuovi stanziamenti o assegnazioni per gli altri CUP elencati negli allegati, che rimangono invariati rispetto al DM 364/2021 e alle rimodulazioni precedenti (DM 270/2022, DM 257/2023)."
+  },
+  "records": [
+    {
+      "cup": [
+        "D69D15002090001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2032",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682,00",
+      "livello_importo": "quota",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.1], riga 2032",
+      "passaggio_testuale": "2032 4.946.287 0 0 0 125.266 0 0 0 212.888 0 842.682 2.661.096 638.663 0 0 0 310.461 155.231",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo di rimodulazione per l'annualità 2032. Il valore precedente (842.680) era stato assegnato erroneamente all'Emilia Romagna."
+    },
+    {
+      "cup": [
+        "D49D15001920001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2032",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682,00",
+      "livello_importo": "quota",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.1], riga 2032",
+      "passaggio_testuale": "2032 4.946.287 0 0 0 125.266 0 0 0 212.888 0 842.682 2.661.096 638.663 0 0 0 310.461 155.231",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo di rimodulazione per l'annualità 2032. Il valore precedente (842.680) era stato assegnato erroneamente all'Emilia Romagna."
+    },
+    {
+      "cup": [
+        "D69D15002090001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2033",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994,00",
+      "livello_importo": "quota",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.1], riga 2033",
+      "passaggio_testuale": "2033 4.642.914 0 0 0 217.585 0 0 0 199.831 0 690.994 2.497.882 599.492 0 0 0 291.420 145.710",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo di rimodulazione per l'annualità 2033. Il valore precedente (790.994) era stato assegnato erroneamente all'Emilia Romagna."
+    },
+    {
+      "cup": [
+        "D49D15001920001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2033",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994,00",
+      "livello_importo": "quota",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.1], riga 2033",
+      "passaggio_testuale": "2033 4.642.914 0 0 0 217.585 0 0 0 199.831 0 690.994 2.497.882 599.492 0 0 0 291.420 145.710",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo di rimodulazione per l'annualità 2033. Il valore precedente (790.994) era stato assegnato erroneamente all'Emilia Romagna."
+    }
+  ],
+  "raw_content": null
+}

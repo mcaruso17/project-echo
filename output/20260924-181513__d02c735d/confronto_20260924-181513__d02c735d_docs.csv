@@ -1,0 +1,18 @@
+﻿doc,status,gt,pred,tp,fn,fp,cell
+2021 DM mit 464-2021,ok,5,0,0,5,0,z-ai/glm-4.7-flash::off
+2022 DD MIT 454-2022,n/d,2,0,0,2,0,z-ai/glm-4.7-flash::off
+2022 DDG 128 del 02-05-22,n/d,6,0,0,6,0,z-ai/glm-4.7-flash::off
+2022 DI Mims Mef 97 20.04.2022,n/d,24,0,0,24,0,z-ai/glm-4.7-flash::off
+2022 DM MIMS 342-2022,n/d,1,0,0,1,0,z-ai/glm-4.7-flash::off
+2022 DM MIT 409-2022,n/d,2,0,0,2,0,z-ai/glm-4.7-flash::off
+2023 DI MIT-MEF 286-2023,n/d,1,0,0,1,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 191-2023,n/d,9,0,0,9,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 270-2023,n/d,43,0,0,43,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 342-2023,n/d,31,0,0,31,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 344-2023,n/d,62,0,0,62,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 345 - 2023,n/d,39,0,0,39,0,z-ai/glm-4.7-flash::off
+2023 DM MIT 346-2023,n/d,6,0,0,6,0,z-ai/glm-4.7-flash::off
+2024 DM MIT 334-2024,n/d,37,0,0,37,0,z-ai/glm-4.7-flash::off
+2024 delibera CIPE del 19 dicembre 2024,n/d,1,0,0,1,0,z-ai/glm-4.7-flash::off
+2025 DD MIT 141-2025,n/d,1,0,0,1,0,z-ai/glm-4.7-flash::off
+2025 DM MIT 131-2025,ok,1,1,1,0,0,z-ai/glm-4.7-flash::off

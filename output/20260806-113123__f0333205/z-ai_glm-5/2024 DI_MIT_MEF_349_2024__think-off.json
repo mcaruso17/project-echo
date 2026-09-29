@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:43",
+  "received_at": "2026-08-06T14:53:47",
+  "latency_seconds": 4.121,
+  "prompt_tokens": 3591,
+  "completion_tokens": 203,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3794,
+  "cost_usd_api": 0.00254436,
+  "cost_usd_reconstructed": 0.00254436,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020823-mx2sbIbRAXV6xESnHJLz",
+    "provider": "StreamLake",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministro dell'Economia e delle Finanze",
+    "note_estrazione": "Il testo del decreto è incompleto: mancano l'intestazione con il numero e la data del decreto, nonché le firme finali. Il contenuto dispositivo (ART. 1 e ART. 2) riguarda esclusivamente la proroga di termini temporali per l'affidamento e l'ultimazione dei lavori e l'abrogazione di un obiettivo intermedio, senza disporre nuove azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni di importi monetari."
+  },
+  "records": [],
+  "raw_content": null
+}

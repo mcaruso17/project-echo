@@ -1,0 +1,64 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:55:10",
+  "received_at": "2026-09-21T16:55:25",
+  "latency_seconds": 15.018,
+  "prompt_tokens": 7784,
+  "completion_tokens": 919,
+  "reasoning_tokens": 239,
+  "cached_tokens": 0,
+  "total_tokens": 8703,
+  "cost_usd_api": 0.12379,
+  "cost_usd_reconstructed": 0.12379,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790002511-84fbjqCQ8elMyZgkWYcw",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale di proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (dal 31/12/2021 al 31/12/2022) relativo agli interventi finanziati con i DM n. 587/2017 e n. 86/2018. Non dispone alcuna azione di finanziamento: non contiene CUP, capitoli, piani gestionali né importi. Numero e data del decreto corrente non sono riportati nel testo fornito (l'intesa in Conferenza unificata del 16 dicembre 2021 suggerisce una data successiva, ma non è esplicitata). Gli allegati citati nel preambolo (Allegato 1 dei DM 587/2017 e 360/2018) appartengono ad atti precedenti, non all'atto corrente."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e della Mobilità Sostenibili\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\", \"relazione\": \"integra\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\", \"relazione\": \"integra\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184\", \"relazione\": \"integra\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"}\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto ministeriale di proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (dal 31/12/2021 al 31/12/2022) relativo agli interventi finanziati con i DM n. 587/2017 e n. 86/2018. Non dispone alcuna azione di finanziamento: non contiene CUP, capitoli, piani gestionali né importi. Numero e data del decreto corrente non sono riportati nel testo fornito (l'intesa in Conferenza unificata del 16 dicembre 2021 suggerisce una data successiva, ma non è esplicitata). Gli allegati citati nel preambolo (Allegato 1 dei DM 587/2017 e 360/2018) appartengono ad atti precedenti, non all'atto corrente.\"\n}"
+}

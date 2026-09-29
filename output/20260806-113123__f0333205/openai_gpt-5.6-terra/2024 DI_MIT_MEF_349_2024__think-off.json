@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:39",
+  "received_at": "2026-08-06T14:52:42",
+  "latency_seconds": 2.593,
+  "prompt_tokens": 3367,
+  "completion_tokens": 165,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 3532,
+  "cost_usd_api": 0.00349485,
+  "cost_usd_reconstructed": 0.0108925,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020759-tvSesX6hlISAK9bicSwT",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente è interministeriale tra il Ministro delle Infrastrutture e dei Trasporti e il Ministro dell'Economia e delle Finanze. Il testo dispositivo dispone esclusivamente proroghe, rideterminazioni di termini e abrogazione di un obiettivo intermedio; non contiene nuove azioni di finanziamento con capitolo, piano gestionale, CUP o importo. Numero e data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

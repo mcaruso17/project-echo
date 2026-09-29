@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:19:12",
+  "received_at": "2026-08-06T15:19:24",
+  "latency_seconds": 11.902,
+  "prompt_tokens": 93520,
+  "completion_tokens": 549,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 94069,
+  "cost_usd_api": 0.19253,
+  "cost_usd_reconstructed": 0.19253,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022352-e0Zyz0xhXzBczYUWNoNP",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è la delibera CIPESS n. 86/2024 del 19 dicembre 2024, che approva il progetto definitivo della linea tramviaria 4.1 Leopolda-Piagge (CUP H11J12000200001) e ne descrive la copertura finanziaria (capitolo 7140 PG9, capitolo 7400 PG2, capitolo 7423 PG1 del MIT), ma tali importi (95.000.000,00; 47.000.000,00; 29.900.000,00 euro) risultano già stanziati da decreti precedenti (DM 82/2015, DM 587/2017, DM 86/2018) e sono qui solo richiamati come quadro di copertura finanziaria esistente, non come nuove assegnazioni disposte dal presente atto. La delibera dispositiva ('Delibera:') si limita ad approvare il progetto definitivo, le prescrizioni e le raccomandazioni, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di capitoli di bilancio. Pertanto non sono stati estratti record di finanziamento, in conformità alla regola che vieta di trattare importi di decreti precedenti come azioni del decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,180 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:26:45",
+  "received_at": "2026-09-28T12:27:13",
+  "latency_seconds": 28.379,
+  "prompt_tokens": 10214,
+  "completion_tokens": 1816,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12030,
+  "cost_usd_api": 0.001226838676,
+  "cost_usd_reconstructed": 0.001230478,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591205-EZAoPCO85DcKewiV3s4P",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante del presente decreto (tabella pag.4 n.1)"
+    ],
+    "note_estrazione": "L'allegato richiamato è presente nel testo come tabella a pag.4 n.1. I CUP sono tutti definitivi. L'atto non contiene CUP provvisori o master. Le annualità sono state indicate nell'arco temporale complessivo per ogni record, in conformità con R5 (l'atto riporta importi annuali ma anche il totale)."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo per l'intero arco temporale 2020-2034. L'atto autorizza l'impegno in conto competenza per € 631.174.000,00 (art.2) e in conto residui per € 3.000.000,00 (art.1). Il totale della riga corrisponde alla somma delle annualità."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due CUP (lotti distinti); l'atto non ripartisce l'importo tra i due CUP."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato / [TABELLA pag.4 n.1], riga 6",
+      "passaggio_testuale": "Comune di Brescia | | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo è riferito al CUP C81B21013200005 (Comune di Brescia) come da riga precedente. L'atto autorizza l'impegno in conto competenza per € 26.486.678,33 sul PG 1."
+    }
+  ],
+  "raw_content": null
+}

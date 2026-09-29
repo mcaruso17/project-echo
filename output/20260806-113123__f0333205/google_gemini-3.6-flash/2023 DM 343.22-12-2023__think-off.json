@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:57:05",
+  "received_at": "2026-08-06T12:57:14",
+  "latency_seconds": 8.569,
+  "prompt_tokens": 7359,
+  "completion_tokens": 1621,
+  "reasoning_tokens": 1454,
+  "cached_tokens": 0,
+  "total_tokens": 8980,
+  "cost_usd_api": 0.023196,
+  "cost_usd_reconstructed": 0.023196,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013825-4EywQrcXXGVgVy1wuyYu",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a vari interventi di trasporto rapido di massa e fissa criteri generali per l'utilizzo di eventuali risorse disponibili a seguito di definanziamento, senza tuttavia disporre nuove assegnazioni o definanziamenti quantificati con specifici importi finanziari o capitoli di bilancio."
+  },
+  "records": [],
+  "raw_content": null
+}

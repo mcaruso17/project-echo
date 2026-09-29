@@ -1,0 +1,120 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:50:00",
+  "received_at": "2026-09-24T13:50:19",
+  "latency_seconds": 19.125,
+  "prompt_tokens": 8123,
+  "completion_tokens": 1039,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9162,
+  "cost_usd_api": 0.0009070415,
+  "cost_usd_reconstructed": 0.000911103,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790250600-uMeprTeLGrANY63xy822",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "impegno"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "impegno"
+      },
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "sostituisce_allegato"
+      },
+      {
+        "estremi": "Delibera di Giunta XII/3906 del 10 febbraio 2025",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Determinazione Dirigenziale n. 799 dell'11 febbraio 2025",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Secondo Atto Modificativo della Convenzione del 7 novembre 2019"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Secondo Atto Modificativo della Convenzione del 7 novembre 2019"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all'art. 1 è pari a complessivi € 915.000.000,00, di cui € 900.000.000,00 a valore sulle risorse stanziate dall'articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all'art. 1 è pari a complessivi € 915.000.000,00, di cui ... € 15.000.000,00 a valore sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

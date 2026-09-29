@@ -1,0 +1,238 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:50:22",
+  "received_at": "2026-09-24T12:50:30",
+  "latency_seconds": 8.311,
+  "prompt_tokens": 7698,
+  "completion_tokens": 2375,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 10073,
+  "cost_usd_api": 0.00512868,
+  "cost_usd_reconstructed": 0.0051594,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790247022-FxrwHXzv0y601l65rCCV",
+    "provider": "StreamLake",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Legge 31 dicembre 2009, n. 196, art. 30, comma 9",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 16 gennaio 2003, n. 3, art. 11, commi 2-bis e 2-ter",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 16 luglio 2020, n. 76, art. 41, comma 1 (convertito in L. 120/2020)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1, comma 483",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto legislativo 29 dicembre 2011, n. 229",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 24 aprile 2014, n. 66, art. 25, comma 2 (convertito in L. 89/2014)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto legislativo 31 marzo 2023, n. 36, art. 19",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro dell'economia e delle finanze 26 febbraio 2013",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro dell'economia e delle finanze 12 maggio 2016",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DGR 23/06/2020 Regione Lombardia",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 (cronoprogramma)"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Nel testo non sono indicati numero e data del decreto corrente né capitolo di bilancio / piano gestionale: tali informazioni andranno verificate sull'atto originale registrato. L'Allegato 1 (cronoprogramma) è richiamato dall'art. 2 ma non è presente nel testo fornito, per cui non è stato possibile estrarre ulteriori CUP o ripartizioni per tratta. Le componenti di dettaglio elencate nell'art. 1 (35+10+17+7+6 = 75 mln) sono meri criteri di destinazione interna al finanziamento complessivo (unico CUP di linea B81I06000000003) e non generano record aggiuntivi perché l'atto non dispone importi distinti per singole tratte, ma solo la quota annuale. Il conto di tesoreria unica indicato nell'art. 4 non è un capitolo di spesa."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023-2027",
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro... linea M4 della metropolitana di Milano (CUP B81I06000000003)",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il CUP compare nel preambolo (CONSIDERATO) e nell'art. 1 comma 1; il comma 483 della L. 197/2022 fissa 15 mln/anno per 2023-2027 come limite massimo del concorso statale. L'atto corrente dispone l'assegnazione di tali importi."
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota annuale 2023; il cronoprogramma (Allegato 1) non è presente nel testo fornito."
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2024",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota annuale 2024."
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2025",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota annuale 2025."
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2026",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota annuale 2026."
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2027",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota annuale 2027."
+    }
+  ],
+  "raw_content": null
+}

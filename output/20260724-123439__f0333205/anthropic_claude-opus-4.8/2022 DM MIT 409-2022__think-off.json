@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:34:54",
+  "received_at": "2026-07-24T12:35:02",
+  "latency_seconds": 8.576,
+  "prompt_tokens": 7375,
+  "completion_tokens": 660,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8035,
+  "cost_usd_api": 0.053375,
+  "cost_usd_reconstructed": 0.053375,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784889294-cUkWiQujvmkB9qekUjto",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero né data di emanazione nel testo fornito. Non sono indicati capitolo di spesa né piano gestionale; il decreto fa riferimento allo stanziamento complessivo di € 75.000.000,00 di cui all'art. 33 bis del decreto-legge 30 aprile 2022, n. 36."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo alla provincia autonoma di Trento per l'intervento 'Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna'"
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Cofinanziamento alla provincia autonoma di Bolzano per l'intervento 'Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo'"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,96 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:42:14",
+  "received_at": "2026-08-14T15:42:22",
+  "latency_seconds": 8.138,
+  "prompt_tokens": 9468,
+  "completion_tokens": 818,
+  "reasoning_tokens": 0,
+  "cached_tokens": 9344,
+  "total_tokens": 10286,
+  "cost_usd_api": 0.00667336,
+  "cost_usd_reconstructed": 0.0048302399999999995,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714935-asheu4HOHshMqxRKT44W",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data; si assume che il piano gestionale 7 sia quello indicato nell'articolo 1, comma 1, per tutte le assegnazioni, in quanto l'allegato non specifica il piano gestionale per ciascun intervento."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": "Comune di Padova - Linea Sir 2 del tram-completamento del sistema intermedio a rete della città di Padova"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": "Comune di Brescia - Nuova linea tranviaria 'Pendolina-Fiera (T2)'"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Roma Capitale - Rinnovo materiale linee A e B-B1 della metropolitana"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Comune di Torino - Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": "Comune di Torino - Metropolitana automatica di Torino - Linea 1: prolungamento ovest Collegno - Cascine Vica: nuovo fabbricato deposito treni"
+    }
+  ],
+  "raw_content": null
+}

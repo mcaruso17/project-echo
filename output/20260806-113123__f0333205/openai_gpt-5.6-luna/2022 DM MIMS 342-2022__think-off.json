@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:56",
+  "received_at": "2026-08-06T12:37:58",
+  "latency_seconds": 1.873,
+  "prompt_tokens": 6269,
+  "completion_tokens": 242,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 6511,
+  "cost_usd_api": 0.000758435,
+  "cost_usd_reconstructed": 0.007721,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012676-CUDviVWB9jzN33u9HPNr",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Nel testo non sono indicati esplicitamente il numero e la data del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento di manutenzione 'Impianto filoviario Rimini – Riccione: linea di contatto'."
+    }
+  ],
+  "raw_content": null
+}

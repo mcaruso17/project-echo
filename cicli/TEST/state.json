@@ -1,0 +1,35 @@
+{
+  "loop_id": "TEST",
+  "creato": "2026-09-24T18:15:01",
+  "round_corrente": 2,
+  "fase": "SEED",
+  "versione_corrente": "v000",
+  "best_version": "v000",
+  "best_solved_open": 1,
+  "frozen_solved": [
+    "2025 DM MIT 131-2025"
+  ],
+  "storia": [
+    {
+      "round": 1,
+      "versione": "v000",
+      "run_dir": "20260924-181513__d02c735d",
+      "celle": [
+        {
+          "cella": "z-ai/glm-4.7-flash::off",
+          "solved": 1,
+          "su": 2,
+          "risolti": [
+            "2025 DM MIT 131-2025"
+          ]
+        }
+      ],
+      "best_open": "z-ai/glm-4.7-flash::off",
+      "best_open_solved": 1,
+      "regressioni": [],
+      "verdetto": "rifiutato",
+      "motivo_rifiuto": "una sola cella: il revisore non poteva distinguere prompt da capacita"
+    }
+  ],
+  "costo_totale": 0.3339
+}

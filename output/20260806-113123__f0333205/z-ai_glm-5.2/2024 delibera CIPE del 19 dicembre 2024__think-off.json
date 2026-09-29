@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:26:00",
+  "received_at": "2026-08-06T15:26:10",
+  "latency_seconds": 9.722,
+  "prompt_tokens": 70248,
+  "completion_tokens": 668,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 70916,
+  "cost_usd_api": 0.05500504,
+  "cost_usd_reconstructed": 0.055707519999999996,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022762-2hjxZLz52itAjaJEPDvd",
+    "provider": "CoreWeave",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile",
+    "ministero_2": null,
+    "note_estrazione": "Il documento contiene due delibere distinte del CIPESS. L'analisi si è concentrata sulla Delibera n. 86/2024 relativa al 'Sistema tramviario fiorentino - Linea 4.1', che contiene la parte dispositiva con le assegnazioni finanziarie ai capitoli di spesa. La seconda delibera (n. 94/2024) ha ad oggetto l'approvazione del Piano annuale di attività e del sistema dei limiti di rischio (RAF) per l'anno 2025 e non presenta azioni di finanziamento su capitoli di bilancio. Gli importi a carico del Comune di Firenze non sono stati estratti come record in quanto non movimentano capitoli di spesa dello Stato italiano."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, punto 1.2.1",
+      "note": "Quota a carico dello Stato a valere sulle somme destinate alla tranvia di Firenze (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, punto 1.2.1",
+      "note": "Quota a carico dello Stato per interventi nel settore dei sistemi di trasporto rapido di massa (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, punto 1.2.1",
+      "note": "Quota a carico dello Stato a valere sul fondo per le reti metropolitane in costruzione in aree metropolitane (MIT)"
+    }
+  ],
+  "raw_content": null
+}

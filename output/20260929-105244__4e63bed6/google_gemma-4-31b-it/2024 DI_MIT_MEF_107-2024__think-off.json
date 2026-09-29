@@ -1,0 +1,59 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:31:11",
+  "received_at": "2026-09-29T12:31:24",
+  "latency_seconds": 12.66,
+  "prompt_tokens": 7500,
+  "completion_tokens": 410,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7910,
+  "cost_usd_api": 0.001214,
+  "cost_usd_reconstructed": 0.0008144,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format"
+  ],
+  "response_meta": {
+    "id": "gen-1790677872-uewCHdWKKyi0RXPGZXUf",
+    "provider": "Novita",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell’economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti del 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "ALLEGATO 1"
+    ],
+    "note_estrazione": "L'atto dispone esclusivamente la rimodulazione dei termini temporali (cronoprogramma) per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001), come indicato all'Art. 1 e nell'Allegato 1. Non sono presenti azioni di finanziamento, assegnazioni di risorse, impegni di spesa o variazioni di importi euro, pertanto non sono stati generati record di finanziamento secondo le regole R2 e R5."
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"rimodulazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell’economia e delle finanze, 20 aprile 2022, n. 97\",\n      \"relazione\": \"rimodula\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti del 30 dicembre 2023, n. 362\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"allegato 1\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"ALLEGATO 1\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto dispone esclusivamente la rimodulazione dei termini temporali (cronoprogramma) per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001), come indicato all'Art. 1 e nell'Allegato 1. Non sono presenti azioni di finanziamento, assegnazioni di risorse, impegni di spesa o variazioni di importi euro, pertanto non sono stati generati record di finanziamento secondo le regole R2 e R5.\"\n}\n```"
+}

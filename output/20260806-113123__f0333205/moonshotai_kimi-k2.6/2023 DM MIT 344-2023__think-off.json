@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:07:32",
+  "received_at": "2026-08-06T14:07:40",
+  "latency_seconds": 7.942,
+  "prompt_tokens": 11216,
+  "completion_tokens": 440,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11656,
+  "cost_usd_api": 0.00823,
+  "cost_usd_reconstructed": 0.008902960000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786018052-XFSrLuLkbIeXbFJT01HZ",
+    "provider": "Inceptron",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data espliciti nel testo fornito. La parte dispositiva (art. 1) dispone esclusivamente: 1) rimodulazione degli interventi già finanziati dal DM 443/2021, con rinvio all'allegato 1 del presente decreto; 2) proroga dei termini del DM 443/2021 al 31.12.2025; 3) proroga di ulteriori termini al 31.12.2025 e 31.12.2026. Le tabelle riportate nell'allegato mostrano la rimodulazione degli importi per singolo CUP, ma NON contengono né capitolo di spesa né piano gestionale del decreto corrente. Il decreto citato nel preamblio (DM 22 aprile 2022, n. 118) impegnava le risorse sul 'capitolo 7400, piano di gestione 5', ma questo riferimento appartiene al decreto precedente, non al decreto corrente. Il decreto corrente non dispone esplicitamente nuove assegnazioni contabili con capitolo/piano gestionale propri, né risulta essere interministeriale. Mancano nel testo fornito numero e data del decreto corrente. Pertanto, non essendo presenti azioni di finanziamento con il dettaglio richiesto (capitolo, piano gestionale, importi con segno esplicito di assegnazione/definanziamento/rimodulazione contabile), l'array record resta vuoto."
+  },
+  "records": [],
+  "raw_content": null
+}

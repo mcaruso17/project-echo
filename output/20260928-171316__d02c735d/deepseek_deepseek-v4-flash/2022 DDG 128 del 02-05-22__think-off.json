@@ -1,0 +1,180 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T17:14:38",
+  "received_at": "2026-09-28T17:14:48",
+  "latency_seconds": 10.487,
+  "prompt_tokens": 9373,
+  "completion_tokens": 1740,
+  "reasoning_tokens": 0,
+  "cached_tokens": 7873,
+  "total_tokens": 11113,
+  "cost_usd_api": 0.0005964686,
+  "cost_usd_reconstructed": 0.0011421769999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790608478-LBWl9fyaHh4qCC5E4ZYl",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS n. 464 del 22/11/2021",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "note_estrazione": "L'allegato richiamato come 'allegato parte integrante del presente decreto' è presente nel testo come tabella [TABELLA pag.4 n.1]. La tabella riporta le annualità e i totali; per ogni beneficiario è stato estratto il totale come record separato, come da regola R5. Per il Comune di Torino, l'importo è unico per due CUP, quindi è stato creato un record aggregato (R6)."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Allegato parte integrante / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Allegato parte integrante / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Allegato parte integrante / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due CUP; l'atto non ripartisce l'importo tra i CUP."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Allegato parte integrante / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Allegato parte integrante / [TABELLA pag.4 n.1], riga 6",
+      "passaggio_testuale": "| | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "La riga 6 della tabella non riporta esplicitamente il beneficiario e il CUP, ma la riga precedente (riga 5) indica Comune di Brescia e CUP C81B21013200005; l'articolo 3 specifica che l'importo è a favore del Comune di Brescia. Si assume che il CUP sia lo stesso.",
+      "note": "Importo impegnato con l'articolo 3, sul capitolo 7400 PG 1."
+    }
+  ],
+  "raw_content": null
+}

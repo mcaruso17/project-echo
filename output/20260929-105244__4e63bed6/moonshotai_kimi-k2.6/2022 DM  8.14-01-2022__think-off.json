@@ -1,0 +1,61 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:13:37",
+  "received_at": "2026-09-29T11:14:01",
+  "latency_seconds": 24.055,
+  "prompt_tokens": 7127,
+  "completion_tokens": 618,
+  "reasoning_tokens": 1,
+  "cached_tokens": 0,
+  "total_tokens": 7745,
+  "cost_usd_api": 0.00924265,
+  "cost_usd_reconstructed": 0.00924265,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673224-0c9ENF6ji0UKoYxtFV0d",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "184",
+    "data_decreto": "2021-12-22",
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184",
+        "relazione": "rettifica"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto di proroga di termini (dal 31.12.2021 al 31.12.2022) per il conseguimento delle obbligazioni giuridicamente vincolanti degli interventi finanziati con i decreti n. 587/2017 e n. 86/2018. Non dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione di importi) né contiene CUP. L'unico articolo dispositivo (art. 1) modifica esclusivamente una scadenza temporale. Gli interventi e i relativi CUP sono menzionati solo nel preambolo come riferimento agli atti precedenti, ma l'atto non dispone su di essi. Non sono presenti tabelle, allegati né importi nella parte dispositiva. Il numero decreto '184' è dedotto dal preambolo che cita 'decreto ... 30 aprile 2020, n. 184' come atto precedente; tuttavia l'atto corrente non riporta esplicitamente il proprio numero in calce (il testo si interrompe con 'IL MINISTRO'). La data è dedotta dal riferimento all'intesa della Conferenza unificata del 16 dicembre 2021 e dal contesto. Si segnala incertezza sull'identificazione precisa dell'atto corrente per mancanza di intestazione completa con numero e data propri."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\":true,\"numero_decreto\":\"184\",\"data_decreto\":\"2021-12-22\",\"ministero_1\":\"Ministero delle Infrastrutture e della Mobilità Sostenibili\",\"ministero_2\":null,\"natura_atto\":\"altro\",\"atti_collegati\":[{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\",\"relazione\":\"attua\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\",\"relazione\":\"attua\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184\",\"relazione\":\"rettifica\"}],\"allegati_richiamati\":[],\"allegati_presenti_nel_testo\":[],\"record\":[],\"note_estrazione\":\"L'atto corrente è un decreto di proroga di termini (dal 31.12.2021 al 31.12.2022) per il conseguimento delle obbligazioni giuridicamente vincolanti degli interventi finanziati con i decreti n. 587/2017 e n. 86/2018. Non dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione di importi) né contiene CUP. L'unico articolo dispositivo (art. 1) modifica esclusivamente una scadenza temporale. Gli interventi e i relativi CUP sono menzionati solo nel preambolo come riferimento agli atti precedenti, ma l'atto non dispone su di essi. Non sono presenti tabelle, allegati né importi nella parte dispositiva. Il numero decreto '184' è dedotto dal preambolo che cita 'decreto ... 30 aprile 2020, n. 184' come atto precedente; tuttavia l'atto corrente non riporta esplicitamente il proprio numero in calce (il testo si interrompe con 'IL MINISTRO'). La data è dedotta dal riferimento all'intesa della Conferenza unificata del 16 dicembre 2021 e dal contesto. Si segnala incertezza sull'identificazione precisa dell'atto corrente per mancanza di intestazione completa con numero e data propri.\"}"
+}

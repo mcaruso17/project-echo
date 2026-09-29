@@ -1,0 +1,137 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:50:00",
+  "received_at": "2026-09-24T13:50:10",
+  "latency_seconds": 9.912,
+  "prompt_tokens": 8736,
+  "completion_tokens": 1778,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10514,
+  "cost_usd_api": 0.052878,
+  "cost_usd_reconstructed": 0.052878,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790250600-ee9jl2TJ9hVYonstE0fs",
+    "provider": "Parasail",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione 7 novembre 2019 tra MIT, Comune di Milano e Regione Lombardia",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Atto privo di numero e data nel testo fornito (decreto del Direttore Generale per il trasporto pubblico locale, successivo al 13 febbraio 2025). Nessun allegato richiamato né presente. Il decreto approva il Secondo Atto Modificativo della Convenzione 7/11/2019 e ridetermina il contributo complessivo (915.000.000,00 euro) per il prolungamento della M5 di Milano a Monza; non dispone nuovi impegni di spesa, poiché le quote risultano già impegnate con i decreti direttoriali n. 381/2019 e n. 108/2024. Il CUP B21F19000040009 compare solo nel preambolo. Nel preambolo sono citati anche € 283.000.000,00 di risorse della Regione Lombardia (Accordo del 23 settembre 2019), non oggetto di statuizione dell'atto e quindi non estratti come record."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO ... CUP: B21F19000040009)",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all'art. 1 è pari a complessivi € 915.000.000,00",
+      "atto_riferito": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+      "confidenza": "media",
+      "ambiguita": "Il CUP compare solo nel preambolo (associato all'Atto modificativo); l'art. 2 non lo richiama esplicitamente. L'importo complessivo risulta dalla modifica convenzionale approvata, ma le risorse sono state impegnate con decreti precedenti (n. 381/2019 e n. 108/2024).",
+      "note": "Importo complessivo del contributo a seguito del Secondo Atto Modificativo: 900.000.000,00 (legge 145/2018, art. 1 comma 96) + 15.000.000,00 (legge 234/2021). Il presente decreto approva l'atto modificativo e non dispone un nuovo impegno."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO ... CUP: B21F19000040009)",
+      "passaggio_testuale": "di cui € 900.000.000,00 a valere sulle risorse stanziate dall'articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "media",
+      "ambiguita": "Quota già impegnata con decreto direttoriale n. 381/2019; il presente atto la richiama come componente del contributo complessivo rideterminato.",
+      "note": "Risorse stanziate dall'art. 1, comma 96, legge 145/2018; Missione 13 - programma 6; CRA 3."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO ... CUP: B21F19000040009)",
+      "passaggio_testuale": "ed € 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "media",
+      "ambiguita": "Quota già impegnata con decreto direttoriale n. 108/2024; il presente atto la richiama come componente del contributo complessivo rideterminato.",
+      "note": "Risorse stanziate dalla legge n. 234/2021 (3 milioni di euro per ciascuno degli anni dal 2022 al 2026)."
+    }
+  ],
+  "raw_content": null
+}

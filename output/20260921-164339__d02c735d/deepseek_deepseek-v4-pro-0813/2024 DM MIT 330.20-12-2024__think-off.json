@@ -1,0 +1,101 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T17:41:25",
+  "received_at": "2026-09-21T17:41:33",
+  "latency_seconds": 8.779,
+  "prompt_tokens": 7416,
+  "completion_tokens": 650,
+  "reasoning_tokens": 0,
+  "cached_tokens": 4096,
+  "total_tokens": 8066,
+  "cost_usd_api": 0.007497072,
+  "cost_usd_reconstructed": 0.00379146,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790005285-J0vW4qEYRLZdTSrQMv1E",
+    "provider": "AtlasCloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 235/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 350/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 517/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2023, n. 343",
+        "relazione": "modifica"
+      },
+      {
+        "estremi": "DI n. 97/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto di proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) al 31.12.2025. Non dispone alcuna azione di finanziamento: non assegna, impegna, rimodula o revoca importi. L'Allegato 1 contiene esclusivamente l'elenco degli interventi e il nuovo termine OGV, senza CUP né importi. Gli atti precedenti citati nel preambolo sono registrati in atti_collegati come richiamati o modificati (DM 343/2023), ma non generano record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\"estremi\": \"DM MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 235/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 350/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 517/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 44/2021\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 22 novembre 2021, n. 464\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 23 dicembre 2022, n. 410\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 7 agosto 2023, n. 191\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 22 dicembre 2023, n. 343\", \"relazione\": \"modifica\"},\n    {\"estremi\": \"DI n. 97/2022\", \"relazione\": \"richiama\"}\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1\"],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto di proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) al 31.12.2025. Non dispone alcuna azione di finanziamento: non assegna, impegna, rimodula o revoca importi. L'Allegato 1 contiene esclusivamente l'elenco degli interventi e il nuovo termine OGV, senza CUP né importi. Gli atti precedenti citati nel preambolo sono registrati in atti_collegati come richiamati o modificati (DM 343/2023), ma non generano record di finanziamento.\"\n}"
+}

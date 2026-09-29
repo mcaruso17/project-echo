@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:48:28",
+  "received_at": "2026-07-24T12:48:31",
+  "latency_seconds": 2.281,
+  "prompt_tokens": 4735,
+  "completion_tokens": 262,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4997,
+  "cost_usd_api": 0.00401852,
+  "cost_usd_reconstructed": 0.00401852,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890109-vja8CfHmGdpS9ZX6UiRc",
+    "provider": "Decart",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene numero o data espliciti nel testo fornito. Il decreto dispone esclusivamente proroghe di termini per il conseguimento di obbligazioni giuridicamente vincolanti (art. 1) e non contiene alcuna azione di finanziamento con capitoli di spesa, piani gestionali, CUP o importi. L'Allegato 1 elenca solo interventi con nuovi termini OGV, senza indicare movimentazioni di risorse. Il preambolo cita numerosi decreti precedenti con funzione descrittiva, ma il decreto corrente non modifica né revoca le assegnazioni di tali decreti né dispone nuovi stanziamenti."
+  },
+  "records": [],
+  "raw_content": null
+}

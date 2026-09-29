@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:20:29",
+  "received_at": "2026-08-06T15:20:35",
+  "latency_seconds": 5.364,
+  "prompt_tokens": 66496,
+  "completion_tokens": 506,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 67002,
+  "cost_usd_api": 0.0844521,
+  "cost_usd_reconstructed": 0.17383,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022430-zGVmEnzmliM1kmgirWHa",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "La delibera corrente è la delibera CIPESS n. 86/2024 del 19 dicembre 2024. Gli importi sono indicati nella parte dispositiva come copertura finanziaria del progetto approvato."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota a carico dello Stato posta a copertura finanziaria dell'intervento."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota a carico dello Stato posta a copertura finanziaria dell'intervento."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota a carico dello Stato posta a copertura finanziaria dell'intervento."
+    }
+  ],
+  "raw_content": null
+}

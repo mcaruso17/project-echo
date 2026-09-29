@@ -1,0 +1,104 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:49:02",
+  "received_at": "2026-09-24T12:49:18",
+  "latency_seconds": 16.522,
+  "prompt_tokens": 8686,
+  "completion_tokens": 1421,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10107,
+  "cost_usd_api": 0.047373,
+  "cost_usd_reconstructed": 0.047373,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246942-JnnEt4SJ9jqGo8wdua2q",
+    "provider": "Parasail",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto-legge 30 aprile 2022, n. 36, art. 33 bis, come modificato dalla legge 29 giugno 2022, n. 79",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze del 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il testo dell'atto non riporta il numero e la data del decreto (intestazione troncata: manca l'indicazione numerica e la data di adozione; presente solo 'IL MINISTRO' in calce). Il limite complessivo di € 75.000.000,00 citato all'art. 1 è il tetto normativo delle risorse ex art. 33 bis d.l. 36/2022 e non costituisce un'ulteriore azione di finanziamento autonoma: le due quote ripartite (37.448.232,02 + 37.500.000,00 = 74.948.232,02) non esauriscono il limite. L'art. 2 prevede che il finanziamento si intenda confermato con successivo provvedimento di impegno contabile: lo stato 'assegnato' riflette il riparto disposto dall'art. 1. L'art. 3, comma 2 prevede la revoca condizionata delle risorse (mancata assunzione dell'obbligazione vincolante entro il 31/12/2025 o mancato rispetto del cronoprogramma): trattandosi di condizione risolutiva futura e non di revoca attuale, non sono stati generati record con stato 'revocato'. L'art. 3, comma 3 disciplina le economie in via generale senza importi: nessun record 'economia'. Nessun allegato è richiamato dall'articolato né presente nel testo (l'allegato 2 citato nel preambolo appartiene al DM 97/2022, atto collegato). Nel preambolo è presente un frammento testuale incompleto ('dell’8 aprile 2021') privo del riferimento all'atto cui si collega."
+  },
+  "records": [
+    {
+      "cup": [
+        "C61C22007040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1, primo punto",
+      "passaggio_testuale": "€ 37.448.232,02 alla provincia autonoma di Trento per la realizzazione dell'intervento “Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna - CUP C61C22007040001”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Riparto delle risorse ex art. 33 bis d.l. 36/2022; il finanziamento si intende confermato con l'emanazione del provvedimento di impegno contabile (art. 2)"
+    },
+    {
+      "cup": [
+        "J51C22002060001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1, secondo punto",
+      "passaggio_testuale": "€ 37.500.000,00 alla provincia autonoma di Bolzano quale cofinanziamento per la realizzazione dell'intervento “Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo - CUP J51C22002060001”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Riparto delle risorse ex art. 33 bis d.l. 36/2022; contributo concesso quale cofinanziamento; il finanziamento si intende confermato con l'emanazione del provvedimento di impegno contabile (art. 2)"
+    }
+  ],
+  "raw_content": null
+}

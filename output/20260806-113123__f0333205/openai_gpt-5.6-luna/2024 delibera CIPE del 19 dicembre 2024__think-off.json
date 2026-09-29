@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:20:20",
+  "received_at": "2026-08-06T15:20:29",
+  "latency_seconds": 9.663,
+  "prompt_tokens": 66496,
+  "completion_tokens": 518,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 67014,
+  "cost_usd_api": 0.00845241,
+  "cost_usd_reconstructed": 0.069604,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022420-4sf2y3VwnL9H8fYGLFIV",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo identifica il provvedimento come Delibera CIPESS n. 86/2024 del 19 dicembre 2024. Le quote a carico del Comune di Firenze sono indicate senza capitolo e piano gestionale e non sono state estratte come azioni collegate a linee di bilancio statali."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "delibera, punto 1.2.1",
+      "note": "Somme destinate alla tranvia di Firenze."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "delibera, punto 1.2.1",
+      "note": "Risorse destinate alle spese per interventi nel settore dei sistemi di trasporto rapido di massa."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "delibera, punto 1.2.1",
+      "note": "Fondo per le reti metropolitane in costruzione in aree metropolitane."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:51:43",
+  "received_at": "2026-08-06T12:52:07",
+  "latency_seconds": 24.875,
+  "prompt_tokens": 5291,
+  "completion_tokens": 403,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5694,
+  "cost_usd_api": 0.021918,
+  "cost_usd_reconstructed": 0.021918,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013503-NmvXSmbELdUbyuNDPhO7",
+    "provider": "Chutes",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo del decreto non riporta il numero e la data del decreto corrente. Non sono indicati capitolo di spesa né piano gestionale. L'assegnazione complessiva di 75 milioni di euro è erogata in quote annuali da 15 milioni per gli anni 2023-2027."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, assegnati al Comune di Milano per la linea M4 della metropolitana. Ripartizione: aumento costi materiali 35 mln (14 mln tratta Linate-San Babila, 21 mln tratta San Babila-San Cristoforo); tecnica del congelamento 10 mln; varianti e maggiori opere 17 mln; spese generali COVID 7 mln; oneri sicurezza 6 mln."
+    }
+  ],
+  "raw_content": null
+}

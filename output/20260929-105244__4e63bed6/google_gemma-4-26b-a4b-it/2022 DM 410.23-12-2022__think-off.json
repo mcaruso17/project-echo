@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:28",
+  "received_at": "2026-09-29T11:14:51",
+  "latency_seconds": 23.179,
+  "prompt_tokens": 7727,
+  "completion_tokens": 508,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8235,
+  "cost_usd_api": 0.00120771,
+  "cost_usd_reconstructed": 0.0008478299999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673268-FsizmJnQJmkZqHfYNB7C",
+    "provider": "Parasail",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 14 gennaio 2022, n. 8",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 235 del 2020",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 350 del 2020",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 517 del 2020",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). Non dispone nuovi finanziamenti, né impegni, né rimodulazioni di importi, ma agisce esclusivamente sulla dimensione temporale (scadenze) degli interventi già finanziati da atti precedenti. Poiché non vi è movimento di risorse (importi) verso CUP specifici nell'articolato, non sono stati generati record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 14 gennaio 2022, n. 8\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 235 del 2020\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 350 del 2020\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 517 del 2020\",\n      \"relazione\": \"integra\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). Non dispone nuovi finanziamenti, né impegni, né rimodulazioni di importi, ma agisce esclusivamente sulla dimensione temporale (scadenze) degli interventi già finanziati da atti precedenti. Poiché non vi è movimento di risorse (importi) verso CUP specifici nell'articolato, non sono stati generati record di finanziamento.\"\n}"
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:55:00",
+  "received_at": "2026-08-06T12:55:19",
+  "latency_seconds": 19.147,
+  "prompt_tokens": 5300,
+  "completion_tokens": 276,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5576,
+  "cost_usd_api": 0.02004,
+  "cost_usd_reconstructed": 0.02004,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013700-euHcLUpcAhMMyRzOUsA1",
+    "provider": "Chutes",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente (interministeriale MIT-MEF, numero e data non riportati nel testo fornito) dispone esclusivamente la rimodulazione dei termini/cronoprogrammi degli interventi di cui agli allegati 1 e 2 del decreto 20 aprile 2022, n. 97 (artt. 1 e 2). Non sono presenti nuove assegnazioni, definanziamenti o rimodulazioni di risorse finanziarie con capitoli di spesa, piani gestionali o importi: gli allegati riportano solo CUP e nuove date (affidamento, avanzamento, ultimazione, termine OGV), senza alcun importo. Pertanto non vi sono azioni di finanziamento da estrarre."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:39:34",
+  "received_at": "2026-07-24T12:39:37",
+  "latency_seconds": 2.715,
+  "prompt_tokens": 5046,
+  "completion_tokens": 138,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 5184,
+  "cost_usd_api": 0.0068418,
+  "cost_usd_reconstructed": 0.00231507,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784889575-mNya7RqiIpb5pwTGTp5q",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone un riparto di risorse (art. 1) ma non specifica i capitoli di bilancio o i piani gestionali da cui le risorse vengono attinte. Non sono presenti azioni di finanziamento con il dettaglio richiesto (capitolo, piano gestionale)."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:44:17",
+  "received_at": "2026-08-06T14:46:34",
+  "latency_seconds": 137.491,
+  "prompt_tokens": 4573,
+  "completion_tokens": 1151,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 5724,
+  "cost_usd_api": 0.0061905,
+  "cost_usd_reconstructed": 0.004953719999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020257-NJ85sHZ3Ta3XAn3yKm4t",
+    "provider": "DigitalOcean",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto corrente non sono riportati nel testo fornito. Il decreto cita numerosi decreti precedenti nel preambolo e nella tabella (colonna 'DECRETO DI FINANZIAMENTO'), ma l'art. 1 dispone nuove assegnazioni a valere sul capitolo 7400 pg 1. Gli importi assegnati dal presente decreto sono quelli riportati nella colonna 'ASSEGNATO' della tabella nell'art. 1. L'importo totale della riga 'Riqualificazione Metrotranvia Milano-Limbiate' (€ 88.435.027,99) è stato associato a entrambi i CUP (B24C17000320005 e B71J22000050006) indicati nella riga, in quanto il testo non distingue la ripartizione tra i due lotti."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Nuova Linea Tranviaria 'Pendolina-Fiera (T2)'. Comune: Brescia."
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2). Comune: Firenze."
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1. Comune: Milano."
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia. Comune: Milano."
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo. Comune: Milano. (anche a copertura delle risorse revocate)"
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Riqualificazione Metrotranvia Milano-Limbiate Lotto 2 - Varedo-Limbiate. Comune: Milano."
+    }
+  ],
+  "raw_content": null
+}

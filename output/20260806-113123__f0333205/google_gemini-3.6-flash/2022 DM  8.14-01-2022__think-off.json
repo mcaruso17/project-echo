@@ -1,0 +1,42 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:33:31",
+  "received_at": "2026-08-06T12:33:39",
+  "latency_seconds": 7.949,
+  "prompt_tokens": 2550,
+  "completion_tokens": 1457,
+  "reasoning_tokens": 1301,
+  "cached_tokens": 0,
+  "total_tokens": 4007,
+  "cost_usd_api": 0.0147525,
+  "cost_usd_reconstructed": 0.0147525,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012411-x6j0kLnMkIYTJluA2F6z",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene nuove azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni di bilancio. Dispone esclusivamente la proroga al 31 dicembre 2022 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per interventi già finanziati con precedenti decreti."
+  },
+  "records": [],
+  "raw_content": null
+}

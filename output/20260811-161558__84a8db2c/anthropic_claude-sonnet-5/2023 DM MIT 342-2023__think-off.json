@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:32:31",
+  "received_at": "2026-08-11T16:32:49",
+  "latency_seconds": 17.592,
+  "prompt_tokens": 36792,
+  "completion_tokens": 1458,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 38250,
+  "cost_usd_api": 0.088164,
+  "cost_usd_reconstructed": 0.088164,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458751-UIDHEusYnkU2TY59tT4Q",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero né una data proprio identificativi nel testo fornito (manca l'intestazione con numero/data del provvedimento corrente). Il decreto rettifica l'Allegato 3 del DM 364/2021 e sostituisce gli Allegati 1, 2 e 3 dello stesso; le tabelle allegate (Allegati 1, 2, 3) contengono principalmente gli importi già stabiliti dal DM 364/2021 e dai successivi decreti direttoriali (235/2022, 270/2022, 257/2023), che sono richiamati come atti precedenti e non costituiscono nuove azioni di finanziamento disposte dal decreto corrente. Le uniche azioni di finanziamento esplicitamente disposte dal testo dispositivo (art. 1, comma 1) sono le quattro rettifiche di importo per Veneto ed Emilia Romagna relative alle annualità 2032 e 2033, riportate come record. Gli importi indicati sono i nuovi valori assegnati dal decreto corrente; i valori 'precedenti' sono riportati nelle note per contesto, ma non sono stati creati record separati per le gambe negative in quanto il testo non specifica esplicitamente due importi come gambe di una rimodulazione con doppio segno, ma piuttosto una correzione del valore finale. Il capitolo/piano gestionale (7150 p.g.4 - Sicurezza) è stato dedotto dalla intestazione dell'Allegato 3, che è l'allegato pertinente alle correzioni descritte nell'art.1 comma 1 (interventi di sicurezza), ma non è esplicitamente citato nel testo dispositivo per queste specifiche correzioni; si è scelto di indicarlo con cautela poiché l'Allegato 3 riguarda proprio le tabelle di riparto 'Sicurezza' e 'Potenziamento' per le regioni citate."
+  },
+  "records": [
+    {
+      "cup": "I57H21005640001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2033: nuovo importo 217.585 euro in luogo dei precedenti 117.585 euro"
+    },
+    {
+      "cup": "C89F23000050001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia Romagna, annualità 2033: nuovo importo 690.994 euro in luogo dei precedenti 790.994 euro"
+    },
+    {
+      "cup": "I57H21005640001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2032: nuovo importo 125.266 euro in luogo dei precedenti 125.268 euro"
+    },
+    {
+      "cup": "C89F23000050001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia Romagna, annualità 2032: nuovo importo 842.682 euro in luogo dei precedenti 842.680 euro"
+    }
+  ],
+  "raw_content": null
+}

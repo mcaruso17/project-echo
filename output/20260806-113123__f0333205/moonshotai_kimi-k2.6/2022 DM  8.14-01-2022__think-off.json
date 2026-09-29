@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:00",
+  "received_at": "2026-08-06T12:34:03",
+  "latency_seconds": 3.15,
+  "prompt_tokens": 2889,
+  "completion_tokens": 244,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3133,
+  "cost_usd_api": 0.00302075,
+  "cost_usd_reconstructed": 0.00273878,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012440-C8zWZ6Gvotk3MCSHfKFS",
+    "provider": "Parasail",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "184",
+    "data_decreto": "2020-04-30",
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (n. 184 del 30 aprile 2020) dispone esclusivamente la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (dal 31 dicembre 2020 al 31 dicembre 2021, poi ulteriormente prorogato al 31 dicembre 2022 dall'art. 1). Non contiene alcuna azione di finanziamento, assegnazione, definanziamento o rimodulazione di risorse: non sono presenti capitoli di spesa, piani gestionali, CUP né importi. Il decreto è puramente procedurale-temporale."
+  },
+  "records": [],
+  "raw_content": null
+}

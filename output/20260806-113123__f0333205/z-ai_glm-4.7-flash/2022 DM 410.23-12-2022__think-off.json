@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:36:08",
+  "received_at": "2026-08-06T12:36:25",
+  "latency_seconds": 16.645,
+  "prompt_tokens": 3408,
+  "completion_tokens": 128,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3536,
+  "cost_usd_api": 0.000257384,
+  "cost_usd_reconstructed": 0.00025568,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012568-iKKEoywMuu1ZksbbyQ5i",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non contiene assegnazioni, riduzioni o rimodulazioni di bilancio. Si limita a prorogare termini di consegna delle obbligazioni giuridicamente vincolanti (art. 1)."
+  },
+  "records": [],
+  "raw_content": null
+}

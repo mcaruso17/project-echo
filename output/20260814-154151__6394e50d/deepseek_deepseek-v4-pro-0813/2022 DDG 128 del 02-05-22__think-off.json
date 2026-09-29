@@ -1,0 +1,74 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:43:21",
+  "received_at": "2026-08-14T15:43:27",
+  "latency_seconds": 6.734,
+  "prompt_tokens": 6389,
+  "completion_tokens": 583,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6972,
+  "cost_usd_api": 0.01074216,
+  "cost_usd_reconstructed": 0.0032864250000000004,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715001-Bir3GFDjHpnVU8sEWQeQ",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data. Gli importi sono stati estratti dagli articoli dispositivi. I CUP sono presenti solo nella tabella allegata, ma non sono associati esplicitamente alle singole assegnazioni negli articoli; pertanto non sono stati inclusi nei record."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "euro 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1",
+      "note": "Impegno in conto residui di stanziamento, di cui euro 1.000.000,00 esercizio di provenienza 2020 ed euro 2.000.000,00 esercizio di provenienza 2021, a favore dei Comuni di Padova, Torino e Brescia e della Città metropolitana di Roma."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Impegno in conto competenza per gli esercizi finanziari dal 2022 al 2034, a favore dei Comuni di Padova, Torino, Brescia e della Città metropolitana di Roma."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "€ 26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 3",
+      "note": "Impegno in conto competenza per gli esercizi finanziari dal 2029 al 2034, a favore del Comune di Brescia."
+    }
+  ],
+  "raw_content": null
+}

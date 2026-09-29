@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T13:18:31",
+  "received_at": "2026-08-06T13:19:28",
+  "latency_seconds": 57.751,
+  "prompt_tokens": 46302,
+  "completion_tokens": 7919,
+  "reasoning_tokens": 6849,
+  "cached_tokens": 0,
+  "total_tokens": 54221,
+  "cost_usd_api": 0.1288455,
+  "cost_usd_reconstructed": 0.1288455,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786015111-a1aA5R9ord77n1jXFxUk",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"H49F21000070001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 10000000.0,\n      \"importo_originale\": \"10.000.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 13\",\n      \"note\": \"Ferrovia Genova Casella - Interventi messa in sicurezza per dissesto idrogeologico\"\n    },\n    {\n      \"cup\": \"H49F21000080001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 20000000.0,\n      \"importo_originale\": \"20.000.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 13\",\n      \"note\": \"Ferrovia Genova Casella - Interventi infrastrutture (linea)\"\n    },\n    {\n      \"cup\": \"H49F21000090001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 300000.0,\n      \"importo_originale\": \"300.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 13\",\n      \"note\": \"Ferrovia Genova Casella - Sistema di monitoraggio rischio frane ed esondazioni\"\n    },\n    {\n      \"cup\": \"H49F21000040001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 2000000.0,\n      \"importo_originale\": \"2.000.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 13\",\n      \"note\": \"Ferrovia Genova Casella - Interventi miglioramento linea\"\n    },\n    {\n      \"cup\": \"H49F21000050001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 200000.0,\n      \"importo_originale\": \"200.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 13\",\n      \"note\": \"Ferrovia Genova Casella - Sistema di videosorveglianza linea\"\n    },\n    {\n      \"cup\": \"H49F21000060001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 100000.0,\n      \"importo_originale\": \"100.000\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 14\",\n      \"note\": \"Ferrovia Genova Casella - Sistema di videosorveglianza bordo\"\n    },\n    {\n      \"cup\": \"H49J21000890001\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\",\n      \"importo_eur\": 146760.0,\n      \"importo_originale\": \"146.760\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1, pag. 14\",\n      \"note\": \"Ferrovia Genova Casella - Revamping carrozze e carri\"\n    },\n    {\n      \"cup\": \"H38H17000480002\",\n      \"capitolo\": \"7150\",\n      \"piano_gestionale\": \"4\","
+}

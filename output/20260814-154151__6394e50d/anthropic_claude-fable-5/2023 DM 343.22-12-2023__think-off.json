@@ -1,0 +1,43 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:47:07",
+  "received_at": "2026-08-14T15:47:20",
+  "latency_seconds": 12.358,
+  "prompt_tokens": 10759,
+  "completion_tokens": 602,
+  "reasoning_tokens": 84,
+  "cached_tokens": 0,
+  "total_tokens": 11361,
+  "cost_usd_api": 0.13769,
+  "cost_usd_reconstructed": 0.13769,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715228-18XOHPK0bE79KHAx1Gwy",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1 e allegati 1 e 2). Non dispone alcuna nuova azione di finanziamento con importi, capitoli o piani gestionali: l'art. 2 si limita a stabilire un criterio generale di destinazione delle risorse eventualmente disponibili a seguito di futuri definanziamenti, senza indicare importi o interventi specifici. Il numero e la data del decreto corrente non sono riportati nel testo fornito (i numeri presenti, es. 464/2021, 517/2020, 86/2018, 587/2017, 360/2018, 607/2019, 235/2020, 350/2020, 44/2021, 97/2022, 410/2022, si riferiscono a decreti di assegnazione precedenti citati nel preambolo e nelle tabelle). I CUP presenti nel testo (es. C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) identificano interventi oggetto di proroga, non di nuove assegnazioni di risorse."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1 e allegati 1 e 2). Non dispone alcuna nuova azione di finanziamento con importi, capitoli o piani gestionali: l'art. 2 si limita a stabilire un criterio generale di destinazione delle risorse eventualmente disponibili a seguito di futuri definanziamenti, senza indicare importi o interventi specifici. Il numero e la data del decreto corrente non sono riportati nel testo fornito (i numeri presenti, es. 464/2021, 517/2020, 86/2018, 587/2017, 360/2018, 607/2019, 235/2020, 350/2020, 44/2021, 97/2022, 410/2022, si riferiscono a decreti di assegnazione precedenti citati nel preambolo e nelle tabelle). I CUP presenti nel testo (es. C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) identificano interventi oggetto di proroga, non di nuove assegnazioni di risorse.\"\n}"
+}

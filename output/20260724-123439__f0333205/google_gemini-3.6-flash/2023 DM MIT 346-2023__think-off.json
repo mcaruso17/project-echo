@@ -1,0 +1,109 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:43:24",
+  "received_at": "2026-07-24T12:43:45",
+  "latency_seconds": 20.593,
+  "prompt_tokens": 4663,
+  "completion_tokens": 5127,
+  "reasoning_tokens": 3883,
+  "cached_tokens": 0,
+  "total_tokens": 9790,
+  "cost_usd_api": 0.045447,
+  "cost_usd_reconstructed": 0.045447,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1784889804-WugFd7YnHBdgAtL4zb9T",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Nel testo fornito del decreto corrente non sono presenti il numero di decreto né la data di adozione formale, pur essendo citata l'intesa in Conferenza Unificata del 6 dicembre 2023. Per l'intervento della Metrotranvia Milano-Limbiate sono indicati due CUP (Lotto 1 e Lotto 2) a fronte di un unico importo complessivo di € 88.435.027,99."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Brescia - Nuova Linea Tranviaria 'Pendolina-Fiera (T2)'"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Firenze - Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2)"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Milano - Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Milano - Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Milano - Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo. Importo di € 88.435.027,99 complessivo assegnato congiuntamente a Lotto 1 e Lotto 2 (anche a copertura delle risorse revocate)."
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Comune di Milano - Riqualificazione Metrotranvia Milano-Limbiate Lotto 2 - Varedo-Limbiate. L'importo di € 88.435.027,99 è cumulativo e assegnato congiuntamente a Lotto 1 e Lotto 2."
+    }
+  ],
+  "raw_content": null
+}

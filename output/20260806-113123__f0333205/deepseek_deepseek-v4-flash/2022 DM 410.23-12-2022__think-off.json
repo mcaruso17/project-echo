@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:36:48",
+  "received_at": "2026-08-06T12:36:55",
+  "latency_seconds": 6.756,
+  "prompt_tokens": 3459,
+  "completion_tokens": 143,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3602,
+  "cost_usd_api": 0.00033705,
+  "cost_usd_reconstructed": 0.00033705000000000003,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012608-y9tzxR35tg054RnKp89G",
+    "provider": "Sail Research",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente proroga termini per obbligazioni giuridicamente vincolanti, ma non dispone alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione) su capitoli, piani gestionali o CUP. Nessun record estratto."
+  },
+  "records": [],
+  "raw_content": null
+}

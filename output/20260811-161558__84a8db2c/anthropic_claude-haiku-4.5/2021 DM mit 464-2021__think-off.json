@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:16:01",
+  "received_at": "2026-08-11T16:16:09",
+  "latency_seconds": 8.436,
+  "prompt_tokens": 10198,
+  "completion_tokens": 1026,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11224,
+  "cost_usd_api": 0.015328,
+  "cost_usd_reconstructed": 0.015328,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457761-mOlmQFZ25V4NgPIUvKQH",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data nella parte dispositiva. Il numero e la data sono desumibili dal contesto (riferimento a decreto ministeriale del 3 febbraio 202, n. 144 nel preambolo, ma il decreto corrente non è numerato nel testo fornito). Le risorse sono ripartite dal capitolo 7400, piano gestionale 7 (€ 634.174.000,00) e dal capitolo 7400, piano gestionale 1 (€ 114.902.425,07), per un totale di € 749.076.425,07, di cui € 660.660.678,33 immediatamente ripartiti secondo l'Allegato 1."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "€ 97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1; Art. 1, comma 1",
+      "note": "Finanziamento per Comune di Padova - Linea Sir 2 del tram"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "€ 359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2; Art. 1, comma 1",
+      "note": "Finanziamento per Comune di Brescia - Nuova linea tranviaria Pendolina-Fiera"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "€ 159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3; Art. 1, comma 1",
+      "note": "Finanziamento per Roma Capitale - Rinnovo materiale linee A e B-B1 della metropolitana"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "€ 9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4; Art. 1, comma 1",
+      "note": "Finanziamento per Comune di Torino - Attestamento linea tranviaria 15"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "€ 35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5; Art. 1, comma 1",
+      "note": "Finanziamento per Comune di Torino - Metropolitana automatica linea 1"
+    }
+  ],
+  "raw_content": null
+}

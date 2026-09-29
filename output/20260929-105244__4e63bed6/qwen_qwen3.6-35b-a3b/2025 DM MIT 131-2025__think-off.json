@@ -1,0 +1,112 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:18:11",
+  "received_at": "2026-09-29T12:18:22",
+  "latency_seconds": 10.491,
+  "prompt_tokens": 9395,
+  "completion_tokens": 1245,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10640,
+  "cost_usd_api": 0.00265425,
+  "cost_usd_reconstructed": 0.00265425,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677092-xjLiBTJX9DJAgHjpmeOX",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un Decreto del Direttore Generale (non numerato esplicitamente nel testo fornito, ma identificabile come atto di approvazione del Secondo Atto Modificativo della Convenzione). Non vi sono tabelle [TABELLA] nel testo fornito. Gli importi estratti rappresentano la conferma/ripristino delle risorse già impegnate con atti precedenti (D.D. 381/2019 e D.D. 108/2024) nell'ambito della nuova convenzione modificativa. L'atto non dispone nuovi stanziamenti ma attua la convenzione che regola l'erogazione di fondi già destinati. Il CUP B21F19000040009 è associato all'intervento 'Prolungamento della Linea metropolitana M5 di Milano fino al Comune di Monza'."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 900.000.000,00 a valere sulle risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo relativo alla quota di finanziamento destinata al prolungamento M5, già oggetto di impegno con D.D. n. 381/2019 ma qui confermata/ripristinata nell'ambito del Secondo Atto Modificativo."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo relativo alla rifinanziamento della legge 234/2021, già oggetto di impegno con D.D. n. 108/2024 ma qui confermato nell'ambito del Secondo Atto Modificativo."
+    }
+  ],
+  "raw_content": null
+}

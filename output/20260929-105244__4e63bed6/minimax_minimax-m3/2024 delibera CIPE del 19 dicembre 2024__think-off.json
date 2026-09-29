@@ -1,0 +1,238 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:06:15",
+  "received_at": "2026-09-29T12:06:32",
+  "latency_seconds": 17.018,
+  "prompt_tokens": 72949,
+  "completion_tokens": 2467,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 75416,
+  "cost_usd_api": 0.02481438,
+  "cost_usd_reconstructed": 0.024845100000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676376-QrcYmiOlazyjNCtElxEW",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "natura_atto": "approvazione_progetto_definitivo",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT/MEF 4 marzo 2015, n. 82",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Delibera CIPE 4 aprile 2019, n. 6",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "Delibera CIPESS 23 aprile 2024, n. 14",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 16 novembre 2021, n. 448",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 21 giugno 2013, n. 69, art. 18, comma 1",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 12 settembre 2014, n. 133 (Sblocca Italia), art. 3, comma 2, lett. c",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 27 dicembre 2013, n. 147, art. 1, comma 88",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "Atto corrente: Delibera CIPESS n. 86/2024 del 19 dicembre 2024, registrata alla Corte dei conti il 12 marzo 2025. La delibera dispone l'approvazione del progetto definitivo del Sistema Tramviario Fiorentino - Linea 4.1 Tratta Leopolda-Piagge (CUP H11J12000200001) e ne definisce la copertura finanziaria complessiva (€ 200.120.520,56). Sono estratti solo gli importi effettivamente disposti dall'atto corrente sulla copertura finanziaria (art. 1, p.to 1.2.1 e 1.2.2). Non sono estratti: il valore complessivo dell'intervento (€ 200.120.520,56) e le tabelle comparative del Q.E. (lavori, materiale rotabile, ecc.), in quanto non costituiscono assegnazione di risorse. Non si estraggono i 27.550.000,00 euro di FSC in quanto l'atto corrente si limita a richiamare il definanziamento già disposto dalla Delibera CIPESS n. 14/2024 (atto pregresso) e a prenderne atto, senza disporre autonomamente il definanziamento (la voce 'materiale rotabile' è eliminata dal nuovo Q.E. per effetto del definanziamento pregresso). Gli Allegati 1 e 2 (prescrizioni MIT e RUP) contengono esclusivamente prescrizioni tecniche e non dispongono importi; il CUP compare nell'Allegato 2 in titolo ma non è associato ad alcun nuovo importo. Confidenza alta: ciascun importo è individuato con il proprio capitolo/PG e fonte nella parte dispositiva."
+  },
+  "records": [
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "annualita": null,
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato - Sblocca Italia",
+      "riferimento_fonte": "art. 1, punto 1.2.1; Allegato 1",
+      "passaggio_testuale": "95.000.000,00 euro a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Capitolo 7140 PG 9 MIT (fondo ex art. 18 DL 69/2013 rifinanziato da art. 3 c.2 lett.c DL 133/2014 - Sblocca Italia)"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato - Reti metropolitane",
+      "riferimento_fonte": "art. 1, punto 1.2.1; Allegato 1",
+      "passaggio_testuale": "47.000.000,00 euro a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)",
+      "atto_riferito": "DM MIT 22 dicembre 2017, n. 587",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorse già assegnate con DM 587/2017 e confermate nella copertura finanziaria della presente delibera"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato - Fondo TPL aree metropolitane",
+      "riferimento_fonte": "art. 1, punto 1.2.1; Allegato 1",
+      "passaggio_testuale": "29.900.000,00 euro a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane» (capitolo 7423, Piano di gestione 1 del MIT)",
+      "atto_riferito": "DM MIT 2 marzo 2018, n. 86",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Fondo ex art. 1 comma 88 legge 147/2013; originariamente destinato a Linea 2.2 e trasferito sull'intervento in argomento"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico del Comune di Firenze - quota Comune",
+      "riferimento_fonte": "art. 1, punto 1.2.2; Allegato 1",
+      "passaggio_testuale": "7.100.598,76 euro dalle risorse «quota Comune di Firenze»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Capitoli del Comune di Firenze, non dello Stato"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota Comune di Firenze - trasferimenti da RFI",
+      "riferimento_fonte": "art. 1, punto 1.2.2; Allegato 1",
+      "passaggio_testuale": "22.900.000,00 euro dalle risorse «quota Comune di Firenze - trasferimenti da RFI»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Trasferimenti RFI - non a carico dello Stato"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "RFI - ulteriore finanziamento (2012)",
+      "riferimento_fonte": "art. 1, punto 1.2.2; Allegato 1",
+      "passaggio_testuale": "245.577,80 euro dalle risorse «RFI - ulteriore finanziamento (inserito nel 2012)»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "RFI - non a carico dello Stato"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,91 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:52",
+  "received_at": "2026-09-29T11:15:30",
+  "latency_seconds": 37.75,
+  "prompt_tokens": 11567,
+  "completion_tokens": 1118,
+  "reasoning_tokens": 1,
+  "cached_tokens": 5888,
+  "total_tokens": 12685,
+  "cost_usd_api": 0.01080913,
+  "cost_usd_reconstructed": 0.01546065,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673298-S4QwF09QqGswu7XYgzo2",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Presidente del Consiglio dei ministri 11 giugno 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 4 ottobre 2019, n. 195790",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 30 dicembre 2018, n. 145",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "relazione n. 7651 del 1° ottobre 2021 della Direzione generale per il trasporto pubblico locale e regionale e la mobilità pubblica sostenibile",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non reca numero né data in testa o in calce; è un decreto ministeriale del Ministro delle Infrastrutture e della Mobilità Sostenibili. Il preambolo riporta estesi riferimenti a stanziamenti pluriennali sul capitolo 7400 PG 5 (€ 184.964.094,00 totali), ma questi sono iscrizioni di bilancio già disposte da atti precedenti (DPCM 11/6/2019 e DM MEF 4/10/2019), non eventi contabili disposti dal presente decreto. Il decreto 443/2021 è citato come atto che ha già ripartito € 182.922.704,80; il presente atto integra quel riparto aggiungendo il Comune di Rimini con € 2.041.389,20 (residuo del fondo). L'art. 2, comma 1 prevede esplicitamente che l'impegno contabile sia posto con 'successivo provvedimento', quindi il presente decreto non dispone un impegno ma solo un'assegnazione. Non sono presenti allegati né tabelle con CUP o riparti finanziari nel corpo dell'atto; le tabelle riportate nel testo (pag.1 n.1, pag.5 n.1, pag.6 n.1) sono: la prima riproduce lo stanziamento pluriennale già noto (senza CUP), le altre due riproducono testualmente le modalità di erogazione dell'art. 6 (senza CUP né importi specifici). Non è possibile determinare l'annualità specifica dell'assegnazione a Rimini: l'atto non la specifica, indicando solo che l'intervento va concluso entro il 31/12/2024 e che l'impegno sarà coerente con 'lo stanziamento pluriennale previsto in bilancio'."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018, per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\"",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il costo totale dell'intervento è stimato in € 2.250.000,00; il contributo assegnato è di € 2.041.389,20; la differenza € 208.610,80 è cofinanziamento dell'ente. L'art. 2, comma 1 dispone che l'impegno contabile sarà posto con successivo provvedimento, non con il presente decreto."
+    }
+  ],
+  "raw_content": null
+}

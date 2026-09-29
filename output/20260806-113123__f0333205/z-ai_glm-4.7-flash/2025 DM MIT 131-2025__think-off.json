@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:37:20",
+  "received_at": "2026-08-06T15:37:25",
+  "latency_seconds": 4.057,
+  "prompt_tokens": 5111,
+  "completion_tokens": 280,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 5391,
+  "cost_usd_api": 0.00033546,
+  "cost_usd_reconstructed": 0.00041865999999999995,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023441-z5RkXUwiOgxvmnHQY8Lq",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": null
+    },
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

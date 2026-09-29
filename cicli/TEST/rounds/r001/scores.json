@@ -1,0 +1,83 @@
+{
+  "run": "20260924-181513__d02c735d",
+  "n_eleggibili": 2,
+  "eleggibili": [
+    "2021 DM mit 464-2021",
+    "2025 DM MIT 131-2025"
+  ],
+  "non_eseguiti": [
+    "2022 DD MIT 454-2022",
+    "2022 DDG 128 del 02-05-22",
+    "2022 DI Mims Mef 97 20.04.2022",
+    "2022 DM MIMS 342-2022",
+    "2022 DM MIT 409-2022",
+    "2023 DI MIT-MEF 286-2023",
+    "2023 DM MIT 191-2023",
+    "2023 DM MIT 270-2023",
+    "2023 DM MIT 342-2023",
+    "2023 DM MIT 344-2023",
+    "2023 DM MIT 345 - 2023",
+    "2023 DM MIT 346-2023",
+    "2024 DM MIT 334-2024",
+    "2025 DD MIT 141-2025"
+  ],
+  "quarantena": [
+    "2024 delibera CIPE del 19 dicembre 2024"
+  ],
+  "tolleranza_eur": 1.0,
+  "celle": {
+    "z-ai/glm-4.7-flash::off": {
+      "solved": 1,
+      "su": 2,
+      "documenti_risolti": [
+        "2025 DM MIT 131-2025"
+      ],
+      "guardia_violata": [],
+      "dettaglio": [
+        {
+          "doc": "2021 DM mit 464-2021",
+          "solved": false,
+          "status": "ok",
+          "gt": 5,
+          "pred": 0,
+          "fn": 5,
+          "fp": 0,
+          "fn_righe": [
+            [
+              "C11B21008720001",
+              9408503.0
+            ],
+            [
+              "C81B21013200005",
+              359545887.0
+            ],
+            [
+              "D81E20000410007",
+              35085990.0
+            ],
+            [
+              "H94I19000130004",
+              97154124.0
+            ],
+            [
+              "J80J18000000001",
+              159466174.0
+            ]
+          ],
+          "fp_righe": []
+        },
+        {
+          "doc": "2025 DM MIT 131-2025",
+          "solved": true,
+          "status": "ok",
+          "gt": 1,
+          "pred": 1,
+          "fn": 0,
+          "fp": 0,
+          "fn_righe": [],
+          "fp_righe": []
+        }
+      ]
+    }
+  }
+}

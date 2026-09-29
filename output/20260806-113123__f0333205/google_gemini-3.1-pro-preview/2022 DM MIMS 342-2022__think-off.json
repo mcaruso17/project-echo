@@ -1,0 +1,54 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:42:04",
+  "received_at": "2026-08-06T12:42:26",
+  "latency_seconds": 21.321,
+  "prompt_tokens": 6683,
+  "completion_tokens": 2852,
+  "reasoning_tokens": 2470,
+  "cached_tokens": 0,
+  "total_tokens": 9535,
+  "cost_usd_api": 0.04759,
+  "cost_usd_reconstructed": 0.04759,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012924-Skf7KY6fNhgAEaWMkLVr",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto corrente non sono esplicitati nel testo fornito. Il capitolo 7400 e il piano gestionale 5 sono stati estratti dal preambolo, in quanto definiscono esplicitamente le coordinate contabili del fondo richiamato all'Articolo 1. Il CUP riportato nel testo ('PROV0000026838') è di 14 caratteri anziché 15, ma è stato estratto fedelmente come stampato."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Assegnazione al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto'. Il costo totale stimato è di € 2.250.000,00."
+    }
+  ],
+  "raw_content": null
+}

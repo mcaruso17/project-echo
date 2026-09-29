@@ -1,0 +1,226 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:20:04",
+  "received_at": "2026-09-29T11:21:03",
+  "latency_seconds": 58.554,
+  "prompt_tokens": 11686,
+  "completion_tokens": 2567,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5952,
+  "total_tokens": 14253,
+  "cost_usd_api": 0.0016411,
+  "cost_usd_reconstructed": 0.0018218400000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673605-gKPL43TQMSY7lERFOqM8",
+    "provider": "CoreWeave",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). Non contiene stanziamenti monetari diretti o impegni di spesa nuovi, ma agisce sulla tempistica degli interventi già finanziati. Molti record estratti hanno importo 0 o null perché l'azione è di natura temporale (proroga) e non finanziaria. Gli interventi in Allegato 2 sono definiti 'non definanziabili' (sicurezza), pertanto non generano record di finanziamento."
+  },
+  "records": [
+    {
+      "cup": [
+        "B24C17000320005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "METROTRANVIA MILANO-LIMBIATE: 2° LOTTO | 31/12/2024 | B24C17000320005",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV (obbligazione giuridicamente vincolante) e non un nuovo finanziamento o impegno economico esplicito in euro.",
+      "note": "L'atto stabilisce il nuovo termine OGV al 31/12/2024 per il lotto 2."
+    },
+    {
+      "cup": [
+        "H11J21000010003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 7",
+      "passaggio_testuale": "SISTEMA TRAMVIARIO DI FIRENZE: LINEA 3 (II LOTTO) - TRATTA LIBERTÀ - ROVEZZANO (LINEA 3.2.2) | 31/12/2024 | H11J21000010003",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV e non un nuovo finanziamento o impegno economico esplicito in euro.",
+      "note": "L'atto stabilisce il nuovo termine OGV al 31/12/2024."
+    },
+    {
+      "cup": [
+        "F44I19000530001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 13",
+      "passaggio_testuale": "PROLUNGAMENTO M1 QUARTIERE BAGGIO - OLMI – VALSESIA | 31/12/2024 | F44I19000530001",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV e non un nuovo finanziamento o impegno economico esplicito in euro.",
+      "note": "L'atto stabilisce il nuovo termine OGV al 31/12/2024."
+    },
+    {
+      "cup": [
+        "B71J22000050006"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "METROTRANVIA MILANO-LIMBIATE: 1° LOTTO | 31/12/2024 | B71J22000050006",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV e non un nuovo finanziamento o impegno economico esplicito in euro.",
+      "note": "L'atto stabilisce il nuovo termine OGV al 31/12/2024."
+    },
+    {
+      "cup": [
+        "D71D18000520001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "preambolo; CONSIDERATO che l'intervento 'Sistema Tram Palermo...'",
+      "passaggio_testuale": "Sistema Tram Palermo- Fase II Tratte D, E2, F, G e Parcheggi di interscambio – CUP D71D18000520001",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'intervento è in fase di stralcio dal piano PNRR ma viene incluso tra quelli oggetto di proroga."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "altro",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.5 n.1], riga 18",
+      "passaggio_testuale": "NUOVA LINEA TRANVIARIA \"PENDOLINA- FIERA (T2)\" | 31/03/2025 | C81B21013200005",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV e non un nuovo finanziamento o impegno economico esplicito in euro.",
+      "note": "L'atto stabilisce il nuovo termine OGV al 31/03/2025."
+    }
+  ],
+  "raw_content": null
+}

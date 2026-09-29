@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:36:55",
+  "received_at": "2026-08-06T12:37:06",
+  "latency_seconds": 11.486,
+  "prompt_tokens": 3459,
+  "completion_tokens": 162,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3621,
+  "cost_usd_api": 0.004278573,
+  "cost_usd_reconstructed": 0.001645605,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012615-wLz089EpC6OY4ROLrz77",
+    "provider": "Ionstream",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti relative a decreti precedenti. Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione) con indicazione di capitoli di spesa, piani gestionali, CUP o importi."
+  },
+  "records": [],
+  "raw_content": null
+}

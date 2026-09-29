@@ -1,0 +1,85 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:48:10",
+  "received_at": "2026-09-24T12:48:30",
+  "latency_seconds": 19.718,
+  "prompt_tokens": 9652,
+  "completion_tokens": 670,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10322,
+  "cost_usd_api": 0.000851946,
+  "cost_usd_reconstructed": 0.0008567719999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246890-2D8jV3mNhc3EbmeKDUoR",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "444",
+    "data_decreto": "2022-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle Infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Presidente del Consiglio dei ministri 11 giugno 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 4 ottobre 2019, n. 195790",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "elenco allegato al medesimo decreto (DM PCMI 11 giugno 2019)"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018, per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\" il cui costo totale è stimato in € 2.250.000,00.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "CUP provvisorio. L'importo assegnato è pari alle risorse residue disponibili (2.041.389,20) dopo il riparto del decreto n. 443/2021."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:44:13",
+  "received_at": "2026-08-06T12:44:20",
+  "latency_seconds": 7.065,
+  "prompt_tokens": 4678,
+  "completion_tokens": 468,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 5146,
+  "cost_usd_api": 0.034758,
+  "cost_usd_reconstructed": 0.03743,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013053-rh6cRVfyLhOEj6RWxmLc",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta il numero e la data del decreto corrente, né il capitolo di spesa o il piano gestionale. Le assegnazioni ammontano complessivamente a € 74.948.232,02, entro il limite complessivo indicato di € 75.000.000,00."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, primo punto elenco",
+      "note": "Riparto alla Provincia autonoma di Trento per l'intervento «Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna»."
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, secondo punto elenco",
+      "note": "Riparto alla Provincia autonoma di Bolzano, quale cofinanziamento, per l'intervento «Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo»."
+    }
+  ],
+  "raw_content": null
+}

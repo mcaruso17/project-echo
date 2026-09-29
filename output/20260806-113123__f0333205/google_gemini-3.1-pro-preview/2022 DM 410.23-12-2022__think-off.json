@@ -1,0 +1,42 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:35:56",
+  "received_at": "2026-08-06T12:36:08",
+  "latency_seconds": 11.77,
+  "prompt_tokens": 3399,
+  "completion_tokens": 1292,
+  "reasoning_tokens": 1148,
+  "cached_tokens": 0,
+  "total_tokens": 4691,
+  "cost_usd_api": 0.022302,
+  "cost_usd_reconstructed": 0.022302,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012556-w2SdVUi4OI2qrdGQAnLt",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con decreti precedenti. Non contiene nuove assegnazioni, definanziamenti, rimodulazioni, né indicazioni di capitoli di spesa o importi."
+  },
+  "records": [],
+  "raw_content": null
+}

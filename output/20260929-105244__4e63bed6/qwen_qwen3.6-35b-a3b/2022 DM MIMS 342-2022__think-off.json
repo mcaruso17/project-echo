@@ -1,0 +1,75 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:15:04",
+  "received_at": "2026-09-29T11:15:11",
+  "latency_seconds": 7.567,
+  "prompt_tokens": 10739,
+  "completion_tokens": 926,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11665,
+  "cost_usd_api": 0.00253685,
+  "cost_usd_reconstructed": 0.0025368499999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673305-uCiG0yAJv5OMgeLmHQLl",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "443/2021",
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 12 novembre 2021, n. 443",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il decreto cita il DM n. 443/2021 come atto precedente che ha disposto il riparto generale, ma il presente atto (che sembra essere un decreto integrativo o correttivo per il Comune di Rimini, anche se il numero non è esplicitamente indicato nel testo fornito come 'DM n. X', il contesto indica che si tratta di un atto del MIT che assegna risorse) assegna specificamente le risorse al CUP PROV0000026838. Il testo fornito non riporta il numero e la data esatti del decreto corrente nella intestazione, ma il contesto 'DECRETA' e il riferimento al DM 443/2021 come atto precedente ('predetto decreto n. 443/2021') suggerisce che questo sia un atto successivo. Tuttavia, poiché il numero del decreto corrente non è esplicitamente dichiarato nel testo (manca l'intestazione 'Decreto n. ... del ...'), ho impostato numero_decreto e data_decreto a null o ho usato il riferimento all'atto collegato. Rileggendo: 'VISTO il decreto del Ministro... n. 443... RILEVATO che tra i beneficiari... non figura il Comune di Rimini... RITENUTO... di includere il Comune di Rimini... DECRETA'. Questo è un decreto che integra/aggiunge il Comune di Rimini al riparto del DM 443/2021. Poiché il numero del decreto corrente non è presente nel testo, lo lascio null. L'atto collegato è il DM 443/2021 che viene 'attualizzato' o 'integrato' con questa nuova assegnazione."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E’ assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all’articolo 1, comma 95, della legge 145/2018, per l’intervento di manutenzione relativo a “Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo è assegnato ma l'impegno contabile è disposto con successivo provvedimento (art. 2). Il CUP è provvisorio."
+    }
+  ],
+  "raw_content": null
+}

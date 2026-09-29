@@ -1,0 +1,2 @@
+﻿decree_file,model_slug,family,kind,tier,thinking,status,n_pages,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,cost_usd_api,cost_usd_reconstructed,latency_seconds,n_records,truncated,sent_at,error
+2023 DM MIT 270-2023.pdf,anthropic/claude-fable-5,anthropic,commercial,flagship,off,ok,25,56639,10353,2354,66992,1.08404,1.08404,91.804,43,False,2026-08-14T12:24:22,

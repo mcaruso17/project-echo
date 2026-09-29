@@ -1,0 +1,61 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:35",
+  "received_at": "2026-09-29T12:08:47",
+  "latency_seconds": 12.216,
+  "prompt_tokens": 8518,
+  "completion_tokens": 349,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5760,
+  "total_tokens": 8867,
+  "cost_usd_api": 0.00395703,
+  "cost_usd_reconstructed": 0.004419030000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676522-knKe1T0r8YganGfZ0qyd",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "D.M. 464/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 343/2023",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.I. n. 97/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente dispone esclusivamente la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti per gli interventi elencati nell'Allegato 1. Non contiene azioni di finanziamento (assegnazione, impegno, rimodulazione, revoca, ecc.) né importi associati a CUP. Gli interventi sono identificati solo da descrizione testuale e comune, senza CUP. Pertanto, nessun record di finanziamento è estraibile."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"D.M. 464/2021\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 343/2023\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.I. n. 97/2022\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"Allegato 1\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente dispone esclusivamente la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti per gli interventi elencati nell'Allegato 1. Non contiene azioni di finanziamento (assegnazione, impegno, rimodulazione, revoca, ecc.) né importi associati a CUP. Gli interventi sono identificati solo da descrizione testuale e comune, senza CUP. Pertanto, nessun record di finanziamento è estraibile.\"\n}"
+}

@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:37:01",
+  "received_at": "2026-08-06T13:37:18",
+  "latency_seconds": 16.59,
+  "prompt_tokens": 36729,
+  "completion_tokens": 1222,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 37951,
+  "cost_usd_api": 0.214195,
+  "cost_usd_reconstructed": 0.214195,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016222-SLwU6g2gnulTPE1KsXRW",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un DM del Ministro delle infrastrutture e dei trasporti (numero e data non presenti nel testo fornito - firmato genericamente 'IL MINISTRO'). Il decreto ha natura rettificativa: corregge l'Allegato 3 del DM 364/2021 e aggiorna gli Allegati 1, 2 e 3 recependo rimodulazioni già disposte da precedenti decreti direttoriali (235/2022, 270/2022, 257/2023). Le uniche nuove disposizioni economiche del decreto corrente sono le correzioni per mero errore materiale indicate all'art. 1, comma 1 (variazioni sui capitolo 7150 pg. 3 e 4). Gli importi complessivi delle tabelle degli Allegati riflettono assegnazioni già disposte da decreti precedenti e non sono nuove azioni di finanziamento del decreto corrente. Il capitolo è 7150 (p.g. 3 potenziamento, p.g. 4 sicurezza); non è esplicitamente indicato il p.g. per le singole rettifiche annualità."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": null,
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 DM 364/2021: Regione Veneto annualità 2033, risorse pari a 217.585 euro in luogo dei precedenti 117.585 euro"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": null,
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 DM 364/2021: Regione Emilia Romagna annualità 2033, risorse pari a 690.994 euro in luogo dei precedenti 790.994 euro"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": null,
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 DM 364/2021: Regione Veneto annualità 2032, risorse pari a 125.266 euro in luogo dei precedenti 125.268 euro"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": null,
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 DM 364/2021: Regione Emilia Romagna annualità 2032, risorse pari a 842.682 euro in luogo dei precedenti 842.680 euro"
+    }
+  ],
+  "raw_content": null
+}

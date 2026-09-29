@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:31:51",
+  "received_at": "2026-08-06T15:31:55",
+  "latency_seconds": 3.583,
+  "prompt_tokens": 8043,
+  "completion_tokens": 632,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8675,
+  "cost_usd_api": 0.00764212,
+  "cost_usd_reconstructed": 0.007722550000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023111-JykC4cPOaL6gVYbSZyWU",
+    "provider": "CoreWeave",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (n. 141 del 18/04/2025) approva una Convenzione e autorizza nuovi impegni di spesa. L'art. 2 descrive la copertura complessiva di € 3.945.000.000,00 richiamando capitoli e piani gestionali (7426/PG1, 7400/PG1, 7400/PG8, 7419/PG2) già oggetto di precedenti provvedimenti, ma le nuove azioni di finanziamento disposte dalla parte dispositiva (DECRETA) sono gli impegni autorizzati agli articoli 3 e 4, associati al CUP E51I04000010007 indicato nel preambolo e all'art. 1."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3",
+      "note": "Impegno delle risorse di cui all'art. 1, comma 478, della legge 29 dicembre 2022, n. 197. Di cui € 50.000.000,00 in conto residui (esercizio 2024) e 2.075.000.000,00 per gli esercizi finanziari dal 2025 al 2032."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 4",
+      "note": "Impegno delle risorse di cui all'art. 1, comma 478, della legge 29 dicembre 2022, n. 197. Di cui 50.000.000,00 per l'esercizio finanziario 2027 e € 25.000.000,00 per l'esercizio finanziario 2028."
+    }
+  ],
+  "raw_content": null
+}

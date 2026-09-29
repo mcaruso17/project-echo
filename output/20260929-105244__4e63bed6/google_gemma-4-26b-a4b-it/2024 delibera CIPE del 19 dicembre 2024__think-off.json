@@ -1,0 +1,235 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:06:26",
+  "received_at": "2026-09-29T12:07:36",
+  "latency_seconds": 70.499,
+  "prompt_tokens": 74028,
+  "completion_tokens": 2451,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 76479,
+  "cost_usd_api": 0.0081381,
+  "cost_usd_reconstructed": 0.007397819999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676386-Ups3ejKvXp3ki7YwCMFn",
+    "provider": "CoreWeave",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato Interministeriale per la Programmazione Economica e lo Sviluppo Sostenibile",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Delibera CIPE 4 aprile 2019, n. 6",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "Delibera CIPESS 23 aprile 2024, n. 14",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "annualita": null,
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1.2.1",
+      "passaggio_testuale": "95.000.000,00 euro a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1.2.1",
+      "passaggio_testuale": "47.000.000,00 euro a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1.2.1",
+      "passaggio_testuale": "29.900.000,00 euro a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota Comune di Firenze",
+      "riferimento_fonte": "art. 1.2.2; [TABELLA pag.7 n.1], riga 2",
+      "passaggio_testuale": "7.100.598,76 euro dalle risorse «quota Comune di Firenze»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota a carico del Comune di Firenze"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Trasferimenti da RFI",
+      "riferimento_fonte": "art. 1.2.2; [TABELLA pag.7 n.1], riga 3",
+      "passaggio_testuale": "22.900,00 euro dalle risorse «quota Comune di Firenze - trasferimenti da RFI»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota a carico del Comune di Firenze"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "RFI - Ulteriore Finanziamento (2012)",
+      "riferimento_fonte": "art. 1.2.2; [TABELLA pag.7 n.1], riga 4",
+      "passaggio_testuale": "245.577,80 euro dalle risorse «RFI - ulteriore finanziamento (inserito nel 2012)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota a carico del Comune di Firenze"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": -27550000.0,
+      "importo_originale": "27.550.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "revocato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; premesse, punto 6",
+      "passaggio_testuale": "ha definanziato il PSC Città metropolitana di Firenze per un importo di 27.550.000,00 euro",
+      "atto_riferito": "delibera CIPESS n. 14/2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Definanziamento delle risorse FSC per la linea 4.1"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,30 @@
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/manuale/v003.json
+  versione: v003   fingerprint: 4e63bed6
+--docs-file -> 5 documento/i su 25 (elenco di 5 stem).
+5 PDF x 1 modelli -> 1 celle-modello per documento
+Run: 20260928-164253__4e63bed6
+
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 2 record, 9462->1016 tok, $0.0017, 13.308s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 5 record, 11710->2165 tok, $0.0025, 29.455s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 22 record, 34393->8548 tok, $0.0082, 173.073s
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__4e63bed6
+JSONL scritto: results.jsonl (40 righe, tutte le celle)
+
+Spesa totale (API): $0.4338
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.139019
+deepseek/deepseek-v4-pro-0813::off    0.133543
+qwen/qwen3.6-35b-a3b::off             0.061899
+minimax/minimax-m3::off               0.046008
+google/gemma-4-31b-it::off            0.019547
+google/gemma-4-26b-a4b-it::off        0.014643
+z-ai/glm-4.7-flash::off               0.011635
+deepseek/deepseek-v4-flash::off       0.007491
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__4e63bed6

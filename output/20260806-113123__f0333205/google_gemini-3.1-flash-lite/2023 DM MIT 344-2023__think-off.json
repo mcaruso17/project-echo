@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:56:56",
+  "received_at": "2026-08-06T13:56:58",
+  "latency_seconds": 1.735,
+  "prompt_tokens": 12215,
+  "completion_tokens": 177,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12392,
+  "cost_usd_api": 0.00331925,
+  "cost_usd_reconstructed": 0.00331925,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786017416-0TxSsaAZ5DMQ4VFCHGRS",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non specifica un numero o una data propria nel testo fornito. Inoltre, le tabelle allegate riportano la ripartizione di risorse già assegnate dal DM 443/2021 (totale 182.922.704,80 €), confermando che il presente documento è un atto di rimodulazione tecnica e proroga termini, non un nuovo stanziamento di fondi."
+  },
+  "records": [],
+  "raw_content": null
+}

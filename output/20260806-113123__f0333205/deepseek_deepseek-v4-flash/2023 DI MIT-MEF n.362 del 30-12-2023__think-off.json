@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:55:19",
+  "received_at": "2026-08-06T12:55:44",
+  "latency_seconds": 24.982,
+  "prompt_tokens": 4896,
+  "completion_tokens": 153,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5049,
+  "cost_usd_api": 0.000436968,
+  "cost_usd_reconstructed": 0.00046818,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013719-yRrbpHv6vszcbrLDwKCR",
+    "provider": "DigitalOcean",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto modifica solo termini temporali (cronoprogrammi) degli interventi, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di risorse finanziarie. Non sono presenti capitoli, piani gestionali o importi nella parte dispositiva o negli allegati."
+  },
+  "records": [],
+  "raw_content": null
+}

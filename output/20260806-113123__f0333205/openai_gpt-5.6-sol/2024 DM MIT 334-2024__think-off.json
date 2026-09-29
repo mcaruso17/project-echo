@@ -1,0 +1,150 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:59:13",
+  "received_at": "2026-08-06T14:59:42",
+  "latency_seconds": 28.692,
+  "prompt_tokens": 13956,
+  "completion_tokens": 2003,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 15959,
+  "cost_usd_api": 0.1387955,
+  "cost_usd_reconstructed": 0.12987,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786021153-Kh67pUlM6Hwf7loZyFCa",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta numero e data del decreto corrente. Non sono indicati capitoli di bilancio o piani gestionali. Gli allegati sostitutivi espongono importi complessivi aggiornati, ma non le variazioni rispetto al precedente D.M. n. 345/2023; pertanto, per le rimodulazioni, sono riportati gli importi finali esplicitamente indicati e non sono state create gambe negative non quantificate. Non è stato estratto come finanziamento l’importo di 1.143.995,00 € dell’art. 4, poiché è dichiarato non allocato e le spese del valutatore sono soltanto rese ammissibili senza un’assegnazione quantificata a uno specifico progetto. Il disimpegno a carico del Comune di Padova previsto dall’art. 2, comma 2, sarà effettuato con successivo provvedimento dirigenziale e il relativo importo non è esplicitato; non è quindi stato registrato come azione finanziaria del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, primo punto elenco",
+      "note": "Assegnazione al Comune di Trieste per la realizzazione dell’intervento «Cabinovia metropolitana Trieste-Porto Vecchio-Carso», a valere sulle risorse previste dall’articolo 1, comma 14, della legge n. 160 del 2019. Il CUP non è riportato."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, secondo punto elenco",
+      "note": "Assegnazione al Comune di Milano per il completamento dell’intervento «Tramvia 7 Bausan – Villapizzone», a valere sulle risorse previste dall’articolo 1, comma 14, della legge n. 160 del 2019. Il CUP non è riportato nell’articolo; l’Allegato 1 riporta il CUP B44D22000090005 per la sola tratta 1 finanziata dal PNRR, non identificata come oggetto di questa assegnazione statale per il completamento."
+    },
+    {
+      "cup": "B44D22000090005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14324340.38,
+      "importo_originale": "14.324.340,38",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Tramvia 7 Bausan - Villapizzone - tratta 1»",
+      "note": "Finanziamento PNRR rimodulato assegnato al Comune di Milano per la tratta 1."
+    },
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 308501539.82,
+      "importo_originale": "308.501.539,82",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Linea SIR 2 del tram-completamento del sistema intermedio a rete della città di Padova»",
+      "note": "Nuovo importo complessivo del finanziamento PNRR risultante dalla sostituzione dell’Allegato 1."
+    },
+    {
+      "cup": "J81J20000290001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 120000000.0,
+      "importo_originale": "120.000.000,00",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Linea tranviaria Termini-Vaticano-Aurelio (tratta Giureconsulti – Largo Cardinal Clemente Micara)»",
+      "note": "Finanziamento PNRR riferito alla tratta sostitutiva indicata nel nuovo Allegato 1."
+    },
+    {
+      "cup": "B60J21000070001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 16130353.46,
+      "importo_originale": "16.130.353,46",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Fornitura materiale rotabile di n. 5 tram da 24 metri, 3 elementi, pianale basso»",
+      "note": "Nuovo importo complessivo del finanziamento PNRR risultante dalla rimodulazione."
+    },
+    {
+      "cup": "B69H13000230002",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 33579216.0,
+      "importo_originale": "33.579.216,00",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Completamento della flotta rotabile di linea 1: fornitura materiale rotabile n. 4 elettrotreni»",
+      "note": "Importo PNRR rideterminato; il target riportato nell’allegato è di 3 elettrotreni, nonostante la denominazione della riga menzioni 4 elettrotreni."
+    },
+    {
+      "cup": "B61E16000790007",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 49051966.93,
+      "importo_originale": "49.051.966,93",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Ampliamento deposito mezzi e officina di manutenzione della Linea 1 - località Piscinola»",
+      "note": "Nuovo importo complessivo del finanziamento PNRR risultante dalla rimodulazione."
+    },
+    {
+      "cup": "D71D18000520001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21997800.0,
+      "importo_originale": "21.997.800,00",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 – Nuovi interventi, riga «Sistema Tram Palermo - Fase II - Tratte D, E2, F, G e parcheggi di interscambio: fornitura materiale rotabile tram»",
+      "note": "Finanziamento PNRR rimodulato per la fornitura di 5 veicoli."
+    },
+    {
+      "cup": "B31E20000230001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 398976182.34,
+      "importo_originale": "398.976.182,34",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 2 – Interventi a legislazione vigente, riga «Sistema degli assi di forza per il trasporto pubblico locale nel Comune di Genova»",
+      "note": "Finanziamento PNRR rimodulato per utilizzare l’intera disponibilità destinata agli interventi a legislazione vigente."
+    }
+  ],
+  "raw_content": null
+}

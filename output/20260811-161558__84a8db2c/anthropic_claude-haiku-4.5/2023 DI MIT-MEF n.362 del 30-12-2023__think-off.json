@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:25:43",
+  "received_at": "2026-08-11T16:25:48",
+  "latency_seconds": 4.245,
+  "prompt_tokens": 5235,
+  "completion_tokens": 301,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5536,
+  "cost_usd_api": 0.00674,
+  "cost_usd_reconstructed": 0.00674,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458344-SFQmaxnVs84RRSYRxzw8",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni di importi). Gli articoli 1 e 2 dispongono esclusivamente la rimodulazione dei termini (cronoprogrammi) per interventi già finanziati da precedenti decreti (in particolare il decreto del Ministro delle infrastrutture e della mobilità sostenibili 20 aprile 2022, n. 97). Gli allegati 1 e 2 riportano tabelle con CUP, beneficiari e nuovi termini di affidamento/ultimazione, ma nessun importo di finanziamento. Pertanto, non vi sono azioni di finanziamento da estrarre secondo le definizioni fornite (assegnazione, definanziamento, rimodulazione di fondi)."
+  },
+  "records": [],
+  "raw_content": null
+}

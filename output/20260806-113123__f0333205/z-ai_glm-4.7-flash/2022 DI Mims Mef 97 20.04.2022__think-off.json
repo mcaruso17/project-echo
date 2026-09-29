@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "decree_relpath": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 13,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T12:12:38",
+  "received_at": "2026-08-06T12:13:26",
+  "latency_seconds": 48.125,
+  "prompt_tokens": 10310,
+  "completion_tokens": 546,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10856,
+  "cost_usd_api": 0,
+  "cost_usd_reconstructed": 0.000837,
+  "finish_reason": "error",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786011158-ft6wvIOUUuZqDVbSydDo",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministro delle Infrastrutture e della Mobilità Sostenibili\",\n  \"ministero_2\": \"Ministro dell'Economia e delle Finanze\",\n  \"record\": [\n    {\n      \"cup\": \"B39J22001360001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 398000000,\n      \"importo_originale\": \"398.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 1\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"B31F20000030005\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 20860000,\n      \"importo_originale\": \"20.860.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 2\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"B44D20000040001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 180000000,\n      \"importo_originale\": \"180.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 3\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"B91J21000040001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 420000000,\n      \"importo_originale\": \"420.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 4\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"B41J21000050006\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 4500000,\n      \"importo_originale\": \"4.500.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 5\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"B41C21000010001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 5500000,\n      \"importo_originale\": \"5.500.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 6\",\n      \"note\": null\n    },\n    {\n      \"cup\": \"F41B22000740009\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"8\",\n      \"importo_eur\": 631373163,\n      \"importo_originale\": \"631.373.163,"
+}

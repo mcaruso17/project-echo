@@ -1,0 +1,40 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:35:57",
+  "received_at": "2026-08-14T15:36:01",
+  "latency_seconds": 4.368,
+  "prompt_tokens": 7369,
+  "completion_tokens": 176,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7545,
+  "cost_usd_api": 0.01042404,
+  "cost_usd_reconstructed": 0.0033586349999999996,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714557-vkslWPzHunIV96Mpmlye",
+    "provider": "Fireworks",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento con dettaglio di capitolo, piano gestionale o importi. Dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1 e allegati 1 e 2) e una destinazione generica delle risorse derivanti da eventuali definanziamenti (art. 2), senza indicare importi o linee di bilancio specifiche."
+  },
+  "records": [],
+  "raw_content": "{\n\"decreto_corrente_identificato\": true,\n\"numero_decreto\": null,\n\"data_decreto\": null,\n\"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n\"ministero_2\": null,\n\"record\": [],\n\"note_estrazione\": \"Il decreto corrente non contiene azioni di finanziamento con dettaglio di capitolo, piano gestionale o importi. Dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1 e allegati 1 e 2) e una destinazione generica delle risorse derivanti da eventuali definanziamenti (art. 2), senza indicare importi o linee di bilancio specifiche.\"\n}"
+}

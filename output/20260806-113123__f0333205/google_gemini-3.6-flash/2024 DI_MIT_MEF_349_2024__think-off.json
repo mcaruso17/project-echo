@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:19",
+  "received_at": "2026-08-06T14:53:31",
+  "latency_seconds": 11.822,
+  "prompt_tokens": 3461,
+  "completion_tokens": 1279,
+  "reasoning_tokens": 1113,
+  "cached_tokens": 0,
+  "total_tokens": 4740,
+  "cost_usd_api": 0.014784,
+  "cost_usd_reconstructed": 0.014784,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020800-eCUe0uFHv8PbzA5zLXLG",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente dispone unicamente proroghe dei termini temporali per l'affidamento dei lavori e modifiche procedurali (abrogazione dell'obiettivo intermedio di avanzamento al 50%), senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di risorse finanziarie, né indicare capitoli di spesa o CUP."
+  },
+  "records": [],
+  "raw_content": null
+}

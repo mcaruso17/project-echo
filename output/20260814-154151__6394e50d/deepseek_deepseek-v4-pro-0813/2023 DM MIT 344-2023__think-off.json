@@ -1,0 +1,40 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:56:57",
+  "received_at": "2026-08-14T15:57:04",
+  "latency_seconds": 6.651,
+  "prompt_tokens": 10691,
+  "completion_tokens": 198,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 10889,
+  "cost_usd_api": 0.01164611,
+  "cost_usd_reconstructed": 0.004822845,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715818-MgdMhEgbM07KsVAcdhS8",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non dispone nuove assegnazioni, definanziamenti o rimodulazioni di fondi con indicazione di capitolo e piano gestionale. L'articolo 1 rimodula gli interventi di cui all'allegato 1 del DM 443/2021, ma l'allegato riporta solo gli importi rimodulati per ciascun intervento e i relativi CUP, senza specificare capitoli o piani gestionali. Non sono presenti azioni di finanziamento estraibili secondo i criteri richiesti."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non dispone nuove assegnazioni, definanziamenti o rimodulazioni di fondi con indicazione di capitolo e piano gestionale. L'articolo 1 rimodula gli interventi di cui all'allegato 1 del DM 443/2021, ma l'allegato riporta solo gli importi rimodulati per ciascun intervento e i relativi CUP, senza specificare capitoli o piani gestionali. Non sono presenti azioni di finanziamento estraibili secondo i criteri richiesti.\"\n}"
+}

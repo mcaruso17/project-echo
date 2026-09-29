@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:33:29",
+  "received_at": "2026-08-06T12:33:30",
+  "latency_seconds": 1.325,
+  "prompt_tokens": 2550,
+  "completion_tokens": 136,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 2686,
+  "cost_usd_api": 0.0008415,
+  "cost_usd_reconstructed": 0.0008415,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012409-3Hsv4K0IUAeG4UvKjp6N",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto analizzato dispone esclusivamente la proroga di termini per obbligazioni giuridicamente vincolanti (OGV) relative a precedenti decreti, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di risorse finanziarie."
+  },
+  "records": [],
+  "raw_content": null
+}

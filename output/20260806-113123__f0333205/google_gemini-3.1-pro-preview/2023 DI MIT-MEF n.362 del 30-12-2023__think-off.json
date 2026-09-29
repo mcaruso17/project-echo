@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:54:10",
+  "received_at": "2026-08-06T12:54:22",
+  "latency_seconds": 11.715,
+  "prompt_tokens": 5012,
+  "completion_tokens": 1428,
+  "reasoning_tokens": 1281,
+  "cached_tokens": 0,
+  "total_tokens": 6440,
+  "cost_usd_api": 0.02716,
+  "cost_usd_reconstructed": 0.02716,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013651-hioK1QmGKTOtVNolEv2S",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente la proroga e la rimodulazione dei termini temporali (cronoprogrammi e scadenze OGV) per interventi già finanziati. Non contiene alcuna azione di finanziamento, definanziamento o rimodulazione di importi economici."
+  },
+  "records": [],
+  "raw_content": null
+}

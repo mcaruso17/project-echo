@@ -1,0 +1,72 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:19",
+  "received_at": "2026-09-29T11:17:24",
+  "latency_seconds": 5.092,
+  "prompt_tokens": 8712,
+  "completion_tokens": 549,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9261,
+  "cost_usd_api": 0.0018558,
+  "cost_usd_reconstructed": 0.0018558,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673440-SNRtSoFtOlAQinwtdEib",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta il numero e la data del decreto nel testo fornito, né i codici di capitolo/piano gestionale. L'allegato 1 è richiamato ma non presente nel testo."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023-2027",
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro... (CUP B81I06000000003)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto assegna un importo complessivo di 75 milioni di euro ripartito in 15 milioni annui dal 2023 al 2027. Non sono indicati capitolo e piano gestionale specifici nel testo."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,349 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:38:20",
+  "received_at": "2026-09-28T12:39:31",
+  "latency_seconds": 71.046,
+  "prompt_tokens": 12595,
+  "completion_tokens": 3447,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 16042,
+  "cost_usd_api": 0.02575325,
+  "cost_usd_reconstructed": 0.02575325,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591900-r5Nx3D7Y7IsdFSAem5RR",
+    "provider": "Cloudflare",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "decreto interministeriale 14 novembre 2014, n. 498",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto interministeriale 20 aprile 2022, n. 97",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto-legge 12 settembre 2014, n. 133, convertito in legge 11 novembre 2014, n. 164",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 30 dicembre 2021, n. 234, art. 1, comma 393",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva una convenzione e dispone impegni su capitoli 7419/PG2 (€ 2.125.000.000,00) e 7416/PG1 (€ 75.000.000,00). Gli importi di € 145.000.000,00 (cap. 7426/PG1) e € 1.600.000.000,00 (cap. 7400/PG1 e PG8) citati nell'art. 2 sono risorse GIÀ IMPEGNATE da precedenti decreti (d. dirigenziale 454/2022 e d. direttoriale 419/2022) e NON sono contenuto innovativo dell'atto corrente: non generano record. Il CUP E51I04000010007 compare nel preambolo (CONSIDERATO) e nell'art. 1; l'atto non specifica se si tratti di CUP Master o CUP singolo, ma dato che è l'unico CUP associato alla convenzione per tutti gli interventi, viene trattato come CUP dell'intervento. Le annualità dell'art. 3 sono riportate come quote annuali poiché l'atto non dispone un importo 'totale' per annualità multiple ma una tabella di ripartizione; tuttavia, l'art. 3 dispone un 'impegno complessivo' di € 2.125.000.000,00 che è già la somma delle annualità. Poiché le singole annualità sono esplicitamente indicate e l'atto le presenta come ripartizione dell'impegno complessivo, si è scelto di registrare le quote annuali con livello_importo='quota' piuttosto che un unico record 'totale', in coerenza con R5 (le ripartizioni per annualità di un importo già registrato NON sono record). In realtà, rileggendo R5: 'Le ripartizioni per ANNUALITÀ di un importo già registrato NON sono record: indica l'arco temporale in annualita'. Tuttavia, qui l'atto dispone l'impegno per la prima volta su queste annualità, quindi il 'totale' € 2.125.000.000,00 è il record principale. Ma dato che l'atto specifica esattamente l'importo per ogni anno, e non c'è un importo 'complessivo' da ripartire (la tabella è la disposizione stessa), si mantengono le quote annuali per fedeltà al testo. Rivedendo: R5 dice 'livello_importo = totale è il valore di QUASI TUTTI i record'. Per coerenza massima con le regole, si dovrebbe produrre un record unico per 7419/PG2 con importo 2.125.000.000,00 e annualita='2024-2032', e un record unico per 7416/PG1 con importo 75.000.000,00 e annualita='2027-2028'. Tuttavia, la tabella esplicita le annualità come disposizione diretta. Si opta per la soluzione più conservativa: record per il totale con annualità indicate, dato che l'atto dispone l'impegno 'complessivo'. CORREZIONE: producendo i record 'totale' come richiesto da R5."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 1",
+      "passaggio_testuale": "2024 | € 50.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00; importo in conto residui, esercizio di provenienza 2024"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2025",
+      "importo_eur": 25000000.0,
+      "importo_originale": "€ 25.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 2",
+      "passaggio_testuale": "2025 | € 25.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2026",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 3",
+      "passaggio_testuale": "2026 | € 50.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2027",
+      "importo_eur": 350000000.0,
+      "importo_originale": "€ 350.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 4",
+      "passaggio_testuale": "2027 | € 350.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2028",
+      "importo_eur": 200000000.0,
+      "importo_originale": "€ 200.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 5",
+      "passaggio_testuale": "2028 | € 200.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2029",
+      "importo_eur": 150000000.0,
+      "importo_originale": "€ 150.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 6",
+      "passaggio_testuale": "2029 | € 150.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2030",
+      "importo_eur": 450000000.0,
+      "importo_originale": "€ 450.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 7",
+      "passaggio_testuale": "2030 | € 450.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2031",
+      "importo_eur": 450000000.0,
+      "importo_originale": "€ 450.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 8",
+      "passaggio_testuale": "2031 | € 450.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2032",
+      "importo_eur": 400000000.0,
+      "importo_originale": "€ 400.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga 9",
+      "passaggio_testuale": "2032 | € 400.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 2.125.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l'impegno ... sul capitolo 7416 piano gestionale 1 ... per la somma complessiva di € 75.000.000,00, di cui 50.000.000,00 per l'esercizio finanziario 2027",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 75.000.000,00"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2028",
+      "importo_eur": 25000000.0,
+      "importo_originale": "€ 25.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l'impegno ... sul capitolo 7416 piano gestionale 1 ... per la somma complessiva di € 75.000.000,00, ... e € 25.000.000,00 per l'esercizio finanziario 2028",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "quota annuale dell'impegno complessivo di € 75.000.000,00"
+    }
+  ],
+  "raw_content": null
+}

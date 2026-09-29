@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:28",
+  "received_at": "2026-08-06T12:37:36",
+  "latency_seconds": 8.247,
+  "prompt_tokens": 9585,
+  "completion_tokens": 539,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10124,
+  "cost_usd_api": 0.0614,
+  "cost_usd_reconstructed": 0.0614,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012648-lya4q1BnAddjmERuJTLF",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non riporta numero né data del decreto corrente (firma 'IL MINISTRO' senza estremi). Il decreto n. 443/2021 citato è un provvedimento precedente e non il decreto corrente. Il CUP indicato è provvisorio (PROV0000026838), non conforme al formato standard di 15 caratteri."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto', a valere sul fondo di cui all'art. 1, comma 95, legge 145/2018. Costo totale stimato € 2.250.000,00. Il CUP indicato è di tipo provvisorio (PROV) e non nel formato standard di 15 caratteri. Il capitolo 7400 e PG 5 sono indicati nel preambolo come linea di iscrizione del fondo."
+    }
+  ],
+  "raw_content": null
+}

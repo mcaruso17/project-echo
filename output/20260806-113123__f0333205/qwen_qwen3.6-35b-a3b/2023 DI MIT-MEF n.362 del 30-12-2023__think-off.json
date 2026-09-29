@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:55:45",
+  "received_at": "2026-08-06T12:55:48",
+  "latency_seconds": 2.474,
+  "prompt_tokens": 4935,
+  "completion_tokens": 159,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5094,
+  "cost_usd_api": 0.00109499625,
+  "cost_usd_reconstructed": 0.00080055,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013745-DGkaaki8kBoSHKP0T5Uh",
+    "provider": "AtlasCloud",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente modifica esclusivamente i termini (cronoprogrammi) di esecuzione degli interventi già finanziati da precedenti decreti (in particolare il D.M. n. 97/2022). Non vi sono azioni di finanziamento (assegnazione, definanziamento o rimodulazione di importi) disposte dal presente provvedimento."
+  },
+  "records": [],
+  "raw_content": null
+}

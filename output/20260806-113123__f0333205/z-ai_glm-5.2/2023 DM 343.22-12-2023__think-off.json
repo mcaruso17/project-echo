@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:58:17",
+  "received_at": "2026-08-06T12:58:24",
+  "latency_seconds": 7.487,
+  "prompt_tokens": 7176,
+  "completion_tokens": 220,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5047,
+  "total_tokens": 7396,
+  "cost_usd_api": 0.00263041,
+  "cost_usd_reconstructed": 0.0060579200000000005,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013897-3EmK5OYI0CSivYQcnGxA",
+    "provider": "StreamLake",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1) e disciplina la destinazione delle risorse disponibili a seguito di eventuali definanziamenti (art. 2). Non contiene azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni con importi espliciti, capitoli di spesa o piani gestionali. Le tabelle e i preamboli citano decreti precedenti a cui si rinvia per le assegnazioni originarie, ma il decreto corrente non stanzia o muove nuove risorse."
+  },
+  "records": [],
+  "raw_content": null
+}

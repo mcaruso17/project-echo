@@ -1,0 +1,59 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:13:55",
+  "received_at": "2026-09-29T11:14:06",
+  "latency_seconds": 10.59,
+  "prompt_tokens": 6875,
+  "completion_tokens": 407,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7282,
+  "cost_usd_api": 0.0008096,
+  "cost_usd_reconstructed": 0.00074085,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673236-ntR05ef8IWjPxGEsXtRK",
+    "provider": "CoreWeave",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 30 aprile 2020, n. 184",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 del DM 22/12/2017"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto è di natura puramente amministrativa/procedurale: dispone la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (fino al 31 dicembre 2022) per gli interventi già finanziati. Non essendo un atto di assegnazione, impegno o rimodulazione di risorse finanziarie (non muove denaro, ma modifica solo scadenze temporali), non genera record di finanziamento secondo le regole R2 e R3. Gli atti citati sono richiamati per definire il perimetro temporale della proroga."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e della Mobilità Sostenibili\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 30 aprile 2020, n. 184\",\n      \"relazione\": \"integra\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1 del DM 22/12/2017\"\n  ],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto è di natura puramente amministrativa/procedurale: dispone la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (fino al 31 dicembre 2022) per gli interventi già finanziati. Non essendo un atto di assegnazione, impegno o rimodulazione di risorse finanziarie (non muove denaro, ma modifica solo scadenze temporali), non genera record di finanziamento secondo le regole R2 e R3. Gli atti citati sono richiamati per definire il perimetro temporale della proroga.\"\n}"
+}

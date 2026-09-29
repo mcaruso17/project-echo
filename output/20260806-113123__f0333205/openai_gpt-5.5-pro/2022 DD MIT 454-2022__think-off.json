@@ -1,0 +1,65 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:44:37",
+  "received_at": "2026-08-06T11:47:14",
+  "latency_seconds": 156.37,
+  "prompt_tokens": 4718,
+  "completion_tokens": 2784,
+  "reasoning_tokens": 2365,
+  "cached_tokens": 0,
+  "total_tokens": 7502,
+  "cost_usd_api": 0.64266,
+  "cost_usd_reconstructed": 0.64266,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786009477-EWjxKpGIth9UemwUGTrW",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Numero e data del decreto corrente non sono presenti nel testo fornito. I decreti citati nel preambolo, inclusi DM n. 498/2014, DD n. 220/2020 e DM n. 97/2022, non sono stati usati come identificativi del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno autorizzato a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\"; conto residui di lettera F, esercizio di provenienza 2021."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Impegno autorizzato a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\"; ripartizione indicata: 2022 € 35.000.000,00; 2023 € 40.000.000,00; 2024 € 33.500.000,00; 2025 € 22.500.000,00."
+    }
+  ],
+  "raw_content": null
+}

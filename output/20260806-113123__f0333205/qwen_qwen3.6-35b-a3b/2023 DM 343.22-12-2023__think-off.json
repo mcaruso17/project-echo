@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:59:04",
+  "received_at": "2026-08-06T12:59:06",
+  "latency_seconds": 2.014,
+  "prompt_tokens": 7229,
+  "completion_tokens": 235,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7464,
+  "cost_usd_api": 0.002101,
+  "cost_usd_reconstructed": 0.00117477,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013944-bBQMlRUaLE309LgN9TlB",
+    "provider": "CoreWeave",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "125/2024",
+    "data_decreto": "2024-01-15",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (D.M. 125/2024) ha esclusivamente natura di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) e di definizione di interventi di sicurezza non definanziabili. Non contiene azioni di finanziamento (assegnazione, definanziamento o rimodulazione di risorse economiche) né capitoli di spesa o CUP associati a nuovi stanziamenti. Le tabelle presenti nel testo si riferiscono a decreti precedenti (es. 464/2021, 517/2020, ecc.) che hanno già assegnato le risorse."
+  },
+  "records": [],
+  "raw_content": null
+}

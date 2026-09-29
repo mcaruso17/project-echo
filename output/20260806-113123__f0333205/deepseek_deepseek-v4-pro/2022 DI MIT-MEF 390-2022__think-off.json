@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:03:32",
+  "received_at": "2026-08-06T12:03:39",
+  "latency_seconds": 7.443,
+  "prompt_tokens": 7939,
+  "completion_tokens": 325,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8264,
+  "cost_usd_api": 0.010031952,
+  "cost_usd_reconstructed": 0.003736215,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010612-CYgMQVl0y0zzWslW7EkM",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero e data propri. Assegna 46,20 milioni di euro complessivi, ma non specifica capitoli di spesa, piani gestionali o CUP dei singoli interventi. L'importo è ripartito tra beneficiari, ma senza dettaglio per progetto."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 46200000.0,
+      "importo_originale": "46,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1; Art. 2, comma 1",
+      "note": "Assegnazione complessiva a interventi di acquisto materiale rotabile di cui all'Allegato 2 del DM 363/2021, ripartita tra Regioni e Province Autonome come da tabella Art. 2. I singoli CUP non sono elencati nel testo."
+    }
+  ],
+  "raw_content": null
+}

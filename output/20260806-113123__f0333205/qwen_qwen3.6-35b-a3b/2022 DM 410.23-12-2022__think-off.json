@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:06",
+  "received_at": "2026-08-06T12:37:14",
+  "latency_seconds": 7.88,
+  "prompt_tokens": 3317,
+  "completion_tokens": 295,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3612,
+  "cost_usd_api": 0.00079255,
+  "cost_usd_reconstructed": 0.00072621,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012627-E0iNm6IK35Olo3Hctbex",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (non numerato esplicitamente nel testo fornito, ma identificabile come decreto del Ministro delle Infrastrutture e dei Trasporti del 2023/2024 basato sul contesto delle proroghe) si limita a fissare nuovi termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1, commi 1 e 2) e a disciplinare il monitoraggio (art. 1, comma 3). Non vi sono azioni di finanziamento, assegnazione, definanziamento o rimodulazione di risorse di bilancio. I decreti citati nel preambolo (n. 587/2017, n. 86/2018, n. 607/2019, nn. 235, 350, 517/2020) sono precedenti e contengono i finanziamenti originari, ma non sono oggetto di modifica finanziaria nel testo attuale."
+  },
+  "records": [],
+  "raw_content": null
+}

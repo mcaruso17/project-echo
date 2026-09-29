@@ -1,0 +1,259 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:20:00",
+  "received_at": "2026-09-29T11:20:47",
+  "latency_seconds": 46.607,
+  "prompt_tokens": 11686,
+  "completion_tokens": 3051,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 14737,
+  "cost_usd_api": 0.00285644,
+  "cost_usd_reconstructed": 0.00208908,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673601-Dgs9PSg4qNbQNLxgNMD9",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT n. 235, 350, 517 del 2020",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT n. 44 del 2021",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente non indica importi monetari, ma dispone proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). I CUP sono stati collegati agli interventi dell'Allegato 1 utilizzando le tabelle di monitoraggio presenti nel preambolo."
+  },
+  "records": [
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.5 n.1], riga 18",
+      "passaggio_testuale": "BRESCIA | NUOVA LINEA TRANVIARIA \"PENDOLINA- FIERA (T2)\" | 31/03/2025",
+      "atto_riferito": "DM MIT 22 novembre 2021, n. 464",
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV senza indicare nuovi importi; il CUP è estratto dal preambolo/tabelle di monitoraggio per collegarlo all'azione di proroga.",
+      "note": "Proroga termine OGV al 31/03/2025"
+    },
+    {
+      "cup": [
+        "H11J21000010003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.5 n.1], riga 16",
+      "passaggio_testuale": "FIRENZE | SISTEMA TRAMVIARIO DI FIRENZE: LINEA 3 (II LOTTO) - TRATTA LIBERTÀ - ROVEZZANO (LINEA 3.2.2) | 31/12/2024",
+      "atto_riferito": "DM MIT n. 517 del 2020",
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV senza indicare nuovi importi; il CUP è estratto dal preambolo/tabelle di monitoraggio per collegarlo all'azione di proroga.",
+      "note": "Proroga termine OGV al 31/12/2024"
+    },
+    {
+      "cup": [
+        "F44I19000530001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; premesse, [TABELLA pag.2 n.1], riga 3",
+      "passaggio_testuale": "MILANO | Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1 | F44I19000530001",
+      "atto_riferito": "DM MIT 97/2022",
+      "confidenza": "media",
+      "ambiguita": "L'intervento è citato come oggetto di proroga/monitoraggio ma non compare esplicitamente nell'Allegato 1 finale con CUP.",
+      "note": "Intervento citato nel preambolo come oggetto di proroga"
+    },
+    {
+      "cup": [
+        "B44D20000040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 13",
+      "passaggio_testuale": "MILANO | PROLUNGAMENTO M1 QUARTIERE BAGGIO - OLMI – VALSESIA | 31/12/2024",
+      "atto_riferito": "DM MIT 607/2019, 97/2022",
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV senza indicare nuovi importi; il CUP è estratto dal preambolo/tabelle di monitoraggio per collegarlo all'azione di proroga.",
+      "note": "Proroga termine OGV al 31/12/2024"
+    },
+    {
+      "cup": [
+        "B24C17000320005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "MILANO | METROTRANVIA MILANO-LIMBIATE: 1° LOTTO | 31/12/2024",
+      "atto_riferito": "DM MIT 360/2018, 86/2018",
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV senza indicare nuovi importi; il CUP è estratto dal preambolo/tabelle di monitoraggio per collegarlo all'azione di proroga.",
+      "note": "Proroga termine OGV al 31/12/2024"
+    },
+    {
+      "cup": [
+        "B71J22000050006"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "MILANO | METROTRANVIA MILANO-LIMBIATE: 2° LOTTO | 31/12/2024",
+      "atto_riferito": "DM MIT 360/2018, 86/2018",
+      "confidenza": "media",
+      "ambiguita": "L'atto dispone una proroga del termine OGV senza indicare nuovi importi; il CUP è estratto dal preambolo/tabelle di monitoraggio per collegarlo all'azione di proroga.",
+      "note": "Proroga termine OGV al 31/12/2024"
+    },
+    {
+      "cup": [
+        "D71D18000520001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.5 n.1], riga 17",
+      "passaggio_testuale": "PALERMO | SISTEMA TRAM PALERMO- FASE II TRATTE D, E2, F, G E PARCHEGGI DI INTERSCAMBIO | 31/12/2024",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Intervento inserito tra quelli oggetto di proroga a seguito di stralcio dal PNRR"
+    }
+  ],
+  "raw_content": null
+}

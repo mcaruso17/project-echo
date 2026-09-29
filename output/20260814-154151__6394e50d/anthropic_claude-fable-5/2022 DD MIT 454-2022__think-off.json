@@ -1,0 +1,66 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok_repaired",
+  "json_repaired": true,
+  "sent_at": "2026-08-14T15:42:23",
+  "received_at": "2026-08-14T15:42:40",
+  "latency_seconds": 16.369,
+  "prompt_tokens": 7282,
+  "completion_tokens": 1158,
+  "reasoning_tokens": 313,
+  "cached_tokens": 0,
+  "total_tokens": 8440,
+  "cost_usd_api": 0.13072,
+  "cost_usd_reconstructed": 0.13072,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714944-pvDSEsRnwVYmJqfFmpGY",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto direttoriale della Direzione generale per il trasporto pubblico locale e regionale (Div 2) del MIT, firmato dal Direttore della Div 2, ma il testo fornito non riporta né il numero né la data del decreto stesso. I decreti citati nel preambolo (DM n. 498/2014, DD n. 220/2020, DM n. 97/2022) sono provvedimenti precedenti e non sono stati usati come numero_decreto. L'importo dell'articolo 2 è stato estratto come singola azione complessiva con dettaglio pluriennale in nota."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\", in conto residui di lettera F, esercizio di provenienza 2021, in attuazione del DM MIT/MEF n. 498 del 14 novembre 2014"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2 e tabella allegata",
+      "note": "Impegno complessivo a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\", ripartito come segue: 2022 € 35.000.000,00; 2023 € 40.000.000,00; 2024 € 33.500.000,00; 2025 € 22.500.000,00. In attuazione del DM MIT/MEF n. 498 del 14 novembre 2014"
+    }
+  ],
+  "raw_content": null
+}

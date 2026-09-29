@@ -1,0 +1,85 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:35",
+  "received_at": "2026-09-29T12:08:58",
+  "latency_seconds": 22.519,
+  "prompt_tokens": 8374,
+  "completion_tokens": 621,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 8995,
+  "cost_usd_api": 0.00062924,
+  "cost_usd_reconstructed": 0.0007592139999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676522-HK9tomfZTIc7t2ajeFk8",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "D.M. MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT nn. 235, 350, 517 del 2020 e n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 22 dicembre 2023, n. 343",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente (decreto MIT con intesa Conferenza Unificata del 18 dicembre 2024) proroga al 31.12.2025 il termine per il conseguimento dell'obbligazione giuridicamente vincolante per gli interventi di cui all'Allegato 1 (5 interventi: Firenze x2, Roma x2, Torino). L'Allegato 1 elenca gli interventi e i nuovi termini ma NON contiene CUP, capitoli, piani gestionali né importi: nessuna azione di finanziamento è disposta dall'atto, quindi nessun record. Nessun importo citato nella parte dispositiva; le risorse citate nel preambolo (legge 232/2016, legge 147/2013) sono solo richiamate come fonte normativa. Il numero e la data del decreto non sono stampati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": null, \"natura_atto\": \"altro\", \"atti_collegati\": [{\"estremi\": \"D.M. MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT nn. 235, 350, 517 del 2020 e n. 44/2021\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 22 novembre 2021, n. 464\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 23 dicembre 2022, n. 410\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 7 agosto 2023, n. 191\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 22 dicembre 2023, n. 343\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [\"Allegato 1\"], \"allegati_presenti_nel_testo\": [\"Allegato 1\"], \"record\": [], \"note_estrazione\": \"L'atto corrente (decreto MIT con intesa Conferenza Unificata del 18 dicembre 2024) proroga al 31.12.2025 il termine per il conseguimento dell'obbligazione giuridicamente vincolante per gli interventi di cui all'Allegato 1 (5 interventi: Firenze x2, Roma x2, Torino). L'Allegato 1 elenca gli interventi e i nuovi termini ma NON contiene CUP, capitoli, piani gestionali né importi: nessuna azione di finanziamento è disposta dall'atto, quindi nessun record. Nessun importo citato nella parte dispositiva; le risorse citate nel preambolo (legge 232/2016, legge 147/2013) sono solo richiamate come fonte normativa. Il numero e la data del decreto non sono stampati nel testo fornito.\"}"
+}

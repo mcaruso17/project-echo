@@ -1,0 +1,87 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:05:26",
+  "received_at": "2026-08-06T13:06:02",
+  "latency_seconds": 36.691,
+  "prompt_tokens": 8180,
+  "completion_tokens": 5687,
+  "reasoning_tokens": 4771,
+  "cached_tokens": 0,
+  "total_tokens": 13867,
+  "cost_usd_api": 0.084604,
+  "cost_usd_reconstructed": 0.084604,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786014326-HEmaN38ZcaIwhl6a3jeu",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data di emanazione. Nell'Allegato 1, per i Comuni di Milano e Genova, il 'Finanziamento Ammesso' è indicato in forma aggregata per l'intero intervento e non è esplicitamente ripartito sui singoli CUP dei sub-interventi. Per rispettare la regola di non dedurre gli importi, è stato creato un record per ogni intervento complessivo indicando i CUP coinvolti nel campo 'note'."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "COMUNE DI TORINO - PROLUNGAMENTO LINEA TRANVIARIA 12"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "COMUNE DI MILANO - METROPOLITANA LINEA M3. CUP associati all'intervento: F47C19000370001, F47D17000140005, F47C19000380001, F47C19000390001"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "COMUNE DI MILANO - METROPOLITANA LINEE M1 + M2. CUP associati all'intervento: F47C19000350001, F47C19000360001"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "COMUNE DI GENOVA - LINEA METROPOLITANA: PROLUNGAMENTO A RIVAROLO. CUP associati all'intervento: B31J23000240001, B34J18000230001"
+    }
+  ],
+  "raw_content": null
+}

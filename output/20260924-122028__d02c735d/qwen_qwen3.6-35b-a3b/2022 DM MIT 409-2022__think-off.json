@@ -1,0 +1,106 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:49:18",
+  "received_at": "2026-09-24T12:49:34",
+  "latency_seconds": 15.985,
+  "prompt_tokens": 7971,
+  "completion_tokens": 1100,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9071,
+  "cost_usd_api": 0.00116855,
+  "cost_usd_reconstructed": 0.0022956499999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246958-WYxRdeGsZfklfi1362Eh",
+    "provider": "Darkbloom",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze del 20 aprile 2022, n. 97",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "nota RU 5110 del 14 luglio 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 2 del decreto n. 97/2022"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il decreto non riporta un numero di decreto né una data di firma nel testo fornito. Gli importi sono espressi come 'assegnati' e 'ammessi' (art. 1 e 2), ma l'atto dispone il riparto delle risorse disponibili (75 mln) tra due interventi specifici. Non sono presenti tabelle [TABELLA] nel testo fornito. L'Allegato 2 del decreto n. 97/2022 è richiamato ma non presente nel testo."
+  },
+  "records": [
+    {
+      "cup": [
+        "C61C22007040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "ammesso",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1, lettera prima",
+      "passaggio_testuale": "€ 37.448.232,02 alla provincia autonoma di Trento per la realizzazione dell’intervento “Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna - CUP C61C22007040001”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'art. 2 conferma il finanziamento con l'emanazione del provvedimento di impegno contabile. L'importo è assegnato/ammesso a finanziamento."
+    },
+    {
+      "cup": [
+        "J51C22002060001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "ammesso",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1, lettera seconda",
+      "passaggio_testuale": "€ 37.500.000,00 alla provincia autonoma di Bolzano quale cofinanziamento per la realizzazione dell’intervento “Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo - CUP J51C22002060001”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'art. 2 conferma il finanziamento con l'emanazione del provvedimento di impegno contabile. L'importo è assegnato/ammesso a finanziamento."
+    }
+  ],
+  "raw_content": null
+}

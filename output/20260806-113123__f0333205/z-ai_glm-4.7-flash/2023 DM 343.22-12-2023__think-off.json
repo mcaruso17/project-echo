@@ -1,0 +1,172 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:57:27",
+  "received_at": "2026-08-06T12:58:12",
+  "latency_seconds": 45.135,
+  "prompt_tokens": 7175,
+  "completion_tokens": 1377,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8552,
+  "cost_usd_api": 0.0009848875,
+  "cost_usd_reconstructed": 0.0009813,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013847-AZpMVN7M4GPqfW120rIN",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "410",
+    "data_decreto": "2023-12-23",
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 18",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 16",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 13",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 13",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": "D71D18000520001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga 17",
+      "note": "Inserimento tra gli interventi oggetto di proroga"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 2",
+      "note": "Interventi prorogati senza assegnazione di termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 2",
+      "note": "Interventi prorogati senza assegnazione di termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 2",
+      "note": "Interventi prorogati senza assegnazione di termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 2",
+      "note": "Interventi prorogati senza assegnazione di termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 2",
+      "note": "Interventi prorogati senza assegnazione di termine per il conseguimento dell'obbligazione giuridicamente vincolante"
+    }
+  ],
+  "raw_content": null
+}

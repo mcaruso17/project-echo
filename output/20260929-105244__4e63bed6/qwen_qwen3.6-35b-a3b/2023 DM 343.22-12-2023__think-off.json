@@ -1,0 +1,91 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:19:50",
+  "received_at": "2026-09-29T11:20:00",
+  "latency_seconds": 10.146,
+  "prompt_tokens": 11482,
+  "completion_tokens": 805,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12287,
+  "cost_usd_api": 0.0025273,
+  "cost_usd_reconstructed": 0.0025273,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673591-U0wpIBlzDUlurnv8H1an",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "464",
+    "data_decreto": "2023-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "proroga",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 2020, nn. 235, 350, 517",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 2021, n. 44",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 2020, n. 184",
+        "relazione": "proroga"
+      },
+      {
+        "estremi": "DM MIT 2022, n. 8",
+        "relazione": "proroga"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente (DM 464/2023) dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) e definanzia interventi di sicurezza senza assegnazione di nuovi termini. Non vi sono azioni di finanziamento (assegnazione, impegno, rimodulazione di importi) né definanziamenti con spostamento di risorse verso nuovi CUP. Gli importi e i CUP presenti negli allegati fanno riferimento a finanziamenti già disposti da atti precedenti (es. DM 464/2021, DM 517/2020, ecc.) e l'atto corrente non ne modifica la qualifica amministrativa (non assegna, non impegna, non revoca risorse). Pertanto, ai sensi della regola R2 (EVENTO CONTABILE), non vengono generati record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"464\",\n  \"data_decreto\": \"2023-12-20\",\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"proroga\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 novembre 2021, n. 464\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 23 dicembre 2022, n. 410\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 6 agosto 2018, n. 360\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 2020, nn. 235, 350, 517\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 2021, n. 44\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 2020, n. 184\",\n      \"relazione\": \"proroga\"\n    },\n    {\n      \"estremi\": \"DM MIT 2022, n. 8\",\n      \"relazione\": \"proroga\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\",\n    \"Allegato 2\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"Allegato 1\",\n    \"Allegato 2\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente (DM 464/2023) dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) e definanzia interventi di sicurezza senza assegnazione di nuovi termini. Non vi sono azioni di finanziamento (assegnazione, impegno, rimodulazione di importi) né definanziamenti con spostamento di risorse verso nuovi CUP. Gli importi e i CUP presenti negli allegati fanno riferimento a finanziamenti già disposti da atti precedenti (es. DM 464/2021, DM 517/2020, ecc.) e l'atto corrente non ne modifica la qualifica amministrativa (non assegna, non impegna, non revoca risorse). Pertanto, ai sensi della regola R2 (EVENTO CONTABILE), non vengono generati record di finanziamento.\"\n}"
+}

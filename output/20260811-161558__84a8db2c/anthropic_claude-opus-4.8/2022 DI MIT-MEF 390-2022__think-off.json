@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:21:55",
+  "received_at": "2026-08-11T16:22:10",
+  "latency_seconds": 15.594,
+  "prompt_tokens": 11614,
+  "completion_tokens": 1130,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12744,
+  "cost_usd_api": 0.08632,
+  "cost_usd_reconstructed": 0.08632,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458115-uAq81gF0n9N15PbiASHj",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto assegna complessivamente 46,20 milioni di euro (Totali: 2023=17,20; 2024=15,00; 2025=14,00). Numero e data del decreto non presenti nel testo fornito (firma finale senza estremi). Nessun CUP, capitolo o piano gestionale esplicitato nel testo: i CUP sono richiamati come esistenti nell'Allegato 1 ma non riportati nel testo. La restante quota parte di 103,80 milioni sarà ripartita con successivo decreto (art. 1, comma 3) e non è oggetto di assegnazione da parte del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella (Regione Liguria)",
+      "note": "Assegnazione a valere sulle risorse di cui all'art. 8, comma 12, del DL 68/2022. Interventi individuati nell'Allegato 2 del DM 23 settembre 2021, n. 363, riportati nell'Allegato 1. Ripartizione annuale: 2023=5,00; 2024=5,00; 2025=4,00 milioni."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella (Regione Toscana)",
+      "note": "Ripartizione annuale: 2023=5,00; 2024=4,00; 2025=4,00 milioni."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella (Provincia Autonoma di Trento)",
+      "note": "Ripartizione annuale: 2023=4,00; 2024=3,00; 2025=3,00 milioni."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella (Provincia Autonoma di Bolzano)",
+      "note": "Ripartizione annuale: 2023=3,20; 2024=3,00; 2025=3,00 milioni."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,95 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:46:40",
+  "received_at": "2026-08-06T14:47:02",
+  "latency_seconds": 21.775,
+  "prompt_tokens": 4948,
+  "completion_tokens": 772,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1856,
+  "total_tokens": 5720,
+  "cost_usd_api": 0.00632236,
+  "cost_usd_reconstructed": 0.005898200000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020400-mG1mToZdvsFF91NmLPWX",
+    "provider": "Cloudflare",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta esplicitamente numero e data nel testo fornito (la parte finale con la firma è assente). Il numero e la data del decreto corrente non sono deducibili dal preambolo. Le colonne 'Decreto di assegnazione'/'Decreto di finanziamento' nelle tabelle si riferiscono ai decreti precedenti già citati nel preambolo, NON al decreto corrente. Il decreto corrente dispone nuove assegnazioni addizionali a valere sul capitolo 7400, piano di gestione 1."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella - Brescia",
+      "note": "Contributo addizionale rispetto a decreto 464/2021"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella - Firenze",
+      "note": "Contributo addizionale rispetto a decreto 517/2020"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella - Milano (Deposito Gallaratese)",
+      "note": "Contributo addizionale rispetto a decreto 97/2022"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella - Milano (M1 Prolungamento)",
+      "note": "Contributo addizionale rispetto a decreti 607/2019 e 97/2022"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella - Milano (Metrotranvia Lotto 1 e 2)",
+      "note": "Contributo addizionale rispetto a decreti 360/2018 e 86/2018; include copertura risorse revocate PSC 2014-2020 pari a € 59.000.000"
+    }
+  ],
+  "raw_content": null
+}

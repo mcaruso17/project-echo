@@ -1,0 +1,87 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:56:20",
+  "received_at": "2026-09-21T16:56:30",
+  "latency_seconds": 9.739,
+  "prompt_tokens": 9757,
+  "completion_tokens": 819,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10576,
+  "cost_usd_api": 0.01193696,
+  "cost_usd_reconstructed": 0.004956825,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790002580-tsHiYvs9b6Atag5K0lVp",
+    "provider": "Wafer",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2018, n. 145",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DPCM 11 giugno 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DM MEF 4 ottobre 2019, n. 195790",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data del decreto corrente: si è proceduto all'estrazione dei soli dati disponibili nel testo. La tabella di pag.1 è meramente ricognitiva dello stanziamento pluriennale sul capitolo 7400, PG 5, ma l'atto corrente non dispone alcuna assegnazione per tali annualità, pertanto non sono stati generati record. Il decreto n. 443/2021 è l'atto di riparto principale; il presente decreto ne integra i beneficiari assegnando le risorse residue al Comune di Rimini. Non sono presenti allegati richiamati nell'articolato."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E’ assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all’articolo 1, comma 95, della legge 145/2018, per l’intervento di manutenzione relativo a “Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)”",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo pari alle risorse residue del fondo dopo il riparto di cui al decreto n. 443/2021; costo totale dell'intervento stimato in € 2.250.000,00, con cofinanziamento a carico del Comune di Rimini."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,98 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:37:26",
+  "received_at": "2026-08-06T11:37:54",
+  "latency_seconds": 28.76,
+  "prompt_tokens": 9141,
+  "completion_tokens": 4127,
+  "reasoning_tokens": 2953,
+  "cached_tokens": 0,
+  "total_tokens": 13268,
+  "cost_usd_api": 0.067806,
+  "cost_usd_reconstructed": 0.067806,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786009046-9JoJQSk5h9OjKV2ewDcL",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto non riporta esplicitamente il numero e la data di emanazione. L'Articolo 1 dispone il riparto attingendo congiuntamente al capitolo 7400, piani gestionali 1 e 7, senza specificare la quota esatta per singolo piano gestionale su ciascun progetto; pertanto i piani gestionali sono stati indicati congiuntamente."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1, 7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "Beneficiario: COMUNE DI PADOVA. Intervento: LINEA SIR 2 DEL TRAM-COMPLETAMENTO DEL SISTEMA INTERMEDIO A RETE DELLA CITTA' DI PADOVA. Risorse a valere congiuntamente sui piani gestionali 1 e 7."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1, 7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "Beneficiario: COMUNE DI BRESCIA. Intervento: NUOVA LINEA TRANVIARIA \"PENDOLINA- FIERA (T2)\". Risorse a valere congiuntamente sui piani gestionali 1 e 7."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1, 7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "Beneficiario: ROMA CAPITALE. Intervento: RINNOVO MATERIALE LINEE A e B-B1 DELLA METROPOLITANA. Risorse a valere congiuntamente sui piani gestionali 1 e 7."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1, 7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "Beneficiario: COMUNE DI TORINO. Intervento: ATTESTAMENTO LINEA TRANVIARIA 15 PRESSO OSPEDALE MARTINI E MODIFICA INSTRADAMENTO IN ZONA CENTRO. Risorse a valere congiuntamente sui piani gestionali 1 e 7."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1, 7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e Allegato 1",
+      "note": "Beneficiario: COMUNE DI TORINO. Intervento: METROPOLITANA AUTOMATICA DI TORINO - LINEA 1: PROLUNGAMENTO OVEST COLLEGNO - CASCINE VICA: NUOVO FABBRICATO DEPOSITO TRENI. Risorse a valere congiuntamente sui piani gestionali 1 e 7."
+    }
+  ],
+  "raw_content": null
+}

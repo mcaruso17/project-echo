@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:19",
+  "received_at": "2026-08-06T12:37:28",
+  "latency_seconds": 8.202,
+  "prompt_tokens": 9585,
+  "completion_tokens": 513,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10098,
+  "cost_usd_api": 0.0243,
+  "cost_usd_reconstructed": 0.0243,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012640-RgsryCr9HbAPe7ZwESA8",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data proprio (mancanti nel testo fornito); il decreto n. 443/2021 citato è un provvedimento precedente e non è stato usato come numero_decreto. Il capitolo/piano gestionale 7400/5 sono ricavati dal preambolo poiché costituiscono il contesto di bilancio su cui è disposta l'assegnazione dell'art. 1."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto', costo totale stimato € 2.250.000,00, a valere sul fondo art. 1 comma 95 L. 145/2018; risorse residue rispetto al riparto del D.M. 12 novembre 2021, n. 443."
+    }
+  ],
+  "raw_content": null
+}

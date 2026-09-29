@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:18",
+  "received_at": "2026-08-06T12:34:23",
+  "latency_seconds": 4.368,
+  "prompt_tokens": 2482,
+  "completion_tokens": 177,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 2659,
+  "cost_usd_api": 0.00052448,
+  "cost_usd_reconstructed": 0.0004996600000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012458-mIbNnlWaNTjhbGLHrmdf",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data specifici nel testo fornito (manca l'intestazione formale con numero e data del provvedimento in corso di analisi). Inoltre, il contenuto del decreto si limita a fissare un nuovo termine per il conseguimento dell'obbligazione giuridicamente vincolante (proroga dei tempi), senza disporre alcuna nuova assegnazione, definanziamento o rimodulazione di risorse finanziarie. Pertanto, non vi sono azioni di finanziamento da estrarre."
+  },
+  "records": [],
+  "raw_content": null
+}

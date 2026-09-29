@@ -1,0 +1,116 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T16:57:38",
+  "received_at": "2026-09-28T16:57:59",
+  "latency_seconds": 20.551,
+  "prompt_tokens": 12828,
+  "completion_tokens": 1125,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 13953,
+  "cost_usd_api": 0.01345076,
+  "cost_usd_reconstructed": 0.0166866,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790607459-urTmowtHwjdXTNEZSSpA",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "decreto interministeriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 29 dicembre 2022, n. 197, articolo 1, comma 478",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'art. 2 cita importi già stanziati e impegnati da atti precedenti (€ 145.000.000,00 su cap. 7426/PG1 con d. 454/2022; € 1.600.000.000,00 su cap. 7400/PG1 e PG8 con d. 419/2022; € 2.200.000.000,00 su cap. 7419/PG2 con legge 197/2022). Questi NON sono record perché l'atto corrente non dispone nuovi impegni su tali somme, ma le cita come copertura della convenzione. L'atto dispone NUOVI impegni solo per € 2.125.000.000,00 (art. 3, cap. 7419/PG2) e € 75.000.000,00 (art. 4, cap. 7416/PG1). Il CUP E51I04000010007 compare nel preambolo (CONSIDERATO) e nell'art. 1; l'art. 1 approva la convenzione ma non dispone importi, quindi il CUP è utilizzato per i record degli artt. 3 e 4 che dispongono gli impegni. Non sono presenti allegati né tabelle [TABELLA] oltre alla tabella pag.5 n.1 che riproduce la ripartizione per annualità dell'art. 3. La tabella non genera record aggiuntivi (R5: quote annuali non registrate separatamente)."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], totale",
+      "passaggio_testuale": "È autorizzato l'impegno... sul capitolo 7419, piano gestionale 2... per la somma complessiva di € 2.125.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "di cui € 50.000.000,00 in conto residui esercizio 2024 e € 2.075.000.000,00 per esercizi 2025-2032; l'annualità 2024 è residuo, le altre sono nuovi impegni"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l'impegno... sul capitolo 7416 piano gestionale 1... per la somma complessiva di € 75.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "di cui € 50.000.000,00 per l'esercizio 2027 e € 25.000.000,00 per l'esercizio 2028"
+    }
+  ],
+  "raw_content": null
+}

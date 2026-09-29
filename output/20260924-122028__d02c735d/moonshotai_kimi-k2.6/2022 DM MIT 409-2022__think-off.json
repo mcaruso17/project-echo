@@ -1,0 +1,116 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:49:02",
+  "received_at": "2026-09-24T12:49:23",
+  "latency_seconds": 21.271,
+  "prompt_tokens": 8618,
+  "completion_tokens": 923,
+  "reasoning_tokens": 1,
+  "cached_tokens": 0,
+  "total_tokens": 9541,
+  "cost_usd_api": 0.007483833,
+  "cost_usd_reconstructed": 0.011879099999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246942-8fvKh5YfKM6bHrKavNIJ",
+    "provider": "StreamLake",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto-legge 30 aprile 2022, n. 36",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 29 giugno 2022, n. 79",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze del 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "AVVISO n.2 per la presentazione di istanze per accesso alle risorse destinate al Trasporto Rapido di Massa ad Impianti Fissi",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Addendum all'AVVISO 2, prot. n. 766 del 4 febbraio 2020",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il decreto non riporta numero né data in calce; l'atto è identificato solo dalla firma 'IL MINISTRO'. Non sono presenti allegati richiamati nell'articolato né blocchi [TABELLA] nel testo. L'art. 2 prevede un successivo 'provvedimento di impegno contabile' che non è il presente atto; lo stato_importo resta 'assegnato' e non 'impegnato'."
+  },
+  "records": [
+    {
+      "cup": [
+        "C61C22007040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "€ 37.448.232,02 alla provincia autonoma di Trento per la realizzazione dell'intervento \"Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna - CUP C61C22007040001\"",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J51C22002060001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "€ 37.500.000,00 alla provincia autonoma di Bolzano quale cofinanziamento per la realizzazione dell'intervento \"Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo - CUP J51C22002060001\"",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "cofinanziamento; il beneficiario ha dichiarato una quota di cofinanziamento in sede di presentazione dell'istanza"
+    }
+  ],
+  "raw_content": null
+}

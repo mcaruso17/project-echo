@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:24:50",
+  "received_at": "2026-08-11T16:24:56",
+  "latency_seconds": 5.309,
+  "prompt_tokens": 5214,
+  "completion_tokens": 408,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5622,
+  "cost_usd_api": 0.007254,
+  "cost_usd_reconstructed": 0.007254,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458291-ScHwpUvcwd733s6iBbBT",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero e data nella sezione dispositiva. I dati sono desumibili dalla struttura formale del documento (intestazione ministeriale e firma). Non sono presenti capitoli di bilancio specifici né piani gestionali nella parte dispositiva; l'assegnazione è riferita direttamente al CUP B81I06000000003."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi assegnati al Comune di Milano per la linea M4 della metropolitana: 15 milioni di euro per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni). Importo suddiviso in: aumento costi materiali 35 milioni, tecnica congelamento 10 milioni, varianti 17 milioni, spese generali COVID 7 milioni, oneri sicurezza 6 milioni."
+    }
+  ],
+  "raw_content": null
+}

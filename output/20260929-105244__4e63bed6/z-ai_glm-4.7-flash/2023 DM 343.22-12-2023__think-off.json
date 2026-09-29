@@ -1,0 +1,79 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:19:40",
+  "received_at": "2026-09-29T11:20:04",
+  "latency_seconds": 24.23,
+  "prompt_tokens": 11242,
+  "completion_tokens": 619,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 11861,
+  "cost_usd_api": 0.00080052,
+  "cost_usd_reconstructed": 0.000933362,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673585-0knk6343oxozUgkrqgo1",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "D.M. MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT nn. 235, 350, 517 del 2020 e n. 44 del 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente (decreto MIT di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti, con intesa in Conferenza Unificata del 20 dicembre 2023) non dispone alcuna azione di finanziamento su CUP: nessun capitolo, piano gestionale o importo è attribuito a progetti. Gli allegati 1 e 2 contengono solo elenchi di interventi con termini OGV (Allegato 1) o interventi prorogati senza termine (Allegato 2), senza importi né CUP. I CUP citati nel preambolo (es. C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) sono riferimenti agli atti di assegnazione precedenti, non eventi contabili disposti dal presente atto. Il numero e la data del decreto corrente non sono stampati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": null, \"natura_atto\": \"altro\", \"atti_collegati\": [{\"estremi\": \"D.M. MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT nn. 235, 350, 517 del 2020 e n. 44 del 2021\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 22 novembre 2021, n. 464\", \"relazione\": \"richiama\"}, {\"estremi\": \"D.M. MIT 23 dicembre 2022, n. 410\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"], \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"], \"record\": [], \"note_estrazione\": \"L'atto corrente (decreto MIT di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti, con intesa in Conferenza Unificata del 20 dicembre 2023) non dispone alcuna azione di finanziamento su CUP: nessun capitolo, piano gestionale o importo è attribuito a progetti. Gli allegati 1 e 2 contengono solo elenchi di interventi con termini OGV (Allegato 1) o interventi prorogati senza termine (Allegato 2), senza importi né CUP. I CUP citati nel preambolo (es. C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) sono riferimenti agli atti di assegnazione precedenti, non eventi contabili disposti dal presente atto. Il numero e la data del decreto corrente non sono stampati nel testo fornito.\"}"
+}

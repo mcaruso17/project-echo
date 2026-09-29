@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:26:10",
+  "received_at": "2026-08-06T15:26:26",
+  "latency_seconds": 16.69,
+  "prompt_tokens": 72394,
+  "completion_tokens": 900,
+  "reasoning_tokens": 0,
+  "cached_tokens": 50675,
+  "total_tokens": 73294,
+  "cost_usd_api": 0.020051451,
+  "cost_usd_reconstructed": 0.05084904,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022770-stcmBr74FmTQ2q7sEbvI",
+    "provider": "Baidu",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Presidenza del Consiglio dei ministri - Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è la DELIBERA 19 dicembre 2024, n. 86/2024 del CIPESS (identificata anche come 'Delibera n. 86/2024' nel titolo e intestazione). Attenzione: il documento contiene anche un'altra delibera dello stesso giorno (n. 94/2024) riportata in calce, ma il decreto principale oggetto di analisi è la delibera n. 86/2024. Le azioni di finanziamento estratte riguardano esclusivamente la quota a carico dello Stato (171.900.000,00 euro totali); la quota a carico del Comune di Firenze (30.246.176,56 euro) non riguarda capitoli del bilancio dello Stato e non è stata estratta. Non sono presenti azioni di definanziamento o rimodulazione disposte dal decreto corrente: il definanziamento di 27,55 milioni di euro del PSC Città metropolitana di Firenze menzionato nel testo è riferito alla delibera CIPESS n. 14 del 23 aprile 2024, non al decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, primo capoverso",
+      "note": "Quota a carico dello Stato - somme destinate alla tranvia di Firenze, istituito dall'art. 18, comma 1, del decreto-legge n. 69 del 2013, rifinanziato dall'art. 3, comma 2, lettera c), del decreto-legge n. 133 del 2014"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, secondo capoverso",
+      "note": "Quota a carico dello Stato - spese per interventi nel settore dei sistemi di trasporto rapido di massa"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, terzo capoverso",
+      "note": "Quota a carico dello Stato - fondo per le reti metropolitane in costruzione in aree metropolitane, di cui all'art. 1, comma 88 della legge n. 147 del 2013"
+    }
+  ],
+  "raw_content": null
+}

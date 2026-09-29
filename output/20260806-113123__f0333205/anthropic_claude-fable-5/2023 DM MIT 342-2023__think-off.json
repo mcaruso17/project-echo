@@ -1,0 +1,87 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:37:18",
+  "received_at": "2026-08-06T13:37:47",
+  "latency_seconds": 29.154,
+  "prompt_tokens": 36729,
+  "completion_tokens": 2529,
+  "reasoning_tokens": 254,
+  "cached_tokens": 0,
+  "total_tokens": 39258,
+  "cost_usd_api": 0.49374,
+  "cost_usd_reconstructed": 0.49374,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786016238-v1jNGANquMSmpZ7ZrN2o",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto di rettifica del Ministro delle infrastrutture e dei trasporti privo, nel testo fornito, di numero e data (manca l'intestazione con numero di protocollo; è citata solo l'intesa Stato-Regioni del 20/12/2023, quindi il decreto è successivo a tale data). Le uniche nuove azioni di finanziamento disposte sono le rettifiche dell'Allegato 3 del DM 364/2021 indicate all'art. 1, comma 1 (spostamento di 100.000 euro dall'Emilia-Romagna al Veneto per il 2033 e correzione di 2 euro per il 2032), riferite al capitolo 7150 p.g. 4 (sicurezza). Gli Allegati 1, 2 e 3 sostituiscono i precedenti allegati del DM 364/2021 e recepiscono rimodulazioni già disposte da precedenti decreti direttoriali (n. 235/2022, n. 270/2022, n. 257/2023): i singoli interventi con CUP ivi elencati costituiscono finanziamenti preesistenti e non sono stati estratti come nuove azioni, ai sensi delle regole 9 e 10."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "217.585 euro, in luogo dei precedenti 117.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1 (e Allegato 3, tabella SICUREZZA, anno 2033)",
+      "note": "Rettifica dell'Allegato 3 del DM 364/2021: alla Regione Veneto, per l'annualità 2033, sono assegnati 217.585 euro in luogo dei precedenti 117.585 euro (incremento di 100.000 euro), a correzione di errore materiale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "690.994 euro, in luogo dei precedenti 790.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1 (e Allegato 3, tabella SICUREZZA, anno 2033)",
+      "note": "Rettifica dell'Allegato 3 del DM 364/2021: alla Regione Emilia-Romagna, per l'annualità 2033, sono assegnati 690.994 euro in luogo dei precedenti 790.994 euro (riduzione di 100.000 euro), a correzione di errore materiale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "125.266 euro, in luogo dei precedenti 125.268 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1 (e Allegato 3, tabella SICUREZZA, anno 2032)",
+      "note": "Rettifica dell'Allegato 3 del DM 364/2021: alla Regione Veneto, per l'annualità 2032, sono assegnati 125.266 euro in luogo dei precedenti 125.268 euro (riduzione di 2 euro, sanatoria arrotondamenti)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "842.682 euro, in luogo dei precedenti 842.680 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1 (e Allegato 3, tabella SICUREZZA, anno 2032)",
+      "note": "Rettifica dell'Allegato 3 del DM 364/2021: alla Regione Emilia-Romagna, per l'annualità 2032, sono assegnati 842.682 euro in luogo dei precedenti 842.680 euro (incremento di 2 euro, sanatoria arrotondamenti)."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,126 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:16:31",
+  "received_at": "2026-09-29T12:16:52",
+  "latency_seconds": 21.365,
+  "prompt_tokens": 11991,
+  "completion_tokens": 1522,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 13513,
+  "cost_usd_api": 0.00539298,
+  "cost_usd_reconstructed": 0.0054237,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676992-914mtId34PDgraLAp49m",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF 14 novembre 2014, n. 498",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF 20 aprile 2022, n. 97",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Articolo 1, comma 478, legge 29 dicembre 2022, n. 197",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto-legge 12 settembre 2014, n. 133 convertito in legge 11 novembre 2014, n. 164",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Convenzione sottoscritta il 10 marzo 2025 tra MIT-Direzione Generale TPL e Roma Capitale",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [
+      "Tabella di ripartizione annualità art. 3"
+    ],
+    "note_estrazione": "L'atto corrente è il decreto direttoriale n. 141 del 18 aprile 2025 del Direttore Generale TPL. La parte dispositiva dispone (i) l'approvazione della Convenzione del 10 marzo 2025 (art. 1), (ii) la mera descrizione delle fonti di copertura del contributo complessivo di € 3.945.000.000,00 (art. 2 - non genera record per R2), (iii) l'impegno di € 2.125.000.000,00 sul cap. 7419/PG2 (art. 3) e (iv) l'impegno di € 75.000.000,00 sul cap. 7416/PG1 (art. 4). L'importo di € 145.000.000,00 (cap. 7426/PG1) e di € 1.600.000.000,00 (cap. 7400/PG1 e PG8) sono solo CITATI come già impegnati da atti precedenti (dd 454/2022 e 419/2022): secondo R2 e l'esempio D, NON generano record. Le quote annuali della tabella dell'art. 3 sono solo informative dell'impegno complessivo già registrato (R5). Il CUP E51I04000010007 è indicato nel preambolo (CONSIDERATO, art. 41 DL 76/2020) e richiamato nell'art. 1 per tutte le opere della Linea C oggetto della Convenzione."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024-2032",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; premesse (CONSIDERATO, VISTO art. 1 comma 478 L. 197/2022)",
+      "passaggio_testuale": "È autorizzato l'impegno delle risorse di cui al citato articolo 1, comma 478, della legge 29 dicembre 2022, n. 197, sul capitolo 7419, piano gestionale 2 ... per la somma complessiva di € 2.125.000.000,00",
+      "atto_riferito": "art. 1, comma 478, legge 29 dicembre 2022, n. 197",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo; di cui € 50.000.000,00 in conto residui (esercizio 2024) e € 2.075.000.000,00 per esercizi 2025-2032. Ripartizione annuale indicata solo a titolo informativo (R5)."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4; premesse (VISTO art. 1 comma 478 L. 197/2022)",
+      "passaggio_testuale": "È autorizzato l'impegno delle risorse di cui al citato art.1, comma 478, della legge 29 dicembre 2022, n.197, sul capitolo 7416 piano gestionale 1 ... per la somma complessiva di € 75.000.000,00",
+      "atto_riferito": "art. 1, comma 478, legge 29 dicembre 2022, n. 197",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Di cui € 50.000.000,00 per il 2027 ed € 25.000.000,00 per il 2028. Ripartizione annuale indicata solo a titolo informativo (R5)."
+    }
+  ],
+  "raw_content": null
+}

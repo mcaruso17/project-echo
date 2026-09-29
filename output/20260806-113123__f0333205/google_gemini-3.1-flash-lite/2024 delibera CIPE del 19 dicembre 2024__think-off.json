@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:23:15",
+  "received_at": "2026-08-06T15:23:18",
+  "latency_seconds": 3.186,
+  "prompt_tokens": 69703,
+  "completion_tokens": 581,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 70284,
+  "cost_usd_api": 0.01829725,
+  "cost_usd_reconstructed": 0.01829725,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022596-1FAYUJjfMHeW5nb53Ztw",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva il progetto definitivo e conferma la copertura finanziaria. Il definanziamento di 27,55 milioni di euro citato nel testo (PSC) è un evento pregresso (delibera CIPESS 14/2024) che viene qui recepito nel nuovo quadro economico, pertanto non è stato inserito come azione di definanziamento del presente decreto."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera 86/2024, punto 1.2.1",
+      "note": "Finanziamento a valere sulle somme destinate alla tranvia di Firenze"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera 86/2024, punto 1.2.1",
+      "note": "Finanziamento a valere sulle risorse destinate alle spese per interventi nel settore dei sistemi di trasporto rapido di massa"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera 86/2024, punto 1.2.1",
+      "note": "Finanziamento a valere sul fondo per le reti metropolitane in costruzione in aree metropolitane"
+    }
+  ],
+  "raw_content": null
+}

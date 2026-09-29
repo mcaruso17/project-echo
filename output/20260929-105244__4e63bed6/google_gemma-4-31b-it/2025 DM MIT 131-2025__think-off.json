@@ -1,0 +1,57 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:36:48",
+  "received_at": "2026-09-29T12:37:04",
+  "latency_seconds": 15.117,
+  "prompt_tokens": 9626,
+  "completion_tokens": 397,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 10023,
+  "cost_usd_api": 0.00150644,
+  "cost_usd_reconstructed": 0.00100132,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790678209-YzkaGwAknMP4Nl74b4rn",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva un Atto Modificativo di una Convenzione e conferma l'importo complessivo del finanziamento (€ 915.000.000,00), ma specifica esplicitamente che tali somme sono già state impegnate con decreti precedenti (n. 381/2019 e n. 108/2024). Ai sensi della regola R2 (Evento Contabile), le somme citate come già impegnate senza che l'atto corrente disponga nuovi impegni, assegnazioni o rimodulazioni di importo non costituiscono record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"Convenzione del 7 novembre 2019\",\n      \"relazione\": \"rimodula\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale n. 381 del 5 dicembre 2019\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale n. 108 del 25 marzo 2024\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto approva un Atto Modificativo di una Convenzione e conferma l'importo complessivo del finanziamento (€ 915.000.000,00), ma specifica esplicitamente che tali somme sono già state impegnate con decreti precedenti (n. 381/2019 e n. 108/2024). Ai sensi della regola R2 (Evento Contabile), le somme citate come già impegnate senza che l'atto corrente disponga nuovi impegni, assegnazioni o rimodulazioni di importo non costituiscono record di finanziamento.\"\n}"
+}

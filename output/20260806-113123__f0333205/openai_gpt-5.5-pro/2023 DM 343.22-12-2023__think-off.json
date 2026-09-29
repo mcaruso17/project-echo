@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:56:30",
+  "received_at": "2026-08-06T12:57:03",
+  "latency_seconds": 33.242,
+  "prompt_tokens": 6891,
+  "completion_tokens": 733,
+  "reasoning_tokens": 538,
+  "cached_tokens": 0,
+  "total_tokens": 7624,
+  "cost_usd_api": 0.33867,
+  "cost_usd_reconstructed": 0.33867,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013790-ZyyesZiZfV5nKIuGp3XG",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento contiene la parte dispositiva di un decreto del Ministro delle Infrastrutture e dei Trasporti, ma non riporta numero o data del decreto corrente. La parte dispositiva dispone proroghe dei termini OGV e una destinazione generica di risorse disponibili a seguito di definanziamento, senza indicare importi, capitoli, piani gestionali o nuove assegnazioni/definanziamenti puntuali; le tabelle riportano interventi e decreti di assegnazione pregressi, non azioni finanziarie del decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

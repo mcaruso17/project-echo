@@ -1,0 +1,57 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:17:57",
+  "received_at": "2026-09-29T12:18:11",
+  "latency_seconds": 14.086,
+  "prompt_tokens": 9311,
+  "completion_tokens": 326,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5760,
+  "total_tokens": 9637,
+  "cost_usd_api": 0.00467379,
+  "cost_usd_reconstructed": 0.004753518,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677087-w5yvz7vAsG8VSadGvlst",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "modifica"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto direttoriale di approvazione del Secondo Atto Modificativo della Convenzione del 7 novembre 2019. Non dispone nuove assegnazioni, impegni o rimodulazioni di risorse: si limita ad approvare l'atto modificativo e a richiamare gli importi già impegnati con precedenti decreti. Pertanto, non sono stati estratti record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"Convenzione del 7 novembre 2019\",\n      \"relazione\": \"modifica\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale n. 381 del 5 dicembre 2019\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale n. 108 del 25 marzo 2024\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto direttoriale di approvazione del Secondo Atto Modificativo della Convenzione del 7 novembre 2019. Non dispone nuove assegnazioni, impegni o rimodulazioni di risorse: si limita ad approvare l'atto modificativo e a richiamare gli importi già impegnati con precedenti decreti. Pertanto, non sono stati estratti record di finanziamento.\"\n}"
+}

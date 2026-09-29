@@ -1,0 +1,117 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:08:40",
+  "received_at": "2026-08-06T13:08:51",
+  "latency_seconds": 11.189,
+  "prompt_tokens": 9024,
+  "completion_tokens": 1245,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10269,
+  "cost_usd_api": 0.0686205,
+  "cost_usd_reconstructed": 0.045747,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014520-1pqHt0v85ccMEx4l9rib",
+    "provider": "Fireworks",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto non sono esplicitamente indicati nel testo fornito. Il CUP F47C19000380001 (Comune di Milano, Metropolitana Linea M3 - Nuovi cavi fibra ottica resistenti al fuoco in soluzione ridondata) e il CUP F47C19000360001 (Comune di Milano, Metropolitana Linee M1 + M2 - Adeguamento degli impianti dei GE, delle cabine elettriche e sostituzione cavi) sono elencati nell'Allegato 1 ma con finanziamento ammesso pari a zero (trattino '-'), pertanto non sono state estratte azioni di finanziamento per tali CUP."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Torino. Intervento: Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres."
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana Linea M3 - Nuovi impianti di rivelazione e segnalazione degli incendi e rimozione impianti esistenti e potenziamento impianti illuminazione di emergenza e compartimentazioni locali tecnici."
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana Linea M3 - Rifacimento dell'impianto di diffusione sonora per consentire l'invio e la diffusione di annunci audio dal vivo oppure preregistrati nelle zone aperte al pubblico e nelle zone di servizio della linea 3."
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana Linea M3 - Interventi di ammodernamento SSE Duomo."
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana Linee M1 + M2 - Completamento opere civili di compartimentazione e resistenza antincendio."
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 64158886.29,
+      "importo_originale": "64.158.886,29",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Genova. Intervento: Linea metropolitana - Tratta Canepari - Rivarolo."
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 10357238.34,
+      "importo_originale": "10.357.238,34",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Beneficiario: Comune di Genova. Intervento: Linea metropolitana - Completamento della stazione di Martinez/Terralba."
+    }
+  ],
+  "raw_content": null
+}

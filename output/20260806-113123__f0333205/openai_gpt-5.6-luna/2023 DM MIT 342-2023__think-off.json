@@ -1,0 +1,128 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:37:47",
+  "received_at": "2026-08-06T13:37:54",
+  "latency_seconds": 6.033,
+  "prompt_tokens": 26008,
+  "completion_tokens": 1092,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 27100,
+  "cost_usd_api": 0.00373581,
+  "cost_usd_reconstructed": 0.03256,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016268-HppaOcVWQmLFIQj7DvVB",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto corrente non sono riportati nel testo fornito. Gli allegati aggiornano gli importi complessivi e riportano progetti già ammessi a finanziamento; non sono state estratte nuovamente le relative assegnazioni. Le variazioni dell'art. 1 sono state rappresentate come gambe positive e negative."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2033: importo aggiornato da 117.585 euro a 217.585 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione implicita dell'importo precedente della Regione Veneto per l'annualità 2033, da 117.585 euro a 217.585 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia-Romagna, annualità 2033: importo aggiornato da 790.994 euro a 690.994 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia-Romagna, annualità 2033: importo aggiornato da 790.994 euro a 690.994 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2032: importo aggiornato da 125.268 euro a 125.266 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2032: importo aggiornato da 125.268 euro a 125.266 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia-Romagna, annualità 2032: importo aggiornato da 842.680 euro a 842.682 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia-Romagna, annualità 2032: importo aggiornato da 842.680 euro a 842.682 euro."
+    }
+  ],
+  "raw_content": null
+}

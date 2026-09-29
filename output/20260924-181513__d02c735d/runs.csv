@@ -1,0 +1,3 @@
+﻿decree_file,model_slug,family,kind,tier,thinking,status,n_pages,prompt_tokens,completion_tokens,reasoning_tokens,total_tokens,cost_usd_api,cost_usd_reconstructed,latency_seconds,n_records,truncated,sent_at,error
+2021 DM mit 464-2021.pdf,z-ai/glm-4.7-flash,zai,open,small,off,ok,10,12344,2036,0,14380,0.00167836,0.001567384,33.583,6,False,2026-09-24T18:15:14,
+2025 DM MIT 131-2025.pdf,z-ai/glm-4.7-flash,zai,open,small,off,ok,4,8123,1649,0,9772,0.0011510415,0.001155103,55.058,3,False,2026-09-24T18:15:47,

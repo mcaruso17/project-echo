@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:27:21",
+  "received_at": "2026-08-11T16:27:38",
+  "latency_seconds": 16.244,
+  "prompt_tokens": 12312,
+  "completion_tokens": 1422,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 13734,
+  "cost_usd_api": 0.09711,
+  "cost_usd_reconstructed": 0.09711,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458442-jbefNEeH5peY3V8pGEM4",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto (firmato dal Ministro delle Infrastrutture e dei Trasporti) non riporta numero né data nel testo fornito. L'art. 1 dispone il riparto di € 362.137.535,13 sul capitolo 7400, piano di gestione 1, tra gli interventi dell'Allegato 1. Nell'Allegato 1 la colonna 'Finanziamento ammesso' è valorizzata a livello di intervento aggregato (per beneficiario/intervento), non per singolo CUP; per gli interventi con più subinterventi/CUP è quindi impossibile attribuire l'importo al singolo CUP. Per l'intervento del Comune di Torino esiste un solo CUP corrispondente all'importo. La somma dei finanziamenti ammessi (221.721.410,41 + 20.900.000,02 + 45.000.000,07 + 74.516.124,63) = 362.137.535,13, coerente con l'art. 1."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto, Comune di Torino",
+      "note": "Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres. Finanziamento ammesso a livello di intervento."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto, Comune di Milano (Metropolitana Linea M3)",
+      "note": "Finanziamento ammesso a livello di intervento (Metropolitana Linea M3: adeguamento antincendio). Subinterventi con CUP F47C19000370001, F47D17000140005, F47C19000380001, F47C19000390001. Il finanziamento ammesso è indicato a livello di intervento aggregato, non per singolo CUP."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto, Comune di Milano (Metropolitana Linee M1 + M2)",
+      "note": "Finanziamento ammesso a livello di intervento (Metropolitana Linee M1 + M2: adeguamento antincendio fase 2). Subinterventi con CUP F47C19000350001, F47C19000360001. Il finanziamento ammesso è indicato a livello di intervento aggregato, non per singolo CUP."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto, Comune di Genova (Linea metropolitana)",
+      "note": "Finanziamento ammesso a livello di intervento (Prolungamento a Rivarolo e completamento stazione Martinez/Terralba). Subinterventi con CUP B31J23000240001, B34J18000230001. Il finanziamento ammesso è indicato a livello di intervento aggregato, non per singolo CUP."
+    }
+  ],
+  "raw_content": null
+}

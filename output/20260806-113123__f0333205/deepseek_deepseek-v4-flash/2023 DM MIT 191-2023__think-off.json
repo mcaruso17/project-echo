@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:08:51",
+  "received_at": "2026-08-06T13:09:12",
+  "latency_seconds": 20.374,
+  "prompt_tokens": 8321,
+  "completion_tokens": 1835,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10156,
+  "cost_usd_api": 0.0011247558,
+  "cost_usd_reconstructed": 0.00107919,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014531-rHZ0zaSndYFpm63hVD0X",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero né una data espliciti. Il capitolo e piano gestionale sono indicati nell'art. 1 comma 1. Per i CUP con importo '-' nel finanziamento ammesso, l'importo è stato posto a 0. Il totale dei finanziamenti ammessi corrisponde a 362.137.535,13 come da art. 1 comma 1."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Torino - PROLUNGAMENTO LINEA TRANVIARIA 12 ALL’ALLIANZ STADIUM E RECUPERO TRINCEA FERROVIARIA TORINO-CERES",
+      "note": null
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEA M3:INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015, subintervento NUOVI IMPIANTI DI RIVELAZIONE E SEGNALAZIONE DEGLI INCENDI E RIMOZIONE IMPIANTI ESISTENTI E POTENZIAMENTO IMPIANTI ILLUMINAZIONE DI EMERGENZA E COMPARTIMENTAZIONI LOCALI TECNICI",
+      "note": null
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEA M3:INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015, subintervento RIFACIMENTO DELL'IMPIANTO DI DIFFUSIONE SONORA PER CONSENTIRE L'INVIO E LA DIFFUSIONE DI ANNUNCI AUDIO DAL VIVO OPPURE PREREGISTRATI NELLE ZONE APERTE AL PUBBLICO E NELLE ZONE DI SERVIZIO DELLA LINEA 3",
+      "note": "Importo nullo (trattino) nel campo finanziamento ammesso"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEA M3:INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015, subintervento NUOVI CAVI FIBRA OTTICA RESISTENTI AL FUOCO IN SOLUZIONE RIDONDATA",
+      "note": "Importo nullo (trattino) nel campo finanziamento ammesso"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEA M3:INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015, subintervento INTERVENTI DI AMMODERNAMENTO SSE DUOMO",
+      "note": null
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEE M1 + M2: INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015 FASE 2, subintervento COMPLETAMENTO OPERE CIVILI DI COMPARTIMENTAZIONE E RESISTENZA ANTINCENDIO",
+      "note": "Importo nullo (trattino) nel campo finanziamento ammesso"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - METROPOLITANA LINEE M1 + M2: INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015 FASE 2, subintervento ADEGUAMENTO DEGLI IMPIANTI DEI GE, DELLE CABINE ELETTRICHE E SOSTITUZIONE CAVI",
+      "note": null
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Genova - LINEA METROPOLITANA: PROLUNGAMENTO A RIVAROLO E COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/TERRALBA, subintervento TRATTA CANEPARI - RIVAROLO",
+      "note": "Importo nullo (trattino) nel campo finanziamento ammesso"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Genova - LINEA METROPOLITANA: PROLUNGAMENTO A RIVAROLO E COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/TERRALBA, subintervento COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/TERRALBA",
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

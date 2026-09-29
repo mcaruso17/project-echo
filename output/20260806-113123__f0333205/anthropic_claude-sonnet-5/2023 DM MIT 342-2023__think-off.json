@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:36:46",
+  "received_at": "2026-08-06T13:37:01",
+  "latency_seconds": 14.975,
+  "prompt_tokens": 36729,
+  "completion_tokens": 1203,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 37932,
+  "cost_usd_api": 0.085488,
+  "cost_usd_reconstructed": 0.085488,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016207-vebXmTM5iVmgXIXhKgEa",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta numero e data propri nel testo fornito (il preambolo cita esclusivamente decreti precedenti come il DM 364/2021, il decreto direttoriale 342/2021, 235/2022, 270/2022, 257/2023). Gli Allegati 1, 2 e 3 riportano l'intero programma di interventi già ammessi a finanziamento con i precedenti decreti (identificati come tali dai relativi CUP), e non costituiscono nuove assegnazioni disposte da questo decreto, salvo le rettifiche esplicitamente indicate all'art. 1, comma 1, relative alle quote di Veneto ed Emilia Romagna per le annualità 2032 e 2033. Tali rettifiche sono state estratte come record di rimodulazione. Tutti gli altri importi presenti negli Allegati 1, 2 e 3 (inclusi i CUP associati a singoli interventi) si riferiscono ad assegnazioni già disposte dal DM 364/2021 e successivi decreti direttoriali di rimodulazione, non dal decreto corrente, e pertanto non sono stati estratti come nuove azioni di finanziamento."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2033, in luogo dei precedenti 117.585 euro (rettifica Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia Romagna, annualità 2033, in luogo dei precedenti 790.994 euro (rettifica Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Veneto, annualità 2032, in luogo dei precedenti 125.268 euro (rettifica Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Regione Emilia Romagna, annualità 2032, in luogo dei precedenti 842.680 euro (rettifica Allegato 3 DM 364/2021)"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,98 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:17:40",
+  "received_at": "2026-08-11T16:18:04",
+  "latency_seconds": 23.343,
+  "prompt_tokens": 7270,
+  "completion_tokens": 1810,
+  "reasoning_tokens": 106,
+  "cached_tokens": 0,
+  "total_tokens": 9080,
+  "cost_usd_api": 0.1632,
+  "cost_usd_reconstructed": 0.1632,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786457861-5ud1SMz9jMBpa1z95R8L",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto direttoriale (Direzione generale per il trasporto pubblico locale e regionale, Div 2, firmato dal Direttore della Div 2) di cui il testo non riporta numero né data: campi impostati a null. I decreti citati nel preambolo (DM n. 498/2014, DD n. 220/2020, DM n. 97/2022) non sono stati usati come decreto corrente. L'impegno complessivo di € 131.000.000,00 (art. 2) è stato suddiviso in record per annualità come da tabella; la somma coincide con il totale indicato."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno a favore di Roma Capitale per l'intervento 'Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma', in conto residui di lettera F, esercizio di provenienza 2021. In attuazione del DM MIT/MEF n. 498 del 14 novembre 2014."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 35000000.0,
+      "importo_originale": "35.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella (anno 2022)",
+      "note": "Quota annualità 2022 dell'impegno complessivo di € 131.000.000,00 a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma. In attuazione del DM MIT/MEF n. 498/2014."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 40000000.0,
+      "importo_originale": "40.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella (anno 2023)",
+      "note": "Quota annualità 2023 dell'impegno complessivo di € 131.000.000,00 a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma. In attuazione del DM MIT/MEF n. 498/2014."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 33500000.0,
+      "importo_originale": "33.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella (anno 2024)",
+      "note": "Quota annualità 2024 dell'impegno complessivo di € 131.000.000,00 a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma. In attuazione del DM MIT/MEF n. 498/2014."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 22500000.0,
+      "importo_originale": "22.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella (anno 2025)",
+      "note": "Quota annualità 2025 dell'impegno complessivo di € 131.000.000,00 a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma. In attuazione del DM MIT/MEF n. 498/2014."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:48:47",
+  "received_at": "2026-08-06T14:48:51",
+  "latency_seconds": 4.086,
+  "prompt_tokens": 3462,
+  "completion_tokens": 308,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3770,
+  "cost_usd_api": 0.005002,
+  "cost_usd_reconstructed": 0.005002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020527-76c6SgGi1zN8CPJRhOmr",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": "362",
+    "data_decreto": "2023-12-30",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente (n. 362 del 30 dicembre 2023) dispone esclusivamente una rimodulazione dei termini temporali (cronoprogramma) per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001), già finanziato dal decreto n. 97 del 2022. Non sono presenti nuove assegnazioni di risorse finanziarie, definanziamenti o rimodulazioni di importi economici. L'allegato 1 riporta solo i nuovi termini di affidamento (30.06.2025), avanzamento del 50% (31.03.2027) e ultimazione (31.12.2029), ma nessun movimento di fondi. Pertanto, non vi sono azioni di finanziamento da estrarre."
+  },
+  "records": [],
+  "raw_content": null
+}

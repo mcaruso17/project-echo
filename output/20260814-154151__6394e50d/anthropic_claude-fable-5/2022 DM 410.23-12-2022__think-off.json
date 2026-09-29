@@ -1,0 +1,43 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:45:30",
+  "received_at": "2026-08-14T15:45:39",
+  "latency_seconds": 8.363,
+  "prompt_tokens": 5070,
+  "completion_tokens": 389,
+  "reasoning_tokens": 76,
+  "cached_tokens": 0,
+  "total_tokens": 5459,
+  "cost_usd_api": 0.07015,
+  "cost_usd_reconstructed": 0.07015,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715131-hQ4QLXTr9EkJw0BP7qd4",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga al 31 dicembre 2023 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con precedenti decreti (n. 587/2017, n. 86/2018, n. 607/2019, nn. 235, 350, 517 del 2020). Non contiene alcuna nuova azione di finanziamento, definanziamento o rimodulazione, né indica capitoli, piani gestionali, CUP o importi. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente dispone esclusivamente la proroga al 31 dicembre 2023 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con precedenti decreti (n. 587/2017, n. 86/2018, n. 607/2019, nn. 235, 350, 517 del 2020). Non contiene alcuna nuova azione di finanziamento, definanziamento o rimodulazione, né indica capitoli, piani gestionali, CUP o importi. Il numero e la data del decreto corrente non sono riportati nel testo fornito.\"\n}"
+}

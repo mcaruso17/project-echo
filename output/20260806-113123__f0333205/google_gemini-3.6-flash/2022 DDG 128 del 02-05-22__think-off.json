@@ -1,0 +1,98 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:54:51",
+  "received_at": "2026-08-06T11:55:11",
+  "latency_seconds": 19.611,
+  "prompt_tokens": 7385,
+  "completion_tokens": 4060,
+  "reasoning_tokens": 3305,
+  "cached_tokens": 0,
+  "total_tokens": 11445,
+  "cost_usd_api": 0.0415275,
+  "cost_usd_reconstructed": 0.0415275,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786010091-HVEeVA0mzGSu67uMXGnD",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Decreto dirigenziale privo di numero di decreto e data espliciti nel testo allegato. Gli importi dei singoli progetti sono ricavati dalla tabella allegata in attuazione degli articoli 1, 2 e 3 del dispositivo."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, art. 2, Allegato",
+      "note": "Comune di Padova"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, art. 2, Allegato",
+      "note": "Roma Capitale"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, art. 2, Allegato",
+      "note": "Comune di Torino"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, art. 2, Allegato",
+      "note": "Comune di Brescia"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, Allegato",
+      "note": "Comune di Brescia"
+    }
+  ],
+  "raw_content": null
+}

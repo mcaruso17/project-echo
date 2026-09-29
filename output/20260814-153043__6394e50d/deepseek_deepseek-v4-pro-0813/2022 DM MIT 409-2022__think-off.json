@@ -1,0 +1,63 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:35:00",
+  "received_at": "2026-08-14T15:35:07",
+  "latency_seconds": 6.721,
+  "prompt_tokens": 5122,
+  "completion_tokens": 432,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 5554,
+  "cost_usd_api": 0.005433092,
+  "cost_usd_reconstructed": 0.0026039100000000005,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714501-GXnb2Qork7hHVV1eSyCF",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data; si tratta di un decreto del Ministro delle Infrastrutture e dei Trasporti. Le assegnazioni sono ripartite tra le province autonome senza indicazione di capitolo o piano gestionale."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1",
+      "note": "Provincia autonoma di Trento - Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna"
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1",
+      "note": "Provincia autonoma di Bolzano - Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo"
+    }
+  ],
+  "raw_content": null
+}

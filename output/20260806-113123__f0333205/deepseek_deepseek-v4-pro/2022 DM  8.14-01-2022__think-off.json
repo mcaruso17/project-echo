@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:13",
+  "received_at": "2026-08-06T12:34:18",
+  "latency_seconds": 5.39,
+  "prompt_tokens": 2637,
+  "completion_tokens": 123,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 2760,
+  "cost_usd_api": 0.0019062396,
+  "cost_usd_reconstructed": 0.001254105,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012453-Y5k6kSrE7SqAocA6SmXJ",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento. Dispone esclusivamente la proroga di un termine per obbligazioni giuridicamente vincolanti relative a decreti precedenti."
+  },
+  "records": [],
+  "raw_content": null
+}

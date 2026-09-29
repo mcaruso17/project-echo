@@ -1,0 +1,85 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:12",
+  "received_at": "2026-09-29T11:17:40",
+  "latency_seconds": 28.018,
+  "prompt_tokens": 9428,
+  "completion_tokens": 759,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 10187,
+  "cost_usd_api": 0.00875676,
+  "cost_usd_reconstructed": 0.0119926,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673438-NAcjZW0umC6VUkRJzMkl",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Legge n. 197/2022, comma 483 dell'articolo 1",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 26 febbraio 2013",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 12 maggio 2016",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'Allegato 1 (cronoprogramma) è richiamato all'art. 2 ma non è presente nel testo fornito. L'atto non indica il capitolo di spesa né il piano gestionale su cui sono stanziati i 75 milioni di euro. Il decreto non riporta numero né data nella parte dispositiva; l'efficacia è subordinata alla registrazione presso gli Organi di Controllo (art. 7). Il CUP B81I06000000003 compare nel preambolo (CONSIDERATO) e viene riportato nell'art. 1, quindi la confidenza è alta. Le voci di dettaglio (35+10+17+7+6 milioni) sono descrizioni del fabbisogno ma l'atto dispone un unico importo complessivo di 75 milioni di euro; non essendo specificati CUP diversi per le singole tratte, non si producono record aggiuntivi."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023-2027",
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, finalizzati alla copertura del fabbisogno emergente dall'incremento dei prezzi e quello derivante dalla realizzazione della linea M4 della metropolitana di Milano (CUP B81I06000000003)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Assegnazione quinquennale di 15 milioni di euro annui dal 2023 al 2027; il CUP è indicato nel testo dell'articolo 1. L'atto non specifica capitolo di bilancio né piano gestionale."
+    }
+  ],
+  "raw_content": null
+}

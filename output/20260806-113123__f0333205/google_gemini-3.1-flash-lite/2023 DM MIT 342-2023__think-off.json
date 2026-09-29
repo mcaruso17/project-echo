@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:42:07",
+  "received_at": "2026-08-06T13:42:12",
+  "latency_seconds": 5.414,
+  "prompt_tokens": 30066,
+  "completion_tokens": 727,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 30793,
+  "cost_usd_api": 0.008607,
+  "cost_usd_reconstructed": 0.008607,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016527-EnFUqZNH2vqW8e5DpU11",
+    "provider": "Google",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero o una data specifica nel testo fornito. Le azioni di finanziamento sono rettifiche di importi precedentemente stanziati (DM 364/2021) e non nuove assegnazioni integrali a progetti specifici con CUP, ma variazioni di budget tra annualità per le Regioni citate."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione aggiuntiva per l'annualità 2033 alla Regione Veneto (217.585 - 117.585)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": -100000.0,
+      "importo_originale": "100.000 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Riduzione per l'annualità 2033 alla Regione Emilia Romagna (690.994 - 790.994)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": -2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Riduzione per l'annualità 2032 alla Regione Veneto (125.266 - 125.268)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 2.0,
+      "importo_originale": "2 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione aggiuntiva per l'annualità 2032 alla Regione Emilia Romagna (842.682 - 842.680)"
+    }
+  ],
+  "raw_content": null
+}

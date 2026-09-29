@@ -1,0 +1,40 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T16:00:19",
+  "received_at": "2026-08-14T16:00:22",
+  "latency_seconds": 3.396,
+  "prompt_tokens": 3699,
+  "completion_tokens": 135,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3834,
+  "cost_usd_api": 0.00541728,
+  "cost_usd_reconstructed": 0.001726515,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786716019-Bi9NoB2IxpTJaTY6LsWh",
+    "provider": "Fireworks",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente non dispone nuove azioni di finanziamento. Contiene esclusivamente proroghe di termini e abrogazione di un obiettivo intermedio, senza assegnazione, definanziamento o rimodulazione di risorse."
+  },
+  "records": [],
+  "raw_content": "{\n\"decreto_corrente_identificato\": true,\n\"numero_decreto\": null,\n\"data_decreto\": null,\n\"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n\"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n\"record\": [],\n\"note_estrazione\": \"Il decreto corrente non dispone nuove azioni di finanziamento. Contiene esclusivamente proroghe di termini e abrogazione di un obiettivo intermedio, senza assegnazione, definanziamento o rimodulazione di risorse.\"\n}"
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:36:37",
+  "received_at": "2026-08-06T12:36:43",
+  "latency_seconds": 5.468,
+  "prompt_tokens": 3800,
+  "completion_tokens": 228,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1856,
+  "total_tokens": 4028,
+  "cost_usd_api": 0.00255296,
+  "cost_usd_reconstructed": 0.00328548,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012597-RwcmGwTBNcbIbVhyFnI6",
+    "provider": "Parasail",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data espliciti nel testo fornito (il documento si interrompe con 'IL MINISTRO' senza indicare numero di decreto né data di emanazione). Il decreto contiene esclusivamente proroghe di termini (art. 1, commi 1-2) e disposizioni procedurali di monitoraggio (art. 1, comma 3), ma NON contiene alcuna azione di finanziamento che movimenti risorse su capitoli, piani gestionali o CUP. Si tratta di un decreto di proroga e monitoraggio, non di ripartizione o modifica di risorse finanziarie."
+  },
+  "records": [],
+  "raw_content": null
+}

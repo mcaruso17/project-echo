@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:25:34",
+  "received_at": "2026-08-06T14:25:36",
+  "latency_seconds": 2.261,
+  "prompt_tokens": 15762,
+  "completion_tokens": 288,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 16050,
+  "cost_usd_api": 0.0043725,
+  "cost_usd_reconstructed": 0.0043725,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786019134-LGFaYvoizE7dEv0UMut8",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero o una data specifica nel testo fornito. L'assegnazione di 14.642.359,10 euro è esplicitamente citata nel preambolo come parte dispositiva del decreto stesso. Le tabelle allegate elencano gli interventi e i relativi finanziamenti PNRR, ma non costituiscono nuove azioni di finanziamento rispetto a quanto già definito nel corpo del decreto."
+  },
+  "records": [
+    {
+      "cup": "H91F18000260005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14642359.1,
+      "importo_originale": "€ 14.642.359,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "RITENUTO, pertanto, di sostituire al suddetto intervento... assegnando allo stesso un contributo di € 14.642.359,10",
+      "note": "Assegnazione a favore dell'intervento Linea tranviaria SIR3: tratta Stazione – Voltabarozzo del Comune di Padova"
+    }
+  ],
+  "raw_content": null
+}

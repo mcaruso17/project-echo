@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:58:06",
+  "received_at": "2026-08-06T11:58:14",
+  "latency_seconds": 8.537,
+  "prompt_tokens": 8530,
+  "completion_tokens": 1087,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9617,
+  "cost_usd_api": 0.013965,
+  "cost_usd_reconstructed": 0.013965,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010286-DiSZcag7svMQtwfM96l2",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non riporta numero e data nella sezione finale (firma). Le assegnazioni sono estratte dall'art. 1, comma 1 e dall'art. 2, comma 1 con la tabella allegata. Le risorse provengono dall'art. 8, comma 12, del DL 68/2022 (40 mln per 2023-2024, 70 mln per 2025). Il decreto assegna 46,20 mln di euro complessivi a quattro beneficiari (Regioni e Province Autonome) per l'acquisto di materiale rotabile ferroviario regionale. I CUP sono menzionati come obbligatori negli articoli 10 e 15 ma non sono esplicitamente riportati nel testo del decreto corrente; sono riferiti agli interventi dell'Allegato 2 del DM 23 settembre 2021, n. 363 (decreto precedente). Poiché il decreto corrente non specifica i singoli CUP per ciascun intervento, questi non sono stati estratti."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella; art. 1, comma 1",
+      "note": "Assegnazione a Regione Liguria per acquisto materiale rotabile ferroviario regionale, ripartita su anni 2023 (5,00 mln), 2024 (5,00 mln), 2025 (4,00 mln)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella; art. 1, comma 1",
+      "note": "Assegnazione a Regione Toscana per acquisto materiale rotabile ferroviario regionale, ripartita su anni 2023 (5,00 mln), 2024 (4,00 mln), 2025 (4,00 mln)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella; art. 1, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Trento per acquisto materiale rotabile ferroviario regionale, ripartita su anni 2023 (4,00 mln), 2024 (3,00 mln), 2025 (3,00 mln)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella; art. 1, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Bolzano per acquisto materiale rotabile ferroviario regionale, ripartita su anni 2023 (3,20 mln), 2024 (3,00 mln), 2025 (3,00 mln)"
+    }
+  ],
+  "raw_content": null
+}

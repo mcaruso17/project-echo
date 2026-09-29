@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:44:46",
+  "received_at": "2026-08-06T13:45:05",
+  "latency_seconds": 18.878,
+  "prompt_tokens": 28136,
+  "completion_tokens": 511,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 28647,
+  "cost_usd_api": 0.02003091,
+  "cost_usd_reconstructed": 0.02031227,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016686-u3k3bXDEPcSjtSkYIQOv",
+    "provider": "CoreWeave",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificato da un numero o data propri nel testo fornito. Il documento è un decreto rettificativo che aggiorna gli allegati del DM 364/2021, ma non contiene un proprio numero di decreto né data specifica nel testo estratto. La parte dispositiva (Art. 1) rettifica l'Allegato 3 del DM 364/2021 e recepisce impegni del decreto direttoriale n. 342/2021, ma non dispone nuove azioni di finanziamento con capitolo/piano gestionale/CUP: semplicemente corregge errori materiali (Veneto: 217.585 euro in luogo di 117.585 per il 2033; Emilia Romagna: 690.994 in luogo di 790.994 per il 2033; Veneto: 125.266 in luogo di 125.268 per il 2032; Emilia Romagna: 842.682 in luogo di 842.680 per il 2032). Gli allegati 1, 2 e 3 aggiornano e sostituiscono quelli del DM 364/2021, ma si tratta di elenchi di interventi già finanziati, non di nuove assegnazioni. Non sono presenti azioni di finanziamento esplicite con capitolo, piano gestionale e CUP nella parte dispositiva del decreto corrente: le tabelle riportano gli importi già assegnati dal DM 364/2021 (colonne 'Importo richiesto per l'intervento', 'Eventuale cofinanziamento', 'Importo totale intervento', 'Importo ammasso a finanziamento') senza nuovi stanziamenti disposti dal presente decreto. Il decreto corrente è puramente rettificativo degli errori materiali indicati all'art. 1."
+  },
+  "records": [],
+  "raw_content": null
+}

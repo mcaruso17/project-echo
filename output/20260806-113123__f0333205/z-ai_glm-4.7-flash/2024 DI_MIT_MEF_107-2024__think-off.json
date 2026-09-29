@@ -1,0 +1,51 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:51:01",
+  "received_at": "2026-08-06T14:51:03",
+  "latency_seconds": 2.179,
+  "prompt_tokens": 3199,
+  "completion_tokens": 200,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 3399,
+  "cost_usd_api": 0.00018874,
+  "cost_usd_reconstructed": 0.00027194,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020661-KGfucODC36d6CcnA0zOL",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "B39J22001360001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Rimodulazione termini per l'intervento 'Skymetro Val Bisagno'."
+    }
+  ],
+  "raw_content": null
+}

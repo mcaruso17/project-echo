@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:00:58",
+  "received_at": "2026-08-06T13:01:08",
+  "latency_seconds": 10.151,
+  "prompt_tokens": 7734,
+  "completion_tokens": 1127,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 8861,
+  "cost_usd_api": 0.0147256,
+  "cost_usd_reconstructed": 0.03624,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014058-esGFehg4ck7wz7G8qpXM",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta numero né data del decreto corrente. Nell'Allegato 1 alcuni finanziamenti sono indicati come importi complessivi di interventi articolati in più CUP; sono stati attribuiti al primo CUP associato al relativo totale per evitare duplicazioni. I CUP F47D17000140005, F47C19000380001, F47C19000360001 e B34J18000230001 non riportano un finanziamento ammesso autonomo."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "€ 221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Finanziamento ammesso per il Comune di Torino, Prolungamento linea tranviaria 12 all’Allianz Stadium e recupero trincea ferroviaria Torino-Ceres."
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "€ 2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Subintervento: nuovi impianti di rivelazione e segnalazione degli incendi e rimozione impianti esistenti e potenziamento impianti illuminazione di emergenza e compartimentazioni locali tecnici."
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "€ 20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Finanziamento ammesso complessivo dell'intervento del Comune di Milano: Metropolitana linea M3, interventi di adeguamento antincendio ai sensi del DM 21.10.2015. L'allegato associa l'importo al totale dell'intervento, che comprende più CUP."
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "€ 2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Subintervento: interventi di ammodernamento SSE Duomo."
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "€ 45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Finanziamento ammesso complessivo dell'intervento del Comune di Milano: Metropolitana linee M1 + M2, interventi di adeguamento antincendio ai sensi del DM 21.10.2015 fase 2. L'allegato associa l'importo al totale dell'intervento, che comprende più CUP."
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "€ 74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1",
+      "note": "Finanziamento ammesso complessivo dell'intervento del Comune di Genova: linea metropolitana, prolungamento a Rivarolo e completamento della stazione di Martinez/Terralba. L'allegato associa l'importo al totale dell'intervento, che comprende più CUP."
+    }
+  ],
+  "raw_content": null
+}

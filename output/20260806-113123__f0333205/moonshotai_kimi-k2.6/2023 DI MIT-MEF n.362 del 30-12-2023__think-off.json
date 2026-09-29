@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:54:52",
+  "received_at": "2026-08-06T12:55:00",
+  "latency_seconds": 7.658,
+  "prompt_tokens": 5220,
+  "completion_tokens": 333,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5553,
+  "cost_usd_api": 0.0053082,
+  "cost_usd_reconstructed": 0.004580730000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013692-PpBvprxjbPtzWoyYYXA7",
+    "provider": "Novita",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento che collegano linee di bilancio a progetti con importi specifici. Il decreto si limita a rimodulare i termini temporali (proroghe delle scadenze per affidamento, avanzamento lavori e ultimazione) degli interventi già finanziati dal decreto 97/2022, senza movimentare nuove risorse finanziarie. Gli allegati 1 e 2 contengono solo cronoprogrammi aggiornati (date) e CUP di progetti preesistenti, ma nessun capitolo di spesa, piano gestionale o importo. Il CUP B39J22001360001 ('Skymetro Val Bisagno') è citato nel preambolo come oggetto di istanza di proroga, ma viene esplicitamente rimandato a 'separato provvedimento' (art. non numerato implicito nel preambolo), quindi non fa parte delle azioni del presente decreto."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:38:09",
+  "received_at": "2026-08-06T11:39:32",
+  "latency_seconds": 83.658,
+  "prompt_tokens": 9280,
+  "completion_tokens": 3944,
+  "reasoning_tokens": 3016,
+  "cached_tokens": 0,
+  "total_tokens": 13224,
+  "cost_usd_api": 0.0212396,
+  "cost_usd_reconstructed": 0.01314048,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009089-yFvgZi0vxs0fYi9bCusF",
+    "provider": "AtlasCloud",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta esplicitamente numero e data nella parte dispositiva o nell'intestazione. Le risorse provengono da due piani gestionali (7 e 1) del capitolo 7400, come indicato all'art. 1 comma 1, ma l'Allegato 1 non specifica la ripartizione tra i due piani per ciascun progetto. Totale assegnato: € 660.660.678,33."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1",
+      "note": "Beneficiario: Comune di Padova. Intervento: Linea SIR 2 del tram-completamento del sistema intermedio a rete della città di Padova"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1",
+      "note": "Beneficiario: Comune di Brescia. Intervento: Nuova linea tranviaria Pendolina-Fiera (T2)"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1",
+      "note": "Beneficiario: Roma Capitale. Intervento: Rinnovo materiale linee A e B-B1 della metropolitana"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1",
+      "note": "Beneficiario: Comune di Torino. Intervento: Attestamento linea tranviaria 15 presso ospedale Martini e modifica instradamento in zona centro"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1",
+      "note": "Beneficiario: Comune di Torino. Intervento: Metropolitana automatica di Torino - Linea 1: Prolungamento ovest Collegno - Cascine Vica: Nuovo fabbricato deposito treni"
+    }
+  ],
+  "raw_content": null
+}

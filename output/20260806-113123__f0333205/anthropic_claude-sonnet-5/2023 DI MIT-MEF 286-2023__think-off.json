@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:48:30",
+  "received_at": "2026-08-06T12:48:39",
+  "latency_seconds": 9.06,
+  "prompt_tokens": 6949,
+  "completion_tokens": 605,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7554,
+  "cost_usd_api": 0.019948,
+  "cost_usd_reconstructed": 0.019948,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013310-S4AURTHkR9YkMlmHIcfy",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero e data del provvedimento né riferimenti a capitoli/piani gestionali di bilancio. L'importo complessivo di 75 milioni di euro è stato riportato come singolo record aggregato in quanto tutte le voci sono destinate al medesimo CUP (B81I06000000003) senza distinzione di capitolo contabile; le sottovoci (35+10+17+7+6 milioni) sono dettagliate nel testo ma si riferiscono alla stessa assegnazione complessiva verso lo stesso progetto/CUP."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, assegnati al Comune di Milano per la linea M4 della metropolitana di Milano. Il decreto disciplina la ripartizione per voci di costo (aumento costi materiali, tecnica del congelamento, varianti, spese generali COVID, oneri sicurezza) ma senza indicare capitolo/piano gestionale di bilancio."
+    }
+  ],
+  "raw_content": null
+}

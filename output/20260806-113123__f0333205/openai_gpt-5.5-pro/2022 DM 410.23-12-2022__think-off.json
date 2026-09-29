@@ -1,0 +1,42 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:52",
+  "received_at": "2026-08-06T12:35:47",
+  "latency_seconds": 54.997,
+  "prompt_tokens": 3242,
+  "completion_tokens": 339,
+  "reasoning_tokens": 178,
+  "cached_tokens": 0,
+  "total_tokens": 3581,
+  "cost_usd_api": 0.15828,
+  "cost_usd_reconstructed": 0.15828,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012492-7DSkpEsnIVRgeWzzWq6N",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "La parte dispositiva dispone esclusivamente la proroga al 31 dicembre 2023 dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti relativi a precedenti decreti; non sono presenti nuove assegnazioni, definanziamenti o rimodulazioni con importi, capitoli o CUP. Numero e data del decreto corrente non risultano indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

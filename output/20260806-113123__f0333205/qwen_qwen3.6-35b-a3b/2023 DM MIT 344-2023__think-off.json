@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:17:40",
+  "received_at": "2026-08-06T14:17:43",
+  "latency_seconds": 3.453,
+  "prompt_tokens": 11912,
+  "completion_tokens": 382,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12294,
+  "cost_usd_api": 0.00204968,
+  "cost_usd_reconstructed": 0.00193056,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786018660-EFwNUSVJyHK6P7onAKDI",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (non datato né numerato esplicitamente nel testo fornito, ma identificabile come successivo al DM 443/2021) dispone la 'rimodulazione' degli interventi di cui all'allegato 1 del DM 443/2021. Tuttavia, il testo non contiene alcuna disposizione contabile esplicita che indichi la variazione di un capitolo di bilancio o di un piano gestionale specifico (es. 'capitolo X, piano Y'). L'articolo 1 si limita a rinviare all'allegato per la rimodulazione degli interventi e alla proroga dei termini. L'allegato elenca importi e CUP, ma non specifica la natura finanziaria delle variazioni rispetto al capitolo di origine (se non come 'Economie rispetto importo DM 443/2021' o importi finali). Senza l'indicazione esplicita del capitolo di spesa e del piano gestionale su cui avviene la rimodulazione (riduzione da un piano e assegnazione a un altro o a un CUP), non è possibile estrarre record conformi alle regole di estrazione che richiedono il collegamento esplicito tra capitolo/piano e importo/CUP. I valori presenti nell'allegato sembrano essere gli importi finali rimodulati o le economie, ma manca il riferimento al capitolo di bilancio di origine e destinazione richiesto per l'estrazione strutturata."
+  },
+  "records": [],
+  "raw_content": null
+}

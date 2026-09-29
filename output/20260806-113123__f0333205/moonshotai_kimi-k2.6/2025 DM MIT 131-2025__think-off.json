@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:37:31",
+  "received_at": "2026-08-06T15:37:46",
+  "latency_seconds": 14.687,
+  "prompt_tokens": 5589,
+  "completion_tokens": 638,
+  "reasoning_tokens": 1,
+  "cached_tokens": 1536,
+  "total_tokens": 6227,
+  "cost_usd_api": 0.00664811,
+  "cost_usd_reconstructed": 0.00586432,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023451-Zy7x1vsSNu08mQmhiG0J",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta un numero o una data espliciti nell'intestazione o nella parte dispositiva. Il documento è firmato dal Direttore Generale e dal Direttore della Divisione 1, ma non è indicato un numero di decreto né una data di emissione (la data di sottoscrizione del Secondo Atto Modificativo è il 13 febbraio 2025, ma questa non è necessariamente la data del decreto). Le azioni di finanziamento estratte riguardano la conferma/riarticolazione dell'erogazione di risorse già precedentemente impegnate (decreto direttoriale 381/2019 e 108/2024); il decreto corrente non dispone nuovi stanziamenti ma approva la modifica della Convenzione che regola l'erogazione. Si è optato per registrare come 'assegnazione' la conferma dell'erogazione nel nuovo atto modificativo, dato che il decreto dispone esplicitamente l'approvazione e quindi l'attuazione del finanziamento."
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse stanziate dall'articolo 1, comma 96, della legge n. 145/2018, già impegnate con decreto direttoriale n. 381 del 5 dicembre 2019; il decreto corrente approva il Secondo Atto Modificativo della Convenzione che conferma/riarticolata l'erogazione di tali risorse"
+    },
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse stanziate dalla legge n. 234/2021, già impegnate con decreto direttoriale n. 108 del 25 marzo 2024; il decreto corrente approva il Secondo Atto Modificativo della Convenzione che conferma/riarticolata l'erogazione di tali risorse"
+    }
+  ],
+  "raw_content": null
+}

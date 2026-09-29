@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:55:30",
+  "received_at": "2026-08-06T14:55:32",
+  "latency_seconds": 1.499,
+  "prompt_tokens": 4307,
+  "completion_tokens": 86,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 4393,
+  "cost_usd_api": 0.00028962,
+  "cost_usd_reconstructed": 0.00029282,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020930-ccnheLwDDc2VKrxFQuY4",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "344",
+    "data_decreto": "2025-01-10",
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,204 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:04:18",
+  "received_at": "2026-09-29T12:04:42",
+  "latency_seconds": 24.018,
+  "prompt_tokens": 8759,
+  "completion_tokens": 2172,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5760,
+  "total_tokens": 10931,
+  "cost_usd_api": 0.00960993,
+  "cost_usd_reconstructed": 0.0070570500000000005,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676263-UF6stYDRYf33yNTXldbc",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del 2020, n. 44 del 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell’economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data. La tabella è presente sia nel testo dell'articolo sia come blocco [TABELLA pag.3 n.1]; i record sono estratti dal blocco tabella. Non sono presenti allegati richiamati. Il totale di € 392.989.123,64 non è un record in quanto somma delle righe."
+  },
+  "records": [
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "art. 1, comma 1; [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "464/2021 | BRESCIA | Nuova Linea Tranviaria \"Pendolina-Fiera (T2)\" | C81B21013200005 | € 63.091.133,28",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H11J21000010003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "art. 1, comma 1; [TABELLA pag.3 n.1], riga 2",
+      "passaggio_testuale": "517/2020 | FIRENZE | Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2) | H11J21000010003 | € 48.794.211,94",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F44I19000530001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "art. 1, comma 1; [TABELLA pag.3 n.1], riga 3",
+      "passaggio_testuale": "97/2022 | MILANO | Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1 | F44I19000530001 | € 47.668.750,43",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "B44D20000040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "art. 1, comma 1; [TABELLA pag.3 n.1], riga 4",
+      "passaggio_testuale": "607/2019 97/2022 | MILANO | Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia | B44D20000040001 | € 145.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "B24C17000320005",
+        "B71J22000050006"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "art. 1, comma 1; [TABELLA pag.3 n.1], riga 5",
+      "passaggio_testuale": "360/2018 86/2018 | MILANO | Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo: B24C17000320005 Lotto 2 - Varedo-Limbiate: B71J22000050006 | € 88.435.027,99 (anche a copertura delle risorse revocate)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due lotti/CUP; l'atto non ripartisce. L'importo include la copertura delle risorse revocate di cui alle premesse."
+    }
+  ],
+  "raw_content": null
+}

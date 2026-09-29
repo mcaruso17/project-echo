@@ -1,0 +1,53 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:17:57",
+  "received_at": "2026-09-29T12:18:12",
+  "latency_seconds": 15.232,
+  "prompt_tokens": 9291,
+  "completion_tokens": 303,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9594,
+  "cost_usd_api": 0.00089073,
+  "cost_usd_reconstructed": 0.0008805299999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677087-xNv8SwLYpUQ205LKzpDp",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "approvazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva un atto modificativo di una convenzione già finanziata. L'art. 2 cita l'importo complessivo del contributo (€ 915.000.000,00) e la sua copertura su risorse già impegnate con decreti precedenti (n. 381/2019 e n. 108/2024). Non dispone nuove assegnazioni, impegni o rimodulazioni di risorse su capitoli/PG a favore del CUP. Pertanto non vengono generati record di azione di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": null, \"natura_atto\": \"approvazione\", \"atti_collegati\": [{\"estremi\": \"decreto direttoriale n. 381 del 5 dicembre 2019\", \"relazione\": \"richiama\"}, {\"estremi\": \"decreto direttoriale n. 108 del 25 marzo 2024\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [], \"allegati_presenti_nel_testo\": [], \"record\": [], \"note_estrazione\": \"L'atto approva un atto modificativo di una convenzione già finanziata. L'art. 2 cita l'importo complessivo del contributo (€ 915.000.000,00) e la sua copertura su risorse già impegnate con decreti precedenti (n. 381/2019 e n. 108/2024). Non dispone nuove assegnazioni, impegni o rimodulazioni di risorse su capitoli/PG a favore del CUP. Pertanto non vengono generati record di azione di finanziamento.\"}"
+}

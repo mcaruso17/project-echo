@@ -1,0 +1,180 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T11:48:17",
+  "received_at": "2026-09-28T11:48:37",
+  "latency_seconds": 20.357,
+  "prompt_tokens": 11172,
+  "completion_tokens": 2624,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 13796,
+  "cost_usd_api": 0.0034788,
+  "cost_usd_reconstructed": 0.0042998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790588897-Hg7d6vxhiQtKrK74n0tq",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS 22 novembre 2021, n. 464",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato"
+    ],
+    "note_estrazione": "L'atto non riporta numero e data del decreto corrente nel testo fornito. L'atto attua il DM MIMS n. 464/2021. Gli importi estratti sono i totali delle annualità 2022-2034 (art. 2) e 2029-2034 (art. 3) come da tabella allegata. L'art. 1 autorizza impegni in conto residui (2020-2021) per 3.000.000,00 totali, ma non specifica la ripartizione tra i CUP nella parte testuale disponibile; la tabella mostra importi per il 2020 e 2021 che sommati ai totali future danno il valore complessivo del DM 464. Poiché l'atto corrente dispone l'impegno per le annualità future (competenza) e i residui sono già coperti da stanziamenti precedenti o da questo atto ma senza ripartizione CUP esplicita nell'art. 1 oltre al totale, si registrano gli impegni di competenza (art. 2 e 3) che sono la parte principale del finanziamento pluriennale. Gli importi dei residui (2020-2021) non sono stati registrati come record separati perché l'art. 1 non li ripartisce per CUP nel testo, mentre la tabella li elenca come parte del totale storico. Tuttavia, seguendo la regola del contenuto innovativo, l'atto corrente 'autorizza l'impegno' per le annualità future. I valori 2020 e 2021 nella tabella sono probabilmente riferiti a stanziamenti già esistenti o a questa nuova autorizzazione ma senza dettaglio CUP nell'art. 1. Si è scelto di registrare gli importi totali delle annualità future (2022-2034 e 2029-2034) che sono chiaramente attribuiti ai CUP nella tabella e negli articoli 2 e 3."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": "DM MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo totale annualità 2022-2034 per PG 7. L'art. 1 autorizza l'impegno in conto residui (2020-2021) per questo beneficiario, ma l'importo di 97.154.124,10 è riferito alle annualità future (PG 7) come da tabella e art. 2."
+    },
+    {
+      "cup": [
+        "J80J18000000001",
+        "C11B21008720001"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 C11B21008720001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": "DM MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "La tabella elenca due CUP per Roma Capitale (J80J... e C11B...). L'importo totale di 159.466.174,12 si riferisce alla riga complessiva. Si registra un record aggregato per i due CUP come presente nella cella della tabella."
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Comune di Torino | D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": "DM MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo totale annualità 2022-2034 per PG 7."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": "DM MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo totale annualità 2022-2034 per PG 7."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": "DM MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo totale annualità 2029-2034 per PG 1."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,150 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:11:43",
+  "received_at": "2026-08-06T15:12:32",
+  "latency_seconds": 48.634,
+  "prompt_tokens": 14751,
+  "completion_tokens": 1848,
+  "reasoning_tokens": 0,
+  "cached_tokens": 10455,
+  "total_tokens": 16599,
+  "cost_usd_api": 0.00843195,
+  "cost_usd_reconstructed": 0.01583043,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786021903-MmCRWKyNZQ3O2XuYiwMc",
+    "provider": "StreamLake",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta esplicitamente numero e data. Le azioni di finanziamento sono state estratte dalla parte dispositiva (art. 2 e art. 4) e dagli Allegati 1 e 2 per le rimodulazioni esplicitamente citate nel preambolo. Non sono stati estratti i finanziamenti totali degli allegati in quanto rappresentano lo stato complessivo dei fondi e non singole azioni dispositivate dal decreto corrente, ad eccezione delle rimodulazioni esplicitamente menzionate."
+  },
+  "records": [
+    {
+      "cup": "J81J20000290001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 120000000.0,
+      "importo_originale": "120.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Rimodulazione: sostituzione del lotto 1 (tratta Termini-Venezia) con il lotto funzionale tratta Giureconsulti – Largo Cardinal Clemente Micara per il progetto LINEA TRANVIARIA TERMINI-VATICANO-AURELIO"
+    },
+    {
+      "cup": "B44D22000090005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14324340.38,
+      "importo_originale": "14.324.340,38",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Rimodulazione del contributo per la realizzazione del progetto TRAMVIA 7 BAUSAN - VILLAPIZZONE - tratta 1 in base al Quadro Economico trasmesso dal comune di Milano"
+    },
+    {
+      "cup": "B69H13000230002",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 33579216.0,
+      "importo_originale": "33.579.216,00",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Rimodulazione del target in 3 elettrotreni e rideterminazione del costo per il progetto COMPLETAMENTO DELLA FLOTTA ROTABILE DI LINEA 1: FORNITURA MATERIALE ROTABILE N. 4 ELETTROTRENI"
+    },
+    {
+      "cup": "B61E16000790007",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 49051966.93,
+      "importo_originale": "49.051.966,93",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Rimodulazione per l'utilizzo delle economie derivanti dal definanziamento del Lotto 1 al fine di realizzare il Lotto 2 del progetto AMPLIAMENTO DEPOSITO MEZZI E OFFICINA DI MANUTENZIONE DELLA LINEA 1 - LOCALITÀ PISCINOLA"
+    },
+    {
+      "cup": "B60J21000070001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 16130353.46,
+      "importo_originale": "16.130.353,46",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Utilizzo delle economie derivanti dalla rimodulazione del progetto 'Completamento della flotta rotabile di linea 1' per l'intervento FORNITURA MATERIALE ROTABILE DI N. 5 TRAM DA 24 METRI, 3 ELEMENTI, PIANALE BASSO"
+    },
+    {
+      "cup": "D71D18000520001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21997800.0,
+      "importo_originale": "21.997.800,00",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 1 - Nuovi interventi",
+      "note": "Rideterminazione del costo a seguito della riduzione della fornitura a 5 veicoli per il progetto SISTEMA TRAM PALERMO - FASE II - TRATTE D, E2, F, G E PARCHEGGI DI INTERSCAMBIO: FORNITURA MATERIALE ROTABILE tram"
+    },
+    {
+      "cup": "B31E20000230001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 398976182.34,
+      "importo_originale": "398.976.182,34",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 2 - Interventi a legislazione vigente",
+      "note": "Rimodulazione del contributo PNRR per utilizzare l'intera disponibilità di risorse PNRR a 'Legislazione Vigente' per il progetto SISTEMA DEGLI ASSI DI FORZA PER IL TRASPORTO PUBBLICO LOCALE NEL COMUNE DI GENOVA"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Trieste per la realizzazione dell'intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso' a valere sulle risorse previste dall'articolo 1, comma 14, della legge n. 160 del 2019"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Milano per il completamento dell'intervento 'Tramvia 7 Bausan – Villapizzone' a valere sulle risorse previste dall'articolo 1, comma 14, della legge n. 160 del 2019"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 1143995.0,
+      "importo_originale": "1.143.995,00 €",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "art. 4, comma 1 e 2",
+      "note": "Risorse residue non allocate a valere sull'Allegato 1 - 'Nuovi interventi' da utilizzare per le spese relative alla redazione del report di un valutatore indipendente"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:54:22",
+  "received_at": "2026-08-06T12:54:24",
+  "latency_seconds": 1.443,
+  "prompt_tokens": 4853,
+  "completion_tokens": 87,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 4940,
+  "cost_usd_api": 0.00024278,
+  "cost_usd_reconstructed": 0.00032598,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013662-5sO6SR9GVTOcWEmNIKtM",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": null
+}

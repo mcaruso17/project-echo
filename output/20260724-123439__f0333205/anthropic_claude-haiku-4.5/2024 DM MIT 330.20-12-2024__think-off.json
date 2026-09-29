@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:46:59",
+  "received_at": "2026-07-24T12:47:02",
+  "latency_seconds": 3.65,
+  "prompt_tokens": 4684,
+  "completion_tokens": 248,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4932,
+  "cost_usd_api": 0.005924,
+  "cost_usd_reconstructed": 0.005924,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890019-I7iUEd5f887qYfDH0Z5s",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene numero, data né azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni di importi). Il documento è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti per interventi già finanziati da precedenti decreti. L'Allegato 1 elenca gli interventi interessati dalla proroga al 31/12/2025, ma non contiene capitoli di bilancio, piani gestionali, CUP o importi. Non sono presenti azioni di finanziamento nel senso di movimentazione di risorse di bilancio."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:26:15",
+  "received_at": "2026-08-11T16:26:21",
+  "latency_seconds": 6.104,
+  "prompt_tokens": 7867,
+  "completion_tokens": 425,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8292,
+  "cost_usd_api": 0.009992,
+  "cost_usd_reconstructed": 0.009992,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458375-i8GEh60ApGKu7GrrlUDA",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non contiene numero e data del decreto corrente nella parte dispositiva. Il decreto è identificabile come un provvedimento del Ministro delle Infrastrutture e dei Trasporti che dispone proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti per interventi di trasporto rapido di massa. Tuttavia, non sono presenti azioni di finanziamento (assegnazioni, definanziamenti, rimodulazioni di importi). Il decreto contiene esclusivamente: (1) proroghe di termini per interventi già finanziati da precedenti decreti (art. 1, Allegato 1); (2) proroghe senza termine per interventi di sicurezza (art. 1, Allegato 2); (3) una disposizione generica su risorse disponibili da definanziamento destinate agli stessi enti beneficiari (art. 2), senza specificazione di importi, capitoli, piani gestionali o CUP. Le tabelle allegate riportano interventi e nuovi termini di conseguimento OGV, ma non contengono importi di finanziamento. I CUP citati nel preambolo (es. C81B21013200005, H11J21000010003, ecc.) appartengono a decreti precedenti e non sono oggetto di nuove azioni di finanziamento nel decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

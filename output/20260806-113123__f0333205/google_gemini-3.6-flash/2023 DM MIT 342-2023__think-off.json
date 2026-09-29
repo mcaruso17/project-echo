@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T13:42:12",
+  "received_at": "2026-08-06T13:42:44",
+  "latency_seconds": 31.625,
+  "prompt_tokens": 30066,
+  "completion_tokens": 7996,
+  "reasoning_tokens": 7680,
+  "cached_tokens": 0,
+  "total_tokens": 38062,
+  "cost_usd_api": 0.105069,
+  "cost_usd_reconstructed": 0.105069,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786016533-ImI2LpTXl5RjYHNQsUgD",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": " euro (precedenti 117.585 euro, variazione di +100.000 euro).\n     - Regione Emilia-Romagna (annualità 2033): 690.994 euro (precedenti 790.994 euro, variazione di -100.000 euro).\n     - Regione Veneto (annualità 2032): 125.266 euro (precedenti 125.268 euro, variazione di -2 euro).\n     - Regione Emilia-Romagna (annualità 2032): 842.682 euro (precedenti 842.680 euro, variazione di +2 euro).\n\n   Wait, are these annual adjustments already integrated in Allegato 3 totals for Veneto and Emilia-Romagna? Yes, Allegato 3 shows these exact figures for 2032 and 2033.\n   Including the records for Art. 1 comma 1 explicitly captures the exact wording of the decree dispositiva!\n\n   Let's check if CUPs are 15 characters and valid format:\n   - H49J21005480003 (15 chars)\n   - C75B23000000001 (15 chars)\n   - C71G22"
+}

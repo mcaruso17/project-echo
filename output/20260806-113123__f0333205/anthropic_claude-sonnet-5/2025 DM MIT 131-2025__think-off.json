@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:33:24",
+  "received_at": "2026-08-06T15:33:35",
+  "latency_seconds": 11.057,
+  "prompt_tokens": 7549,
+  "completion_tokens": 839,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8388,
+  "cost_usd_api": 0.023488,
+  "cost_usd_reconstructed": 0.023488,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023204-ljMpfWsamDsKShzN9Lf5",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto in esame ha natura di approvazione di un Atto Modificativo di Convenzione (proroga termini e aggiornamento cronoprogramma) e non dispone esso stesso nuove assegnazioni, definanziamenti o rimodulazioni di capitoli di bilancio: gli importi indicati all'art. 2 richiamano impegni già assunti con decreti direttoriali precedenti (n. 381/2019 e n. 108/2024). Non è presente un numero identificativo del decreto corrente né una data di sottoscrizione dello stesso (è riportata solo la data di sottoscrizione dell'Atto Modificativo, 13 febbraio 2025, e non del decreto direttoriale che lo approva)."
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse già impegnate con decreto direttoriale n. 381 del 5 dicembre 2019, confermate nell'ambito del contributo complessivo di € 915.000.000,00 previsto dal Secondo Atto Modificativo approvato con il decreto corrente; non risulta un nuovo stanziamento disposto da questo decreto."
+    },
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse già impegnate con decreto direttoriale n. 108 del 25 marzo 2024, a valere sulla legge n. 234/2021; confermate nell'ambito del contributo complessivo previsto dal Secondo Atto Modificativo approvato con il decreto corrente; non risulta un nuovo stanziamento disposto da questo decreto."
+    }
+  ],
+  "raw_content": null
+}

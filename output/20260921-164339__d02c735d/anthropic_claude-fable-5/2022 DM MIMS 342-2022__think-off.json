@@ -1,0 +1,86 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:55:54",
+  "received_at": "2026-09-21T16:56:20",
+  "latency_seconds": 25.891,
+  "prompt_tokens": 13552,
+  "completion_tokens": 1841,
+  "reasoning_tokens": 615,
+  "cached_tokens": 0,
+  "total_tokens": 15393,
+  "cost_usd_api": 0.22757,
+  "cost_usd_reconstructed": 0.22757,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790002554-JuyBJ8qaj2y3kaIbXMYm",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Presidente del Consiglio dei ministri 11 giugno 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 4 ottobre 2019, n. 195790",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è privo di numero e data nel testo fornito (firma 'IL MINISTRO' senza estremi); l'intesa della Conferenza Unificata è del 28 settembre 2022, quindi l'atto è successivo a tale data. Nessun allegato richiamato dall'articolato; le tabelle presenti nel testo ([TABELLA pag.1 n.1] sul riparto pluriennale del capitolo 7400 pg 5, [TABELLA pag.5 n.1] e [TABELLA pag.6 n.1] che replicano il testo dell'art. 6) appartengono al preambolo o al corpo normativo e non contengono assegnazioni per CUP ulteriori rispetto all'art. 1."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1; premesse (CONSIDERATO su cap. 7400 pg 5 e residuo del riparto d. 443/2021)",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20 ... per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\"",
+      "atto_riferito": "decreto n. 443/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Capitolo 7400 pg 5 desunto dal preambolo, dove le risorse del fondo ex art. 1, c. 95, L. 145/2018 destinate al 'Programma di manutenzione straordinaria e interventi per la prevenzione incendi nelle metropolitane' risultano iscritte su tale capitolo/pg. Il costo totale stimato dell'intervento è € 2.250.000,00 (non oggetto di assegnazione); l'importo assegnato corrisponde al residuo del riparto disposto con d. 443/2021. L'art. 2 rinvia a successivo provvedimento per l'impegno contabile."
+    }
+  ],
+  "raw_content": null
+}

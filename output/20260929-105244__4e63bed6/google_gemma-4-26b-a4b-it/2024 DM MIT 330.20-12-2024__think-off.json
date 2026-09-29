@@ -1,0 +1,81 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:58",
+  "received_at": "2026-09-29T12:09:06",
+  "latency_seconds": 8.416,
+  "prompt_tokens": 8611,
+  "completion_tokens": 654,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5952,
+  "total_tokens": 9265,
+  "cost_usd_api": 0.0007597,
+  "cost_usd_reconstructed": 0.00097119,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676539-lmkaPXrT5nRxHScccmhh",
+    "provider": "CoreWeave",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "D.M. 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.M. 22 dicembre 2023, n. 343",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto è una disposizione di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). Sebbene l'atto modifichi la tempistica amministrativa degli interventi elencati nell'Allegato 1, non dispone nuovi stanziamenti, impegni o rimodulazioni di importi monetari. Poiché non vengono movimentate risorse finanziarie (capitoli/importi) ma solo scadenze temporali, non sono stati generati record di finanziamento ai sensi delle regole R1-R15. Gli interventi citati nell'Allegato 1 non riportano i relativi CUP o importi nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"D.M. 22 dicembre 2017, n. 587\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 6 agosto 2018, n. 360\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 2 marzo 2018, n. 86\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 27 dicembre 2019, n. 607\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 22 novembre 2021, n. 464\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 23 dicembre 2022, n. 410\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 7 agosto 2023, n. 191\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.M. 22 dicembre 2023, n. 343\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"Allegato 1\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto è una disposizione di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV). Sebbene l'atto modifichi la tempistica amministrativa degli interventi elencati nell'Allegato 1, non dispone nuovi stanziamenti, impegni o rimodulazioni di importi monetari. Poiché non vengono movimentate risorse finanziarie (capitoli/importi) ma solo scadenze temporali, non sono stati generati record di finanziamento ai sensi delle regole R1-R15. Gli interventi citati nell'Allegato 1 non riportano i relativi CUP o importi nel testo fornito.\"\n}"
+}

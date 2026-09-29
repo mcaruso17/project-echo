@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:49:08",
+  "received_at": "2026-07-24T12:49:11",
+  "latency_seconds": 2.658,
+  "prompt_tokens": 4153,
+  "completion_tokens": 258,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4411,
+  "cost_usd_api": 0.00083942,
+  "cost_usd_reconstructed": 0.00079789,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890148-VtIySciymW25VfTQxtgz",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "125/2024",
+    "data_decreto": "2024-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (D.M. 125/2024) dispone esclusivamente proroghe dei termini per il conseguimento dell'obbligazione giuridicamente vincolante (OGV) per interventi già finanziati da precedenti decreti. Non sono presenti azioni di finanziamento (assegnazione, definanziamento o rimodulazione di risorse di bilancio) nel testo del decreto corrente né negli allegati. I riferimenti a importi o decreti precedenti (es. D.M. 464/2021, D.I. 97/2022) servono solo a contestualizzare la necessità di proroga o eventuale futura rimodulazione, ma non costituiscono azioni finanziarie del decreto in esame."
+  },
+  "records": [],
+  "raw_content": null
+}

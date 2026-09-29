@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:41:48",
+  "received_at": "2026-08-06T12:41:49",
+  "latency_seconds": 1.64,
+  "prompt_tokens": 6685,
+  "completion_tokens": 198,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6883,
+  "cost_usd_api": 0.00196825,
+  "cost_usd_reconstructed": 0.00196825,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012908-opFuWwAaBRUbRql3m69K",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il documento fornito non contiene il numero di decreto né la data di emanazione. L'assegnazione è stata estratta dall'Articolo 1."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Il decreto non riporta un numero di protocollo o numero di decreto esplicito nel testo fornito."
+    }
+  ],
+  "raw_content": null
+}

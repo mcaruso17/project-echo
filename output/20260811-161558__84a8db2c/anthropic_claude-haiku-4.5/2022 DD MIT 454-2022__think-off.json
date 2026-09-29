@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:17:10",
+  "received_at": "2026-08-11T16:17:17",
+  "latency_seconds": 7.276,
+  "prompt_tokens": 5549,
+  "completion_tokens": 919,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6468,
+  "cost_usd_api": 0.010144,
+  "cost_usd_reconstructed": 0.010144,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457830-8RDknPpH2uXqmTBUAyrH",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non reca numero e data nella parte dispositiva. La parte dispositiva contiene due articoli che autorizzano impegni di spesa pluriennali a favore di Roma Capitale per l'intervento Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma. L'art. 1 autorizza € 14.000.000,00 in conto residui 2021, l'art. 2 autorizza € 131.000.000,00 ripartiti negli anni 2022-2025. Tutti gli importi sono riferiti al medesimo CUP E51I04000010007, capitolo 7426, piano gestionale 1."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021, per il corrente esercizio finanziario"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 35000000.0,
+      "importo_originale": "€ 35.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella anno 2022",
+      "note": "Impegno per anno 2022"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 40000000.0,
+      "importo_originale": "€ 40.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella anno 2023",
+      "note": "Impegno per anno 2023"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 33500000.0,
+      "importo_originale": "€ 33.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella anno 2024",
+      "note": "Impegno per anno 2024"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 22500000.0,
+      "importo_originale": "€ 22.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, tabella anno 2025",
+      "note": "Impegno per anno 2025"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:48:57",
+  "received_at": "2026-08-06T14:49:03",
+  "latency_seconds": 6.03,
+  "prompt_tokens": 4689,
+  "completion_tokens": 348,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5037,
+  "cost_usd_api": 0.032145,
+  "cost_usd_reconstructed": 0.032145,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020537-G3JyjVyFNcqOEi7NvFmP",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la rimodulazione dei termini (cronoprogramma) previsti nell'allegato 1 del decreto n. 97 del 2022 per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001). Si tratta di una proroga di termini temporali (affidamento 30.06.2025, avanzamento 50% 31.03.2027, ultimazione 31.12.2029) e NON di un'azione di finanziamento con movimentazione di risorse: non sono indicati importi, capitoli o piani gestionali. Il numero e la data del decreto corrente non risultano riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

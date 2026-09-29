@@ -1,0 +1,88 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:33:31",
+  "received_at": "2026-08-14T15:33:50",
+  "latency_seconds": 18.602,
+  "prompt_tokens": 11626,
+  "completion_tokens": 1558,
+  "reasoning_tokens": 306,
+  "cached_tokens": 0,
+  "total_tokens": 13184,
+  "cost_usd_api": 0.19416,
+  "cost_usd_reconstructed": 0.19416,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714412-abOUDis2Kvdt7c8IhQnB",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo fornito non riporta numero e data del decreto corrente, né i capitoli di spesa o i piani gestionali. I CUP degli interventi sono citati come esistenti (art. 10, art. 15) ma sono contenuti nell'Allegato 1, non incluso nel testo fornito. L'importo complessivo assegnato è 46,20 milioni di euro (art. 1 e art. 2); la restante quota di 103,80 milioni sarà ripartita con successivo decreto (art. 1, comma 3) e non è stata estratta come azione di finanziamento."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Regione Liguria - ripartizione annua: 5,00 mln (2023), 5,00 mln (2024), 4,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile ferroviario regionale; interventi di cui all'Allegato 2 del DM 363/2021, riportati nell'Allegato 1 (non presente nel testo fornito)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Regione Toscana - ripartizione annua: 5,00 mln (2023), 4,00 mln (2024), 4,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile ferroviario regionale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Provincia Autonoma di Trento - ripartizione annua: 4,00 mln (2023), 3,00 mln (2024), 3,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile ferroviario regionale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Provincia Autonoma di Bolzano - ripartizione annua: 3,20 mln (2023), 3,00 mln (2024), 3,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile ferroviario regionale."
+    }
+  ],
+  "raw_content": null
+}

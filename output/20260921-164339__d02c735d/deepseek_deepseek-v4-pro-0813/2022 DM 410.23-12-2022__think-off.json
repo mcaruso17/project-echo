@@ -1,0 +1,69 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:55:47",
+  "received_at": "2026-09-21T16:55:54",
+  "latency_seconds": 6.44,
+  "prompt_tokens": 6613,
+  "completion_tokens": 467,
+  "reasoning_tokens": 0,
+  "cached_tokens": 4096,
+  "total_tokens": 7080,
+  "cost_usd_api": 0.002344168992,
+  "cost_usd_reconstructed": 0.0032829450000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790002548-hUiVWZndNKzG77myWnUM",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 14 gennaio 2022, n. 8",
+        "relazione": "modifica"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del 2020",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente non dispone azioni di finanziamento: proroga esclusivamente i termini per il conseguimento delle obbligazioni giuridicamente vincolanti. Nessun CUP o importo è indicato nella parte dispositiva."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 14 gennaio 2022, n. 8\",\n    \"relazione\": \"modifica\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del 2020\",\n    \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente non dispone azioni di finanziamento: proroga esclusivamente i termini per il conseguimento delle obbligazioni giuridicamente vincolanti. Nessun CUP o importo è indicato nella parte dispositiva.\"\n}"
+}

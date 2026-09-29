@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:06:02",
+  "received_at": "2026-08-06T13:06:22",
+  "latency_seconds": 19.771,
+  "prompt_tokens": 8222,
+  "completion_tokens": 1012,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9234,
+  "cost_usd_api": 0.000902231,
+  "cost_usd_reconstructed": 0.00089812,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014362-Gos3Jogntpxu2TlZ3vlH",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": null
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": null
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": null
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": null
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": null
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 6",
+      "note": null
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 7",
+      "note": null
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 64158886.29,
+      "importo_originale": "64.158.886,29",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 8",
+      "note": null
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 9",
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,87 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:01:24",
+  "received_at": "2026-08-06T13:04:42",
+  "latency_seconds": 198.363,
+  "prompt_tokens": 7734,
+  "completion_tokens": 6047,
+  "reasoning_tokens": 5142,
+  "cached_tokens": 0,
+  "total_tokens": 13781,
+  "cost_usd_api": 1.32048,
+  "cost_usd_reconstructed": 1.32048,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786014084-Cy7xYlb8bJr6i6Ml3nK9",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo fornito non riporta numero né data del decreto corrente. Per gli interventi con più CUP, il finanziamento ammesso è riportato nell'allegato solo a livello di intervento complessivo e non ripartito esplicitamente per singolo CUP; per questo il campo cup è valorizzato solo quando l'intervento ha un unico CUP."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 - Piano di riparto, Comune di Torino",
+      "note": "Beneficiario: Comune di Torino; intervento: Prolungamento linea tranviaria 12 all’Allianz Stadium e recupero trincea ferroviaria Torino-Ceres."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 - Piano di riparto, Comune di Milano - Metropolitana linea M3",
+      "note": "Beneficiario: Comune di Milano; intervento: Metropolitana linea M3 - interventi di adeguamento antincendio ai sensi del DM 21.10.2015. Il finanziamento ammesso è indicato a livello di intervento complessivo; CUP subinterventi: F47C19000370001, F47D17000140005, F47C19000380001, F47C19000390001."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 - Piano di riparto, Comune di Milano - Metropolitana linee M1 + M2",
+      "note": "Beneficiario: Comune di Milano; intervento: Metropolitana linee M1 + M2 - interventi di adeguamento antincendio ai sensi del DM 21.10.2015 fase 2. Il finanziamento ammesso è indicato a livello di intervento complessivo; CUP subinterventi: F47C19000350001, F47C19000360001."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 - Piano di riparto, Comune di Genova",
+      "note": "Beneficiario: Comune di Genova; intervento: Linea metropolitana - prolungamento a Rivarolo e completamento della stazione di Martinez/Terralba. Il finanziamento ammesso è indicato a livello di intervento complessivo; CUP subinterventi: B31J23000240001, B34J18000230001."
+    }
+  ],
+  "raw_content": null
+}

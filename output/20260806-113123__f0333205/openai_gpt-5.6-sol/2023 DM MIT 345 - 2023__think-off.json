@@ -1,0 +1,62 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:22:01",
+  "received_at": "2026-08-06T14:22:11",
+  "latency_seconds": 9.226,
+  "prompt_tokens": 14008,
+  "completion_tokens": 534,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 14542,
+  "cost_usd_api": 0.0950505,
+  "cost_usd_reconstructed": 0.08606,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786018922-DU0NKt5RlJVnwoeEH7Kw",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Nel testo fornito non sono riportati il numero e la data del decreto corrente. Gli allegati sostitutivi contengono prevalentemente interventi già finanziati dal DM n. 448/2021; sono state estratte soltanto le due nuove operazioni esplicitamente indicate nel preambolo come assegnazione e inserimento mediante rimodulazione. Non sono indicati capitolo di spesa e piano gestionale. L'importo sottratto agli interventi sostituiti o rimodulati non è esplicitato nella parte dispositiva o negli allegati, quindi non è stata creata una gamba negativa."
+  },
+  "records": [
+    {
+      "cup": "H91F18000260005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14642359.1,
+      "importo_originale": "14.642.359,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1, riga Comune di Padova – Linea SIR3",
+      "note": "Nuovo contributo PNRR assegnato alla Linea tranviaria SIR3 – tratta Stazione-Voltabarozzo, in sostituzione dell'intervento della Città metropolitana di Napoli."
+    },
+    {
+      "cup": "H21E03000370005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7201544.96,
+      "importo_originale": "7.201.544,96",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 2, riga Comune di Firenze – Linea 2 Tratta 2 Variante alternativa al centro storico",
+      "note": "Intervento inserito dal decreto corrente tra gli interventi a legislazione vigente mediante rimodulazione delle risorse PNRR dell'Allegato 2."
+    }
+  ],
+  "raw_content": null
+}

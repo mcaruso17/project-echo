@@ -1,0 +1,61 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:55:25",
+  "received_at": "2026-09-21T16:55:31",
+  "latency_seconds": 5.869,
+  "prompt_tokens": 5654,
+  "completion_tokens": 413,
+  "reasoning_tokens": 0,
+  "cached_tokens": 4096,
+  "total_tokens": 6067,
+  "cost_usd_api": 0.00186239328,
+  "cost_usd_reconstructed": 0.0028187999999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790002525-xwG4jUh9ozjvGoQz8Pu4",
+    "provider": "Alibaba",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "modifica"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "modifica"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184",
+        "relazione": "modifica"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente non dispone alcuna azione di finanziamento: si limita a prorogare al 31 dicembre 2022 il termine per il conseguimento delle obbligazioni giuridicamente vincolanti previsto dai decreti n. 587/2017 e n. 86/2018, già modificato dal decreto n. 184/2020. Non sono presenti allegati né tabelle con CUP o importi."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e della Mobilità Sostenibili\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\",\n      \"relazione\": \"modifica\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\",\n      \"relazione\": \"modifica\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184\",\n      \"relazione\": \"modifica\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente non dispone alcuna azione di finanziamento: si limita a prorogare al 31 dicembre 2022 il termine per il conseguimento delle obbligazioni giuridicamente vincolanti previsto dai decreti n. 587/2017 e n. 86/2018, già modificato dal decreto n. 184/2020. Non sono presenti allegati né tabelle con CUP o importi.\"\n}"
+}

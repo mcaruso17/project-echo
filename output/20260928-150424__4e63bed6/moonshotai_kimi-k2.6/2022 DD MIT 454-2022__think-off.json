@@ -1,0 +1,116 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T15:04:24",
+  "received_at": "2026-09-28T15:04:47",
+  "latency_seconds": 22.414,
+  "prompt_tokens": 9746,
+  "completion_tokens": 1186,
+  "reasoning_tokens": 0,
+  "cached_tokens": 6724,
+  "total_tokens": 10932,
+  "cost_usd_api": 0.00433667926,
+  "cost_usd_reconstructed": 0.014002699999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790600665-ffvVx0nG4vQgHwlzDFTs",
+    "provider": "Baidu",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "decreto legge 12 settembre 2014, n. 133",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 30 dicembre 2021, n. 234",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non reca numero né data nel testo fornito (il documento si interrompe con la firma del Direttore della Div 2). Il numero e la data sono da recuperare dall'intestazione completa del decreto. Non sono presenti allegati nel testo fornito. Le annualità riportate in tabella non generano record separati in quanto ripartizioni di un importo già registrato (art. 2, € 131.000.000,00 totale)."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato... l'impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "impegno in conto residui di lettera F, esercizio di provenienza 2021"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1]",
+      "passaggio_testuale": "è autorizzato l'impegno... per l'importo complessivo di € 131.000.000,00... 2022 35.000.000,00 €; 2023 40.000.000,00 €; 2024 33.500.000,00 €; 2025 22.500.000,00 €",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "impegno pluriennale ripartito in annualità: 2022-35mln, 2023-40mln, 2024-33,5mln, 2025-22,5mln"
+    }
+  ],
+  "raw_content": null
+}

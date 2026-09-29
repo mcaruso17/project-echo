@@ -1,0 +1,54 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:23:52",
+  "received_at": "2026-08-11T16:24:10",
+  "latency_seconds": 17.188,
+  "prompt_tokens": 9648,
+  "completion_tokens": 994,
+  "reasoning_tokens": 97,
+  "cached_tokens": 0,
+  "total_tokens": 10642,
+  "cost_usd_api": 0.14618,
+  "cost_usd_reconstructed": 0.14618,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786458233-ByGnRPDXaODjQKAZu6Ax",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta nel testo fornito numero e data di emanazione (firma 'IL MINISTRO' senza estremi). Il capitolo 7400 e il piano gestionale 5 sono desunti dal preambolo, che identifica il fondo su cui grava l'assegnazione disposta all'art. 1. Il decreto n. 443/2021 citato è un provvedimento precedente e non è stato usato come numero del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto', costo totale stimato € 2.250.000,00, a valere sul fondo ex art. 1, comma 95, legge 145/2018 (iscritto sul capitolo 7400, PG 5, come indicato nel preambolo). Il CUP indicato ('PROV0000026838') appare come codice provvisorio di 14 caratteri, non un CUP definitivo di 15 caratteri. Risorse residue dal riparto del decreto n. 443/2021 (citato solo come contesto)."
+    }
+  ],
+  "raw_content": null
+}

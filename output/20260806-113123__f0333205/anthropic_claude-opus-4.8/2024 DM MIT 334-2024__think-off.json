@@ -1,0 +1,62 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:56:55",
+  "received_at": "2026-08-06T14:57:08",
+  "latency_seconds": 12.999,
+  "prompt_tokens": 21989,
+  "completion_tokens": 906,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 22895,
+  "cost_usd_api": 0.132595,
+  "cost_usd_reconstructed": 0.132595,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786021015-pTedslxS6fYHm3aJN75A",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non riporta esplicitamente numero e data del decreto corrente (firma 'IL MINISTRO' senza estremi). Il decreto è del Ministro delle Infrastrutture e dei Trasporti e dispone la sostituzione degli allegati 1 e 2 del D.M. 345/2023 (rimodulazione della Misura PNRR M2C2 I4.2). Gli importi indicati negli Allegati 1 e 2 costituiscono il quadro complessivo di riparto risultante dalla rimodulazione (finanziamenti PNRR già assegnati con decreti precedenti, non nuove assegnazioni disposte dal presente decreto); pertanto non sono stati estratti come singole azioni. Sono state estratte solo le assegnazioni di risorse statali esplicitamente disposte dall'art. 2 (fonte: legge n. 160/2019). L'art. 4 richiama risorse non allocate per 1.143.995,00 € destinate alle spese del valutatore indipendente, senza costituire assegnazione a un beneficiario/CUP specifico. Non sono indicati capitoli o piani gestionali di bilancio."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Trieste per l'intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso', a valere sulle risorse dell'art. 1, comma 14, legge n. 160 del 2019."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Milano per il completamento dell'intervento 'Tramvia 7 Bausan – Villapizzone', a valere sulle risorse dell'art. 1, comma 14, legge n. 160 del 2019."
+    }
+  ],
+  "raw_content": null
+}

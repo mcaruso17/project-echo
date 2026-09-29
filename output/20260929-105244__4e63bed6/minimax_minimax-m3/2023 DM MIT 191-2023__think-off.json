@@ -1,0 +1,307 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:22:18",
+  "received_at": "2026-09-29T11:23:19",
+  "latency_seconds": 61.12,
+  "prompt_tokens": 12174,
+  "completion_tokens": 3951,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5632,
+  "total_tokens": 16125,
+  "cost_usd_api": 0.00704172,
+  "cost_usd_reconstructed": 0.008393399999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673738-XtlFjDhepxlGGJTBkx8s",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DM Interministeriale (MIT-MEF) n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Avviso n. 2 del 16 maggio 2019 (MIT) - Trasporto Rapido di Massa ad Impianti Fissi",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2018, n. 145, art. 1, comma 95",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2021, n. 234",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MEF 31 dicembre 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Intesa Conferenza unificata del 7 giugno 2023",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 - Piano di riparto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1 - Piano di riparto"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale del MIT (senza numero/data stampati nel testo fornito) che dispone l'assegnazione di € 362.137.535,13 sul capitolo 7400 pg 1 a valere sulle risorse rese disponibili a seguito del D.M. 464/2021 e D.I. 97/2022, in attuazione dell'art. 2, comma 2, del D.I. 97/2022 (scorrimento graduatoria Avviso n. 2). L'art. 1 rinvia l'impegno contabile a un successivo provvedimento: pertanto lo stato amministrativo dell'importo è 'assegnato' e non 'impegnato'. L'Allegato 1 contiene 8 CUP totali (1 Torino, 6 Milano, 2 Genova) con importi aggregati a livello di CUP-intervento per Torino, Milano M3 e Genova, e a livello di CUP per Milano M1+M2. Il totale degli importi nella colonna 'FINANZIAMENTO AMMESSO' (221.721.410,41 + 2.000.000 + 20.900.000,02 + 2.100.000 + 45.000.000,07 + 74.516.124,63) non corrisponde al totale di € 362.137.535,13 dichiarato nell'atto, perché include anche i costi intervento cofinanziati; si sono pertanto estratti solo gli importi della colonna 'FINANZIAMENTO AMMESSO' disposta dall'atto (colonna_fonte). I sub-interventi con cella vuota o '-' nella colonna 'FINANZIAMENTO AMMESSO' sono registrati con importo 0 e stato 'assegnato' (nessuna quota di finanziamento statale, coperti da cofinanziamento), come richiesto dalla R3 per importi pari a zero. Non sono state prodotte righe per i costi totali di intervento/sistema (colonne 'COSTO TOTALE INTERVENTO' e 'COSTO SISTEMA'), trattandosi di descrizione del costo complessivo dell'intervento e non di assegnazione disposta dall'atto."
+  },
+  "records": [
+    {
+      "cup": [
+        "C11J22000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga COMUNE DI TORINO",
+      "passaggio_testuale": "COMUNE DI TORINO | PROLUNGAMENTO LINEA TRANVIARIA 12 ALL'ALLIANZ STADIUM... | C11J22000000001 | 221.721.410,41",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Beneficiario: Comune di Torino; intervento: prolungamento linea tranviaria e recupero trincea ferroviaria Torino-Ceres; sistema: tranvia."
+    },
+    {
+      "cup": [
+        "F47C19000370001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47C19000370001 (Comune di Milano, M3)",
+      "passaggio_testuale": "F47C19000370001 | NUOVI IMPIANTI DI RIVELAZIONE E SEGNALAZIONE DEGLI INCENDI... | 9.803.527,30 | 2.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: nuovi impianti di rivelazione e segnalazione incendi, rimozione impianti esistenti e potenziamento impianti illuminazione di emergenza e compartimentazioni locali tecnici; costo sub-intervento € 9.803.527,30; cofinanziamento disponibile (non assegnato dallo Stato)."
+    },
+    {
+      "cup": [
+        "F47D17000140005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47D17000140005 (Comune di Milano, M3)",
+      "passaggio_testuale": "F47D17000140005 | RIFACIMENTO DELL'IMPIANTO DI DIFFUSIONE SONORA... | 4.056.131,32 | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: rifacimento impianto di diffusione sonora linea 3; costo sub-intervento € 4.056.131,32; finanziamento ammesso dallo Stato = 0 (coperto da cofinanziamento)."
+    },
+    {
+      "cup": [
+        "F47C19000380001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47C19000380001 (Comune di Milano, M3)",
+      "passaggio_testuale": "F47C19000380001 | NUOVI CAVI FIBRA OTTICA RESISTENTI AL FUOCO IN SOLUZIONE RIDONDATA | 1.165.984,00 | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: nuovi cavi fibra ottica resistenti al fuoco; costo sub-intervento € 1.165.984,00; finanziamento ammesso dallo Stato = 0 (coperto da cofinanziamento)."
+    },
+    {
+      "cup": [
+        "F47C19000390001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47C19000390001 (Comune di Milano, M3)",
+      "passaggio_testuale": "F47C19000390001 | INTERVENTI DI AMMODERNAMENTO SSE DUOMO | 9.974.357,40 | 2.100.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: ammodernamento SSE Duomo; costo sub-intervento € 9.974.357,40; cofinanziamento disponibile."
+    },
+    {
+      "cup": [
+        "F47C19000350001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47C19000350001 (Comune di Milano, M1+M2)",
+      "passaggio_testuale": "F47C19000350001 | COMPLETAMENTO OPERE CIVILI DI COMPARTIMENTAZIONE E RESISTENZA ANTINCENDIO | 10.067.742,09 | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: completamento opere civili di compartimentazione e resistenza antincendio (Fase 2); costo sub-intervento € 10.067.742,09; finanziamento ammesso dallo Stato = 0 (coperto da cofinanziamento)."
+    },
+    {
+      "cup": [
+        "F47C19000360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP F47C19000360001 (Comune di Milano, M1+M2)",
+      "passaggio_testuale": "F47C19000360001 | ADEGUAMENTO DEGLI IMPIANTI DEI GE, DELLE CABINE ELETTRICHE E SOSTITUZIONE CAVI | 34.932.257,98 |",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: adeguamento impianti GE, cabine elettriche e sostituzione cavi (Fase 2); costo sub-intervento € 34.932.257,98; cella finanziamento ammesso vuota (assenza di valore = nessuna assegnazione statale)."
+    },
+    {
+      "cup": [
+        "B31J23000240001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP B31J23000240001 (Comune di Genova)",
+      "passaggio_testuale": "B31J23000240001 | TRATTA CANEPARI - RIVAROLO | 64.158.886,29 | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: tratta Canepari-Rivarolo; costo sub-intervento € 64.158.886,29; finanziamento ammesso dallo Stato = 0 (coperto da cofinanziamento)."
+    },
+    {
+      "cup": [
+        "B34J18000230001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], sub-intervento su CUP B34J18000230001 (Comune di Genova)",
+      "passaggio_testuale": "B34J18000230001 | COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/TERRALBA | 10.357.238,34 |",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Sub-intervento: completamento della stazione di Martinez/Terralba; costo sub-intervento € 10.357.238,34; cella finanziamento ammesso vuota (nessuna assegnazione statale)."
+    }
+  ],
+  "raw_content": null
+}

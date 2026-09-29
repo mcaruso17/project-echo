@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:26:30",
+  "received_at": "2026-08-11T16:26:39",
+  "latency_seconds": 8.213,
+  "prompt_tokens": 10747,
+  "completion_tokens": 424,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11171,
+  "cost_usd_api": 0.064335,
+  "cost_usd_reconstructed": 0.064335,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458391-F2OoKKT3USPHgIXMq0R5",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (Art. 1) e una previsione generale sulla destinazione di risorse eventualmente disponibili a seguito di definanziamento (Art. 2), senza indicare capitoli di spesa, piani gestionali né importi. Gli allegati 1 e 2 riportano solo interventi, comuni e scadenze OGV, senza importi o azioni di finanziamento. I CUP e i decreti (es. 464/2021, 517/2020, 97/2022, 607/2019, 360/2018, 86/2018) citati nelle tabelle del preambolo si riferiscono a precedenti assegnazioni e non al decreto corrente. Non sono pertanto presenti azioni di finanziamento estraibili. Il numero e la data del decreto corrente non risultano riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:33:49",
+  "received_at": "2026-08-06T12:33:50",
+  "latency_seconds": 1.525,
+  "prompt_tokens": 2632,
+  "completion_tokens": 85,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2,
+  "total_tokens": 2717,
+  "cost_usd_api": 0.00021812,
+  "cost_usd_reconstructed": 0.00019192,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012429-vxbd8VBhQ7rXED5VNnMd",
+    "provider": "Novita",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": null
+}

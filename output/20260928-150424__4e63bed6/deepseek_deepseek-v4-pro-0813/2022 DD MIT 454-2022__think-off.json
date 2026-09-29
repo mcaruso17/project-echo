@@ -1,0 +1,108 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T15:04:24",
+  "received_at": "2026-09-28T15:04:41",
+  "latency_seconds": 16.589,
+  "prompt_tokens": 9304,
+  "completion_tokens": 1165,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10469,
+  "cost_usd_api": 0.013515744,
+  "cost_usd_reconstructed": 0.005913138,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790600665-EsybBJXpBLOCsjPK6jej",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data del decreto. Il testo contiene un refuso: 'decreto del Ministro dell'economia e delle finanze del 31 dicembre 202' (anno incompleto). Non sono presenti allegati richiamati né tabelle allegate oltre alla tabella riportata nel testo. Le risorse di € 90 milioni del 2017 e € 55 milioni del 2018 reiscritte negli esercizi 2021-2025 sono citate nel preambolo e trovano attuazione negli impegni disposti dagli articoli 1 e 2."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato, per il corrente esercizio finanziario, a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007, l'impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1]",
+      "passaggio_testuale": "è autorizzato l'impegno, sul capitolo 7426, piano di gestione 1, ... per l'importo complessivo di € 131.000.000,00 a favore di Roma Capitale, per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo ripartito in annualità 2022-2025. Le quote annuali non generano record separati."
+    }
+  ],
+  "raw_content": null
+}

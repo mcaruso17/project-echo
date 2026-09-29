@@ -1,0 +1,54 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:36:52",
+  "received_at": "2026-08-06T15:37:06",
+  "latency_seconds": 13.959,
+  "prompt_tokens": 5299,
+  "completion_tokens": 3305,
+  "reasoning_tokens": 2900,
+  "cached_tokens": 0,
+  "total_tokens": 8604,
+  "cost_usd_api": 0.032736,
+  "cost_usd_reconstructed": 0.032736,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786023412-JKPgDWv93xsA5K5IdY7U",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 regolante il finanziamento dell'intervento. Il decreto corrente non reca un numero proprio né una data di emanazione esplicita nel testo fornito."
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Contributo complessivo per il prolungamento della Linea metropolitana M5 di Milano fino al Comune di Monza disciplinato dal Secondo Atto Modificativo, di cui € 900.000.000,00 a valere sulla L. 145/2018 (già impegnati con DD 381/2019) ed € 15.000.000,00 a valere sulla L. 234/2021 (già impegnati con DD 108/2024)."
+    }
+  ],
+  "raw_content": null
+}

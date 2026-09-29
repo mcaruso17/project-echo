@@ -1,0 +1,53 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:13:47",
+  "received_at": "2026-09-29T11:13:51",
+  "latency_seconds": 4.089,
+  "prompt_tokens": 6735,
+  "completion_tokens": 342,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7077,
+  "cost_usd_api": 0.00135225,
+  "cost_usd_reconstructed": 0.00135225,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673228-9UoNo4lVKBk5qji4LGCQ",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "184",
+    "data_decreto": "2020-04-30",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "rettifica",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "rettifica"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "rettifica"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente (DM n. 184/2020) dispone esclusivamente la modifica del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1). Non dispone assegnazioni, impegni, definanziamenti o rimodulazioni di importi finanziari. Di conseguenza, non vi sono azioni di finanziamento da registrare nel registro. Gli atti citati (n. 587/2017 e n. 86/2018) sono quelli i cui termini vengono rettificati."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"184\",\n  \"data_decreto\": \"2020-04-30\",\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"rettifica\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"rettifica\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"rettifica\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente (DM n. 184/2020) dispone esclusivamente la modifica del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1). Non dispone assegnazioni, impegni, definanziamenti o rimodulazioni di importi finanziari. Di conseguenza, non vi sono azioni di finanziamento da registrare nel registro. Gli atti citati (n. 587/2017 e n. 86/2018) sono quelli i cui termini vengono rettificati.\"\n}"
+}

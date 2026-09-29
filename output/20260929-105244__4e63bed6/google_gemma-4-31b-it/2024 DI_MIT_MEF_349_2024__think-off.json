@@ -1,0 +1,63 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:20",
+  "received_at": "2026-09-29T12:08:35",
+  "latency_seconds": 14.499,
+  "prompt_tokens": 7786,
+  "completion_tokens": 415,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 8201,
+  "cost_usd_api": 0.00125604,
+  "cost_usd_reconstructed": 0.0008418400000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790676501-GQnoT9fUP80Y64YDc7Pq",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM 20 aprile 2022, n. 97",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM 30 dicembre 2023, n. 362",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM 17 aprile 2024, n. 107",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 del D.I. n. 97/2022",
+      "Allegato 2 del D.I. n. 97/2022"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente dispone esclusivamente proroghe di termini temporali (Art. 1) e l'abrogazione di un obiettivo intermedio di avanzamento. Non sono presenti assegnazioni, impegni o rimodulazioni di risorse finanziarie associate a codici CUP nel testo della parte dispositiva. I riferimenti a stanziamenti di legge o decreti precedenti nel preambolo non costituiscono eventi contabili ai sensi della regola R2."
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM 20 aprile 2022, n. 97\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM 30 dicembre 2023, n. 362\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM 17 aprile 2024, n. 107\",\n      \"relazione\": \"integra\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1 del D.I. n. 97/2022\",\n    \"Allegato 2 del D.I. n. 97/2022\"\n  ],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente dispone esclusivamente proroghe di termini temporali (Art. 1) e l'abrogazione di un obiettivo intermedio di avanzamento. Non sono presenti assegnazioni, impegni o rimodulazioni di risorse finanziarie associate a codici CUP nel testo della parte dispositiva. I riferimenti a stanziamenti di legge o decreti precedenti nel preambolo non costituiscono eventi contabili ai sensi della regola R2.\"\n}\n```"
+}

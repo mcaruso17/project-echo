@@ -1,0 +1,486 @@
+{
+  "2022 DM MIT 409-2022.pdf::kimi-k2.6": {
+    "decree_file": "2022 DM MIT 409-2022.pdf",
+    "model": "kimi-k2.6",
+    "model_slug": "moonshotai/kimi-k2.6",
+    "extraction_timestamp": "2026-07-21T18:11:47",
+    "n_pages": 5,
+    "status": "ok",
+    "prompt_tokens": 4531,
+    "completion_tokens": 603,
+    "cost_usd": 0.0081507,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": "97/2022",
+      "decree_date": "2022-12-21",
+      "ministry_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+      "ministry_2": "Ministero dell'economia e delle finanze",
+      "extraction_notes": "Il decreto è un decreto interministeriale (MIT e MEF) del 20 aprile 2022, n. 97, ma l'intesa della Conferenza Unificata è del 21 dicembre 2022. Il testo non riporta esplicitamente il numero del decreto né la data di emanazione nell'intestazione; il numero 97/2022 e la data sono inferiti dal riferimento nel considerando 'decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze del 20 aprile 2022, n. 97'. Non sono presenti nel testo riferimenti a capitoli di spesa (cap) o piani gestionali (pg). Le risorse sono ripartite dal limite complessivo di 75 milioni di euro previsto dall'art. 33 bis del DL 36/2022, ma non è indicato il capitolo di spesa specifico da cui provengono le risorse. Il decreto contiene solo assegnazioni, non definanziamenti o rimodulazioni esplicite."
+    },
+    "records": [
+      {
+        "cup": "C61C22007040001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37448232.02,
+        "amount_raw": "€ 37.448.232,02",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, primo trattino",
+        "notes": "Assegnazione alla provincia autonoma di Trento per l'intervento 'Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna'"
+      },
+      {
+        "cup": "J51C22002060001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37500000.0,
+        "amount_raw": "€ 37.500.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, secondo trattino",
+        "notes": "Assegnazione alla provincia autonoma di Bolzano quale cofinanziamento per l'intervento 'Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo'"
+      }
+    ],
+    "raw_content": null
+  },
+  "2022 DM MIT 409-2022.pdf::qwen3.5": {
+    "decree_file": "2022 DM MIT 409-2022.pdf",
+    "model": "qwen3.5",
+    "model_slug": "qwen/qwen3.5-397b-a17b",
+    "extraction_timestamp": "2026-07-21T18:11:55",
+    "n_pages": 5,
+    "status": "ok",
+    "prompt_tokens": 4073,
+    "completion_tokens": 524,
+    "cost_usd": 0.00340485,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministro delle Infrastrutture e dei Trasporti",
+      "ministry_2": null,
+      "extraction_notes": "Il decreto ripartisce risorse per un totale di 75 milioni di euro (limite complessivo citato nel preambolo e Art. 1) tra due progetti identificati da CUP. Non sono esplicitati i capitoli di spesa (cap) o i piani gestionali (pg) specifici nel testo fornito, sebbene si faccia riferimento generico allo 'stanziamento pluriennale previsto in bilancio' (Art. 2). La data e il numero del decreto non sono presenti nel frammento di testo fornito (mancano l'intestazione finale con la data e il numero di registrazione)."
+    },
+    "records": [
+      {
+        "cup": "C61C22007040001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37448232.02,
+        "amount_raw": "€ 37.448.232,02",
+        "action_type": "assegnazione",
+        "source_reference": "Articolo 1, comma 1",
+        "notes": "Intervento: Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna. Beneficiario: Provincia autonoma di Trento."
+      },
+      {
+        "cup": "J51C22002060001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37500000.0,
+        "amount_raw": "€ 37.500.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "Articolo 1, comma 1",
+        "notes": "Intervento: Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo. Beneficiario: Provincia autonoma di Bolzano."
+      }
+    ],
+    "raw_content": null
+  },
+  "2022 DM MIT 409-2022.pdf::mistral-small-4": {
+    "decree_file": "2022 DM MIT 409-2022.pdf",
+    "model": "mistral-small-4",
+    "model_slug": "mistralai/mistral-small-4",
+    "extraction_timestamp": "2026-07-21T18:12:01",
+    "n_pages": 5,
+    "status": "error",
+    "error": "OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+  },
+  "2022 DM MIT 409-2022.pdf::claude-sonnet-5": {
+    "decree_file": "2022 DM MIT 409-2022.pdf",
+    "model": "claude-sonnet-5",
+    "model_slug": "anthropic/claude-sonnet-5",
+    "extraction_timestamp": "2026-07-21T18:12:32",
+    "n_pages": 5,
+    "status": "ok",
+    "prompt_tokens": 6123,
+    "completion_tokens": 615,
+    "cost_usd": 0.018396,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministero delle Infrastrutture e dei Trasporti",
+      "ministry_2": null,
+      "extraction_notes": "Il decreto non riporta numero né data di emanazione nel testo fornito, né capitoli/piani gestionali di bilancio; le risorse derivano dal limite complessivo di € 75.000.000,00 ex art. 33 bis del d.l. 36/2022. Nessun definanziamento o rimodulazione esplicitato nel testo."
+    },
+    "records": [
+      {
+        "cup": "C61C22007040001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37448232.02,
+        "amount_raw": "€ 37.448.232,02",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1",
+        "notes": "Contributo alla provincia autonoma di Trento per l'intervento 'Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna'"
+      },
+      {
+        "cup": "J51C22002060001",
+        "cup_valid": true,
+        "cap": null,
+        "pg": null,
+        "amount_eur": 37500000.0,
+        "amount_raw": "€ 37.500.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1",
+        "notes": "Cofinanziamento alla provincia autonoma di Bolzano per l'intervento 'Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo'"
+      }
+    ],
+    "raw_content": null
+  },
+  "2023 DM MIT 346-2023.pdf::kimi-k2.6": {
+    "decree_file": "2023 DM MIT 346-2023.pdf",
+    "model": "kimi-k2.6",
+    "model_slug": "moonshotai/kimi-k2.6",
+    "extraction_timestamp": "2026-07-21T18:12:49",
+    "n_pages": 3,
+    "status": "ok",
+    "prompt_tokens": 3936,
+    "completion_tokens": 958,
+    "cost_usd": 0.0075712,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": "191/2023",
+      "decree_date": "2023-08-07",
+      "ministry_1": "Ministero delle infrastrutture e dei trasporti",
+      "ministry_2": null,
+      "extraction_notes": "The decree assigns additional funds to 5 projects (6 CUPs total, but B24C17000320005 and B71J22000050006 share a single combined amount of €88.435.027,99). The total stated is €392.989.123,64. All funds come from cap 7400, pg 1. The CUP B71J22000050006 is listed as part of the same financing line as B24C17000320005 with a single amount; I have assigned the full amount to both CUPs as they appear to be joint lots of the same intervention, but this may represent a single financing action split across two project codes. The decree also mentions revoked PSC 2014-2020 resources of €59.000.000 for the Milano-Limbiate project, but this is a reference to prior revocation, not a financing action in this decree."
+    },
+    "records": [
+      {
+        "cup": "C81B21013200005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 63091133.28,
+        "amount_raw": "€ 63.091.133,28",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - BRESCIA Nuova Linea Tranviaria \"Pendolina-Fiera (T2)\"",
+        "notes": "Decreto di finanziamento 464/2021"
+      },
+      {
+        "cup": "H11J21000010003",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 48794211.94,
+        "amount_raw": "€ 48.794.211,94",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - FIRENZE Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2)",
+        "notes": "Decreto di finanziamento 517/2020"
+      },
+      {
+        "cup": "F44I19000530001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 47668750.43,
+        "amount_raw": "€ 47.668.750,43",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - MILANO Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1",
+        "notes": "Decreto di finanziamento 97/2022"
+      },
+      {
+        "cup": "B44D20000040001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 145000000.0,
+        "amount_raw": "€ 145.000.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - MILANO Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia",
+        "notes": "Decreti di finanziamento 607/2019 e 97/2022"
+      },
+      {
+        "cup": "B24C17000320005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 88435027.99,
+        "amount_raw": "€ 88.435.027,99",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - MILANO Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo",
+        "notes": "Decreti di finanziamento 360/2018 e 86/2018; include copertura risorse revocate PSC 2014-2020 pari a € 59.000.000"
+      },
+      {
+        "cup": "B71J22000050006",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 88435027.99,
+        "amount_raw": "€ 88.435.027,99",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella - MILANO Riqualificazione Metrotranvia Milano-Limbiate Lotto 2 - Varedo-Limbiate",
+        "notes": "Decreti di finanziamento 360/2018 e 86/2018; stesso importo complessivo condiviso con B24C17000320005"
+      }
+    ],
+    "raw_content": null
+  },
+  "2023 DM MIT 346-2023.pdf::qwen3.5": {
+    "decree_file": "2023 DM MIT 346-2023.pdf",
+    "model": "qwen3.5",
+    "model_slug": "qwen/qwen3.5-397b-a17b",
+    "extraction_timestamp": "2026-07-21T18:13:09",
+    "n_pages": 3,
+    "status": "ok",
+    "prompt_tokens": 3858,
+    "completion_tokens": 1202,
+    "cost_usd": 0.0053421,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministero delle infrastrutture e dei trasporti",
+      "ministry_2": null,
+      "extraction_notes": "Il decreto non riporta numero e data espliciti nell'intestazione fornita, ma cita numerosi decreti precedenti. La tabella assegna un importo totale di 88.435.027,99 EUR per la voce 'Riqualificazione Metrotranvia Milano-Limbiate' che elenca due CUP distinti (Lotto 1 e Lotto 2). Il testo specifica che tale somma include la copertura di risorse precedentemente revocate (59 milioni). Non essendo specificata una ripartizione dell'importo tra i due CUP nella tabella, si è riportata l'assegnazione per entrambi i CUP con l'importo totale come appare nella riga di sintesi, segnalando l'ambiguità nelle note. In alternativa, l'importo potrebbe essere unico per l'intervento complessivo identificato da due codici, ma la struttura della tabella suggerisce un'assegnazione congiunta."
+    },
+    "records": [
+      {
+        "cup": "C81B21013200005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 63091133.28,
+        "amount_raw": "€ 63.091.133,28",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Nuova Linea Tranviaria Pendolina-Fiera (T2) - Brescia"
+      },
+      {
+        "cup": "H11J21000010003",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 48794211.94,
+        "amount_raw": "€ 48.794.211,94",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano"
+      },
+      {
+        "cup": "F44I19000530001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 47668750.43,
+        "amount_raw": "€ 47.668.750,43",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1 - Milano"
+      },
+      {
+        "cup": "B44D20000040001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 145000000.0,
+        "amount_raw": "€ 145.000.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia - Milano"
+      },
+      {
+        "cup": "B24C17000320005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 88435027.99,
+        "amount_raw": "€ 88.435.027,99",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo (include copertura risorse revocate)"
+      },
+      {
+        "cup": "B71J22000050006",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 88435027.99,
+        "amount_raw": "€ 88.435.027,99",
+        "action_type": "assegnazione",
+        "source_reference": "ART. 1, comma 1, Tabella",
+        "notes": "Riqualificazione Metrotranvia Milano-Limbiate Lotto 2 - Varedo-Limbiate (include copertura risorse revocate). Nota: l'importo totale di 88.435.027,99 EUR sembra coprire entrambi i lotti o essere assegnato congiuntamente come indicato nella tabella."
+      }
+    ],
+    "raw_content": null
+  },
+  "2023 DM MIT 346-2023.pdf::mistral-small-4": {
+    "decree_file": "2023 DM MIT 346-2023.pdf",
+    "model": "mistral-small-4",
+    "model_slug": "mistralai/mistral-small-4",
+    "extraction_timestamp": "2026-07-21T18:13:19",
+    "n_pages": 3,
+    "status": "error",
+    "error": "OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+  },
+  "2023 DM MIT 346-2023.pdf::claude-sonnet-5": {
+    "decree_file": "2023 DM MIT 346-2023.pdf",
+    "model": "claude-sonnet-5",
+    "model_slug": "anthropic/claude-sonnet-5",
+    "extraction_timestamp": "2026-07-21T18:13:52",
+    "n_pages": 3,
+    "status": "ok",
+    "prompt_tokens": 5362,
+    "completion_tokens": 1360,
+    "cost_usd": 0.024324,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": "2023-12-06",
+      "ministry_1": "Ministero delle infrastrutture e dei trasporti",
+      "ministry_2": null,
+      "extraction_notes": "L'importo di € 88.435.027,99 è riportato in tabella come unico valore associato a due CUP distinti (Lotto 1 B24C17000320005 e Lotto 2 B71J22000050006); non è possibile determinare dal testo la ripartizione tra i due lotti, pertanto è stato riportato un solo record che copre entrambi i CUP citati nelle note. Non sono presenti nel testo altre azioni di definanziamento/riduzione con importi espliciti oltre al riferimento generico ai € 59.000.000 revocati dal PSC 2014-2020, che non costituisce un'azione di finanziamento disposta da questo decreto ma un presupposto citato nelle premesse."
+    },
+    "records": [
+      {
+        "cup": "C81B21013200005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 63091133.28,
+        "amount_raw": "€ 63.091.133,28",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella",
+        "notes": "Comune di Brescia - Nuova Linea Tranviaria 'Pendolina-Fiera (T2)'; contributo addizionale rispetto al DM 464/2021"
+      },
+      {
+        "cup": "H11J21000010003",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 48794211.94,
+        "amount_raw": "€ 48.794.211,94",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella",
+        "notes": "Comune di Firenze - Sistema tramviario Linea 3 (II lotto) tratta Libertà-Rovezzano; contributo addizionale rispetto al DM 517/2020"
+      },
+      {
+        "cup": "F44I19000530001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 47668750.43,
+        "amount_raw": "€ 47.668.750,43",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella",
+        "notes": "Comune di Milano - Ampliamento Deposito Gallaratese Linea metropolitana 1; contributo addizionale rispetto al DM 97/2022"
+      },
+      {
+        "cup": "B44D20000040001",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 145000000.0,
+        "amount_raw": "€ 145.000.000,00",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella",
+        "notes": "Comune di Milano - Linea metropolitana M1 Prolungamento quartiere Baggio-Olmi-Valsesia; contributo addizionale rispetto a DM 607/2019 e 97/2022"
+      },
+      {
+        "cup": "B24C17000320005",
+        "cup_valid": true,
+        "cap": "7400",
+        "pg": "1",
+        "amount_eur": 88435027.99,
+        "amount_raw": "€ 88.435.027,99",
+        "action_type": "assegnazione",
+        "source_reference": "art. 1, comma 1, tabella",
+        "notes": "Comune di Milano - Riqualificazione Metrotranvia Milano-Limbiate, Lotto 1 (Comasina-Varedo) e Lotto 2 (Varedo-Limbiate, CUP B71J22000050006); importo unico riferito a entrambi i lotti, anche a copertura delle risorse PSC 2014-2020 revocate (€ 59.000.000) per il Lotto 1; contributo addizionale rispetto a DM 360/2018 e 86/2018"
+      }
+    ],
+    "raw_content": null
+  },
+  "2024 DM MIT 330.20-12-2024.pdf::kimi-k2.6": {
+    "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+    "model": "kimi-k2.6",
+    "model_slug": "moonshotai/kimi-k2.6",
+    "extraction_timestamp": "2026-07-21T18:14:11",
+    "n_pages": 4,
+    "status": "ok",
+    "prompt_tokens": 3725,
+    "completion_tokens": 182,
+    "cost_usd": 0.00348705,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministero delle Infrastrutture e dei Trasporti",
+      "ministry_2": null,
+      "extraction_notes": "No financing actions found. The decree is a proroga (extension) decree that only extends deadlines for achieving legally binding obligations (OGV) to 31/12/2025 for 5 projects listed in Allegato 1. There are no budget chapters (capitoli di spesa), no piano gestionale references, no amounts, and no CUP codes mentioned anywhere in the text. The decree references previous decrees that originally financed these projects, but does not itself assign, reduce, or reallocate any funds. The decree number and date are not explicitly stated in the provided text (only references to other decrees with numbers/dates are present)."
+    },
+    "records": [],
+    "raw_content": null
+  },
+  "2024 DM MIT 330.20-12-2024.pdf::qwen3.5": {
+    "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+    "model": "qwen3.5",
+    "model_slug": "qwen/qwen3.5-397b-a17b",
+    "extraction_timestamp": "2026-07-21T18:14:17",
+    "n_pages": 4,
+    "status": "ok",
+    "prompt_tokens": 3477,
+    "completion_tokens": 204,
+    "cost_usd": 0.00217665,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministero delle Infrastrutture e dei Trasporti",
+      "ministry_2": null,
+      "extraction_notes": "Il testo fornito è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per interventi già finanziati in precedenza. Non contiene alcuna disposizione esplicita di assegnazione, definanziamento o rimodulazione di risorse finanziarie (nessun importo in euro, nessun capitolo di bilancio, nessun CUP associato a un movimento di fondi). I riferimenti a 'rimodulazione dei termini' nel preambolo riguardano la tempistica e non lo spostamento di fondi tra capitoli o progetti in questo specifico atto. Pertanto, non sono presenti azioni di finanziamento da estrarre secondo le regole definite."
+    },
+    "records": [],
+    "raw_content": null
+  },
+  "2024 DM MIT 330.20-12-2024.pdf::mistral-small-4": {
+    "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+    "model": "mistral-small-4",
+    "model_slug": "mistralai/mistral-small-4",
+    "extraction_timestamp": "2026-07-21T18:14:22",
+    "n_pages": 4,
+    "status": "error",
+    "error": "OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions"
+  },
+  "2024 DM MIT 330.20-12-2024.pdf::claude-sonnet-5": {
+    "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+    "model": "claude-sonnet-5",
+    "model_slug": "anthropic/claude-sonnet-5",
+    "extraction_timestamp": "2026-07-21T18:14:54",
+    "n_pages": 4,
+    "status": "ok",
+    "prompt_tokens": 5094,
+    "completion_tokens": 279,
+    "cost_usd": 0.012978,
+    "finish_reason": "stop",
+    "truncated": false,
+    "decree_meta": {
+      "decree_number": null,
+      "decree_date": null,
+      "ministry_1": "Ministero delle Infrastrutture e dei Trasporti",
+      "ministry_2": null,
+      "extraction_notes": "Il decreto riguarda esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relative a interventi già finanziati con decreti precedenti. Non contiene importi, capitoli di spesa, piani gestionali o CUP, né azioni di finanziamento, definanziamento o rimodulazione economica esplicitamente quantificate. Numero e data del decreto non sono presenti nel testo fornito. Pertanto non è stato possibile estrarre alcun record di finanziamento."
+    },
+    "records": [],
+    "raw_content": null
+  }
+}

@@ -1,0 +1,31 @@
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/manuale/v000.json
+  versione: v000   fingerprint: d02c735d
+--docs-file -> 5 documento/i su 25 (elenco di 5 stem).
+5 PDF x 1 modelli -> 1 celle-modello per documento
+Run: 20260928-164253__d02c735d
+
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 19 record, 17412->6923 tok, $0.0052, 146.382s
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__d02c735d
+JSONL scritto: results.jsonl (40 righe, tutte le celle)
+
+Spesa totale (API): $0.5818
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.214804
+deepseek/deepseek-v4-pro-0813::off    0.186893
+minimax/minimax-m3::off               0.056199
+qwen/qwen3.6-35b-a3b::off             0.051591
+z-ai/glm-4.7-flash::off               0.020200
+google/gemma-4-26b-a4b-it::off        0.019983
+google/gemma-4-31b-it::off            0.019591
+deepseek/deepseek-v4-flash::off       0.012537
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__d02c735d

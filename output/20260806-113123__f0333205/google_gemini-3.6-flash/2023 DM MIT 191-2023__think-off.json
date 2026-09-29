@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T13:04:46",
+  "received_at": "2026-08-06T13:05:25",
+  "latency_seconds": 39.106,
+  "prompt_tokens": 8182,
+  "completion_tokens": 7900,
+  "reasoning_tokens": 7676,
+  "cached_tokens": 0,
+  "total_tokens": 16082,
+  "cost_usd_api": 0.071523,
+  "cost_usd_reconstructed": 0.071523,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786014286-qji65qsuvduJCHkMlmmK",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"C11J22000000001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 221721410.41,\n      \"importo_originale\": \"€ 221.721.410,41\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Art. 1, comma 1 e Allegato 1\",\n      \"note\": \"Comune di Torino - Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres\"\n    },\n    {\n      \"cup\": \"F47C19000370001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 7803527.3,\n      "
+}

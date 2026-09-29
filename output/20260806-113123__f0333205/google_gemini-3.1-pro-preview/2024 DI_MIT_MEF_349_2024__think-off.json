@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:32",
+  "received_at": "2026-08-06T14:53:41",
+  "latency_seconds": 9.239,
+  "prompt_tokens": 3459,
+  "completion_tokens": 1105,
+  "reasoning_tokens": 979,
+  "cached_tokens": 0,
+  "total_tokens": 4564,
+  "cost_usd_api": 0.020178,
+  "cost_usd_reconstructed": 0.020178,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020812-GuZX59v4DAWwSJyiuQGW",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministro dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente proroghe di termini e l'abrogazione di un obiettivo intermedio. Non sono presenti azioni di finanziamento nella parte dispositiva."
+  },
+  "records": [],
+  "raw_content": null
+}

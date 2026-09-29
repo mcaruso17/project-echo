@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:47:25",
+  "received_at": "2026-07-24T12:47:27",
+  "latency_seconds": 2.35,
+  "prompt_tokens": 4114,
+  "completion_tokens": 160,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 4274,
+  "cost_usd_api": 0.0109965,
+  "cost_usd_reconstructed": 0.012685,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890045-eNjPR7k7PFZFuCLorTib",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe del termine per il conseguimento delle obbligazioni giuridicamente vincolanti fino al 31.12.2025 per gli interventi dell'Allegato 1. Non sono indicati capitoli, piani gestionali, CUP o nuovi importi di finanziamento. Numero e data del decreto non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

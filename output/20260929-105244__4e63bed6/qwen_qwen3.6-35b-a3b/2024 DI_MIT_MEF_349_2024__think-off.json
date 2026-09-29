@@ -1,0 +1,57 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:10",
+  "received_at": "2026-09-29T12:08:17",
+  "latency_seconds": 6.54,
+  "prompt_tokens": 7632,
+  "completion_tokens": 456,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8088,
+  "cost_usd_api": 0.0016008,
+  "cost_usd_reconstructed": 0.0016007999999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676491-4gdrh4ywQ9AFsytwvCMb",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "108",
+    "data_decreto": "2024-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "proroga",
+    "atti_collegati": [
+      {
+        "estremi": "D.I. 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.I. 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.I. 17 aprile 2024, n. 107",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente (D.I. n. 108/2024) dispone esclusivamente proroghe dei termini per l'affidamento e l'ultimazione dei lavori e l'abrogazione di un obiettivo intermedio. Non dispone nuovi stanziamenti, impegni, assegnazioni o rimodulazioni di importi finanziari. Di conseguenza, non vi sono azioni di finanziamento da registrare nel registro dei CUP. Gli importi e i CUP degli interventi citati (es. Genova, Torino, Milano, Roma, Napoli) sono disciplinati dagli atti precedenti (D.I. 97/2022, 362/2023, 107/2024) e non sono oggetto di disposizione finanziaria nel presente decreto."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"108\",\n  \"data_decreto\": \"2024-12-20\",\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"proroga\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"D.I. 20 aprile 2022, n. 97\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.I. 30 dicembre 2023, n. 362\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"D.I. 17 aprile 2024, n. 107\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente (D.I. n. 108/2024) dispone esclusivamente proroghe dei termini per l'affidamento e l'ultimazione dei lavori e l'abrogazione di un obiettivo intermedio. Non dispone nuovi stanziamenti, impegni, assegnazioni o rimodulazioni di importi finanziari. Di conseguenza, non vi sono azioni di finanziamento da registrare nel registro dei CUP. Gli importi e i CUP degli interventi citati (es. Genova, Torino, Milano, Roma, Napoli) sono disciplinati dagli atti precedenti (D.I. 97/2022, 362/2023, 107/2024) e non sono oggetto di disposizione finanziaria nel presente decreto.\"\n}"
+}

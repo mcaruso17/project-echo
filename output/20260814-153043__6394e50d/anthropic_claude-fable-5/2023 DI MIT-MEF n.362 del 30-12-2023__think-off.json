@@ -1,0 +1,43 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:35:34",
+  "received_at": "2026-08-14T15:35:41",
+  "latency_seconds": 6.994,
+  "prompt_tokens": 7295,
+  "completion_tokens": 330,
+  "reasoning_tokens": 46,
+  "cached_tokens": 0,
+  "total_tokens": 7625,
+  "cost_usd_api": 0.08945,
+  "cost_usd_reconstructed": 0.08945,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714534-ks3owso4KTwCmFcIhYOt",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non dispone alcuna azione di finanziamento (nessuna assegnazione, definanziamento o rimodulazione di risorse): si limita a rimodulare i termini temporali (affidamento, avanzamento, ultimazione, conseguimento OGV) degli interventi già finanziati dal DM 20 aprile 2022, n. 97, come riportato negli allegati 1 e 2. Numero e data del decreto corrente non sono stampati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": \"Ministero dell'economia e delle finanze\",\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non dispone alcuna azione di finanziamento (nessuna assegnazione, definanziamento o rimodulazione di risorse): si limita a rimodulare i termini temporali (affidamento, avanzamento, ultimazione, conseguimento OGV) degli interventi già finanziati dal DM 20 aprile 2022, n. 97, come riportato negli allegati 1 e 2. Numero e data del decreto corrente non sono stampati nel testo fornito.\"\n}"
+}

@@ -1,0 +1,79 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok_repaired",
+  "json_repaired": true,
+  "sent_at": "2026-09-28T17:00:33",
+  "received_at": "2026-09-28T17:04:52",
+  "latency_seconds": 259.711,
+  "prompt_tokens": 11459,
+  "completion_tokens": 32000,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 43459,
+  "cost_usd_api": 0.03371885,
+  "cost_usd_reconstructed": 0.03371885,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790607633-K9HwYfkTsmS71ni9e6ON",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS 22 novembre 2021, n. 464",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2021",
+      "importo_eur": 1000000.0,
+      "importo_originale": "€ 1.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato l’impegno di euro 1.000.000,00 esercizio di provenienza 2020 ... sul capitolo 7400, piano di gestione 7 ... a favore dei Comuni di Padova ... come riportato nell’allegato",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo in conto residui per il Comune di Padova (CUP H94I19000130004) estratto dall'art. 1. L'art. 1 autorizza un impegno totale di 3.000.000,00 ripartito tra Padova, Torino, Brescia e Roma. La tabella [TABELLA pag.4 n.1] mostra che per il CUP H94I19000130004 la somma delle annualità 2020 e 2021 è esattamente 1.000.000,00 (153.197,90 + 306.395,80 + ... non corrisponde, ma la colonna 'Totale' per le annualità 2020-2021 nella riga 'Totale' è 1.000.000,00. Tuttavia, guardando la riga Padova, la somma 2020+2021 è 153.197,90 + 306.395,80 = 459.593,70. L'art. 1 dice 1.000.000,00 per il 2020 e 2.000.000,00 per il 2021. La tabella ha una riga 'Totale' che somma 1.000.000,00 per il 2020 e 2.000.000,00 per il 2021. Questo suggerisce che l'importo di 1.000.000,00 del 2020 e 2.000.000,00 del 2021 sia un totale aggregato per tutti i beneficiari in conto residui, non specifico per CUP. Tuttavia, l'art. 1 cita esplicitamente i beneficiari. La tabella elenca i CUP. Non c'è una ripartizione esplicita dell'importo di 3.000.000,00 tra i CUP nell'art. 1. Ma la tabella fornisce i dettagli annuali. L'art. 1 autorizza l'impegno. La tabella è l'allegato. La tabella mostra i CUP e gli importi annuali. L'art. 1 si riferisce all'allegato. Quindi gli importi dell'allegato sono quelli autorizzati. Per il 2020 e 2021, la tabella mostra importi specifici per CUP. La somma degli importi 2020 per tutti i CUP è 153.197,90 + 251.454,92 + 70.161,34 + 525.185,84 = 1.000.000,00. La somma degli importi 2021 è 306.395,80 + 502.909,85 + 140.322,66 + 1.050.371,69 = 2.000.000,00. Quindi l'art. 1 autorizza l'impegno totale di 3.000.000,00, che è la somma degli importi annuali 2020 e 2021 della tabella. Poiché la regola R5 dice di produrre un record per CUP x PG, e l'art. 1 autorizza l'impegno su PG 7, devo creare record per ogni CUP su PG 7 per gli importi 2020 e 2021? No, l'art. 1 autorizza un importo globale. Ma la tabella lo scompone. La regola R4 dice"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:45:07",
+  "received_at": "2026-08-06T12:45:09",
+  "latency_seconds": 1.68,
+  "prompt_tokens": 4870,
+  "completion_tokens": 327,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5197,
+  "cost_usd_api": 0.001708,
+  "cost_usd_reconstructed": 0.001708,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013107-aOgaEAzeGYWiURWDvu2Q",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero di protocollo o data esplicita nel testo fornito. I capitoli di spesa non sono indicati nel testo."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Assegnazione alla provincia autonoma di Trento"
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Assegnazione alla provincia autonoma di Bolzano"
+    }
+  ],
+  "raw_content": null
+}

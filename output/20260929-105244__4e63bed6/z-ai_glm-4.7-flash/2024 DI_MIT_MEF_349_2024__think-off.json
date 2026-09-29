@@ -1,0 +1,59 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:04",
+  "received_at": "2026-09-29T12:08:18",
+  "latency_seconds": 14.636,
+  "prompt_tokens": 7658,
+  "completion_tokens": 583,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 8241,
+  "cost_usd_api": 0.00057108,
+  "cost_usd_reconstructed": 0.000700338,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676489-5hgflif4PSeDBy3fsAg1",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 17 aprile 2024, n. 107",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 del D.I. n. 97/2022"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto interministeriale di proroga dei termini (affidamento e ultimazione lavori) per gli interventi 'Skymetro Val Bisagno' (Genova) e 'Metropolitana automatica di Torino – Linea 2 – Tratta Politecnico – Rebaudengo', e di abrogazione dell'obiettivo intermedio del 50% per gli interventi dell'Allegato 1 del D.I. 97/2022. Non contiene alcuna azione di finanziamento (assegnazione, impegno, rimodulazione, definanziamento) su CUP: nessun CUP compare nel testo, né importi disposti su progetti. Gli importi citati nel preambolo (art. 1 c. 393 L. 234/2021; art. 1 c. 478 L. 197/2022) sono mere citazioni di stanziamenti di legge, non eventi disposti dall'atto corrente. Numero e data del decreto non sono stampati nel testo fornito. L'Allegato 1 del D.I. 97/2022 è richiamato ma non presente nel testo."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": \"Ministero dell'Economia e delle Finanze\", \"natura_atto\": \"altro\", \"atti_collegati\": [{\"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze 20 aprile 2022, n. 97\", \"relazione\": \"richiama\"}, {\"estremi\": \"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 30 dicembre 2023, n. 362\", \"relazione\": \"richiama\"}, {\"estremi\": \"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 17 aprile 2024, n. 107\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [\"Allegato 1 del D.I. n. 97/2022\"], \"allegati_presenti_nel_testo\": [], \"record\": [], \"note_estrazione\": \"L'atto corrente è un decreto interministeriale di proroga dei termini (affidamento e ultimazione lavori) per gli interventi 'Skymetro Val Bisagno' (Genova) e 'Metropolitana automatica di Torino – Linea 2 – Tratta Politecnico – Rebaudengo', e di abrogazione dell'obiettivo intermedio del 50% per gli interventi dell'Allegato 1 del D.I. 97/2022. Non contiene alcuna azione di finanziamento (assegnazione, impegno, rimodulazione, definanziamento) su CUP: nessun CUP compare nel testo, né importi disposti su progetti. Gli importi citati nel preambolo (art. 1 c. 393 L. 234/2021; art. 1 c. 478 L. 197/2022) sono mere citazioni di stanziamenti di legge, non eventi disposti dall'atto corrente. Numero e data del decreto non sono stampati nel testo fornito. L'Allegato 1 del D.I. 97/2022 è richiamato ma non presente nel testo.\"}"
+}

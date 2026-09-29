@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:51:26",
+  "received_at": "2026-08-06T12:51:35",
+  "latency_seconds": 9.242,
+  "prompt_tokens": 4665,
+  "completion_tokens": 299,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3712,
+  "total_tokens": 4964,
+  "cost_usd_api": 0.00180746,
+  "cost_usd_reconstructed": 0.00431563,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013486-v5lxlWqdBPTKVGCeP8he",
+    "provider": "StreamLake",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta esplicitamente il numero del decreto, la data di emanazione, il capitolo di spesa, né il piano gestionale. L'importo totale di 75 milioni di euro è esplicitato nell'articolo 1, comma 1."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi assegnati al Comune di Milano per la linea M4 della metropolitana, per complessivi 75 milioni di euro, pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,161 @@
+﻿cella,doc,solved,status,gt,pred,fn,fp
+anthropic/claude-opus-5.5::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+anthropic/claude-opus-5.5::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+anthropic/claude-opus-5.5::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+anthropic/claude-opus-5.5::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+anthropic/claude-opus-5.5::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+anthropic/claude-opus-5.5::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+anthropic/claude-opus-5.5::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 191-2023,True,ok,9,9,0,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 270-2023,True,ok,43,43,0,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 342-2023,False,ok,31,23,8,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 344-2023,True,ok,62,62,0,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+anthropic/claude-opus-5.5::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+anthropic/claude-opus-5.5::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+anthropic/claude-opus-5.5::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+anthropic/claude-opus-5.5::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+deepseek/deepseek-v4-flash::off,2021 DM mit 464-2021,False,ok,5,0,5,0
+deepseek/deepseek-v4-flash::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+deepseek/deepseek-v4-flash::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+deepseek/deepseek-v4-flash::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+deepseek/deepseek-v4-flash::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+deepseek/deepseek-v4-flash::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+deepseek/deepseek-v4-flash::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+deepseek/deepseek-v4-flash::off,2023 DM MIT 191-2023,False,ok,9,3,8,2
+deepseek/deepseek-v4-flash::off,2023 DM MIT 270-2023,True,ok,43,43,0,0
+deepseek/deepseek-v4-flash::off,2023 DM MIT 342-2023,True,ok,31,31,0,0
+deepseek/deepseek-v4-flash::off,2023 DM MIT 344-2023,False,ok,62,10,52,0
+deepseek/deepseek-v4-flash::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+deepseek/deepseek-v4-flash::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+deepseek/deepseek-v4-flash::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+deepseek/deepseek-v4-flash::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+deepseek/deepseek-v4-flash::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+deepseek/deepseek-v4-pro-0813::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+deepseek/deepseek-v4-pro-0813::off,2022 DD MIT 454-2022,False,ok,2,1,1,0
+deepseek/deepseek-v4-pro-0813::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+deepseek/deepseek-v4-pro-0813::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+deepseek/deepseek-v4-pro-0813::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+deepseek/deepseek-v4-pro-0813::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+deepseek/deepseek-v4-pro-0813::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 191-2023,True,ok,9,9,0,0
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 270-2023,True,ok,43,43,0,0
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 342-2023,False,ok,31,23,9,1
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 344-2023,False,ok,62,0,62,0
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+deepseek/deepseek-v4-pro-0813::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+deepseek/deepseek-v4-pro-0813::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+deepseek/deepseek-v4-pro-0813::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+deepseek/deepseek-v4-pro-0813::off,2025 DM MIT 131-2025,False,ok,1,3,0,2
+google/gemma-4-26b-a4b-it::off,2021 DM mit 464-2021,False,ok,5,0,5,0
+google/gemma-4-26b-a4b-it::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+google/gemma-4-26b-a4b-it::off,2022 DDG 128 del 02-05-22,False,ok,6,0,6,0
+google/gemma-4-26b-a4b-it::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,4,4
+google/gemma-4-26b-a4b-it::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+google/gemma-4-26b-a4b-it::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+google/gemma-4-26b-a4b-it::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 191-2023,False,ok,9,9,6,6
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 270-2023,False,ok,43,39,6,2
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 342-2023,False,ok,31,21,14,4
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 344-2023,False,parse_error,62,0,62,0
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 345 - 2023,False,ok,39,14,27,2
+google/gemma-4-26b-a4b-it::off,2023 DM MIT 346-2023,False,ok,6,8,0,2
+google/gemma-4-26b-a4b-it::off,2024 DM MIT 334-2024,False,ok,37,25,14,2
+google/gemma-4-26b-a4b-it::off,2025 DD MIT 141-2025,False,ok,1,6,0,5
+google/gemma-4-26b-a4b-it::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+google/gemma-4-31b-it::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+google/gemma-4-31b-it::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+google/gemma-4-31b-it::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+google/gemma-4-31b-it::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+google/gemma-4-31b-it::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+google/gemma-4-31b-it::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+google/gemma-4-31b-it::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+google/gemma-4-31b-it::off,2023 DM MIT 191-2023,False,ok,9,4,8,3
+google/gemma-4-31b-it::off,2023 DM MIT 270-2023,False,ok,43,42,1,0
+google/gemma-4-31b-it::off,2023 DM MIT 342-2023,False,ok,31,23,8,0
+google/gemma-4-31b-it::off,2023 DM MIT 344-2023,False,ok,62,0,62,0
+google/gemma-4-31b-it::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+google/gemma-4-31b-it::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+google/gemma-4-31b-it::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+google/gemma-4-31b-it::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+google/gemma-4-31b-it::off,2025 DM MIT 131-2025,False,ok,1,0,1,0
+minimax/minimax-m3::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+minimax/minimax-m3::off,2022 DD MIT 454-2022,False,ok,2,1,1,0
+minimax/minimax-m3::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+minimax/minimax-m3::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+minimax/minimax-m3::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+minimax/minimax-m3::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+minimax/minimax-m3::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+minimax/minimax-m3::off,2023 DM MIT 191-2023,True,ok,9,9,0,0
+minimax/minimax-m3::off,2023 DM MIT 270-2023,True,ok,43,43,0,0
+minimax/minimax-m3::off,2023 DM MIT 342-2023,False,ok,31,23,9,1
+minimax/minimax-m3::off,2023 DM MIT 344-2023,False,ok,62,1,61,0
+minimax/minimax-m3::off,2023 DM MIT 345 - 2023,False,ok,39,39,10,10
+minimax/minimax-m3::off,2023 DM MIT 346-2023,False,ok,6,0,6,0
+minimax/minimax-m3::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+minimax/minimax-m3::off,2025 DD MIT 141-2025,False,ok,1,2,1,2
+minimax/minimax-m3::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+moonshotai/kimi-k2.6::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+moonshotai/kimi-k2.6::off,2022 DD MIT 454-2022,False,ok,2,1,1,0
+moonshotai/kimi-k2.6::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+moonshotai/kimi-k2.6::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+moonshotai/kimi-k2.6::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+moonshotai/kimi-k2.6::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+moonshotai/kimi-k2.6::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+moonshotai/kimi-k2.6::off,2023 DM MIT 191-2023,False,ok,9,7,4,2
+moonshotai/kimi-k2.6::off,2023 DM MIT 270-2023,False,ok,43,44,0,1
+moonshotai/kimi-k2.6::off,2023 DM MIT 342-2023,False,ok,31,23,9,1
+moonshotai/kimi-k2.6::off,2023 DM MIT 344-2023,False,ok,62,36,61,35
+moonshotai/kimi-k2.6::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+moonshotai/kimi-k2.6::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+moonshotai/kimi-k2.6::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+moonshotai/kimi-k2.6::off,2025 DD MIT 141-2025,False,ok,1,2,1,2
+moonshotai/kimi-k2.6::off,2025 DM MIT 131-2025,False,ok,1,3,0,2
+moonshotai/kimi-k3::off,2021 DM mit 464-2021,True,ok,5,5,0,0
+moonshotai/kimi-k3::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+moonshotai/kimi-k3::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+moonshotai/kimi-k3::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,24,1,1
+moonshotai/kimi-k3::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+moonshotai/kimi-k3::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+moonshotai/kimi-k3::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+moonshotai/kimi-k3::off,2023 DM MIT 191-2023,True,ok,9,9,0,0
+moonshotai/kimi-k3::off,2023 DM MIT 270-2023,True,ok,43,43,0,0
+moonshotai/kimi-k3::off,2023 DM MIT 342-2023,False,ok,31,23,9,1
+moonshotai/kimi-k3::off,2023 DM MIT 344-2023,False,ok,62,62,2,2
+moonshotai/kimi-k3::off,2023 DM MIT 345 - 2023,True,ok,39,39,0,0
+moonshotai/kimi-k3::off,2023 DM MIT 346-2023,True,ok,6,6,0,0
+moonshotai/kimi-k3::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+moonshotai/kimi-k3::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+moonshotai/kimi-k3::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+qwen/qwen3.6-35b-a3b::off,2021 DM mit 464-2021,False,ok,5,0,5,0
+qwen/qwen3.6-35b-a3b::off,2022 DD MIT 454-2022,False,ok,2,1,1,0
+qwen/qwen3.6-35b-a3b::off,2022 DDG 128 del 02-05-22,True,ok,6,6,0,0
+qwen/qwen3.6-35b-a3b::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,9,15,0
+qwen/qwen3.6-35b-a3b::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+qwen/qwen3.6-35b-a3b::off,2022 DM MIT 409-2022,False,ok,2,0,2,0
+qwen/qwen3.6-35b-a3b::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 191-2023,False,ok,9,0,9,0
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 270-2023,False,ok,43,1,43,1
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 342-2023,False,ok,31,0,31,0
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 344-2023,False,ok,62,0,62,0
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 345 - 2023,False,ok,39,0,39,0
+qwen/qwen3.6-35b-a3b::off,2023 DM MIT 346-2023,False,ok,6,12,0,6
+qwen/qwen3.6-35b-a3b::off,2024 DM MIT 334-2024,True,ok,37,37,0,0
+qwen/qwen3.6-35b-a3b::off,2025 DD MIT 141-2025,False,ok,1,3,1,3
+qwen/qwen3.6-35b-a3b::off,2025 DM MIT 131-2025,True,ok,1,1,0,0
+z-ai/glm-4.7-flash::off,2021 DM mit 464-2021,False,ok,5,5,5,5
+z-ai/glm-4.7-flash::off,2022 DD MIT 454-2022,True,ok,2,2,0,0
+z-ai/glm-4.7-flash::off,2022 DDG 128 del 02-05-22,False,ok,6,6,2,2
+z-ai/glm-4.7-flash::off,2022 DI Mims Mef 97 20.04.2022,False,ok,24,0,24,0
+z-ai/glm-4.7-flash::off,2022 DM MIMS 342-2022,True,ok,1,1,0,0
+z-ai/glm-4.7-flash::off,2022 DM MIT 409-2022,True,ok,2,2,0,0
+z-ai/glm-4.7-flash::off,2023 DI MIT-MEF 286-2023,True,ok,1,1,0,0
+z-ai/glm-4.7-flash::off,2023 DM MIT 191-2023,False,ok,9,3,8,2
+z-ai/glm-4.7-flash::off,2023 DM MIT 270-2023,False,ok,43,44,39,40
+z-ai/glm-4.7-flash::off,2023 DM MIT 342-2023,False,ok,31,23,31,23
+z-ai/glm-4.7-flash::off,2023 DM MIT 344-2023,False,ok,62,62,58,58
+z-ai/glm-4.7-flash::off,2023 DM MIT 345 - 2023,False,ok,39,39,9,9
+z-ai/glm-4.7-flash::off,2023 DM MIT 346-2023,False,ok,6,6,2,2
+z-ai/glm-4.7-flash::off,2024 DM MIT 334-2024,False,ok,37,80,2,45
+z-ai/glm-4.7-flash::off,2025 DD MIT 141-2025,False,ok,1,1,1,1
+z-ai/glm-4.7-flash::off,2025 DM MIT 131-2025,False,ok,1,2,1,2

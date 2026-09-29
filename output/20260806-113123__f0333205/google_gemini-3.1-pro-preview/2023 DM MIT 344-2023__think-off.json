@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T13:57:32",
+  "received_at": "2026-08-06T13:58:23",
+  "latency_seconds": 51.377,
+  "prompt_tokens": 12213,
+  "completion_tokens": 7996,
+  "reasoning_tokens": 5253,
+  "cached_tokens": 0,
+  "total_tokens": 20209,
+  "cost_usd_api": 0.120378,
+  "cost_usd_reconstructed": 0.120378,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786017452-9YyzMW2xJbAgycT0paA3",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"D87G21000050001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 3300000.00,\n      \"importo_originale\": \"3.300.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: BRESCIA\"\n    },\n    {\n      \"cup\": \"H39J21010190001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 2729483.13,\n      \"importo_originale\": \"2.729.483,13\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA\"\n    },\n    {\n      \"cup\": \"H30J21000100001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 2914000.00,\n      \"importo_originale\": \"2.914.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA\"\n    },\n    {\n      \"cup\": \"H30J21000090001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 1955566.47,\n      \"importo_originale\": \"1.955.566,47\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA\"\n    },\n    {\n      \"cup\": \"H30J21000080001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 1454962.40,\n      \"importo_originale\": \"1.454.962,40\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA\"\n    },\n    {\n      \"cup\": \"H30J21000110001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 684131.29,\n      \"importo_originale\": \"684.131,29\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA\"\n    },\n    {\n      \"cup\": null,\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 261856.71,\n      \"importo_originale\": \"261.856,71\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: GENOVA - Economie rispetto importo DM 443/2021\"\n    },\n    {\n      \"cup\": \"D49I21000120001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 500000.00,\n      \"importo_originale\": \"500.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D49I21000120001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 250000.00,\n      \"importo_originale\": \"250.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D48H21000600001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 500000.00,\n      \"importo_originale\": \"500.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D48H21000600001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 14500000.00,\n      \"importo_originale\": \"14.500.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D48H21000600001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 500000.00,\n      \"importo_originale\": \"500.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000410001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 570000.00,\n      \"importo_originale\": \"570.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000410001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 200000.00,\n      \"importo_originale\": \"200.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000410001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 1400000.00,\n      \"importo_originale\": \"1.400.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000410001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 10000.00,\n      \"importo_originale\": \"10.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000420001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 300000.00,\n      \"importo_originale\": \"300.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"D44D21000420001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 1200000.00,\n      \"importo_originale\": \"1.200.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MESSINA\"\n    },\n    {\n      \"cup\": \"F49J21012710001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 17400000.00,\n      \"importo_originale\": \"17.400.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MILANO\"\n    },\n    {\n      \"cup\": \"F49J21012720001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"5\",\n      \"importo_eur\": 19000000.00,\n      \"importo_originale\": \"19.000.000,00\",\n      \"tipo_azione\": \"rimodulazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"Ente: MILANO"
+}

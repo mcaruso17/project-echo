@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:36:33",
+  "received_at": "2026-08-06T12:36:37",
+  "latency_seconds": 3.743,
+  "prompt_tokens": 3409,
+  "completion_tokens": 158,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3567,
+  "cost_usd_api": 0.0029732,
+  "cost_usd_reconstructed": 0.00300729,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012594-TLR9DGgmnvF38f0aubjZ",
+    "provider": "CoreWeave",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente proroga i termini per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi finanziati da precedenti decreti. Non dispone alcuna nuova azione di finanziamento, assegnazione, definanziamento o rimodulazione, né reca un numero o una data di emanazione espliciti nel testo."
+  },
+  "records": [],
+  "raw_content": null
+}

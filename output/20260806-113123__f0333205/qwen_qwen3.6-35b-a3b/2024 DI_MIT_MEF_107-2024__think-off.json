@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:05",
+  "received_at": "2026-08-06T14:52:10",
+  "latency_seconds": 5.375,
+  "prompt_tokens": 3101,
+  "completion_tokens": 235,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3336,
+  "cost_usd_api": 0.00053335,
+  "cost_usd_reconstructed": 0.00063813,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020725-0Nz0dNA53kYdJMjzr2ym",
+    "provider": "DeepInfra",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "363",
+    "data_decreto": "2024-04-10",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente (n. 363 del 10 aprile 2024, implicito dalla data e dai ministeri, anche se il numero non è esplicitamente stampato nell'intestazione fornita ma deducibile dal contesto normativo e dalla data di efficacia) dispone esclusivamente la rimodulazione dei termini (cronoprogramma) per l'intervento 'Skymetro Val Bisagno'. Non vi sono azioni di finanziamento (assegnazione, definanziamento o rimodulazione di importi) né capitoli di spesa o piani gestionali coinvolti. Il decreto modifica solo le scadenze temporali."
+  },
+  "records": [],
+  "raw_content": null
+}

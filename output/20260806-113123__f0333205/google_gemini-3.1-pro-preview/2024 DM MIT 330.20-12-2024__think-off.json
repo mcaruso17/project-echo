@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:55:21",
+  "received_at": "2026-08-06T14:55:30",
+  "latency_seconds": 8.863,
+  "prompt_tokens": 4284,
+  "completion_tokens": 973,
+  "reasoning_tokens": 824,
+  "cached_tokens": 0,
+  "total_tokens": 5257,
+  "cost_usd_api": 0.020244,
+  "cost_usd_reconstructed": 0.020244,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020921-ujV9GVNYZkwGWwMLAIip",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per gli interventi elencati nell'Allegato 1. Non contiene alcuna azione di finanziamento, né indicazioni di importi, capitoli di spesa o CUP."
+  },
+  "records": [],
+  "raw_content": null
+}

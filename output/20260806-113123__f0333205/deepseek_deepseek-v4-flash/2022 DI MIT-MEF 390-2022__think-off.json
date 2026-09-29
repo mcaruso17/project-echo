@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:03:20",
+  "received_at": "2026-08-06T12:03:32",
+  "latency_seconds": 11.802,
+  "prompt_tokens": 7919,
+  "completion_tokens": 400,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 8319,
+  "cost_usd_api": 0.000780102,
+  "cost_usd_reconstructed": 0.0007847099999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010600-PUNu5jUGxTJ4NkSfmIYJ",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": null
+}

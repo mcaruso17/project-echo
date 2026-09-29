@@ -1,0 +1,55 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:56",
+  "received_at": "2026-09-29T11:18:11",
+  "latency_seconds": 15.272,
+  "prompt_tokens": 9015,
+  "completion_tokens": 343,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5632,
+  "total_tokens": 9358,
+  "cost_usd_api": 0.000467586,
+  "cost_usd_reconstructed": 0.0008630459999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673483-Y0sxPq9Bx2bqXlqT0P4M",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente (decreto interministeriale) rimodula esclusivamente i termini (date) per il conseguimento dell'obbligazione giuridicamente vincolante, l'avanzamento del 50% e l'ultimazione degli interventi elencati negli Allegati 1 e 2. Non dispone alcuna azione di finanziamento (assegnazione, impegno, definanziamento, ecc.) né modifica importi. Pertanto, non vi sono record di azioni di finanziamento da estrarre. Gli allegati contengono solo CUP e date, senza importi."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\", \"ministero_2\": \"Ministero dell'economia e delle finanze\", \"natura_atto\": \"rimodulazione\", \"atti_collegati\": [{\"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97\", \"relazione\": \"rimodula\"}], \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"], \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"], \"record\": [], \"note_estrazione\": \"L'atto corrente (decreto interministeriale) rimodula esclusivamente i termini (date) per il conseguimento dell'obbligazione giuridicamente vincolante, l'avanzamento del 50% e l'ultimazione degli interventi elencati negli Allegati 1 e 2. Non dispone alcuna azione di finanziamento (assegnazione, impegno, definanziamento, ecc.) né modifica importi. Pertanto, non vi sono record di azioni di finanziamento da estrarre. Gli allegati contengono solo CUP e date, senza importi.\"}"
+}

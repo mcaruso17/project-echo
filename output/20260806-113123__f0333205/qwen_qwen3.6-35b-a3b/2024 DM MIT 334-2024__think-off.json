@@ -1,0 +1,84 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:18:46",
+  "received_at": "2026-08-06T15:19:01",
+  "latency_seconds": 15.713,
+  "prompt_tokens": 15049,
+  "completion_tokens": 1180,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 16229,
+  "cost_usd_api": 0.00343735,
+  "cost_usd_reconstructed": 0.00313637,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022326-JPVmT7QZ60GqsegHNb8S",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "125/2024",
+    "data_decreto": "2024-12-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto sostituisce gli allegati del D.M. 345/2023. Le tabelle negli allegati mostrano i nuovi importi assegnati ai vari CUP. Tuttavia, l'Art. 2 specifica esplicitamente le nuove assegnazioni di risorse statali (a valere su legge 160/2019) per tre interventi specifici (Trieste, Milano, Padova) derivanti da rimodulazioni. L'Art. 4 definanzia una quota residua. Gli altri importi nelle tabelle degli allegati rappresentano il totale assegnato al CUP nel suo complesso (PNRR + altro finanziamento), non una nuova azione di finanziamento distinta dal decreto corrente, se non per le variazioni esplicitate negli articoli. Si sono estratti quindi solo gli importi oggetto di nuova assegnazione o rimodulazione esplicita negli articoli 2 e 4. Per l'intervento di Padova, l'importo estratto è quello del contributo statale complementare assegnato con questo decreto (che sostituisce/impegna le risorse precedentemente impegnate con DD 128/2022). Per Trieste e Milano, sono gli importi totali assegnati con questo decreto per quegli specifici interventi (che sostituiscono i precedenti). Per Palermo, è la quota residua definitivamente non allocata agli interventi di trasporto."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "€ 97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, lettera b) (riferimento implicito al testo del decreto che assegna le risorse residue all'intervento di Padova)",
+      "note": "Assegnazione delle risorse residue a seguito della rimodulazione dell'intervento 'Tramvia 7 Bausan – Villapizzone' e delle risorse precedentemente destinate all'intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso'. L'importo corrisponde al contributo statale complementare precedentemente assegnato con D.M. n. 464/2021."
+    },
+    {
+      "cup": "B44D22000090005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, lettera a)",
+      "note": "Assegnazione al comune di Milano per il completamento dell’intervento 'Tramvia 7 Bausan – Villapizzone'. Le risorse sono a valere sull'Allegato 1 - 'Nuovi interventi'."
+    },
+    {
+      "cup": "F31D21000020001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, lettera a)",
+      "note": "Assegnazione al comune di Trieste per la realizzazione dell’intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso'. Le risorse sono a valere sull'Allegato 1 - 'Nuovi interventi'."
+    },
+    {
+      "cup": "D71D18000520001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": -1143995.0,
+      "importo_originale": "1.143.995,00 €",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 4, comma 1",
+      "note": "Rimodulazione/definanziamento delle risorse residue a seguito della rimodulazione dell'intervento 'Sistema Tram Palermo - Fase II'. L'importo è stato accantonato e reso non allocato per gli interventi specifici, ma destinato a spese di report."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:06:22",
+  "received_at": "2026-08-06T13:06:35",
+  "latency_seconds": 12.89,
+  "prompt_tokens": 8222,
+  "completion_tokens": 942,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9164,
+  "cost_usd_api": 0.00674184,
+  "cost_usd_reconstructed": 0.00674184,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014382-vQBecQyCyuWiRU77ZDT8",
+    "provider": "StreamLake",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta il numero specifico né la data nel testo fornito (manca l'intestazione standard e la firma datata). L'importo totale assegnato è € 362.137.535,13 come da Art. 1 e Totale Allegato 1. I fondi sono assegnati dal capitolo 7400, piano di gestione 1."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Prolungamento Linea Tranviaria 12)",
+      "note": "Beneficiario: Comune di Torino"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Metropolitana Linea M3)",
+      "note": "Beneficiario: Comune di Milano"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Metropolitana Linea M3)",
+      "note": "Beneficiario: Comune di Milano"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Metropolitana Linea M3)",
+      "note": "Beneficiario: Comune di Milano"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Metropolitana Linee M1 + M2)",
+      "note": "Beneficiario: Comune di Milano"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto (Intervento: Linea Metropolitana Genova)",
+      "note": "Beneficiario: Comune di Genova"
+    }
+  ],
+  "raw_content": null
+}

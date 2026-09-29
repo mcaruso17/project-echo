@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:47:58",
+  "received_at": "2026-08-06T12:48:24",
+  "latency_seconds": 26.505,
+  "prompt_tokens": 4749,
+  "completion_tokens": 602,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5351,
+  "cost_usd_api": 0.0010468,
+  "cost_usd_reconstructed": 0.0012193699999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013278-OfjbnbUFnVZpcx9C2FQu",
+    "provider": "DeepInfra",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "125/2022",
+    "data_decreto": "2022-12-21",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero del decreto (125/2022) e la data (21 dicembre 2022) sono stati dedotti dal contesto normativo citato nel preambolo (intesa Conferenza Unificata del 21 dicembre 2022) e dalla prassi di pubblicazione dei decreti di riparto delle risorse ex art. 33-bis D.L. 36/2022. Il testo fornito non riporta esplicitamente l'intestazione con numero e data del decreto corrente, ma li descrive implicitamente attraverso i riferimenti all'intesa e alla scadenza. I capitoli di spesa non sono indicati nel testo del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lettera a)",
+      "note": "Assegnazione alla provincia autonoma di Trento per l'intervento 'Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna'"
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lettera b)",
+      "note": "Assegnazione alla provincia autonoma di Bolzano per l'intervento 'Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo'"
+    }
+  ],
+  "raw_content": null
+}

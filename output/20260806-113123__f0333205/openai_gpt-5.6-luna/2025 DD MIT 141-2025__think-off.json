@@ -1,0 +1,106 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:28:15",
+  "received_at": "2026-08-06T15:28:20",
+  "latency_seconds": 5.828,
+  "prompt_tokens": 7661,
+  "completion_tokens": 1004,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 8665,
+  "cost_usd_api": 0.001389635,
+  "cost_usd_reconstructed": 0.013685,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022895-JBeRr1yJk4UfL8TNJxud",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "L'art. 2 indica contributi complessivi già impegnati con precedenti decreti; gli artt. 3 e 4 dispongono espressamente nuovi impegni sul capitolo 7419/PG2 e 7416/PG1. Il decreto corrente è identificato dal numero di registro R.0000141 del 18-04-2025."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Contributo previsto dalla Convenzione e già impegnato con decreto dirigenziale n. 454 del 22 dicembre 2022."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 113733987.0,
+      "importo_originale": "€ 113.733.987,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Quota del contributo complessivo di € 1.600.000.000,00, impegnata con decreto direttoriale n. 419 del 6 dicembre 2022."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "8",
+      "importo_eur": 1486266013.0,
+      "importo_originale": "€ 1.486.266.013,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Quota del contributo complessivo di € 1.600.000.000,00, impegnata con decreto direttoriale n. 419 del 6 dicembre 2022."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2200000000.0,
+      "importo_originale": "€ 2.200.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse stanziate dall'articolo 1, comma 478, della legge n. 197/2022 per gli esercizi finanziari dal 2023 al 2032."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3",
+      "note": "Impegno autorizzato: € 50.000.000,00 in conto residui 2024 e € 2.075.000.000,00 per gli esercizi 2025-2032."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 4",
+      "note": "Impegno autorizzato: € 50.000.000,00 per l'esercizio finanziario 2027 e € 25.000.000,00 per l'esercizio finanziario 2028."
+    }
+  ],
+  "raw_content": null
+}

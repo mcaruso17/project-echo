@@ -1,0 +1,54 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:36",
+  "received_at": "2026-08-06T12:37:56",
+  "latency_seconds": 19.505,
+  "prompt_tokens": 9585,
+  "completion_tokens": 1174,
+  "reasoning_tokens": 100,
+  "cached_tokens": 0,
+  "total_tokens": 10759,
+  "cost_usd_api": 0.15455,
+  "cost_usd_reconstructed": 0.15455,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012657-ggawEm9leiDltUwfsT2P",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta numero né data di emanazione nel testo fornito (l'intesa della Conferenza Unificata è del 28 settembre 2022, quindi il decreto è successivo a tale data). Il capitolo 7400 PG 5 è desunto dal preambolo come collocazione contabile del fondo utilizzato dall'art. 1; il decreto n. 443/2021 citato è un provvedimento precedente e non è stato usato come decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto', a valere sul fondo di cui all'art. 1, comma 95, della legge 145/2018 (Programma di manutenzione straordinaria e interventi per la prevenzione incendi nelle metropolitane, iscritto sul capitolo 7400, PG 5, come indicato nel preambolo). Il CUP indicato è un codice provvisorio ('PROV...') di 14 caratteri, non un CUP definitivo di 15 caratteri. Costo totale stimato dell'intervento: € 2.250.000,00. Somma corrispondente al residuo del riparto disposto con il precedente decreto n. 443/2021."
+    }
+  ],
+  "raw_content": null
+}

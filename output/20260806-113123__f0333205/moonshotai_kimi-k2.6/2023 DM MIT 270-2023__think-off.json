@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:26:44",
+  "received_at": "2026-08-06T13:26:56",
+  "latency_seconds": 12.023,
+  "prompt_tokens": 44580,
+  "completion_tokens": 417,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 44997,
+  "cost_usd_api": 0.0348945,
+  "cost_usd_reconstructed": 0.030844770000000004,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786015604-I8o7FZlVdE8ywspeHxLi",
+    "provider": "Venice",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data specifici nel testo fornito. Il documento contiene riferimenti a numerosi decreti precedenti (DM 182/2020, DM 507/2021, DM 364/2021, DD 221/2020, DD 235/2022, DM 361/2018, DPCM 11/06/2019, DM MEF 195790/2019) ma il decreto corrente stesso non riporta un proprio numero di decreto o data nella parte dispositiva visibile. L'Allegato 1 contiene una tabella di 'interventi riprogrammati' con CUP e importi, ma questi rappresentano la riprogrammazione di interventi già finanziati dal DM 182/2020, non nuove assegnazioni di risorse da parte del decreto corrente. Il decreto corrente dispone esclusivamente la riprogrammazione degli interventi (art. 1) e aggiorna l'allegato 1 del DM 182/2020, senza movimentare nuovi fondi o assegnare risorse aggiuntive. Non sono presenti azioni di finanziamento con capitolo di spesa e piano gestionale esplicitamente indicati nel decreto corrente. Il capitolo 7150 e piano di gestione 4 citati nel preambolo si riferiscono al DM MEF 195790/2019, non al decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

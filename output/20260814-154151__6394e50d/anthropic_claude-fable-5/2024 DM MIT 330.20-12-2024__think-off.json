@@ -1,0 +1,43 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T16:00:24",
+  "received_at": "2026-08-14T16:00:35",
+  "latency_seconds": 10.893,
+  "prompt_tokens": 6421,
+  "completion_tokens": 415,
+  "reasoning_tokens": 64,
+  "cached_tokens": 0,
+  "total_tokens": 6836,
+  "cost_usd_api": 0.08496,
+  "cost_usd_reconstructed": 0.08496,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786716024-9Rvxqh2Y98LpKN7NV4oj",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga al 31/12/2025 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti per gli interventi elencati nell'Allegato 1 (art. 1). Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione), né capitoli, piani gestionali, CUP o importi. Numero e data del decreto corrente non risultano stampati nel testo fornito; l'intesa in Conferenza Unificata è del 18 dicembre 2024. I decreti citati nel preambolo (es. D.M. 587/2017, 464/2021, 343/2023) sono solo riferimenti storici."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente dispone esclusivamente la proroga al 31/12/2025 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti per gli interventi elencati nell'Allegato 1 (art. 1). Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione), né capitoli, piani gestionali, CUP o importi. Numero e data del decreto corrente non risultano stampati nel testo fornito; l'intesa in Conferenza Unificata è del 18 dicembre 2024. I decreti citati nel preambolo (es. D.M. 587/2017, 464/2021, 343/2023) sono solo riferimenti storici.\"\n}"
+}

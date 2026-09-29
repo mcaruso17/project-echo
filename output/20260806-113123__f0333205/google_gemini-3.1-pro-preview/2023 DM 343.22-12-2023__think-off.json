@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:57:14",
+  "received_at": "2026-08-06T12:57:27",
+  "latency_seconds": 12.857,
+  "prompt_tokens": 7359,
+  "completion_tokens": 1441,
+  "reasoning_tokens": 1290,
+  "cached_tokens": 0,
+  "total_tokens": 8800,
+  "cost_usd_api": 0.03201,
+  "cost_usd_reconstructed": 0.03201,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013834-hCihImMnGXT3RLZtrRiv",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per interventi già finanziati. Non contiene nuove assegnazioni, definanziamenti o rimodulazioni con indicazione di importi e capitoli di spesa nella parte dispositiva."
+  },
+  "records": [],
+  "raw_content": null
+}

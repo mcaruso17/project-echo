@@ -1,0 +1,180 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T10:57:02",
+  "received_at": "2026-09-29T10:57:46",
+  "latency_seconds": 44.775,
+  "prompt_tokens": 10432,
+  "completion_tokens": 1698,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12130,
+  "cost_usd_api": 0.00124452,
+  "cost_usd_reconstructed": 0.001228994,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790672228-WK7HmtwnsBTcID4xxtzg",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1 (tabella nel testo)"
+    ],
+    "note_estrazione": "L'allegato richiamato è presente nel testo come tabella. L'atto corrente autorizza l'impegno contabile delle risorse già assegnate con DM 464/2021. I record sono generati per ogni riga della tabella, con importo totale per CUP e capitolo/PG. Per il Comune di Torino, l'importo è aggregato per due CUP. Per il Comune di Brescia, sono presenti due record distinti per i due piani gestionali (PG 7 e PG 1)."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo per il Comune di Padova su PG 7, derivante dalla somma delle annualità 2020-2034."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo per Roma Capitale su PG 7, derivante dalla somma delle annualità 2020-2034."
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo aggregato per due CUP del Comune di Torino su PG 7, derivante dalla somma delle annualità 2020-2034."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo per il Comune di Brescia su PG 7, derivante dalla somma delle annualità 2020-2034."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato 1 / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo per il Comune di Brescia su PG 1, derivante dalla somma delle annualità 2029-2034. Il CUP è lo stesso della riga precedente su PG 7."
+    }
+  ],
+  "raw_content": null
+}

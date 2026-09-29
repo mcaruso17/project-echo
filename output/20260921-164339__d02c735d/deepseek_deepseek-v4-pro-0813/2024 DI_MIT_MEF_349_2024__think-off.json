@@ -1,0 +1,57 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T17:40:58",
+  "received_at": "2026-09-21T17:41:06",
+  "latency_seconds": 8.049,
+  "prompt_tokens": 6776,
+  "completion_tokens": 441,
+  "reasoning_tokens": 0,
+  "cached_tokens": 4096,
+  "total_tokens": 7217,
+  "cost_usd_api": 0.0042392856,
+  "cost_usd_reconstructed": 0.00333123,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790005258-UNPDoTsH6VyAczZwcCnU",
+    "provider": "Phala",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell’economia e delle finanze 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell’economia e delle finanze 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell’economia e delle finanze 17 aprile 2024, n. 107",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente non dispone azioni di finanziamento: contiene esclusivamente proroghe di termini e abrogazione di un obiettivo intermedio. Non sono presenti CUP, capitoli, piani gestionali o importi nella parte dispositiva. Gli atti citati nel preambolo sono registrati in atti_collegati con relazione 'richiama' in quanto l'atto corrente non li attua, sostituisce, rettifica, rimodula o revoca, ma li richiama come presupposto."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell’economia e delle finanze 20 aprile 2022, n. 97\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell’economia e delle finanze 30 dicembre 2023, n. 362\",\n    \"relazione\": \"richiama\"\n    },\n    {\n    \"estremi\": \"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell’economia e delle finanze 17 aprile 2024, n. 107\",\n    \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente non dispone azioni di finanziamento: contiene esclusivamente proroghe di termini e abrogazione di un obiettivo intermedio. Non sono presenti CUP, capitoli, piani gestionali o importi nella parte dispositiva. Gli atti citati nel preambolo sono registrati in atti_collegati con relazione 'richiama' in quanto l'atto corrente non li attua, sostituisce, rettifica, rimodula o revoca, ma li richiama come presupposto.\"\n}"
+}

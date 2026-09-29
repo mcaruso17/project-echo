@@ -1,0 +1,87 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:01:29",
+  "received_at": "2026-08-06T12:01:54",
+  "latency_seconds": 25.659,
+  "prompt_tokens": 7547,
+  "completion_tokens": 3194,
+  "reasoning_tokens": 2538,
+  "cached_tokens": 0,
+  "total_tokens": 10741,
+  "cost_usd_api": 0.053422,
+  "cost_usd_reconstructed": 0.053422,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786010489-sL0Me3jXKUwTrIklgaCA",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo del decreto non riporta numero e data di emanazione. Le assegnazioni sono disposte a favore di enti territoriali senza l'esplicita indicazione di capitoli di bilancio o codici CUP all'interno del testo fornito (i dettagli specifici degli interventi sono rimandati all'Allegato 1, non presente nel testo)."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, Tabella",
+      "note": "Beneficiario: Regione Liguria. Importo espresso in milioni di euro nel testo originale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, Tabella",
+      "note": "Beneficiario: Regione Toscana. Importo espresso in milioni di euro nel testo originale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, Tabella",
+      "note": "Beneficiario: Provincia Autonoma di Trento. Importo espresso in milioni di euro nel testo originale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, Tabella",
+      "note": "Beneficiario: Provincia Autonoma di Bolzano. Importo espresso in milioni di euro nel testo originale."
+    }
+  ],
+  "raw_content": null
+}

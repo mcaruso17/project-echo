@@ -1,0 +1,79 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:19:54",
+  "received_at": "2026-09-29T11:20:08",
+  "latency_seconds": 13.815,
+  "prompt_tokens": 11182,
+  "completion_tokens": 917,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 12099,
+  "cost_usd_api": 0.00442428,
+  "cost_usd_reconstructed": 0.004455,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673595-qT8Ar7mQYJCDDz9PuETO",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT nn. 235, 350, 517 del 2020 e n. 44 del 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "Il testo fornito è una versione provvisoria/draft dell'atto (numerazione degli articoli assente, data e numero del decreto corrente non riportati in intestazione e in calce, formula di chiusura 'IL MINISTRO' senza sottoscrizione). L'atto corrente proroga i termini per il conseguimento delle OGV (obbligazioni giuridicamente vincolanti) sugli interventi indicati negli Allegati 1 e 2: si tratta di un atto di proroga di termini procedurali, NON di un atto che dispone risorse (assegnazioni, impegni, definanziamenti o rimodulazioni economiche) sui capitoli di bilancio. L'art. 2 menziona genericamente 'risorse disponibili a seguito di definanziamento' ma non importa somme specifiche, né indica capitolo, piano gestionale, CUP o importo. Gli Allegati 1 e 2 elencano interventi (con CUP per alcuni: H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, C81B21013200005, D71D18000520001) ma non riportano importi, capitolo o piano gestionale, e si limitano ad associare a ciascun intervento una nuova data di scadenza dell'OGV. Pertanto, in base alle regole R1 (non dedurre/inventare), R2 (l'atto non dispone azioni di finanziamento su CUP) e R7 (le tabelle non hanno colonne di importo), non si estraggono record di finanziamento. Si segnala che gli Allegati 1 e 2 del testo contengono i CUP solo in forma frammentaria, disseminati in blocchi di testo verticale (es. 'C81B21013200005' per Brescia/T2, 'H11J21000010003' per Firenze/Linea 3, 'F44I19000530001' per Milano M1 deposito, 'B44D20000040001' per Milano M1 prolungamento, 'B24C17000320005' e 'B71J22000050006' per Milano-Limbiate, 'D71D18000520001' per Palermo FASE II), senza colonne di finanziamento. L'atto è una proroga di termini, non un atto di finanziamento."
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": false,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\"estremi\": \"DM MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT nn. 235, 350, 517 del 2020 e n. 44 del 2021\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 22 novembre 2021, n. 464\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"DM MIT 23 dicembre 2022, n. 410\", \"relazione\": \"rimodula\"}\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"],\n  \"record\": [],\n  \"note_estrazione\": \"Il testo fornito è una versione provvisoria/draft dell'atto (numerazione degli articoli assente, data e numero del decreto corrente non riportati in intestazione e in calce, formula di chiusura 'IL MINISTRO' senza sottoscrizione). L'atto corrente proroga i termini per il conseguimento delle OGV (obbligazioni giuridicamente vincolanti) sugli interventi indicati negli Allegati 1 e 2: si tratta di un atto di proroga di termini procedurali, NON di un atto che dispone risorse (assegnazioni, impegni, definanziamenti o rimodulazioni economiche) sui capitoli di bilancio. L'art. 2 menziona genericamente 'risorse disponibili a seguito di definanziamento' ma non importa somme specifiche, né indica capitolo, piano gestionale, CUP o importo. Gli Allegati 1 e 2 elencano interventi (con CUP per alcuni: H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, C81B21013200005, D71D18000520001) ma non riportano importi, capitolo o piano gestionale, e si limitano ad associare a ciascun intervento una nuova data di scadenza dell'OGV. Pertanto, in base alle regole R1 (non dedurre/inventare), R2 (l'atto non dispone azioni di finanziamento su CUP) e R7 (le tabelle non hanno colonne di importo), non si estraggono record di finanziamento. Si segnala che gli Allegati 1 e 2 del testo contengono i CUP solo in forma frammentaria, disseminati in blocchi di testo verticale (es. 'C81B21013200005' per Brescia/T2, 'H11J21000010003' per Firenze/Linea 3, 'F44I19000530001' per Milano M1 deposito, 'B44D20000040001' per Milano M1 prolungamento, 'B24C17000320005' e 'B71J22000050006' per Milano-Limbiate, 'D71D18000520001' per Palermo FASE II), senza colonne di finanziamento. L'atto è una proroga di termini, non un atto di finanziamento.\"\n}\n```"
+}

@@ -1,0 +1,149 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:50:24",
+  "received_at": "2026-09-24T13:50:31",
+  "latency_seconds": 6.732,
+  "prompt_tokens": 8122,
+  "completion_tokens": 1777,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 9899,
+  "cost_usd_api": 0.00453828,
+  "cost_usd_reconstructed": 0.004569,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790250624-ixDpDvneTqClZgpT8C3b",
+    "provider": "StreamLake",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione 7 novembre 2019 tra MIT, Comune di Milano e Regione Lombardia",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 381 del 5 dicembre 2019 (reg. Corte dei Conti 25/01/2020 n. 240)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 108 del 25 marzo 2024 (reg. Corte dei Conti 16/04/2024 n. 1339)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Atto modificativo della Convenzione 7 novembre 2019 sottoscritto il 24 gennaio 2024",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione 7 novembre 2019 sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2018, n. 145, art. 1, commi 95-96",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2021, n. 234",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto direttoriale (MIT – DG Trasporto pubblico locale) che approva il Secondo Atto Modificativo della Convenzione del 7 novembre 2019: numero e data non sono leggibili nel testo fornito. Non sono presenti nel testo né allegati richiamati dall'articolato né tabelle con CUP/importi: il CUP B21F19000040009 compare unicamente nel preambolo (art. 41 DL 76/2020). L'atto non dispone nuovi stanziamenti né nuovi impegni: si limita a (i) approvare il Secondo Atto Modificativo (art. 1) e (ii) richiamare la composizione del contributo complessivo di € 915.000.000,00 (art. 2), di cui € 900 mln già impegnati con DD 381/2019 e € 15 mln già impegnati con DD 108/2024. I record prodotti descrivono pertanto la qualificazione delle risorse già impegnate nell'ambito dell'atto modificativo approvato; le fonti originarie di impegno sono indicate in atto_riferito. Non sono state applicate le convenzioni 'Mld/MLN' perché gli importi sono espressi in forma estesa."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse, VISTO relativo al Secondo Atto Modificativo 13/02/2025",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all'art. 1 è pari a complessivi € 915.000.000,00",
+      "atto_riferito": "Secondo Atto Modificativo della Convenzione 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo del contributo confermato/riqualificato dal Secondo Atto Modificativo; il CUP B21F19000040009 è associato all'Atto modificativo (preambolo, art. 41 DL 76/2020). L'atto corrente approva il Secondo Atto Modificativo senza disporre un nuovo stanziamento."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "di cui € 900.000.000,00 a valere sulle risorse stanziate dall'articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "Decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota parte del contributo complessivo: risorse ex L. 145/2018, già impegnate con DD 381/2019; l'atto corrente si limita a confermarne la qualificazione nell'ambito del Secondo Atto Modificativo."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "ed € 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": "Decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota parte del contributo complessivo: risorse ex L. 234/2021, già impegnate con DD 108/2024; l'atto corrente si limita a confermarne la qualificazione nell'ambito del Secondo Atto Modificativo."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:39:44",
+  "received_at": "2026-08-06T11:40:08",
+  "latency_seconds": 24.374,
+  "prompt_tokens": 10250,
+  "completion_tokens": 1258,
+  "reasoning_tokens": 0,
+  "cached_tokens": 6662,
+  "total_tokens": 11508,
+  "cost_usd_api": 0.0058940424,
+  "cost_usd_reconstructed": 0.011054779999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009184-4Rr4koykYR2gwb7itmA4",
+    "provider": "Baidu",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": "2021-10-22",
+    "ministero_1": "Ministro delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero di decreto esplicito nel testo fornito. La data è dedotta dalla relazione n. 8259 del 22 ottobre 2021 citata nel preambolo e dalla struttura del decreto. Il capitolo 7400 e i piani gestionali 7 e 1 sono citati nel preambolo come fonti delle risorse; l'art. 1 dispone la ripartizione da entrambi i piani gestionali verso gli interventi dell'allegato 1. Non essendo specificato in quale proporzione i singoli interventi siano finanziati dai due piani gestionali, si è attribuito il piano gestionale 7 come principale fonte, essendo la risorsa maggiore (€ 634.174.000,00 vs € 114.902.425,07). Il decreto ministeriale 3 febbraio 202, n. 144 citato nel preambolo sembra avere un errore tipografico nell'anno (202 invece di 2020 o 2021)."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1 / tabella pag.10 n.1",
+      "note": "Risorse da capitolo 7400, piano gestionale 7 (legge 160/2019) e piano gestionale 1 (legge 178/2020). Intervento: Linea Sir 2 del tram-completamento del sistema intermedio a rete della città di Padova"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2 / tabella pag.10 n.1",
+      "note": "Risorse da capitolo 7400, piano gestionale 7 (legge 160/2019) e piano gestionale 1 (legge 178/2020). Intervento: Nuova linea tranviaria \"Pendolina-Fiera (T2)\""
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3 / tabella pag.10 n.1",
+      "note": "Risorse da capitolo 7400, piano gestionale 7 (legge 160/2019) e piano gestionale 1 (legge 178/2020). Intervento: Rinnovo materiale linee A e B-B1 della metropolitana"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4 / tabella pag.10 n.1",
+      "note": "Risorse da capitolo 7400, piano gestionale 7 (legge 160/2019) e piano gestionale 1 (legge 178/2020). Intervento: Attestamento linea tranviaria 15 presso ospedale Martini e modifica instradamento in zona centro"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5 / tabella pag.10 n.1",
+      "note": "Risorse da capitolo 7400, piano gestionale 7 (legge 160/2019) e piano gestionale 1 (legge 178/2020). Intervento: Metropolitana automatica di Torino - Linea 1: prolungamento ovest Collegno - Cascine Vica: nuovo fabbricato deposito treni"
+    }
+  ],
+  "raw_content": null
+}

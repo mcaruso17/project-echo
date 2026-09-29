@@ -1,0 +1,118 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T16:59:34",
+  "received_at": "2026-09-28T16:59:45",
+  "latency_seconds": 11.663,
+  "prompt_tokens": 9039,
+  "completion_tokens": 1071,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 10110,
+  "cost_usd_api": 0.00396618,
+  "cost_usd_reconstructed": 0.003996899999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790607574-MIHEgBwqOwnKjp8LQDqK",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 12 settembre 2014, n. 133, convertito dalla Legge 11 novembre 2014, n. 164",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Delibera CIPE 20 dicembre 2019, n. 76",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [
+      "Tabella annualità art. 2"
+    ],
+    "note_estrazione": "Numero e data del decreto corrente non indicati nel testo (firma solo del Direttore di Div. 2). Nessun allegato richiamato dall'articolato; l'unica tabella presente è l'articolazione annualità dell'art. 2. Non sono estratti: il finanziamento complessivo di 155 mln del DM 498/2014, l'impegno di 9.279.359,97 del DD 220/2020, l'assegnazione di 608.690.000,00 del DM 97/2022, le somme stanziate/reiscritte ex lege n. 196/2009 (tutti citati ma non disposti dall'atto corrente)."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021 (in conto residui di lettera F)",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "l’impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021 ... CUP E51I04000010007",
+      "atto_riferito": "DM n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno disposto in conto residui 2021; atto attuativo del DM 498/2014"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], Totale",
+      "passaggio_testuale": "per l’importo complessivo di € 131.000.000,00 a favore di Roma Capitale ... CUP E51I04000010007 ... Totale 131.000.000,00 €",
+      "atto_riferito": "DM n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno pluriennale disposto dall'art. 2; le quote annuali (35+40+33,5+22,5=131 mln) sono solo articolazione interna, non record separati (R5)"
+    }
+  ],
+  "raw_content": null
+}

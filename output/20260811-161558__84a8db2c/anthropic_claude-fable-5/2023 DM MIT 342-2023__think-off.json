@@ -1,0 +1,87 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:33:01",
+  "received_at": "2026-08-11T16:33:32",
+  "latency_seconds": 30.69,
+  "prompt_tokens": 36792,
+  "completion_tokens": 2298,
+  "reasoning_tokens": 71,
+  "cached_tokens": 0,
+  "total_tokens": 39090,
+  "cost_usd_api": 0.48282,
+  "cost_usd_reconstructed": 0.48282,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786458782-uThbKzkgmiyxpsHoCy3U",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è privo di numero e data espliciti nel testo fornito (intestato 'Il Ministro delle infrastrutture e dei trasporti', con intesa Conferenza Stato-Regioni del 20/12/2023, quindi presumibilmente del 2023/2024). Il decreto non dispone nuovi finanziamenti: rettifica errori materiali dell'Allegato 3 del DM 364/2021 e sostituisce gli Allegati 1, 2 e 3 del medesimo decreto per recepire rimodulazioni già approvate da precedenti decreti direttoriali (n. 235/2022, n. 270/2022, n. 257/2023). Gli interventi con CUP elencati negli Allegati 1 e 2 (cap. 7150 p.g. 3 per potenziamento, p.g. 4 per sicurezza) erano già finanziati dal DM 364/2021 e non sono stati estratti come nuove assegnazioni. Sono state estratte solo le variazioni disposte dall'art. 1, comma 1, imputate al cap. 7150 p.g. 4 in quanto riferite alla sezione 'SICUREZZA' dell'Allegato 3."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "217.585 euro, in luogo dei precedenti 117.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 del DM 364/2021: incremento di 100.000 euro delle risorse assegnate alla Regione Veneto per l'annualità 2033 (da 117.585 a 217.585 euro), a correzione di errore materiale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "690.994 euro, in luogo dei precedenti 790.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 del DM 364/2021: riduzione di 100.000 euro delle risorse assegnate alla Regione Emilia-Romagna per l'annualità 2033 (da 790.994 a 690.994 euro), a correzione di errore materiale."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "125.266 euro, in luogo dei precedenti 125.268 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 del DM 364/2021: riduzione di 2 euro delle risorse assegnate alla Regione Veneto per l'annualità 2032 (da 125.268 a 125.266 euro), per correzione di arrotondamenti."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "842.682 euro, in luogo dei precedenti 842.680 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica Allegato 3 del DM 364/2021: incremento di 2 euro delle risorse assegnate alla Regione Emilia-Romagna per l'annualità 2032 (da 842.680 a 842.682 euro), per correzione di arrotondamenti."
+    }
+  ],
+  "raw_content": null
+}

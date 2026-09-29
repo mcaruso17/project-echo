@@ -1,0 +1,184 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:05:42",
+  "received_at": "2026-09-29T12:06:15",
+  "latency_seconds": 33.2,
+  "prompt_tokens": 74314,
+  "completion_tokens": 1799,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 76113,
+  "cost_usd_api": 0.00505684,
+  "cost_usd_reconstructed": 0.005252754,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676348-VF0KvFHZKIMQwDfdhURc",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "delibera CIPE 21 dicembre 2001, n. 121",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "delibera CIPE 4 aprile 2019, n. 6",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 4 marzo 2015, n. 82",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 14 settembre 2018, n. 234",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 16 novembre 2021, n. 448",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "delibera CIPESS n. 14 del 23 aprile 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "La delibera approva il progetto definitivo della Linea 4.1 del sistema tramviario fiorentino (CUP H11J12000200001) e qualifica le risorse di copertura. Il definanziamento FSC di 27,55 milioni di euro disposto dalla delibera CIPESS n. 14/2024 è richiamato ma non disposto dalla presente delibera. Il costo complessivo dell'intervento è 200.120.520,56 euro; le risorse disponibili sono 202.146.176,56 euro. Gli allegati 1 e 2 contengono prescrizioni e raccomandazioni tecniche, senza importi."
+  },
+  "records": [
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "annualita": null,
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "punto 1.2.1",
+      "passaggio_testuale": "95.000.000,00 euro a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Fondo per la continuità dei cantieri (Sblocca Italia), istituito dall'art. 18, comma 1, del decreto-legge n. 69 del 2013, rifinanziato dall'art. 3, comma 2, lettera c), del decreto-legge n. 133 del 2014"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "punto 1.2.1",
+      "passaggio_testuale": "47.000.000,00 euro a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Fondo per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese, di cui al decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "punto 1.2.1",
+      "passaggio_testuale": "29.900.000,00 euro a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Fondo per migliorare l'offerta di servizi di trasporto pubblico locale nelle aree metropolitane, di cui all'art. 1, comma 88 della legge n. 147 del 2013"
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 30246176.56,
+      "importo_originale": "30.246.176,56",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico del Comune di Firenze",
+      "riferimento_fonte": "punto 1.2.2",
+      "passaggio_testuale": "Quota a carico del Comune di Firenze pari a 30.246.176,56 euro",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Composta da 7.100.598,76 euro dalle risorse «quota Comune di Firenze», 22.900.000,00 euro dalle risorse «quota Comune di Firenze - trasferimenti da RFI», e 245.577,80 euro dalle risorse «RFI - ulteriore finanziamento (inserito nel 2012)»"
+    }
+  ],
+  "raw_content": null
+}

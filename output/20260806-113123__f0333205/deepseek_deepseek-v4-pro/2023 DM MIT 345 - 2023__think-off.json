@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:38:26",
+  "received_at": "2026-08-06T14:38:30",
+  "latency_seconds": 4.624,
+  "prompt_tokens": 14652,
+  "completion_tokens": 188,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14840,
+  "cost_usd_api": 0.017552704,
+  "cost_usd_reconstructed": 0.00653718,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786019906-16zzshAfqscxfofKm57q",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non contiene azioni di finanziamento esplicite con capitolo e piano gestionale. Sostituisce gli allegati di un precedente decreto, ma non assegna nuovi fondi né modifica importi. L'unica nuova assegnazione menzionata (€ 14.642.359,10 per la Linea SIR3 di Padova) è già inclusa nell'Allegato 1 come parte della rimodulazione complessiva, senza dettaglio di capitolo/piano gestionale."
+  },
+  "records": [],
+  "raw_content": null
+}

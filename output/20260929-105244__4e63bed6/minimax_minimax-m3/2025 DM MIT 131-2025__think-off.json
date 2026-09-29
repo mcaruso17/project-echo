@@ -1,0 +1,67 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:18:12",
+  "received_at": "2026-09-29T12:18:28",
+  "latency_seconds": 15.336,
+  "prompt_tokens": 9167,
+  "completion_tokens": 626,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5632,
+  "total_tokens": 9793,
+  "cost_usd_api": 0.00214962,
+  "cost_usd_reconstructed": 0.0035012999999999997,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677093-XdEZH341X1R0zWSAgkPc",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione del 7 novembre 2019 tra MIT, Comune di Milano e Regione Lombardia",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Primo Atto Modificativo della Convenzione del 24 gennaio 2024",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto direttoriale del Direttore Generale per il trasporto pubblico locale del MIT che approva (art. 1) il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 per il prolungamento della Linea M5 Milano-Monza (CUP B21F19000040009) e ne riassume il quadro finanziario complessivo (art. 2). La parte dispositiva non dispone nuovi stanziamenti, assegnazioni, impegni, definanziamenti o rimodulazioni: l'art. 2 si limita a citare come 'già impegnate' le risorse (€ 900.000.000 con d.d. 381/2019 e € 15.000.000 con d.d. 108/2024) e a indicare la quota regionale di € 283.000.000 come risorse della Regione Lombardia. Si tratta pertanto di mere citazioni di somme già disposte da altri atti (regole R2, R10, esempio D del system prompt) e non di eventi contabili disposti dall'atto corrente. Il CUP B21F19000040009 compare solo nel preambolo e non è oggetto di un'azione di finanziamento disposta dall'atto. Non risultano allegati richiamati ulteriormente presenti nel testo. Numero e data del decreto corrente non sono indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\", \"ministero_2\": null, \"natura_atto\": \"attuazione\", \"atti_collegati\": [{\"estremi\": \"Convenzione del 7 novembre 2019 tra MIT, Comune di Milano e Regione Lombardia\", \"relazione\": \"attua\"}, {\"estremi\": \"Decreto direttoriale n. 381 del 5 dicembre 2019\", \"relazione\": \"richiama\"}, {\"estremi\": \"Decreto direttoriale n. 108 del 25 marzo 2024\", \"relazione\": \"richiama\"}, {\"estremi\": \"Primo Atto Modificativo della Convenzione del 24 gennaio 2024\", \"relazione\": \"attua\"}, {\"estremi\": \"Secondo Atto Modificativo della Convenzione sottoscritto il 13 febbraio 2025\", \"relazione\": \"attua\"}], \"allegati_richiamati\": [\"Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025\"], \"allegati_presenti_nel_testo\": [], \"record\": [], \"note_estrazione\": \"L'atto corrente è un decreto direttoriale del Direttore Generale per il trasporto pubblico locale del MIT che approva (art. 1) il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 per il prolungamento della Linea M5 Milano-Monza (CUP B21F19000040009) e ne riassume il quadro finanziario complessivo (art. 2). La parte dispositiva non dispone nuovi stanziamenti, assegnazioni, impegni, definanziamenti o rimodulazioni: l'art. 2 si limita a citare come 'già impegnate' le risorse (€ 900.000.000 con d.d. 381/2019 e € 15.000.000 con d.d. 108/2024) e a indicare la quota regionale di € 283.000.000 come risorse della Regione Lombardia. Si tratta pertanto di mere citazioni di somme già disposte da altri atti (regole R2, R10, esempio D del system prompt) e non di eventi contabili disposti dall'atto corrente. Il CUP B21F19000040009 compare solo nel preambolo e non è oggetto di un'azione di finanziamento disposta dall'atto. Non risultano allegati richiamati ulteriormente presenti nel testo. Numero e data del decreto corrente non sono indicati nel testo fornito.\"}"
+}

@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:34:15",
+  "received_at": "2026-08-06T15:34:23",
+  "latency_seconds": 8.214,
+  "prompt_tokens": 4876,
+  "completion_tokens": 415,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 5291,
+  "cost_usd_api": 0.00068811,
+  "cost_usd_reconstructed": 0.007366,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023255-NPAmL50yfwHz7uIaB0Yr",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": "2025-02-13",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta un numero identificativo del decreto corrente né una data esplicita di emanazione; il 13 febbraio 2025 è la data di sottoscrizione del Secondo Atto Modificativo approvato dal decreto."
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 e impegnate con decreto direttoriale n. 381 del 5 dicembre 2019."
+    },
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Risorse stanziate dalla legge n. 234/2021 e impegnate con decreto direttoriale n. 108 del 25 marzo 2024."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:14",
+  "received_at": "2026-09-29T11:14:22",
+  "latency_seconds": 7.943,
+  "prompt_tokens": 7570,
+  "completion_tokens": 597,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8167,
+  "cost_usd_api": 0.0017325,
+  "cost_usd_reconstructed": 0.0017325,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673255-mNgSW2FXULASyEQL2qcG",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "125",
+    "data_decreto": "2023-01-19",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "proroga",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 14 gennaio 2022, n. 8",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 2020, n. 235",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 2020, n. 350",
+        "relazione": "proroga_termine"
+      },
+      {
+        "estremi": "DM MIT 2020, n. 517",
+        "relazione": "proroga_termine"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente (DM 19 gennaio 2023, n. 125) ha natura di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1). Non dispone nuovi stanziamenti, assegnazioni, impegni o rimodulazioni di risorse finanziarie. Di conseguenza, non genera eventi contabili di finanziamento (record) da estrarre, in quanto non muove denaro verso CUP specifici ma modifica solo scadenze temporali di atti precedenti. I CUP sono menzionati solo come identificatori per il monitoraggio (art. 1, comma 3), non come destinatari di risorse in questo atto."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"125\",\n  \"data_decreto\": \"2023-01-19\",\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"proroga\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 14 gennaio 2022, n. 8\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 2020, n. 235\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 2020, n. 350\",\n      \"relazione\": \"proroga_termine\"\n    },\n    {\n      \"estremi\": \"DM MIT 2020, n. 517\",\n      \"relazione\": \"proroga_termine\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente (DM 19 gennaio 2023, n. 125) ha natura di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1). Non dispone nuovi stanziamenti, assegnazioni, impegni o rimodulazioni di risorse finanziarie. Di conseguenza, non genera eventi contabili di finanziamento (record) da estrarre, in quanto non muove denaro verso CUP specifici ma modifica solo scadenze temporali di atti precedenti. I CUP sono menzionati solo come identificatori per il monitoraggio (art. 1, comma 3), non come destinatari di risorse in questo atto.\"\n}"
+}

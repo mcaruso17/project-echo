@@ -1,0 +1,161 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:31:55",
+  "received_at": "2026-08-06T15:32:33",
+  "latency_seconds": 38.191,
+  "prompt_tokens": 8590,
+  "completion_tokens": 1336,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1856,
+  "total_tokens": 9926,
+  "cost_usd_api": 0.01203826,
+  "cost_usd_reconstructed": 0.01022516,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023115-vMZ2feinIvYOS1uajIiR",
+    "provider": "Cloudflare",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto dirigenziale (non ministeriale) n. 141 del 18/04/2025 del Ministero delle infrastrutture e dei trasporti. Gli articoli 3 e 4 autorizzano impegni nuovi sul capitolo 7419/PG2 e 7416/PG1. L'art. 2 richiama risorse già stanziate e impegnate con decreti precedenti (dd. 454/2022 su cap. 7426/PG1 e dd. 419/2022 su cap. 7400/PG1 e PG8): queste NON sono nuove azioni di finanziamento del decreto corrente, ma mera descrizione della copertura della convenzione. Il CUP E51I04000010007 è esplicitamente associato alla convenzione nel considerando pre-dispositivo e nell'art. 1."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2024",
+      "note": "impegno in conto residui, esercizio di provenienza 2024"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 25000000.0,
+      "importo_originale": "€ 25.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2025",
+      "note": "esercizio finanziario 2025"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2026",
+      "note": "esercizio finanziario 2026"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 350000000.0,
+      "importo_originale": "€ 350.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2027",
+      "note": "esercizio finanziario 2027"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 200000000.0,
+      "importo_originale": "€ 200.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2028",
+      "note": "esercizio finanziario 2028"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 150000000.0,
+      "importo_originale": "€ 150.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2029",
+      "note": "esercizio finanziario 2029"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 450000000.0,
+      "importo_originale": "€ 450.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2030",
+      "note": "esercizio finanziario 2030"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 450000000.0,
+      "importo_originale": "€ 450.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2031",
+      "note": "esercizio finanziario 2031"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 400000000.0,
+      "importo_originale": "€ 400.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, tabella pag.5 n.1, riga 2032",
+      "note": "esercizio finanziario 2032"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 4",
+      "note": "esercizio finanziario 2027"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 25000000.0,
+      "importo_originale": "€ 25.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 4",
+      "note": "esercizio finanziario 2028"
+    }
+  ],
+  "raw_content": null
+}

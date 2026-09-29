@@ -1,0 +1,75 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:48:16",
+  "received_at": "2026-09-24T12:48:26",
+  "latency_seconds": 10.547,
+  "prompt_tokens": 9874,
+  "completion_tokens": 616,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10490,
+  "cost_usd_api": 0.012378432,
+  "cost_usd_reconstructed": 0.005415564,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246896-tm1EDg9ZhaLQhI043fj7",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data del decreto. Il capitolo 7400 PG 5 è citato nel preambolo come fonte delle risorse, ma l'articolato non dispone impegni contabili su capitolo/PG. Le tabelle presenti nel testo sono la riproduzione di parti dell'articolato e non contengono ulteriori azioni di finanziamento."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E’ assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all’articolo 1, comma 95, della legge 145/2018, per l’intervento di manutenzione relativo a “Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)” il cui costo totale è stimato in € 2.250.000,00.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Costo totale stimato dell'intervento € 2.250.000,00; contributo assegnato € 2.041.389,20."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,125 @@
+==============================================================================
+TIMESTAMP      : 2026-08-14T15:42:54.856
+MODELLO        : deepseek/deepseek-v4-pro-0813   (tier frontier, reasoning optional)
+THINKING       : off
+DOCUMENTO      : 2022 DD MIT 454-2022
+TENTATIVO      : 1/4
+ENDPOINT       : https://openrouter.ai/api/v1/chat/completions
+LATENZA (s)    : 14.684
+==============================================================================
+
+----- REQUEST BODY (credenziali NON incluse) -----
+{
+  "model": "deepseek/deepseek-v4-pro-0813",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Sei un analista esperto del bilancio dello Stato italiano e dei decreti ministeriali\n(decreti ministeriali / interministeriali). Il tuo compito è estrarre, dal testo del\ndecreto fornito, ogni azione di finanziamento che collega linee di bilancio a progetti.\n\nConcetti chiave:\n- \"capitolo di spesa\" (capitolo): il capitolo di bilancio su cui lo Stato stanzia risorse.\n- \"piano gestionale\" (piano_gestionale): una sotto-articolazione del capitolo.\n- \"CUP\" (Codice Unico di Progetto): codice alfanumerico di 15 caratteri che identifica un\n  progetto specifico (es. \"J51B21000000001\"). Compare SOLO quando un decreto assegna\n  risorse a un progetto identificato. Molti decreti NON hanno alcun CUP: è normale.\n- Un'azione di finanziamento muove denaro: un'\"assegnazione/finanziamento\" (positiva), un\n  \"definanziamento/riduzione\" (negativa), o una \"rimodulazione\" (fondi spostati, es. da un\n  piano gestionale verso un CUP; può avere una gamba positiva e una negativa).\n\nIDENTIFICAZIONE DEL DECRETO CORRENTE\n\nIl documento può citare numerosi decreti precedenti nel preambolo\n(\"VISTO\", \"RICHIAMATO\", \"CONSIDERATO\", ecc.).\n\nIl decreto corrente è esclusivamente quello rappresentato dal documento\nche stai analizzando, cioè quello che contiene la parte dispositiva\n(\"DECRETA\", \"ART.\", ecc.).\n\nI campi:\n\n- numero_decreto\n- data_decreto\n- ministero_1\n- ministero_2\n\ndevono riferirsi SEMPRE al decreto corrente e MAI ai decreti citati nel\npreambolo o nelle tabelle.\n\nREGOLE DI ESTRAZIONE:\n1. Estrai SOLO ciò che è esplicitamente scritto nel testo. NON dedurre, completare o\n   inventare codici o importi. Se un campo non è presente, usa null.\n2. Se il decreto non contiene alcuna azione di finanziamento con il dettaglio richiesto,\n   restituisci un array \"record\" vuoto. Non restituire nulla è meglio che tirare a indovinare.\n3. Importi: il formato italiano usa \".\" per le migliaia e \",\" per i decimali\n   (\"1.500.000,00\" = un milione e cinquecentomila). Restituisci \"importo_eur\" come numero\n   semplice (punto decimale, senza separatori) e conserva la stringa originale in\n   \"importo_originale\". Usa un numero NEGATIVO per definanziamenti/riduzioni e per la gamba\n   negativa di una rimodulazione; positivo per le assegnazioni e per la gamba positiva.\n4. Un record per ogni azione di finanziamento. Se una rimodulazione toglie fondi da un\n   piano gestionale e li assegna a un CUP, e sono indicate sia la riduzione all'origine sia\n   l'aumento a destinazione, crea record separati per ciascuna gamba.\n5. Compila \"riferimento_fonte\" con il punto del decreto in cui hai trovato il dato (es.\n   \"art. 2\", \"Allegato 1, riga 5\"), così un umano può verificare in fretta.\n6. Riporta i campi a livello di decreto (numero, data, ministeri) una sola volta al livello\n   superiore, non dentro ogni record.\n7. Il preambolo (\"VISTO\", \"CONSIDERATO\", \"RITENUTO\", ecc.) ha funzione esclusivamente descrittiva\ne serve come contesto storico. NON estrarre azioni di finanziamento dal preambolo, \nsalvo che il decreto rinvii esplicitamente ad un allegato contenente le nuove assegnazioni.\n8. Le azioni di finanziamento devono essere estratte dalla parte\ndispositiva del decreto (\"DECRETA\", \"ART.\", ecc.) e dagli allegati\nrichiamati dagli articoli.\n9. Se una tabella contiene colonne come \"Decreto di assegnazione\",\n\"Decreto originario\", \"Decreto di finanziamento\" o analoghe, tali valori\nidentificano il provvedimento con cui il progetto era stato finanziato in\nprecedenza e NON il decreto corrente.\n10. Se il decreto corrente assegna contributi aggiuntivi a interventi già\nfinanziati da precedenti decreti, estrai esclusivamente il nuovo importo\nassegnato dal decreto corrente. I decreti precedenti possono essere\ncitati eventualmente nel campo \"note\", ma NON devono essere utilizzati\ncome valore di \"numero_decreto\".\n11. Prima di produrre il JSON esegui mentalmente questa procedura:\n\na) identifica il decreto corrente;\nb) individua dove inizia la parte dispositiva (\"DECRETA\");\nc) individua le nuove azioni di finanziamento;\nd) verifica che \"numero_decreto\" appartenga al decreto corrente e non a\nun decreto citato.\n\nRestituisci UN SOLO oggetto JSON, e nient'altro (niente prosa, niente fence markdown), con\nquesta forma esatta:\n\n{\n  \"decreto_corrente_identificato\": true\n  \"numero_decreto\": string | null,       // es. \"125\" o \"125/2024\" come stampato\n  \"data_decreto\": string | null,         // ISO \"AAAA-MM-GG\"\n  \"ministero_1\": string | null,          // ministero primo / capofila\n  \"ministero_2\": string | null,          // secondo ministero se interministeriale, altrimenti null\n  \"record\": [\n    {\n      \"cup\": string | null,               // codice di 15 caratteri, maiuscolo, senza spazi\n      \"capitolo\": string | null,          // capitolo, come stampato (es. \"7003\")\n      \"piano_gestionale\": string | null,  // piano gestionale, come stampato (es. \"1\")\n      \"importo_eur\": number | null,       // con segno, punto decimale\n      \"importo_originale\": string | null, // stringa originale, es. \"€ 1.500.000,00\"\n      \"tipo_azione\": \"assegnazione\" | \"definanziamento\" | \"rimodulazione\" | \"altro\",\n      \"riferimento_fonte\": string | null,\n      \"note\": string | null\n    },\n    {\n      \"cup\": string | null,               // codice di 15 caratteri, maiuscolo, senza spazi\n      \"capitolo\": string | null,          // capitolo, come stampato (es. \"7003\")\n       ...\n    }\n\n  ],\n  \"note_estrazione\": string | null       // ambiguità, se il testo sembrava incompleto\n}"
+    },
+    {
+      "role": "user",
+      "content": "Analizza il seguente decreto ministeriale.\n\nIdentifica innanzitutto il decreto corrente rappresentato dal documento.\nIgnora come possibili risultati i decreti citati nel preambolo o nelle tabelle (ad esempio colonne 'Decreto di assegnazione', 'Decreto originario', 'Decreto di finanziamento'), salvo che il decreto corrente disponga esplicitamente una modifica o una revoca di tali decreti.\n\nEstrai esclusivamente le azioni di finanziamento disposte dal decreto corrente.\nRestituisci solo il JSON descritto nel system prompt.\n\n=== INIZIO TESTO DECRETO ===\nMinistero delle infrastrutture e dei trasporti\nDipartimento per la mobilità sostenibile\nDirezione generale per il trasporto pubblico locale e regionale e la mobilità pubblica sostenibile\nDiv 2\nVISTO il decreto legge 12 settembre 2014. n. 133 recante \"Misure urgenti per l'apertura dei cantieri la\nrealizzazione delle opere pubbliche, la digitalizzazione del Paese, la semplificazione burocratica, l'emergenza\ndel dissesto idrogeologico e per la ripresa delle attività produttive , convertito, con modificazioni, dalla\nLegge 11 novembre 2014, n. 164;\nVISTO l'articolo 3. comma 1 del richiamato decreto legge n. 133/2014 che rifinanzia il Fondo per la\ncontinuità dei cantieri di cui all'articolo 18, comma 1, del decreto legge 69/20: per un importo complessivo di\neuro 3.890.000.000;\nVISTO l'articolo 3, comma 1 bis, del richiamato decreto legge n. 133/2014 che incrementa Fondo per la\ncontinuità dei cantieri di cui all'articolo 18. comma 1, d euro 39 milioni, mediante utilizzo delle disponibilità\niscritte in conio residui ne cui all'articolo 32. comma 6. del decreto legge n. 98/2011;\nVISTO l'articolo 3, comma 2, del richiamato decreto legge n. 133/2014 che prevede che con decreti Ministro\ndelle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze sono assegnati,\nalle opere individuate alle lettere a) e b) del medesimo comma 2, i finanziamenti previsti dai richiamati\ncommi 1 e 1bis del medesimo articolo 3;\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e\ndelle finanze, n. 498 del 14 novembre 2014 che assegna i finanziamenti agli interventi di cui alle lettere a)\ne b), dell’articolo 3, comma 2, del D.L. 133/2014;\nVISTO l'articolo 3, del richiamato decreto legge n. 133/2014 che al comma 2 lettera a) prevede tra le opere\nda finanziare la tratta Colosseo - Piazza Venezia della linea C della Metropolitana di Roma;\nVISTO l'articolo 3, comma 3bis, del richiamato decreto legge n. 133/2014 che prevede ai fini della revoca\ndei finanziamenti previsti dai commi 5 e 6 le condizioni di appaltabilità e cantieribilità si realizzano quando\ni relativi adempimenti previsti dai decreti di finanziamento sono compiuti entro il 31 dicembre 2021;\nVISTO in particolare, l'articolo 3, comma 7, del richiamato decreto legge n. 133/2014 il quale prevede che\ncon il medesimo provvedimento di cui al richiamato comma 1, siano individuate le modalità di utilizzo delle\nrisorse assegnate, di monitoraggio dell'avanzamento dei lavori e di applicazione misure di revoca;\nVISTO l'articolo 1 del richiamato decreto del Ministro delle infrastrutture e dei trasporti di concerto con il\nMinistro dell'economia e delle finanze, n. 498 del 14 novembre 2014 che agli interventi individuati dalle\nlettere a) e b) dell'articolo 3, comma 2, del decreto legge n. 133/2014 assegna un finanziamento pari a 1.394\nmilioni di euro, a valere sulle risorse iscritte sul Fondo per la continuità dei cantieri incrementato ai sensi\ndell'articolo 3, del D.L. n. 133/2014 secondo l'articolazione pluriennale riportata nella tabella allegata parte\nintegrante del predetto decreto;\nVISTA la tabella allegata al già richiamato decreto del Ministro delle infrastrutture e dei trasporti di concerto\ncon il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014 che per l'intervento “Tratta\nColosseo - Piazza Venezia della Linea C della metropolitana di Roma” ,CUP E51I04000010007, prevede un\nfinanziamento di € 155 milioni ripartiti in € 10 milioni per il 2016, 90 milioni per il 2017 e € 55 milioni per il\n2018;\ndestinato € 9.279.359,97 al prolungamento delle gallerie di linea della tratta T3 della Linea C della\nmetropolitana di Roma a carico dei 10 milioni di euro previsti per il 2016 dal citato decreto del Ministro delle\ninfrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre\n2014;\nVISTO il DD n. 220 del 10/07/2020 con il quale, in attuazione della citata delibera CIPE 20 dicembre 2019,\nn. 76 è stato assunto l'impegno di spesa di € 9.279.359,97 sul capitolo 7426, piano di gestione 1 a favore di\nRoma Capitale;\nVISTO in particolare l'articolo 3, comma 3, lettera b) del richiamato decreto del Ministro delle infrastrutture\ne dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 che prevede per la\ncantieribilità della \"Tratta Colosseo - Piazza Venezia della Linea C di Roma\"' che il Comune di Roma\ntrasmette alla Struttura Tecnica di Missione il progetto definitivo aggiornato;\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti n. 194 del 6 giugno 2015 che prevede la\nsoppressione della Struttura Tecnica di Missione istituita con decreto del Ministro delle infrastrutture e dei\ntrasporti 10 febbraio 2003, n. 356;\nVISTO in particolare l'articolo 4 del citato decreto del Ministro delle infrastrutture e dei trasporti n. 194 che\nprevede i compiti precedentemente attribuiti alla citata Struttura Tecnica di Missione con decreto del\nMinistro delle infrastrutture e dei trasporti n. 76 del 1° marzo 2012 in materia di infrastrutture portuali,\naeroportuali, ferroviarie e metropolitane sono ricondotti alle direzioni generali competenti per materia;\nCONSIDERATO che ai sensi dell’articolo 30 comma 2, lettera b) della legge n. 196/2009, le risorse di € 90\nmilioni del 2017 e € 55 milioni del 2018 iscritte sul capitolo 7426, piano di gestione 1, dello stato di\nprevisione del Ministero delle infrastrutture e dei trasporti, non impegnate nel corso dell'anno 2018 sono state\nreiscritte negli esercizi finanziari dal 2021 al 2025 come di seguito riportato : € 14.000.000,00 per il 2021, €\n35.000.000,00 per il 2022, € 40.000.000,00 per il 2023, € 33.500.000,00 per il 2024 ed € 22.500.000,00 per il\n2025;\nVISTA l'istanza del Comune di Roma prot: QG20210001476 del 15/01/2021 con la quale è stato trasmesso,\ntra l’altro, il progetto definitivo della tratta Colosseo - Piazza Venezia ed è stato richiesto un contributo di €\n608.690.000,00 ad integrazione delle risorse assegnate dal citato DM n. 498/2014, necessari per la\nrealizzazione dell'intervento;\nVISTO il decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro\ndell’economia e delle finanze n. 97 del 20/04/2022 che ha assegnato a Roma Capitale la il contributo\nrichiesto di € 608.690.000,00 a carico dell'autorizzazione di spesa prevista dall’articolo 1, comma 393, della\nlegge 30 dicembre 2021, n. 234 ed iscritti sul capitolo 7400, piano di gestione 8, dello stato di previsione del\nMinistero delle infrastrutture e della mobilità sostenibili, ora Ministero delle infrastrutture e dei trasporti;\nVISTA la legge 30 dicembre 2021, n. 234, di approvazione del bilancio di previsione dello Stato per l’anno\nfinanziario 2022 e bilancio pluriennale per il triennio 2022 – 2024;\nVISTO il decreto del Ministro dell’economia e delle finanze del 31 dicembre 202, recante la ripartizione in\ncapitoli delle Unità di voto parlamentare relative al bilancio di previsione dello Stato per l’anno\nfinanziario2022 e per il triennio 2022 – 2024\nVISTO l’articolo 25, comma 2, del decreto-legge 24 aprile 2014,n.66, convertito,con modificazioni, dalla\nlegge 23 giugno 2014, n.89, che, al fine di assicurare l’effettiva tracciabilità dei pagamenti da parte delle\npubbliche amministrazioni, prevede l’apposizione del codice identificativo di gara (CIG) e del codice unico\ndi progetto (CUP) nelle fatture elettroniche emesse verso le pubbliche amministrazioni;\nVISTO l’articolo 3, comma1, lettera ggggg-bis del decreto legislativo18 aprile2016, n.50;\nCONSIDERATO che l’articolo 1, comma 1, lettera a), del decreto legislativo 29 dicembre 2011,\nn.229,prevede l’obbligo per le amministrazioni pubbliche di detenere e alimentare un sistema gestionale\ninformatizzato contenente i dati necessari al monitoraggio della spesa per opere pubbliche e degli interventi\ncorrelati;\nVISTO il decreto del Ministro dell’economia e delle finanze 26 febbraio 2013, con cui è stato disciplinato il\ndettaglio dei dati necessari per l’alimentazione del sistema di “Monitoraggio delle opere pubbliche”,\nnell’ambito della“Banca dati delle amministrazioni pubbliche – BDAP”;\nVISTO il decreto del Ministro dell’economia edelle finanze 12 maggio 2016, con il quale sono state\ndisciplinate le modalità di trasmissione dei documenti contabili alla banca dati delle amministrazioni\npubbliche (BDAP);\nVISTO l’articolo 5 del il decreto legge n. 173 dell’11 novembre 2022 con il quale il Ministero delle\ninfrastrutture e della mobilità sostenibili ha assunto la denominazione di Ministero delle infrastrutture e dei\ntrasporti;\nDECRETA\nArticolo 1\nIn attuazione del decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro\ndell'economia e delle finanze, n. 498 del 14 novembre 2014 è autorizzato, sul capitolo 7426, piano di gestione 1,\ndello stato di previsione del Ministero delle infrastrutture e della mobilità sostenibili, ora Ministero delle\nInfrastrutture e dei Trasporti – Missione 13 – programma 6 “Sviluppo e sicurezza della mobilità locale” –\nAzione 4 - del Centro di responsabilità amministrativa 3 ,è autorizzato, per il corrente esercizio finanziario, a\nfavore di Roma Capitale per l’intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana\ndi Roma” CUP E51I04000010007, l’impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di\nprovenienza 2021.\nArticolo 2\nIn attuazione del decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro\ndell'economia e delle finanze, n. 498 del 14 novembre 2014 è autorizzato l’impegno, sul capitolo 7426,\npiano di gestione 1, dello stato di previsione del Ministero delle infrastrutture e della mobilità sostenibili,\nora Ministero delle Infrastrutture e dei Trasporti – Missione 13 – programma 6 “Sviluppo e sicurezza della\nmobilità locale” – Azione 4 - del Centro di responsabilità amministrativa 3, per l’importo complessivo di €\n131.000.000,00 a favore di Roma Capitale, per l’intervento \"Tratta Colosseo - Piazza Venezia della Linea C\ndella metropolitana di Roma” CUP E51I04000010007, come di seguito riportato:\nAnno Importo\n2022 35.000.000,00 €\n2023 40.000.000,00 €\n2024 33.500.000,00 €\n2025 22.500.000,00 €\nTotale 131.000.000,00 €\nIL DIRETTORE DELLA DIV 2\n(Dr. Raffaele Di Trani)\n[TABELLA pag.3 n.1]\nAnno | Importo\n2022 | 35.000.000,00 €\n2023 | 40.000.000,00 €\n2024 | 33.500.000,00 €\n2025 | 22.500.000,00 €\nTotale | 131.000.000,00 €\n=== FINE TESTO DECRETO ==="
+    }
+  ],
+  "temperature": 0.0,
+  "usage": {
+    "include": true
+  },
+  "max_tokens": 32000,
+  "response_format": {
+    "type": "json_object"
+  },
+  "reasoning": {
+    "enabled": false
+  }
+}
+
+----- RESPONSE STATUS -----
+200 OK
+
+----- RESPONSE HEADERS -----
+Date: Fri, 14 Aug 2026 13:42:42 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Generation-Id: gen-1786714960-QX4mffUaupeVZmBZJQUn
+access-control-expose-headers: X-Generation-Id,X-Provider-Name,request-id,cf-ray
+set-cookie: __cf_bm=Q5_mQ4TZCs3m90U9wGzoxMqGtBOVR6dS18t6MI_5rsY-1786714960.4402027-1.0.1.1-al813.x5_LINN5lKYMNODTAh.ZzHX3WToJ_kKiB_2bzg4GVK2oCOnlTw3zMGED4AKar_5U3pyTJ9Ph_rjYevASNI9LOML1icdDkTorDvPCYzSmQv7xnW7K3Ynk8JgYlX; HttpOnly; SameSite=None; Secure; Path=/; Domain=openrouter.ai; Expires=Fri, 14 Aug 2026 14:12:42 GMT
+Permissions-Policy: payment=(self "https://checkout.stripe.com" "https://connect-js.stripe.com" "https://js.stripe.com" "https://*.js.stripe.com" "https://hooks.stripe.com")
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: cloudflare
+CF-RAY: a2b06256bf95ea61-FCO
+
+----- RESPONSE BODY (integrale, non elaborato) -----
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+{"id":"gen-1786714960-QX4mffUaupeVZmBZJQUn","object":"chat.completion","created":1786714960,"model":"deepseek/deepseek-v4-pro-0813","provider":"Cloudflare","system_fingerprint":null,"service_tier":null,"choices":[{"index":0,"logprobs":null,"finish_reason":"stop","native_finish_reason":"stop","message":{"role":"assistant","content":"{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"E51I04000010007\",\n      \"capitolo\": \"7426\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 14000000.00,\n      \"importo_originale\": \"€ 14.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Articolo 1\",\n      \"note\": \"Impegno in conto residui di lettera F, esercizio di provenienza 2021, a favore di Roma Capitale.\"\n    },\n    {\n      \"cup\": \"E51I04000010007\",\n      \"capitolo\": \"7426\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 35000000.00,\n      \"importo_originale\": \"35.000.000,00 €\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Articolo 2, tabella\",\n      \"note\": \"Impegno per l'anno 2022 a favore di Roma Capitale.\"\n    },\n    {\n      \"cup\": \"E51I04000010007\",\n      \"capitolo\": \"7426\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 40000000.00,\n      \"importo_originale\": \"40.000.000,00 €\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Articolo 2, tabella\",\n      \"note\": \"Impegno per l'anno 2023 a favore di Roma Capitale.\"\n    },\n    {\n      \"cup\": \"E51I04000010007\",\n      \"capitolo\": \"7426\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 33500000.00,\n      \"importo_originale\": \"33.500.000,00 €\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Articolo 2, tabella\",\n      \"note\": \"Impegno per l'anno 2024 a favore di Roma Capitale.\"\n    },\n    {\n      \"cup\": \"E51I04000010007\",\n      \"capitolo\": \"7426\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 22500000.00,\n      \"importo_originale\": \"22.500.000,00 €\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Articolo 2, tabella\",\n      \"note\": \"Impegno per l'anno 2025 a favore di Roma Capitale.\"\n    }\n  ],\n  \"note_estrazione\": \"Il documento non riporta esplicitamente numero e data del decreto corrente. Gli importi sono stati estratti dagli articoli 1 e 2 del dispositivo. L'articolo 2 autorizza un impegno complessivo di € 131.000.000,00, ripartito in annualità come da tabella.\"\n}","refusal":null,"reasoning":null}}],"usage":{"prompt_tokens":5124,"completion_tokens":770,"total_tokens":5894,"cost":0.00981288,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.00981288,"upstream_inference_prompt_cost":0.00676368,"upstream_inference_completions_cost":0.0030492},"completion_tokens_details":{"reasoning_tokens":0,"image_tokens":0,"audio_tokens":0}}}

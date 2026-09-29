@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:47:16",
+  "received_at": "2026-08-06T13:47:29",
+  "latency_seconds": 12.516,
+  "prompt_tokens": 26953,
+  "completion_tokens": 180,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 27133,
+  "cost_usd_api": 0.0178217325,
+  "cost_usd_reconstructed": 0.011881155000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016837-DprDQpzK8km84pgxVljS",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto ministeriale di rettifica e aggiornamento degli allegati del DM 364/2021. Non dispone nuove azioni di finanziamento, ma corregge errori materiali e recepisce rimodulazioni già approvate con precedenti decreti direttoriali. Gli importi indicati nell'art. 1 e negli allegati rappresentano la fotografia aggiornata delle assegnazioni, non nuove disposizioni di spesa."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:37:15",
+  "received_at": "2026-08-06T12:37:19",
+  "latency_seconds": 4.911,
+  "prompt_tokens": 7238,
+  "completion_tokens": 396,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7634,
+  "cost_usd_api": 0.009218,
+  "cost_usd_reconstructed": 0.009218,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012635-hxaqC378KXmNFVZZmp1d",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data nella forma standard. Il documento è un decreto del Ministro delle Infrastrutture e della Mobilità Sostenibili, ma numero e data non sono esplicitamente indicati nel testo fornito. L'azione di finanziamento è chiaramente identificata nell'articolo 1, comma 1, con CUP esplicitamente riportato."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per intervento di manutenzione 'Impianto filoviario Rimini – Riccione: linea di contatto'. Il costo totale dell'intervento è stimato in € 2.250.000,00. Risorse residue dal riparto definito con decreto n. 443/2021."
+    }
+  ],
+  "raw_content": null
+}

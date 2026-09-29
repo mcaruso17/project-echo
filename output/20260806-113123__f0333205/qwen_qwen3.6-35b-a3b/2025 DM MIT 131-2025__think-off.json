@@ -1,0 +1,62 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:38:10",
+  "received_at": "2026-08-06T15:38:19",
+  "latency_seconds": 8.314,
+  "prompt_tokens": 5142,
+  "completion_tokens": 530,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5672,
+  "cost_usd_api": 0.00124988,
+  "cost_usd_reconstructed": 0.00119846,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023491-q9Phf33xg9SFg3M3wAjp",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto è un atto dirigenziale (Direttore Generale) e non riporta un numero di decreto ministeriale formale nel testo fornito. Le risorse indicate nell'Art. 2 rappresentano il totale del contributo oggetto del Secondo Atto Modificativo, suddiviso tra le due fonti legislative precedenti. Non vi sono nuove rimodulazioni o definanziamenti espliciti nel testo, ma la conferma dell'importo complessivo e della sua composizione."
+  },
+  "records": [
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019."
+    },
+    {
+      "cup": "B21F19000040009",
+      "cup_valido": true,
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024."
+    }
+  ],
+  "raw_content": null
+}

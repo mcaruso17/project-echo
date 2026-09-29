@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:32:25",
+  "received_at": "2026-08-11T16:32:31",
+  "latency_seconds": 6.132,
+  "prompt_tokens": 29352,
+  "completion_tokens": 376,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 29728,
+  "cost_usd_api": 0.031232,
+  "cost_usd_reconstructed": 0.031232,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458745-gcXd79Q6kDw9YN85WJEs",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non contiene un numero di decreto né una data esplicita nel preambolo o nella parte dispositiva. Il decreto è una rettifica dell'Allegato 3 del DM 364/2021 e recepisce rimodulazioni già approvate da decreti direttoriali precedenti (n. 342/2021, n. 235/2022, n. 270/2022, n. 257/2023). Gli Allegati 1, 2 e 3 presentano tabelle con progetti e importi, ma questi rappresentano l'aggiornamento complessivo degli interventi già finanziati dai decreti precedenti, non nuove azioni di finanziamento disposte dal decreto corrente. L'articolo 1 menziona correzioni di importi per Veneto ed Emilia-Romagna per specifiche annualità (2032-2033), ma non specifica capitoli di bilancio, piani gestionali o CUP per tali correzioni. Senza dettagli espliciti su capitolo, piano gestionale e importi specifici delle correzioni, non è possibile estrarre record di finanziamento strutturati secondo le regole richieste."
+  },
+  "records": [],
+  "raw_content": null
+}

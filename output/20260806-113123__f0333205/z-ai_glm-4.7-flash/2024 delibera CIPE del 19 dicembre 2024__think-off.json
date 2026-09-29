@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:25:15",
+  "received_at": "2026-08-06T15:25:46",
+  "latency_seconds": 31.94,
+  "prompt_tokens": 70247,
+  "completion_tokens": 473,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 70720,
+  "cost_usd_api": 0.0044391435,
+  "cost_usd_reconstructed": 0.00440402,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022715-bZYhRlNMjZgbDKJ7fkMR",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": "2025-02-20",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1.1, punto 1.2.1.1",
+      "note": "Fondo per la continuità dei cantieri (Sblocca Italia)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1.1, punto 1.2.1.1",
+      "note": "Risorse destinate ai sistemi di trasporto rapido di massa"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1.1, punto 1.2.1.1",
+      "note": "Fondo per le reti metropolitane in costruzione"
+    }
+  ],
+  "raw_content": null
+}

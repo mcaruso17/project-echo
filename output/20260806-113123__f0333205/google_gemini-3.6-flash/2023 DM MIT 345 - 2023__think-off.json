@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T14:25:36",
+  "received_at": "2026-08-06T14:26:14",
+  "latency_seconds": 37.32,
+  "prompt_tokens": 15762,
+  "completion_tokens": 7924,
+  "reasoning_tokens": 7680,
+  "cached_tokens": 0,
+  "total_tokens": 23686,
+  "cost_usd_api": 0.083073,
+  "cost_usd_reconstructed": 0.083073,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786019137-2M3kiwl8O18jFHMkY2qD",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"H11B21006730001\",\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 80000000.0,\n      \"importo_originale\": \"80.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1, riga 1\",\n      \"note\": \"Comune di Bergamo - EBRT Bergamo - Dalmine\"\n    },\n    {\n      \"cup\": \"F31D21000020001\",\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 222142224.26,\n      \"importo_originale\": \"222.142.224,26\",\n      \"tipo_azione\": \"assegnazione\",\n"
+}

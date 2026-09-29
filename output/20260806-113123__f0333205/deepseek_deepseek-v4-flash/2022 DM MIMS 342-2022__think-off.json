@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:42:58",
+  "received_at": "2026-08-06T12:43:06",
+  "latency_seconds": 8.257,
+  "prompt_tokens": 6720,
+  "completion_tokens": 339,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7059,
+  "cost_usd_api": 0.00096852,
+  "cost_usd_reconstructed": 0.0006658199999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012978-ynEWgKU9eMUkyr35EYUT",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero né una data espliciti. Il capitolo e piano gestionale sono desunti dal preambolo (capitolo 7400, PG 5) e confermati dalla tabella a pag.1. Il CUP è riportato all'art.1 comma 1. L'importo è positivo (assegnazione)."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Assegnazione al Comune di Rimini per intervento 'Impianto filoviario Rimini – Riccione: linea di contatto' a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018. Il CUP indicato è PROV0000026838."
+    }
+  ],
+  "raw_content": null
+}
