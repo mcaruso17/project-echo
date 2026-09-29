@@ -1,0 +1,208 @@
+{
+  "decree_file": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "decree_relpath": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 13,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:04:55",
+  "received_at": "2026-08-06T12:05:39",
+  "latency_seconds": 43.314,
+  "prompt_tokens": 19487,
+  "completion_tokens": 4231,
+  "reasoning_tokens": 111,
+  "cached_tokens": 0,
+  "total_tokens": 23718,
+  "cost_usd_api": 0.40642,
+  "cost_usd_reconstructed": 0.40642,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786010695-EY2Ymd8RrxM7srKLQR4a",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il testo non riporta numero né data del decreto corrente (decreto interministeriale MIMS-MEF, presumibilmente del 2022, con intesa Conferenza Unificata del 30 marzo 2022). Le assegnazioni dell'Allegato 1 (totale € 4.423.733.987,00) gravano sul capitolo 7400 in parte sul PG 8 (€ 3.700.000.000,00) e in parte sul PG 1 (€ 723.733.987,00), ma il decreto non specifica la ripartizione per singolo intervento: il piano gestionale è quindi lasciato null per tali record. Le assegnazioni dell'Allegato 2 (totale € 333.168.049,81) gravano sul capitolo 7400, PG 1. L'Allegato 3 elenca interventi ammissibili ma NON finanziati dal presente decreto (art. 2), quindi non è stato estratto come azione di finanziamento."
+  },
+  "records": [
+    {
+      "cup": "B39J22001360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 398000000.0,
+      "importo_originale": "398.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "SkyMetro Val Bisagno Genova - Comune di Genova. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1 (non ripartite per singolo intervento)"
+    },
+    {
+      "cup": "B31F20000030005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 20860000.0,
+      "importo_originale": "20.860.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Prolungamento metropolitana di Genova da Brin a Canepari, opere di adeguamento idraulico rio Maltempo - Comune di Genova. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 180000000.0,
+      "importo_originale": "180.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Linea metropolitana M1 prolungamento quartiere Baggio – Olmi - Valsesia - Comune di Milano. Cofinanziamento disponibile € 218.000.000,00. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "B91J21000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 420000000.0,
+      "importo_originale": "420.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Prolungamento linea metropolitana M4 da Aeroporto Linate a Segrate - Comune di Milano. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "B41J21000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 4500000.0,
+      "importo_originale": "4.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Nuova linea metropolitana M6 ramo sud (PFTE) - Comune di Milano. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "B41C21000010001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 5500000.0,
+      "importo_originale": "5.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Prolungamento M3 San Donato M. – asta Paullese (PFTE) - Comune di Milano. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "F41B22000740009",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 631373163.0,
+      "importo_originale": "631.373.163,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Nuovo collegamento stazione AV di Afragola - rete metropolitana di Napoli, lotto 1° stralcio I - Comune di Napoli / EAV Srl (CUP MASTER). Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "F41B22000830009",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 163500824.0,
+      "importo_originale": "163.500.824,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Nuovo collegamento stazione AV di Afragola - rete metropolitana di Napoli, lotto 1° stralcio II - Comune di Napoli / EAV Srl. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 610000000.0,
+      "importo_originale": "610.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Linea C metropolitana di Roma - sub-tratta funzionale da stazione Venezia a stazione Fori Imperiali - Roma Capitale / Roma Metropolitane Srl. Cofinanziamento disponibile € 145.000.000,00. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 990000000.0,
+      "importo_originale": "990.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Linea C metropolitana di Roma - tratta T2 - lotto costruttivo - Roma Capitale / Roma Metropolitane Srl. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "C71F20000020005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 1000000000.0,
+      "importo_originale": "1.000.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. a) e Allegato 1",
+      "note": "Metropolitana automatica di Torino – Linea 2 – tratta Politecnico–Rebaudengo - Comune di Torino. Cofinanziamento disponibile € 800.000.000,00. Risorse a valere sul cap. 7400, PG 8 e quota parte PG 1"
+    },
+    {
+      "cup": "J81B21014060001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 173183831.97,
+      "importo_originale": "173.183.831,97",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. b) e Allegato 2",
+      "note": "Linea Tranviaria Termini - Vaticano - Aurelio - Roma Capitale. Cofinanziamento disponibile € 120.000.000,00 (da DM 448/2021, PNRR M2C2-4.2)"
+    },
+    {
+      "cup": "J84E21005150001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 11284217.84,
+      "importo_originale": "11.284.217,84",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. b) e Allegato 2",
+      "note": "Deposito di Centocelle Est - Roma Capitale"
+    },
+    {
+      "cup": "E31J19000030001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26500000.0,
+      "importo_originale": "26.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. b) e Allegato 2",
+      "note": "Sistema di trasporto rapido di massa stazione ferroviaria di Piacenza - nuovo polo ospedaliero (busvia) - Comune di Piacenza"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 122200000.0,
+      "importo_originale": "122.200.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lett. b) e Allegato 2",
+      "note": "Ampliamento del deposito Gallaratese dei treni della linea metropolitana 1 - Comune di Milano"
+    }
+  ],
+  "raw_content": null
+}

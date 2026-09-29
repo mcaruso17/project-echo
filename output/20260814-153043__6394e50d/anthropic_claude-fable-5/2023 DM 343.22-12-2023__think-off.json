@@ -1,0 +1,43 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:35:47",
+  "received_at": "2026-08-14T15:35:57",
+  "latency_seconds": 10.15,
+  "prompt_tokens": 10759,
+  "completion_tokens": 593,
+  "reasoning_tokens": 87,
+  "cached_tokens": 0,
+  "total_tokens": 11352,
+  "cost_usd_api": 0.13724,
+  "cost_usd_reconstructed": 0.13724,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714547-biCRzRAg9TdTKKquYXQF",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a interventi di trasporto rapido di massa già finanziati con decreti precedenti (es. D.M. 587/2017, 86/2018, 360/2018, 607/2019, 235/2020, 350/2020, 517/2020, 44/2021, 464/2021, 97/2022). La parte dispositiva (Art. 1 e Art. 2) non dispone alcuna nuova assegnazione, definanziamento o rimodulazione con importi, capitoli o piani gestionali specifici: l'Art. 2 si limita a stabilire un criterio generale di destinazione delle eventuali risorse rese disponibili da futuri definanziamenti, senza indicare importi o linee di bilancio. Gli allegati 1 e 2 contengono solo termini di scadenza OGV, non azioni di finanziamento. Numero e data del decreto corrente non sono riportati nel testo fornito; l'intesa in Conferenza Unificata è del 20 dicembre 2023, ma la data di emanazione non è esplicitata."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a interventi di trasporto rapido di massa già finanziati con decreti precedenti (es. D.M. 587/2017, 86/2018, 360/2018, 607/2019, 235/2020, 350/2020, 517/2020, 44/2021, 464/2021, 97/2022). La parte dispositiva (Art. 1 e Art. 2) non dispone alcuna nuova assegnazione, definanziamento o rimodulazione con importi, capitoli o piani gestionali specifici: l'Art. 2 si limita a stabilire un criterio generale di destinazione delle eventuali risorse rese disponibili da futuri definanziamenti, senza indicare importi o linee di bilancio. Gli allegati 1 e 2 contengono solo termini di scadenza OGV, non azioni di finanziamento. Numero e data del decreto corrente non sono riportati nel testo fornito; l'intesa in Conferenza Unificata è del 20 dicembre 2023, ma la data di emanazione non è esplicitata.\"\n}"
+}

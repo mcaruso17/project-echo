@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:31:16",
+  "received_at": "2026-08-06T12:31:20",
+  "latency_seconds": 3.754,
+  "prompt_tokens": 2471,
+  "completion_tokens": 118,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 2589,
+  "cost_usd_api": 0.000209285,
+  "cost_usd_reconstructed": 0.003179,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012276-GnAwzrRMf9QErsyvhnMT",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante; non contiene nuove azioni di finanziamento."
+  },
+  "records": [],
+  "raw_content": null
+}

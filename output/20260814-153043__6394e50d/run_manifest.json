@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-08-14T15:30:43",
+  "prompt_fingerprint": "6394e50d",
+  "price_list_date": "2026-07-23",
+  "generation": {
+    "temperature": 0.0,
+    "max_output_tokens": 8000,
+    "disable_max_tokens": false,
+    "reasoning_effort_on": "medium",
+    "requested_thinking": "off",
+    "json_response_format": true
+  },
+  "logging": {
+    "log_raw_responses": false,
+    "log_dir": null,
+    "log_include_request": true
+  },
+  "models": [
+    {
+      "slug": "anthropic/claude-fable-5",
+      "family": "anthropic",
+      "kind": "commercial",
+      "tier": "flagship",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 10.0,
+      "price_out": 50.0,
+      "params_total": null,
+      "params_active": null
+    },
+    {
+      "slug": "deepseek/deepseek-v4-pro-0813",
+      "family": "deepseek",
+      "kind": "open",
+      "tier": "frontier",
+      "vision": false,
+      "reasoning": "optional",
+      "price_in": 0.435,
+      "price_out": 0.87,
+      "params_total": "1.6T",
+      "params_active": "49B"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:03:39",
+  "received_at": "2026-08-06T12:03:42",
+  "latency_seconds": 2.455,
+  "prompt_tokens": 7249,
+  "completion_tokens": 205,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7454,
+  "cost_usd_api": 0.00157663275,
+  "cost_usd_reconstructed": 0.00114737,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010619-LKb0Xma9A309cfdAh4jR",
+    "provider": "AtlasCloud",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "note_estrazione": "Il decreto assegna risorse per un totale di 46,20 milioni di euro agli interventi indicati nell'Allegato 1. Tuttavia, il testo fornito non include l'Allegato 1, che è la parte dispositiva contenente i dettagli specifici (CUP, capitoli di spesa, piani gestionali) necessari per compilare i record di finanziamento. Senza l'Allegato 1, non è possibile estrarre le azioni di finanziamento con il dettaglio richiesto (capitolo, piano_gestionale, CUP)."
+  },
+  "records": [],
+  "raw_content": null
+}

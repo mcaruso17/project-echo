@@ -1,0 +1,106 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:56:01",
+  "received_at": "2026-08-06T11:56:10",
+  "latency_seconds": 8.298,
+  "prompt_tokens": 6562,
+  "completion_tokens": 883,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7445,
+  "cost_usd_api": 0.00712398,
+  "cost_usd_reconstructed": 0.0071896,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010162-h3GL6fUjZmddrOAbBfDg",
+    "provider": "CoreWeave",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non presenta un numero o una data esplicita nell'intestazione. Nell'allegato tabellare, il Comune di Torino presenta due CUP (C11B21008720001 e D81E20000410007) associati allo stesso importo totale; sono stati creati due record separati per ciascun CUP. L'importo totale del decreto (660.660.678,33) corrisponde alla somma delle assegnazioni riportate in tabella."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": "Comune di Padova"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": "Roma Capitale"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Comune di Torino"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Comune di Torino"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Comune di Brescia"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": "Comune di Brescia"
+    }
+  ],
+  "raw_content": null
+}

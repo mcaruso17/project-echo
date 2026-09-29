@@ -1,0 +1,283 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:51:12",
+  "received_at": "2026-09-24T12:51:44",
+  "latency_seconds": 32.453,
+  "prompt_tokens": 11358,
+  "completion_tokens": 3035,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14393,
+  "cost_usd_api": 0.001544225368,
+  "cost_usd_reconstructed": 0.0015480569999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790247072-2tTBuxbhysrhGHTlOre4",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto dell’allora Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto Interministeriale n. 97 del 20 aprile 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente non ha numero né data espliciti. L'Allegato 1 è presente nel testo come tabella. I record sono estratti dalla tabella, associando ogni riga di subintervento al relativo CUP e importo nella colonna 'FINANZIAMENTO AMMESSO'. Per gli interventi con più subinterventi, l'importo totale dell'intervento (colonna 'COSTO TOTALE INTERVENTO') non è stato assegnato come record separato perché l'atto assegna solo gli importi dei subinterventi (colonna 'FINANZIAMENTO AMMESSO')."
+  },
+  "records": [
+    {
+      "cup": [
+        "C11J22000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 1",
+      "passaggio_testuale": "COMUNE DI TORINO | PROLUNGAMENTO LINEA TRANVIARIA 12 ALL’ALLIANZ STADIUM E RECUPERO TRINCEA FERROVIARIA TORINO-CERES | C11J22000000001 | ... | 221.721.410,41",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000370001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3:INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015 | F47C19000370001 | ... | 2.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo parziale del subintervento; l'importo totale del sistema (25.000.000,02) non è assegnato in questo record."
+    },
+    {
+      "cup": [
+        "F47D17000140005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 3",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47D17000140005 | ... | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo zero: nessun finanziamento ammesso per questo subintervento."
+    },
+    {
+      "cup": [
+        "F47C19000380001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000380001 | ... | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo zero: nessun finanziamento ammesso per questo subintervento."
+    },
+    {
+      "cup": [
+        "F47C19000390001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 5",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000390001 | ... | 2.100.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo parziale del subintervento; l'importo totale del sistema (25.000.000,02) non è assegnato in questo record."
+    },
+    {
+      "cup": [
+        "F47C19000350001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 6",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEE M1 + M2: INTERVENTI DI ADEGUAMENTO ANTINCENDIO AI SENSI DEL DM 21.10.2015 FASE 2 | F47C19000350001 | ... | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo zero: nessun finanziamento ammesso per questo subintervento."
+    },
+    {
+      "cup": [
+        "F47C19000360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 7",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000360001 | ... | 45.000.000,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo è riportato nella riga del sistema (M1+M2) come totale del finanziamento ammesso per l'intervento."
+    },
+    {
+      "cup": [
+        "B31J23000240001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 8",
+      "passaggio_testuale": "COMUNE DI GENOVA | LINEA METROPOLITANA: PROLUNGAMENTO A RIVAROLO E COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/ TERRALBA | B31J23000240001 | ... | 74.516.124,63",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo totale dell'intervento, comprensivo di entrambi i subinterventi."
+    },
+    {
+      "cup": [
+        "B34J18000230001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 9",
+      "passaggio_testuale": "COMUNE DI GENOVA | ... | B34J18000230001 | ... | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo zero: nessun finanziamento ammesso per questo subintervento."
+    }
+  ],
+  "raw_content": null
+}

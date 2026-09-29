@@ -1,0 +1,75 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:19:40",
+  "received_at": "2026-09-29T11:19:50",
+  "latency_seconds": 10.157,
+  "prompt_tokens": 11434,
+  "completion_tokens": 465,
+  "reasoning_tokens": 0,
+  "cached_tokens": 10176,
+  "total_tokens": 11899,
+  "cost_usd_api": 0.0003843112,
+  "cost_usd_reconstructed": 0.001099931,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673585-YS97pbNDNcEOYFazJxhS",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto dispone esclusivamente proroghe di termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) e non assegna, definanzia o rimodula risorse finanziarie. Non sono presenti importi né azioni di finanziamento. Gli allegati 1 e 2 contengono solo elenchi di interventi con relative scadenze, senza CUP né importi. Pertanto non è stato estratto alcun record."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 6 agosto 2018, n. 360\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 22 novembre 2021, n. 464\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 23 dicembre 2022, n. 410\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto dispone esclusivamente proroghe di termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) e non assegna, definanzia o rimodula risorse finanziarie. Non sono presenti importi né azioni di finanziamento. Gli allegati 1 e 2 contengono solo elenchi di interventi con relative scadenze, senza CUP né importi. Pertanto non è stato estratto alcun record.\"\n}"
+}

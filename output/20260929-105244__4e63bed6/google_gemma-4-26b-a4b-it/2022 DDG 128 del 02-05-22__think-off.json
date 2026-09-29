@@ -1,0 +1,205 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T10:57:52",
+  "received_at": "2026-09-29T10:59:22",
+  "latency_seconds": 90.018,
+  "prompt_tokens": 11711,
+  "completion_tokens": 2386,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14097,
+  "cost_usd_api": 0.00247683,
+  "cost_usd_reconstructed": 0.00176979,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790672273-JtO3gNkRi3rsarz1URGU",
+    "provider": "Parasail",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22/11/2021",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "allegato parte integrante del presente decreto"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 631174000.0,
+      "importo_originale": "631.174.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'importo di 631.174.000,00 dell'art. 2 è la somma degli impegni in competenza per i beneficiari indicati nella tabella (Padova, Roma, Torino, Brescia) sul PG 7. La tabella riporta i singoli importi per CUP.",
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo aggregato per due CUP associati al Comune di Torino"
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; [TABELLA pag.4 n.1], riga 6",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2021",
+      "importo_eur": 3000000.0,
+      "importo_originale": "3.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato l’impegno di euro 3.000.000,00 in conto residui... a favore dei Comuni di Padova, Torino e Brescia e della Città metropolitana di Roma",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'art. 1 dispone un impegno in conto residui di 3 mln per un gruppo di beneficiari, ma la tabella non specifica la ripartizione di questa somma specifica tra i CUP (la tabella mostra invece la ripartizione per competenza 2022-2034).",
+      "note": "L'importo è in conto residui (2020: 1 mln, 2021: 2 mln)."
+    }
+  ],
+  "raw_content": null
+}

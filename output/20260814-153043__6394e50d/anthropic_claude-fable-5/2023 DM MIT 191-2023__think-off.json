@@ -1,0 +1,88 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:36:03",
+  "received_at": "2026-08-14T15:36:32",
+  "latency_seconds": 29.137,
+  "prompt_tokens": 12324,
+  "completion_tokens": 2584,
+  "reasoning_tokens": 1044,
+  "cached_tokens": 0,
+  "total_tokens": 14908,
+  "cost_usd_api": 0.25244,
+  "cost_usd_reconstructed": 0.25244,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714563-JbvY5T0ysP9X5EmQyjTJ",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è privo di numero e data nel testo fornito (firma 'IL MINISTRO' senza estremi); l'intesa in Conferenza unificata è del 7 giugno 2023, ma non è la data del decreto. Il finanziamento ammesso nell'Allegato 1 è indicato a livello di intervento e non di singolo subintervento/CUP: per gli interventi con più CUP non è stato possibile attribuire gli importi ai singoli CUP senza inferenze, pertanto sono stati creati record a livello di intervento con i CUP elencati nelle note. Totale ripartito: € 362.137.535,13, coerente con l'art. 1 comma 1."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1, riga Comune di Torino",
+      "note": "Beneficiario: Comune di Torino. Intervento: Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres (tranvia). Finanziamento ammesso pari al costo totale intervento."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1, riga Comune di Milano - Metropolitana Linea M3",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana linea M3 - interventi di adeguamento antincendio ai sensi del DM 21.10.2015. Finanziamento ammesso a livello di intervento (costo totale 25.000.000,02 al netto di cofinanziamenti disponibili). L'intervento comprende 4 subinterventi con CUP: F47C19000370001, F47D17000140005, F47C19000380001, F47C19000390001; il decreto non ripartisce esplicitamente il finanziamento per singolo CUP."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1, riga Comune di Milano - Metropolitana Linee M1+M2",
+      "note": "Beneficiario: Comune di Milano. Intervento: Metropolitana linee M1+M2 - interventi di adeguamento antincendio ai sensi del DM 21.10.2015, fase 2. Finanziamento ammesso a livello di intervento, pari al costo totale. Subinterventi con CUP: F47C19000350001, F47C19000360001; il decreto non ripartisce esplicitamente il finanziamento per singolo CUP."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1 e Allegato 1, riga Comune di Genova",
+      "note": "Beneficiario: Comune di Genova. Intervento: Linea metropolitana - prolungamento a Rivarolo e completamento della stazione di Martinez/Terralba. Finanziamento ammesso a livello di intervento, pari al costo totale. Subinterventi con CUP: B31J23000240001 (tratta Canepari-Rivarolo), B34J18000230001 (completamento stazione Martinez/Terralba); il decreto non ripartisce esplicitamente il finanziamento per singolo CUP."
+    }
+  ],
+  "raw_content": null
+}

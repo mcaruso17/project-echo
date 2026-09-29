@@ -1,0 +1,43 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:59:57",
+  "received_at": "2026-08-14T16:00:05",
+  "latency_seconds": 7.943,
+  "prompt_tokens": 4764,
+  "completion_tokens": 362,
+  "reasoning_tokens": 68,
+  "cached_tokens": 0,
+  "total_tokens": 5126,
+  "cost_usd_api": 0.06574,
+  "cost_usd_reconstructed": 0.06574,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715998-8ZnvWbw2FgpvX8AOVtCk",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non dispone alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di importi): si limita a rimodulare i termini temporali (affidamento, avanzamento 50%, ultimazione) dell'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) già finanziato con il decreto interministeriale n. 97 del 20 aprile 2022. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": \"Ministero dell'economia e delle finanze\",\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non dispone alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di importi): si limita a rimodulare i termini temporali (affidamento, avanzamento 50%, ultimazione) dell'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) già finanziato con il decreto interministeriale n. 97 del 20 aprile 2022. Il numero e la data del decreto corrente non sono riportati nel testo fornito.\"\n}"
+}

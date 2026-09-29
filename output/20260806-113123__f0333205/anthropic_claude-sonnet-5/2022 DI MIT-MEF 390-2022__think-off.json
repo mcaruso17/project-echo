@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:58:14",
+  "received_at": "2026-08-06T11:58:25",
+  "latency_seconds": 10.568,
+  "prompt_tokens": 11551,
+  "completion_tokens": 1049,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12600,
+  "cost_usd_api": 0.033592,
+  "cost_usd_reconstructed": 0.033592,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010294-vFJRbANMyZuLrVjDYWmE",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non riporta un numero né una data propri nel testo fornito; i campi numero_decreto e data_decreto sono stati impostati a null. Non sono presenti CUP, capitoli o piani gestionali specifici nel testo dispositivo fornito, sebbene si citi genericamente l'Allegato 1 (non incluso nel testo) che conterrebbe il dettaglio degli interventi con relativi CUP. Gli importi sono stati estratti dalla tabella dell'articolo 2, comma 1, che ripartisce la somma complessiva di 46,20 milioni di euro tra i quattro beneficiari indicati."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1 - tabella",
+      "note": "Assegnazione a Regione Liguria (2023: 5,00; 2024: 5,00; 2025: 4,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1 - tabella",
+      "note": "Assegnazione a Regione Toscana (2023: 5,00; 2024: 4,00; 2025: 4,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1 - tabella",
+      "note": "Assegnazione a Provincia Autonoma di Trento (2023: 4,00; 2024: 3,00; 2025: 3,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1 - tabella",
+      "note": "Assegnazione a Provincia Autonoma di Bolzano (2023: 3,20; 2024: 3,00; 2025: 3,00 milioni di euro)"
+    }
+  ],
+  "raw_content": null
+}

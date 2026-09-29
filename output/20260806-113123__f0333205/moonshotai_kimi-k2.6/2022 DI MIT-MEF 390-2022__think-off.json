@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:02:56",
+  "received_at": "2026-08-06T12:03:06",
+  "latency_seconds": 9.513,
+  "prompt_tokens": 8666,
+  "completion_tokens": 312,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8978,
+  "cost_usd_api": 0.0094807,
+  "cost_usd_reconstructed": 0.006783480000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010577-nNYdsE9j4svsa7jLbN82",
+    "provider": "AtlasCloud",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non contiene un numero o una data espliciti nell'intestazione o nella parte dispositiva. Il decreto assegna 46,20 milioni di euro agli interventi di cui all'Allegato 2 del DM 23 settembre 2021, n. 363, ma NON specifica i capitoli di bilancio, i piani gestionali né i CUP nel testo fornito. L'Allegato 1, che dovrebbe contenere il dettaglio degli interventi con i CUP, non è riportato nel testo fornito (il testo si interrompe prima degli allegati). La tabella all'articolo 2 riporta solo i beneficiari e gli importi ripartiti per anno, senza indicare capitoli di bilancio, piani gestionali o CUP. Pertanto, non è possibile estrarre azioni di finanziamento con il dettaglio richiesto (capitolo, piano gestionale, CUP) dal testo disponibile."
+  },
+  "records": [],
+  "raw_content": null
+}

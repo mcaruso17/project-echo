@@ -1,0 +1,95 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:49:10",
+  "received_at": "2026-08-06T12:49:21",
+  "latency_seconds": 11.298,
+  "prompt_tokens": 4422,
+  "completion_tokens": 817,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 5239,
+  "cost_usd_api": 0.043628,
+  "cost_usd_reconstructed": 0.04662,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013350-q01Ow8riPc8Yk6vvzIe9",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "note_estrazione": "Il decreto assegna complessivamente 75 milioni di euro al Comune di Milano, pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027. Il testo non riporta numero e data del decreto, né capitolo di spesa o piano gestionale. Le componenti estratte sommano all’assegnazione complessiva senza duplicarla."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 35000000.0,
+      "importo_originale": "35 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Aumento dei costi dei materiali (2021-2022): 14 milioni di euro per la tratta Linate–San Babila e 21 milioni di euro per la tratta San Babila–San Cristoforo."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Tecnica del congelamento per la realizzazione dei cunicoli di collegamento; importo attribuito integralmente alla tratta San Babila–San Cristoforo."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 17000000.0,
+      "importo_originale": "17 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Varianti e maggiori opere riconosciute dal Collegio Consultivo Tecnico; importo attribuito all’intera linea M4 Linate–San Cristoforo."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7000000.0,
+      "importo_originale": "7 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Spese generali del periodo COVID; importo attribuito all’intera linea M4 Linate–San Cristoforo."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 6000000.0,
+      "importo_originale": "6 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Oneri di sicurezza inerziali per il nuovo cronoprogramma dei lavori; importo attribuito all’intera linea M4 Linate–San Cristoforo."
+    }
+  ],
+  "raw_content": null
+}

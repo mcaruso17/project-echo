@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:59:06",
+  "received_at": "2026-08-06T12:59:39",
+  "latency_seconds": 32.851,
+  "prompt_tokens": 8881,
+  "completion_tokens": 1638,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10519,
+  "cost_usd_api": 0.017071,
+  "cost_usd_reconstructed": 0.017071,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013947-GcufMV25zvxcTALnvn38",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data nel testo fornito. L'importo totale ripartito è € 362.137.535,13 come indicato nell'art. 1, comma 1. Alcuni CUP hanno finanziamento ammesso pari a zero (colonna 'FINANZIAMENTO AMMESSO' della tabella); tali record sono stati comunque estratti con importo 0,00 per completezza, in quanto rappresentano comunque azioni di finanziamento (assegnazioni di zero risorse) disposte dal decreto."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1; art. 1, comma 1",
+      "note": "Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres - Comune di Torino"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2; art. 1, comma 1",
+      "note": "Metropolitana Linea M3: nuovi impianti di rivelazione e segnalazione degli incendi - Comune di Milano"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "0,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2; art. 1, comma 1",
+      "note": "Metropolitana Linea M3: rifacimento impianto diffusione sonora - Comune di Milano; finanziamento ammesso pari a zero"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "0,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2; art. 1, comma 1",
+      "note": "Metropolitana Linea M3: nuovi cavi fibra ottica resistenti al fuoco - Comune di Milano; finanziamento ammesso pari a zero"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2; art. 1, comma 1",
+      "note": "Metropolitana Linea M3: interventi di ammodernamento SSE Duomo - Comune di Milano"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "0,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3; art. 1, comma 1",
+      "note": "Metropolitana Linee M1 + M2: completamento opere civili di compartimentazione - Comune di Milano; finanziamento ammesso pari a zero"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3; art. 1, comma 1",
+      "note": "Metropolitana Linee M1 + M2: adeguamento degli impianti dei GE, delle cabine elettriche e sostituzione cavi - Comune di Milano"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "0,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4; art. 1, comma 1",
+      "note": "Linea metropolitana: prolungamento a Rivarolo, tratta Canepari - Rivarolo - Comune di Genova; finanziamento ammesso pari a zero"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4; art. 1, comma 1",
+      "note": "Linea metropolitana: completamento della stazione di Martinez/Terralba - Comune di Genova"
+    }
+  ],
+  "raw_content": null
+}

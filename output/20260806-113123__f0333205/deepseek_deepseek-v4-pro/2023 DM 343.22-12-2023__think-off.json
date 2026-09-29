@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:59:00",
+  "received_at": "2026-08-06T12:59:04",
+  "latency_seconds": 4.534,
+  "prompt_tokens": 7315,
+  "completion_tokens": 207,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7522,
+  "cost_usd_api": 0.0095352673,
+  "cost_usd_reconstructed": 0.003362115,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013940-SbmBbmTu8PybJ2z1WYNA",
+    "provider": "Baidu",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni). Dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (Art. 1 e Allegati 1 e 2) e stabilisce la destinazione di eventuali risorse future derivanti da definanziamenti (Art. 2), senza quantificare importi o indicare capitoli/piani gestionali specifici. Numero e data del decreto non sono esplicitamente indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

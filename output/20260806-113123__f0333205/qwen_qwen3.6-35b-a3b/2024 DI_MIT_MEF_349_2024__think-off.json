@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:54:12",
+  "received_at": "2026-08-06T14:54:14",
+  "latency_seconds": 1.882,
+  "prompt_tokens": 3381,
+  "completion_tokens": 162,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3543,
+  "cost_usd_api": 0.0008092935,
+  "cost_usd_reconstructed": 0.00060153,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020852-4TdXsWrxAzIEL3t1wTgs",
+    "provider": "AtlasCloud",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente (non numerato esplicitamente nel testo fornito ma identificabile come interministeriale tra MIT e MEF) contiene esclusivamente disposizioni di proroga dei termini contrattuali e abrogazione di un obiettivo intermedio. Non vi sono azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni di risorse economiche."
+  },
+  "records": [],
+  "raw_content": null
+}

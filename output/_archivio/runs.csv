@@ -1,0 +1,13 @@
+﻿decree_file,model,status,n_pages,prompt_tokens,completion_tokens,cost_usd,n_records,truncated,extraction_timestamp,error
+2022 DM MIT 409-2022.pdf,kimi-k2.6,ok,5,4531.0,603.0,0.0081507,2,False,2026-07-21T18:11:47,
+2022 DM MIT 409-2022.pdf,qwen3.5,ok,5,4073.0,524.0,0.00340485,2,False,2026-07-21T18:11:55,
+2022 DM MIT 409-2022.pdf,mistral-small-4,error,5,,,,0,,2026-07-21T18:12:01,OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+2022 DM MIT 409-2022.pdf,claude-sonnet-5,ok,5,6123.0,615.0,0.018396,2,False,2026-07-21T18:12:32,
+2023 DM MIT 346-2023.pdf,kimi-k2.6,ok,3,3936.0,958.0,0.0075712,6,False,2026-07-21T18:12:49,
+2023 DM MIT 346-2023.pdf,qwen3.5,ok,3,3858.0,1202.0,0.0053421,6,False,2026-07-21T18:13:09,
+2023 DM MIT 346-2023.pdf,mistral-small-4,error,3,,,,0,,2026-07-21T18:13:19,OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+2023 DM MIT 346-2023.pdf,claude-sonnet-5,ok,3,5362.0,1360.0,0.024324,5,False,2026-07-21T18:13:52,
+2024 DM MIT 330.20-12-2024.pdf,kimi-k2.6,ok,4,3725.0,182.0,0.00348705,0,False,2026-07-21T18:14:11,
+2024 DM MIT 330.20-12-2024.pdf,qwen3.5,ok,4,3477.0,204.0,0.00217665,0,False,2026-07-21T18:14:17,
+2024 DM MIT 330.20-12-2024.pdf,mistral-small-4,error,4,,,,0,,2026-07-21T18:14:22,OpenRouter call failed after 4 attempts: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+2024 DM MIT 330.20-12-2024.pdf,claude-sonnet-5,ok,4,5094.0,279.0,0.012978,0,False,2026-07-21T18:14:54,

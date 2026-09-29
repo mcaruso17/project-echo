@@ -1,0 +1,188 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T17:00:20",
+  "received_at": "2026-09-28T17:00:54",
+  "latency_seconds": 33.279,
+  "prompt_tokens": 10990,
+  "completion_tokens": 1827,
+  "reasoning_tokens": 1,
+  "cached_tokens": 5888,
+  "total_tokens": 12817,
+  "cost_usd_api": 0.01309698,
+  "cost_usd_reconstructed": 0.0177485,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790607620-lbUdGQbEQx0vrbNdXGnD",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 27 dicembre 2019, n. 160",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 30 dicembre 2020, n. 178",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "note_estrazione": "L'atto corrente non riporta un proprio numero di decreto né data nel testo fornito. La parte dispositiva inizia con 'DECRETA' dopo il preambolo. L'atto attua il DM 464/2021 disponendo impegni contabili. L'art. 1 dispone un impegno in conto residui di € 3.000.000,00 (€ 1.000.000,00 2020 + € 2.000.000,00 2021) che corrisponde alla somma delle prime due annualità della tabella; tuttavia, poiché la tabella riporta già tali importi come parte del totale pluriennale e l'art. 2 dispone l'impegno complessivo di € 631.174.000,00 per gli esercizi 2022-2034, si è preferito non duplicare i record per le annualità 2020-2021 già comprese nella tabella allegata. Il totale della tabella (€ 660.660.678,33) include sia le risorse del PG 7 (€ 634.174.000,00) sia quelle del PG 1 (€ 26.486.678,33)."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato parte integrante / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato parte integrante / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato parte integrante / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due CUP; l'atto non ripartisce tra i due progetti"
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato parte integrante / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato parte integrante / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | | | | | | | | | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,38 | 26.486.678,33",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Stesso CUP su piano gestionale diverso (PG 1); importo distinto da quello su PG 7"
+    }
+  ],
+  "raw_content": null
+}

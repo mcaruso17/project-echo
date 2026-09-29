@@ -1,0 +1,52 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:46:02",
+  "received_at": "2026-08-14T15:46:06",
+  "latency_seconds": 4.23,
+  "prompt_tokens": 6796,
+  "completion_tokens": 264,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7060,
+  "cost_usd_api": 0.01001616,
+  "cost_usd_reconstructed": 0.0031859399999999995,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715162-9Vaw5HEOFoPs1nzOBO8n",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data; il CUP indicato 'PROV0000026838' non è un CUP standard di 15 caratteri ma è riportato come tale nel testo."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione al Comune di Rimini per intervento 'Impianto filoviario Rimini – Riccione: linea di contatto'"
+    }
+  ],
+  "raw_content": null
+}

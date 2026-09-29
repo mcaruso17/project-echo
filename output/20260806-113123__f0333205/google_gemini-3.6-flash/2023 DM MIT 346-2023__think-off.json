@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T14:43:17",
+  "received_at": "2026-08-06T14:43:40",
+  "latency_seconds": 23.664,
+  "prompt_tokens": 4663,
+  "completion_tokens": 4511,
+  "reasoning_tokens": 3532,
+  "cached_tokens": 0,
+  "total_tokens": 9174,
+  "cost_usd_api": 0.040827,
+  "cost_usd_reconstructed": 0.040827,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020197-5xrQoI90NyNZKkIegalX",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"C81B21013200005\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 63091133.28,\n      \"importo_originale\": \"€ 63.091.133,28\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 1, comma 1\",\n      \"note\": \"Comune di Brescia - Nuova Linea Tranviaria \\\"Pendolina-Fiera (T2)\\\"\"\n    },\n    {\n      \"cup\": \"H11J21000010003\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 48794211.94,\n      \"importo_originale\": \"€ 48.794.211,94\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 1, comma 1\",\n      \"note\": \"Comune di Firenze - Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2)\"\n    },\n    {\n      \"cup\": \"F44I19000530001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 47668750.43,\n      \"importo_originale\": \"€ 47.668.750,43\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 1, comma 1\",\n      \"note\": \"Comune di Milano - Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1\"\n    },\n    {\n      \"cup\": \"B44D20000040001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 145000000.0,\n      \"importo_originale\": \"€ 145.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 1, comma 1\",\n      \"note\": \"Comune di Milano - Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia\"\n    },\n    {\n      \"cup\": null,\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 88435027.99,\n      \"importo_originale\": \"€ 88.435.027,99\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"art. 1, comma 1\",\n      \"note\": \"Comune di Milano - Riqualificazione Metrotranvia Milano-Limbiate (Lotto 1: CUP B24C17000320005, Lotto 2: CUP B71J22000050006). Contributo anche a copertura delle risorse revocate.\"\n    }\n  ],\n  \"note_estrazione\": \"Il testo del decreto corrente non reca l'indicazione del numero e della data di adozione nell'intestazione/preambolo, pur contenendo la parte dispositiva completa (\"DECRETA\").\"\n}"
+}

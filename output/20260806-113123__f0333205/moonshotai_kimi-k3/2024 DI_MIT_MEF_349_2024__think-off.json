@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:55",
+  "received_at": "2026-08-06T14:54:04",
+  "latency_seconds": 8.952,
+  "prompt_tokens": 4046,
+  "completion_tokens": 232,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4278,
+  "cost_usd_api": 0.015618,
+  "cost_usd_reconstructed": 0.015618,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020835-6VYUcyj8RwsFyqCUoxra",
+    "provider": "Fireworks",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe di termini e l'abrogazione di un obiettivo intermedio (art. 1), senza alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di risorse). Il numero e la data del decreto non sono riportati nel testo fornito. I decreti citati nel preambolo (D.I. 97/2022, D.I. 362/2023, D.I. 107/2024) non costituiscono il decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

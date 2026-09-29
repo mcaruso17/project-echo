@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:54:30",
+  "received_at": "2026-08-06T14:54:39",
+  "latency_seconds": 8.676,
+  "prompt_tokens": 6346,
+  "completion_tokens": 391,
+  "reasoning_tokens": 51,
+  "cached_tokens": 0,
+  "total_tokens": 6737,
+  "cost_usd_api": 0.08301,
+  "cost_usd_reconstructed": 0.08301,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020870-p5U3YNga3bEhO8HCuuvv",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga al 31/12/2025 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti per gli interventi elencati nell'Allegato 1 (art. 1). Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione), né indica capitoli di spesa, piani gestionali, CUP o importi. Numero e data del decreto non risultano stampati nel testo fornito; i decreti citati nel preambolo (es. D.M. 587/2017, 464/2021, 343/2023) sono solo riferimenti storici."
+  },
+  "records": [],
+  "raw_content": null
+}

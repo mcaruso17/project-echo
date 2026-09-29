@@ -1,0 +1,42 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:33:47",
+  "received_at": "2026-08-06T15:34:15",
+  "latency_seconds": 28.245,
+  "prompt_tokens": 7549,
+  "completion_tokens": 980,
+  "reasoning_tokens": 171,
+  "cached_tokens": 0,
+  "total_tokens": 8529,
+  "cost_usd_api": 0.12449,
+  "cost_usd_reconstructed": 0.12449,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786023227-bsqAtOLwP5uOYveDdyCb",
+    "provider": "Google",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto direttoriale della Direzione Generale per il trasporto pubblico locale che approva il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 (sottoscritto il 13 febbraio 2025) per il prolungamento della Linea metropolitana M5 di Milano fino a Monza (CUP B21F19000040009). Numero e data del decreto corrente non sono riportati nel testo fornito. L'art. 2 richiama il contributo complessivo di € 915.000.000,00 (€ 900.000.000,00 ex art. 1, comma 96, legge 145/2018 ed € 15.000.000,00 ex legge 234/2021, sul capitolo 7418, piano di gestione 4), ma tali somme risultano già impegnate con i precedenti decreti direttoriali n. 381 del 5 dicembre 2019 e n. 108 del 25 marzo 2024: il decreto corrente non dispone nuove assegnazioni, definanziamenti o rimodulazioni, limitandosi ad approvare l'atto modificativo (proroga del termine per l'obbligazione giuridicamente vincolante e aggiornamento del cronoprogramma). Pertanto non sono state estratte azioni di finanziamento."
+  },
+  "records": [],
+  "raw_content": null
+}

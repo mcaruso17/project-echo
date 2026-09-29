@@ -1,0 +1,117 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:43:49",
+  "received_at": "2026-08-06T13:44:25",
+  "latency_seconds": 36.746,
+  "prompt_tokens": 27711,
+  "completion_tokens": 1256,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 28967,
+  "cost_usd_api": 0.01920836,
+  "cost_usd_reconstructed": 0.01903812,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016629-lUIVdA8uE2wSSwXDzS0C",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto in esame è un decreto di rettifica che modifica l'Allegato 3 del DM 364/2021. Il numero e la data del decreto corrente non sono esplicitati nel testo fornito, sebbene il testo faccia riferimento al 'Ministro delle infrastrutture e dei trasporti' come autorità emanante. Le azioni di finanziamento estratte riguardano esclusivamente le rettifiche degli importi regionali disposte dall'articolo 1. Gli allegati riportano i quadri completi degli interventi (con CUP e importi totali), ma l'articolo 1 specifica che tali allegati 'aggiornano e sostituiscono' i precedenti, pertanto non rappresentano nuove assegnazioni di risorse aggiuntive rispetto al decreto rettificato, bensì la situazione aggiornata. Le azioni finanziarie dirette del presente decreto sono le rettifiche per errore materiale descritte nel comma 1 dell'articolo 1. I capitoli e piani gestionali (7150 pg.3 e pg.4) sono dedotti dalle tabelle degli allegati che riportano i totali per programma."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Veneto per l'annualità 2033 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -790994.0,
+      "importo_originale": "790.994 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione alla Regione Emilia Romagna per l'annualità 2033 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Emilia Romagna per l'annualità 2033 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Veneto per l'annualità 2032 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -125268.0,
+      "importo_originale": "125.268 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione alla Regione Veneto per l'annualità 2032 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Emilia Romagna per l'annualità 2032 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -842680.0,
+      "importo_originale": "842.680 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione alla Regione Emilia Romagna per l'annualità 2032 (rettifica errore materiale Allegato 3 DM 364/2021)"
+    }
+  ],
+  "raw_content": null
+}

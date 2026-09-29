@@ -1,0 +1,243 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T15:25:48",
+  "received_at": "2026-09-28T15:26:12",
+  "latency_seconds": 24.472,
+  "prompt_tokens": 12980,
+  "completion_tokens": 2783,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15763,
+  "cost_usd_api": 0.0029304,
+  "cost_usd_reconstructed": 0.0020031,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790601948-rUt5w4FNALqfzx2Uynga",
+    "provider": "SiliconFlow",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": "2025-03-10",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto interministeriale 14 novembre 2014, n. 498",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Convenzione sottoscritta il 10 marzo 2025"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "per € 145.000.000,00 nelle risorse stanziate dall’articolo 3, comma 1, del decreto-legge 12 settembre 2014... impegnate con decreto dirigenziale n. 454 del 22 dicembre 2022 sul pertinente capitolo di bilancio n. 7426-piano di gestione 1",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto cita risorse già impegnate dal d.dir. 454/2022; l'atto corrente le riconferma nell'ambito della nuova Convenzione."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2022-2035",
+      "importo_eur": 113733987.0,
+      "importo_originale": "€ 113.733.987,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "sul capitolo di bilancio n. 7400 (piano gestionale 1: € 113.733.987,00 dal 2022 al 2035)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorse impegnate con d.dir. 419/2022."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "8",
+      "annualita": "2022-2036",
+      "importo_eur": 1486266013.0,
+      "importo_originale": "€ 1.486.266.013,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "piano gestionale 8: € 1.486.266.013,00 dal 2022 al 2036",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorse impegnate con d.dir. 419/2022."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2023-2032",
+      "importo_eur": 2200000000.0,
+      "importo_originale": "€ 2.200.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "sul capitolo n. 7419-piano gestionale 2-per gli esercizi finanziari dal 2023 al 2032",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo totale è citato nell'art. 2, ma l'impegno specifico è disposto nell'art. 3."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024",
+      "importo_eur": 50000000.0,
+      "importo_originale": "€ 50.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3",
+      "passaggio_testuale": "È autorizzato l’impegno... sul capitolo 7419, piano gestionale 2... per la somma complessiva di € 2.125.000.000,00, di cui € 50.000.000,00 in conto residui, esercizio di provenienza 2024",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota in conto residui 2024."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2025-2032",
+      "importo_eur": 2075000000.0,
+      "importo_originale": "2.075.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3",
+      "passaggio_testuale": "e 2.075.000.000,00 per gli esercizi finanziari dal 2025 al 2032",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Ripartizione temporale dettagliata in [TABELLA pag.5 n.1]."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l’impegno delle risorse... sul capitolo 7416 piano gestionale 1... per la somma complessiva di € 75.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Ripartito in 50 mln per il 2027 e 25 mln per il 2028."
+    }
+  ],
+  "raw_content": null
+}

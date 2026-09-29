@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:48:51",
+  "received_at": "2026-08-06T14:48:57",
+  "latency_seconds": 5.826,
+  "prompt_tokens": 4689,
+  "completion_tokens": 302,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4991,
+  "cost_usd_api": 0.012398,
+  "cost_usd_reconstructed": 0.012398,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020531-F9GHz76tASnAMxDj58mS",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente una rimodulazione dei termini temporali (cronoprogramma: affidamento, avanzamento del 50%, ultimazione) relativi all'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001), senza modificare importi economici, capitoli di spesa o piani gestionali. Non sono presenti azioni di finanziamento con dettaglio economico da estrarre. Il numero e la data del decreto corrente non sono esplicitamente indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

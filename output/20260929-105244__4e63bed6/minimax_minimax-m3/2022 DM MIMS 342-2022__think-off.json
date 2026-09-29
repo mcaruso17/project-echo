@@ -1,0 +1,87 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:15:05",
+  "received_at": "2026-09-29T11:15:24",
+  "latency_seconds": 19.059,
+  "prompt_tokens": 10669,
+  "completion_tokens": 808,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11477,
+  "cost_usd_api": 0.0041703,
+  "cost_usd_reconstructed": 0.004170299999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673306-3nuEG66iktvqJ0IYUpDr",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DPCM 11 giugno 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MEF 4 ottobre 2019, n. 195790",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Relazione DG n. 7651 del 1° ottobre 2021",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il testo del decreto non riporta numero né data (mancano l'intestazione tipica del numero e della data di adozione del DM), sebbene la natura dell'atto e il riferimento alla Conferenza Unificata del 28 settembre 2022 collochino la sua adozione in data successiva. Non sono presenti nel testo allegati richiamati dall'articolato né tabelle di dettaglio dei CUP. L'unico CUP dell'atto (PROV0000026838) compare nell'art. 1, c. 1. La tabella di ripartizione delle annualità del cap. 7400/5 (TABELLA pag.1 n.1) descrive la dotazione pluriennale già iscritta in bilancio e non costituisce un'azione di finanziamento disposta dall'atto corrente (R2)."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1; premesse (Relazione DG n. 7651/2021; DM n. 443/2021)",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20 ... per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\"",
+      "atto_riferito": "DM MIMS 12 novembre 2021, n. 443",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Assegnazione a valere sul fondo di cui all'art. 1, c. 95, l. 145/2018, capitolo 7400/5; importo corrispondente ai residui disponibili dopo il riparto del DM 443/2021. L'impegno contabile è rinviato a successivo provvedimento (art. 2, c. 1). Costo totale intervento stimato in € 2.250.000,00."
+    }
+  ],
+  "raw_content": null
+}

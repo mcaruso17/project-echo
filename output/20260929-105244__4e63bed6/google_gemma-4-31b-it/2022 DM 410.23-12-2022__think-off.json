@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:22",
+  "received_at": "2026-09-29T11:14:32",
+  "latency_seconds": 9.89,
+  "prompt_tokens": 7726,
+  "completion_tokens": 467,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 8193,
+  "cost_usd_api": 0.00126844,
+  "cost_usd_reconstructed": 0.0008541199999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673263-yh3yTACN1i5EWR2jpls3",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT 14 gennaio 2022, n. 8",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT n. 235 del 2020",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT n. 350 del 2020",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DM MIT n. 517 del 2020",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti. Non sono presenti assegnazioni, impegni o rimodulazioni di risorse economiche associate a specifici CUP nel testo dell'atto."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT 14 gennaio 2022, n. 8\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT n. 235 del 2020\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT n. 350 del 2020\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"DM MIT n. 517 del 2020\",\n      \"relazione\": \"integra\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti. Non sono presenti assegnazioni, impegni o rimodulazioni di risorse economiche associate a specifici CUP nel testo dell'atto.\"\n}"
+}

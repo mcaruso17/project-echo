@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:55:53",
+  "received_at": "2026-08-06T12:56:02",
+  "latency_seconds": 8.212,
+  "prompt_tokens": 10684,
+  "completion_tokens": 356,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11040,
+  "cost_usd_api": 0.024928,
+  "cost_usd_reconstructed": 0.024928,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013753-g6a9FfAdlIFpRKlnWR66",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto in esame dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1) e stabilisce criteri generali per l'utilizzo di risorse derivanti da eventuali futuri definanziamenti (art. 2), senza indicare importi, capitoli di bilancio, piani gestionali o CUP con relativi valori economici assegnati/definanziati/rimodulati nel presente atto. Numero e data del decreto non sono riportati nel testo fornito. Gli allegati 1 e 2 contengono elenchi di interventi con relative scadenze OGV, ma non riportano importi né azioni di finanziamento in senso stretto."
+  },
+  "records": [],
+  "raw_content": null
+}

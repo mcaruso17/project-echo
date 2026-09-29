@@ -1,0 +1,57 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:04:54",
+  "received_at": "2026-09-29T11:05:18",
+  "latency_seconds": 23.51,
+  "prompt_tokens": 11848,
+  "completion_tokens": 553,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 12401,
+  "cost_usd_api": 0.00081048,
+  "cost_usd_reconstructed": 0.000943928,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790672701-eq9Qxp5JizuBbDZH9wDc",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 23 settembre 2021, n. 363",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto-legge 16 giugno 2022, n. 68, convertito con modificazioni dalla legge 5 agosto 2022, n. 108",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto assegna 46,20 milioni di euro agli interventi dell'Allegato 2 del DM 363/2021, ripartiti tra Liguria (14,00), Toscana (13,00), Trento (10,00) e Bolzano (9,20) con quote annuali 2023-2025 (artt. 1-2). Tuttavia l'Allegato 1, che contiene l'elenco degli interventi con i relativi CUP, è richiamato ma NON è presente nel testo: nessun CUP è quindi estraibile. Le righe della tabella dell'art. 2 (e del blocco [TABELLA pag.3 n.1]) riportano solo beneficiari e importi senza CUP; per la regola R1 (nessun CUP -> nessun record) non sono stati prodotti record di assegnazione. Anche l'Allegato 2 (schema referente del procedimento) e l'Allegato 3 (schema istanza anticipazione) sono richiamati ma assenti. Le risorse stanziate dall'art. 8, comma 12, del DL 68/2022 (40 mln 2023, 40 mln 2024, 70 mln 2025) e la quota residua di 103,80 milioni da ripartire con successivo decreto sono solo citate e non generano record."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": \"Ministero dell'Economia e delle Finanze\", \"natura_atto\": \"assegnazione\", \"atti_collegati\": [{\"estremi\": \"Decreto del Ministro delle infrastrutture e della mobilità sostenibili 23 settembre 2021, n. 363\", \"relazione\": \"attua\"}, {\"estremi\": \"Decreto-legge 16 giugno 2022, n. 68, convertito con modificazioni dalla legge 5 agosto 2022, n. 108\", \"relazione\": \"attua\"}], \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\", \"Allegato 3\"], \"allegati_presenti_nel_testo\": [], \"record\": [], \"note_estrazione\": \"L'atto assegna 46,20 milioni di euro agli interventi dell'Allegato 2 del DM 363/2021, ripartiti tra Liguria (14,00), Toscana (13,00), Trento (10,00) e Bolzano (9,20) con quote annuali 2023-2025 (artt. 1-2). Tuttavia l'Allegato 1, che contiene l'elenco degli interventi con i relativi CUP, è richiamato ma NON è presente nel testo: nessun CUP è quindi estraibile. Le righe della tabella dell'art. 2 (e del blocco [TABELLA pag.3 n.1]) riportano solo beneficiari e importi senza CUP; per la regola R1 (nessun CUP -> nessun record) non sono stati prodotti record di assegnazione. Anche l'Allegato 2 (schema referente del procedimento) e l'Allegato 3 (schema istanza anticipazione) sono richiamati ma assenti. Le risorse stanziate dall'art. 8, comma 12, del DL 68/2022 (40 mln 2023, 40 mln 2024, 70 mln 2025) e la quota residua di 103,80 milioni da ripartire con successivo decreto sono solo citate e non generano record.\"}"
+}

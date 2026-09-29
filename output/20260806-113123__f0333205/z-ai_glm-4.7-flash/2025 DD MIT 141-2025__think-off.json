@@ -1,0 +1,106 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:31:34",
+  "received_at": "2026-08-06T15:31:44",
+  "latency_seconds": 9.775,
+  "prompt_tokens": 8042,
+  "completion_tokens": 790,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 8832,
+  "cost_usd_api": 0.00079532,
+  "cost_usd_reconstructed": 0.0007985199999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023094-nIn5fMSWqa0V5O5EW4ni",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate d.l. 133/2014, convertito in l. 164/2014"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 113733987.0,
+      "importo_originale": "€ 113.733.987,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate l. 234/2021 (PG1)"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "8",
+      "importo_eur": 1486266013.0,
+      "importo_originale": "€ 1.486.266.013,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate l. 234/2021 (PG8)"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2200000000.0,
+      "importo_originale": "€ 2.200.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2",
+      "note": "Risorse stanziate l. 197/2022"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 3",
+      "note": "Autorizzazione impegno (tabella)"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 4",
+      "note": "Autorizzazione impegno"
+    }
+  ],
+  "raw_content": null
+}

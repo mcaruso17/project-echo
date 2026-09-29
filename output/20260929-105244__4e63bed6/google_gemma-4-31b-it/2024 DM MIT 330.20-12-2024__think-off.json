@@ -1,0 +1,89 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:49",
+  "received_at": "2026-09-29T12:09:11",
+  "latency_seconds": 21.311,
+  "prompt_tokens": 8611,
+  "completion_tokens": 700,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 9311,
+  "cost_usd_api": 0.00148554,
+  "cost_usd_reconstructed": 0.00101299,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676530-Q1S9ldCtdSUtWFQxHNLN",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 235, 350, 517 del 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2023, n. 343",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto dispone esclusivamente la proroga dei termini per il conseguimento dell'obbligazione giuridicamente vincolante (OGV) per gli interventi elencati nell'Allegato 1. Non sono presenti azioni di finanziamento (assegnazioni, impegni, rimodulazioni di importi) né codici CUP nel testo dell'atto o nell'allegato. Ai sensi della regola R2, le somme citate o i progetti per i quali viene solo prorogato un termine senza assegnazione di nuove risorse non costituiscono eventi contabili."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"attuazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2017, n. 587\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 6 agosto 2018, n. 360\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 2 marzo 2018, n. 86\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 27 dicembre 2019, n. 607\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT n. 235, 350, 517 del 2020\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT n. 44/2021\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 22 novembre 2021, n. 464\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 23 dicembre 2022, n. 410\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 7 agosto 2023, n. 191\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"DM MIT 22 dicembre 2023, n. 343\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"Allegato 1\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto dispone esclusivamente la proroga dei termini per il conseguimento dell'obbligazione giuridicamente vincolante (OGV) per gli interventi elencati nell'Allegato 1. Non sono presenti azioni di finanziamento (assegnazioni, impegni, rimodulazioni di importi) né codici CUP nel testo dell'atto o nell'allegato. Ai sensi della regola R2, le somme citate o i progetti per i quali viene solo prorogato un termine senza assegnazione di nuove risorse non costituiscono eventi contabili.\"\n}"
+}

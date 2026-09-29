@@ -1,0 +1,85 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:40:46",
+  "received_at": "2026-08-14T15:41:03",
+  "latency_seconds": 17.537,
+  "prompt_tokens": 27009,
+  "completion_tokens": 720,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1536,
+  "total_tokens": 27729,
+  "cost_usd_api": 0.036543144,
+  "cost_usd_reconstructed": 0.012375314999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714846-gyQI1MZHYZ7wLRESYDTK",
+    "provider": "Cloudflare",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta numero e data. Le azioni di finanziamento sono state estratte esclusivamente dall'Art. 1, comma 1, che dispone le rettifiche agli importi. Gli allegati aggiornano e sostituiscono gli allegati del DM 364/2021, ma non contengono nuove azioni di finanziamento disposte dal decreto corrente."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "217.585 euro, in luogo dei precedenti 117.585 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione aggiuntiva alla Regione Veneto per l'annualità 2033 (differenza tra 217.585 e 117.585)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "690.994 euro, in luogo dei precedenti 790.994 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Riduzione alla Regione Emilia Romagna per l'annualità 2033 (differenza tra 690.994 e 790.994)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "125.266 euro, in luogo dei precedenti 125.268 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Riduzione alla Regione Veneto per l'annualità 2032 (differenza tra 125.266 e 125.268)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "842.682 euro, in luogo dei precedenti 842.680 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione aggiuntiva alla Regione Emilia Romagna per l'annualità 2032 (differenza tra 842.682 e 842.680)"
+    }
+  ],
+  "raw_content": null
+}

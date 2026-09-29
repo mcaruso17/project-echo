@@ -1,0 +1,93 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:35",
+  "received_at": "2026-09-29T12:09:01",
+  "latency_seconds": 25.481,
+  "prompt_tokens": 8973,
+  "completion_tokens": 850,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 9823,
+  "cost_usd_api": 0.00868851,
+  "cost_usd_reconstructed": 0.01192435,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676522-9cv9RnMcsU0yssYbTT3y",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2023, n. 343",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "D.I. n. 97/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale (numero e data non esplicitamente indicati nel testo fornito, ma riferibile al contesto) che dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per interventi già finanziati da atti precedenti. Non contiene alcuna azione di finanziamento, assegnazione, impegno, rimodulazione di importi o definanziamento: l'art. 1 proroga al 31.12.2025 il termine OGV per gli interventi dell'Allegato 1; l'art. 2 dispone l'efficacia. L'Allegato 1 elenca solo 5 interventi con i relativi comuni e termini, senza CUP, capitoli, piani gestionali o importi. Non sono presenti CUP nel testo (né nell'Allegato 1 né nel preambolo per gli interventi oggetto di proroga). Gli unici CUP menzionati sono implicitamente nei riferimenti agli atti precedenti, ma non sono esplicitati nel testo. Il decreto non dispone risorse né modifica importi: è un atto procedimentale di proroga termini. Pertanto zero record di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\":true,\"numero_decreto\":null,\"data_decreto\":null,\"ministero_1\":\"Ministero delle Infrastrutture e dei Trasporti\",\"ministero_2\":null,\"natura_atto\":\"altro\",\"atti_collegati\":[{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607\",\"relazione\":\"richiama\"},{\"estremi\":\"decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del 2020\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti n. 44/2021\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 22 novembre 2021, n. 464\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 23 dicembre 2022, n. 410\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 7 agosto 2023, n. 191\",\"relazione\":\"richiama\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2023, n. 343\",\"relazione\":\"richiama\"},{\"estremi\":\"D.I. n. 97/2022\",\"relazione\":\"richiama\"}],\"allegati_richiamati\":[\"Allegato 1\"],\"allegati_presenti_nel_testo\":[\"Allegato 1\"],\"record\":[],\"note_estrazione\":\"L'atto corrente è un decreto ministeriale (numero e data non esplicitamente indicati nel testo fornito, ma riferibile al contesto) che dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per interventi già finanziati da atti precedenti. Non contiene alcuna azione di finanziamento, assegnazione, impegno, rimodulazione di importi o definanziamento: l'art. 1 proroga al 31.12.2025 il termine OGV per gli interventi dell'Allegato 1; l'art. 2 dispone l'efficacia. L'Allegato 1 elenca solo 5 interventi con i relativi comuni e termini, senza CUP, capitoli, piani gestionali o importi. Non sono presenti CUP nel testo (né nell'Allegato 1 né nel preambolo per gli interventi oggetto di proroga). Gli unici CUP menzionati sono implicitamente nei riferimenti agli atti precedenti, ma non sono esplicitati nel testo. Il decreto non dispone risorse né modifica importi: è un atto procedimentale di proroga termini. Pertanto zero record di finanziamento.\"}"
+}

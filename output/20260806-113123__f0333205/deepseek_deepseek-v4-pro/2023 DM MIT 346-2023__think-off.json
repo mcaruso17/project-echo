@@ -1,0 +1,95 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:47:25",
+  "received_at": "2026-08-06T14:48:28",
+  "latency_seconds": 62.531,
+  "prompt_tokens": 4620,
+  "completion_tokens": 693,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5313,
+  "cost_usd_api": 0.00522522,
+  "cost_usd_reconstructed": 0.00261261,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020445-CEd1R8jPxvNJPEBMtUrJ",
+    "provider": "DigitalOcean",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta il proprio numero e la propria data. I dati sono stati estratti dalla parte dispositiva e dalla tabella annessa."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella",
+      "note": "Comune di Brescia"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella",
+      "note": "Comune di Firenze"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella",
+      "note": "Comune di Milano"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella",
+      "note": "Comune di Milano"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella",
+      "note": "Comune di Milano. Include copertura delle risorse revocate."
+    }
+  ],
+  "raw_content": null
+}

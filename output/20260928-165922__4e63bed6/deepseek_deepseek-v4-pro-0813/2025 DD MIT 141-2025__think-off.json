@@ -1,0 +1,116 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T17:14:12",
+  "received_at": "2026-09-28T17:14:23",
+  "latency_seconds": 10.7,
+  "prompt_tokens": 12175,
+  "completion_tokens": 1292,
+  "reasoning_tokens": 0,
+  "cached_tokens": 12160,
+  "total_tokens": 13467,
+  "cost_usd_api": 0.00425337,
+  "cost_usd_reconstructed": 0.007415562,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790608452-SIFDWmxNV2QX7YpS0RPh",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva una convenzione e autorizza impegni. Gli importi di cui all'art. 2 (145.000.000,00, 1.600.000.000,00, 2.200.000.000,00) sono coperture già stanziate/impegnate da atti precedenti e non costituiscono nuove azioni di finanziamento disposte dall'atto corrente. Non sono presenti allegati richiamati o tabelle oltre a quella riportata nell'art. 3."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024-2032",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Art. 3; [TABELLA pag.5 n.1]",
+      "passaggio_testuale": "È autorizzato l’impegno delle risorse di cui al citato articolo 1, comma 478, della legge 29 dicembre 2022, n. 197, sul capitolo 7419, piano gestionale 2 dello stato di previsione del Ministero delle Infrastrutture e dei Trasporti, per la somma complessiva di € 2.125.000.000,00, di cui € 50.000.000,00 in conto residui, esercizio di provenienza 2024 e 2.075.000.000,00 per gli esercizi finanziari dal 2025 al 2032, come riportato nella seguente tabella:",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo complessivo è impegnato sul capitolo 7419/PG2. La tabella riporta la ripartizione per annualità, ma il record è unico con livello_importo='totale' e annualita='2024-2032'."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Art. 4",
+      "passaggio_testuale": "È autorizzato l’impegno delle risorse di cui al citato art.1, comma 478, della legge 29 dicembre 2022, n.197, sul capitolo 7416 piano gestonale 1 dello stato di previsione del Ministero delle Infrastrutture e dei Trasporti, per la somma complessiva di € 75.000.000,00, di cui 50.000.000,00 per l’esercizio finanziario 2027 e € 25.000.000,00 per l’esercizio finanziario 2028.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo complessivo è impegnato sul capitolo 7416/PG1. Le annualità sono indicate ma il record è unico con livello_importo='totale' e annualita='2027-2028'."
+    }
+  ],
+  "raw_content": null
+}

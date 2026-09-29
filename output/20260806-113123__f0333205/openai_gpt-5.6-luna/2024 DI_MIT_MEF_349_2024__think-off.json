@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:37",
+  "received_at": "2026-08-06T14:52:39",
+  "latency_seconds": 2.521,
+  "prompt_tokens": 3367,
+  "completion_tokens": 142,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 3509,
+  "cost_usd_api": 0.000335685,
+  "cost_usd_reconstructed": 0.004219,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020757-yW03G5zhEWzgVTe2cpP8",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe e l'abrogazione di un obiettivo intermedio; non contiene nuove assegnazioni, definanziamenti o rimodulazioni di risorse con importi, capitoli, piani gestionali o CUP."
+  },
+  "records": [],
+  "raw_content": null
+}

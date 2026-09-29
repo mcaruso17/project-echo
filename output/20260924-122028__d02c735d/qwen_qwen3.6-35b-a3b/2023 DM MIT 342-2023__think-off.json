@@ -1,0 +1,178 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:05:59",
+  "received_at": "2026-09-24T13:06:17",
+  "latency_seconds": 18.014,
+  "prompt_tokens": 33155,
+  "completion_tokens": 2886,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 36041,
+  "cost_usd_api": 0.0059129,
+  "cost_usd_reconstructed": 0.00785925,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790247960-xlLfmTT3zLSHovSnrUXF",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "182",
+    "data_decreto": "2024-05-23",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "rettifica",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 23 settembre 2021, n. 364",
+        "relazione": "sostituisce_allegato"
+      },
+      {
+        "estremi": "DD MIT 26 novembre 2021, n. 342",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD MIT 26 luglio 2022, n. 235",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD MIT 22 settembre 2022, n. 270",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD MIT 17 luglio 2023, n. 257",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "note_estrazione": "L'atto è un decreto di rettifica che corregge errori materiali nell'Allegato 3 del DM 364/2021. Gli importi rettificati sono stati estratti dalle tabelle dell'Allegato 3 (pagine 11) per le annualità 2032 e 2033, incrociando le informazioni dell'Art. 1 che specifica le correzioni per Veneto ed Emilia-Romagna. I CUP D69D15002090001 e D49D15001920001 sono stati associati agli importi di Puglia (Emilia-Romagna nella realtà geografica, ma tabella mostra Puglia per questi CUP nell'Allegato 1, mentre l'Art. 1 parla di Emilia-Romagna e Veneto. Si nota una discrepanza geografica tra Allegato 1 e Art. 1. L'Art. 1 corregge gli importi per Veneto e Emilia-Romagna. Le tabelle dell'Allegato 3 mostrano gli importi per regione. Per Veneto (colonna CAMPANIA nella tabella? No, la tabella ha colonne regionali. Veneto non ha colonna propria, è probabilmente incluso in Lombardia o simile, ma l'Art. 1 cita esplicitamente Veneto. La tabella Allegato 3 ha colonne: FRIULI, LIGURIA, VENETO (assente?), LAZIO, PIEMONTE, UMBRIA, TOSCANA, LOMBARDIA, EMILIA ROMAGNA, CAMPANIA, PUGLIA, SICILIA, SARDEGNA, CALABRIA, BASILICATA, ABRUZZO. Nella tabella [TABELLA pag.11 n.2] la colonna 'CAMPANIA' contiene i valori 217.585 e 125.266. Tuttavia l'Art. 1 dice 'Regione Veneto'. È probabile che nella tabella allegata ci sia un errore di intestazione o che Veneto sia stato erroneamente mappato. Dato che l'Art. 1 è la parte dispositiva che rettifica, si attribuiscono gli importi ai CUP corretti (Emilia-Romagna e Veneto) ma la fonte tabellare mostra le colonne 'PUGLIA' e 'CAMPANIA'. Si mantiene la confidenza alta sull'importo e CUP, ma si segnala l'ambiguità geografica nelle note. I CUP D69... e D49... sono associati agli interventi in Puglia (Maglie-Otranto) nell'Allegato 1, ma l'Art. 1 li corregge per Emilia-Romagna e Veneto. Questo suggerisce che i CUP nell'Allegato 1 potrebbero essere stati errati o che la rettifica sposta fondi. Tuttavia, la rettifica dice 'assegna... alla Regione Veneto... e alla Regione Emilia Romagna'. Non cita esplicitamente i CUP nell'Art. 1, ma rimanda agli allegati. Gli allegati 1 e 2 contengono i CUP. L'Allegato 1 (Potenziamento) ha i CUP D69... e D49... per la Puglia. L'Art. 1 corregge gli importi per Veneto ed Emilia-Romagna. È possibile che la rettifica riguardi anche la correzione dei beneficiari o che i CUP nell'Allegato 1 siano stati attribuiti erroneamente. Per fedeltà al testo, estraggo gli importi rettificati dall'Allegato 3 e li collego ai CUP presenti negli allegati corretti (Allegato 1 e 2). Poiché l'Art. 1 non cita i CUP, ma solo le Regioni, e gli Allegati 1 e 2 contengono i CUP, si assume che la rettifica riguardi gli interventi già identificati. Gli importi di Veneto (217.585 e 125.266) compaiono nella colonna 'CAMPANIA' dell'Allegato 3, il che è strano. Gli importi di Emilia-Romagna (690.994 e 842.682) compaiono nella colonna 'PUGLIA'. Questo indica un possibile errore di intestazione delle colonne nella tabella allegata o un trasferimento di fondi. Si riportano i record come estratti, con nota."
+  },
+  "records": [
+    {
+      "cup": [
+        "D69D15002090001",
+        "D49D15001920001"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2033",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "PUGLIA",
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.2], riga 2033",
+      "passaggio_testuale": "2033 | ... | 690.994 | ...",
+      "atto_riferito": "DM MIT 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Rettifica errore materiale: assegna 690.994 euro in luogo dei precedenti 790.994 euro. Importo relativo alla tratta Maglie-Otranto e Zollino-Gagliano (Lotto 4 e Lotto 3)."
+    },
+    {
+      "cup": [
+        "D69D15002090001",
+        "D49D15001920001"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2032",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "PUGLIA",
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.2], riga 2032",
+      "passaggio_testuale": "2032 | ... | 842.682 | ...",
+      "atto_riferito": "DM MIT 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Rettifica errore materiale: assegna 842.682 euro in luogo dei precedenti 842.680 euro."
+    },
+    {
+      "cup": [
+        "D69D15002090001",
+        "D49D15001920001"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2033",
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "CAMPANIA",
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.2], riga 2033",
+      "passaggio_testuale": "2033 | ... | 217.585 | ...",
+      "atto_riferito": "DM MIT 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Rettifica errore materiale: assegna 217.585 euro in luogo dei precedenti 117.585 euro. Importo relativo alla Regione Veneto (Campania nella tabella geografica potrebbe essere un refuso o riferito a destinazione diversa, ma il testo art. 1 cita Regione Veneto per questo importo)."
+    },
+    {
+      "cup": [
+        "D69D15002090001",
+        "D49D15001920001"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "annualita": "2032",
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "CAMPANIA",
+      "riferimento_fonte": "art. 1; Allegato 3 / [TABELLA pag.11 n.2], riga 2032",
+      "passaggio_testuale": "2032 | ... | 125.266 | ...",
+      "atto_riferito": "DM MIT 23 settembre 2021, n. 364",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Rettifica errore materiale: assegna 125.266 euro in luogo dei precedenti 125.268 euro. Importo relativo alla Regione Veneto."
+    }
+  ],
+  "raw_content": null
+}

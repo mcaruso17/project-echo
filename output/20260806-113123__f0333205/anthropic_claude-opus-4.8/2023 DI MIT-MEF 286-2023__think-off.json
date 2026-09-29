@@ -1,0 +1,51 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:48:39",
+  "received_at": "2026-08-06T12:48:47",
+  "latency_seconds": 7.899,
+  "prompt_tokens": 6949,
+  "completion_tokens": 575,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7524,
+  "cost_usd_api": 0.04912,
+  "cost_usd_reconstructed": 0.04912,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013319-S6jjTroxZC5SiazXdB4k",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero né data (spazi per la firma non compilati nel testo). Non sono indicati capitolo di spesa né piano gestionale. L'importo complessivo è di 75 milioni di euro (15 mln per anno 2023-2027) assegnati con un unico CUP; le sottovoci descritte sono ripartizioni interne dello stesso contributo e non azioni di finanziamento distinte."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, a favore del Comune di Milano per la linea M4 della metropolitana. Ripartizione delle voci di costo: aumento costi materiali 35 mln (Linate-San Babila 14 mln, San Babila-San Cristoforo 21 mln); tecnica congelamento 10 mln; varianti 17 mln; spese generali COVID 7 mln; oneri sicurezza 6 mln."
+    }
+  ],
+  "raw_content": null
+}

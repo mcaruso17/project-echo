@@ -1,0 +1,55 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:56",
+  "received_at": "2026-09-29T11:18:14",
+  "latency_seconds": 17.821,
+  "prompt_tokens": 8920,
+  "completion_tokens": 495,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 9415,
+  "cost_usd_api": 0.0006116,
+  "cost_usd_reconstructed": 0.00074212,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673483-TmCqhlsdf60NXHXP7XIy",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente rimodula esclusivamente i termini amministrativi (affidamento, avanzamento 50%, ultimazione, termine conseguimento OGV) previsti dal DM 97/2022; non dispone alcuna azione di finanziamento (assegnazione, impegno, definanziamento o rimodulazione di importi) su alcun CUP. I CUP presenti negli allegati (B31F20000030005, B44D20000040001, F41B22000740009 - CUP MASTER, F41B22000830009, E51I04000010007, C71F20000020005, J84E21005150001, E31J19000030001, F44I19000530001) compaiono in tabelle di cronoprogramma prive di importi. Gli stanziamenti citati nel preambolo (legge 234/2021, legge 197/2022, DM 97/2022) sono mere citazioni senza disposizione dell'atto corrente. L'istanza di proroga del Comune di Genova per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) è rinviata a separato provvedimento."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": \"Ministero dell'Economia e delle Finanze\", \"natura_atto\": \"rimodulazione\", \"atti_collegati\": [{\"estremi\": \"Decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97\", \"relazione\": \"rimodula\"}], \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"], \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"], \"record\": [], \"note_estrazione\": \"L'atto corrente rimodula esclusivamente i termini amministrativi (affidamento, avanzamento 50%, ultimazione, termine conseguimento OGV) previsti dal DM 97/2022; non dispone alcuna azione di finanziamento (assegnazione, impegno, definanziamento o rimodulazione di importi) su alcun CUP. I CUP presenti negli allegati (B31F20000030005, B44D20000040001, F41B22000740009 - CUP MASTER, F41B22000830009, E51I04000010007, C71F20000020005, J84E21005150001, E31J19000030001, F44I19000530001) compaiono in tabelle di cronoprogramma prive di importi. Gli stanziamenti citati nel preambolo (legge 234/2021, legge 197/2022, DM 97/2022) sono mere citazioni senza disposizione dell'atto corrente. L'istanza di proroga del Comune di Genova per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) è rinviata a separato provvedimento.\"}"
+}

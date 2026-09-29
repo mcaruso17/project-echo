@@ -1,0 +1,283 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:51:47",
+  "received_at": "2026-09-24T12:52:23",
+  "latency_seconds": 35.935,
+  "prompt_tokens": 11203,
+  "completion_tokens": 3354,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14557,
+  "cost_usd_api": 0.00503445,
+  "cost_usd_reconstructed": 0.00503445,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790247107-QZmZ2rgF7t65wl3PrzXL",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "non specificato nel testo",
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto dell’allora Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto dell’allora Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell’economia e delle finanze n. 97 del 20 aprile 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "Il numero del decreto e la data non sono esplicitamente indicati nel testo fornito, sebbene il testo inizi con 'Il Ministro...'. Gli importi per i CUP F47C19000380001, F47C19000360001 e B34J18000230001 sono stati interpretati come nulli o non assegnati direttamente in questa ripartizione specifica, poiché le relative celle nella colonna 'Finanziamento ammesso' sono vuote o contengono '-'. Il totale ripartito (362.137.535,13) corrisponde alla somma degli importi positivi estratti."
+  },
+  "records": [
+    {
+      "cup": [
+        "C11J22000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI TORINO | PROLUNGAMENTO LINEA TRANVIARIA 12... | C11J22000000001 | 221.721.410,41",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000370001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3... | F47C19000370001 | 2.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47D17000140005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 6",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3... | F47D17000140005 | 20.900.000,02",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000380001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 8",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3... | F47C19000380001 | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo nullo (-)"
+    },
+    {
+      "cup": [
+        "F47C19000390001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 9",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3... | F47C19000390001 | 2.100.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000350001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 11",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEE M1 + M2... | F47C19000350001 | 45.000.000,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 13",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEE M1 + M2... | F47C19000360001 | (cella vuota)",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "La cella del finanziamento ammesso per F47C19000360001 appare vuota nella tabella, ma l'intervento è incluso nel totale ripartito. Potrebbe essere zero o incluso in altro CUP. Si riporta 0 per assenza di valore esplicito.",
+      "note": "Valore non esplicitamente indicato nella colonna 'Finanziamento ammesso' per questo sub-intervento specifico."
+    },
+    {
+      "cup": [
+        "B31J23000240001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 15",
+      "passaggio_testuale": "COMUNE DI GENOVA | LINEA METROPOLITANA... | B31J23000240001 | 74.516.124,63",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "B34J18000230001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.7 n.1], riga 17",
+      "passaggio_testuale": "COMUNE DI GENOVA | LINEA METROPOLITANA... | B34J18000230001 | (cella vuota)",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "La cella del finanziamento ammesso per B34J18000230001 appare vuota nella tabella. L'intervento è parte del progetto complessivo di Genova, ma il finanziamento specifico per questo CUP non è indicato esplicitamente come positivo. Si assume 0 o incluso nel CUP principale.",
+      "note": "Valore non esplicitamente indicato nella colonna 'Finanziamento ammesso' per questo sub-intervento specifico."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,192 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:26:45",
+  "received_at": "2026-09-28T12:27:14",
+  "latency_seconds": 29.332,
+  "prompt_tokens": 10757,
+  "completion_tokens": 2139,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12896,
+  "cost_usd_api": 0.00995286,
+  "cost_usd_reconstructed": 0.01877515,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591205-DRcVtof76ZjB5wSBtCDF",
+    "provider": "Inceptron",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Presidente del Consiglio dei ministri 23 dicembre 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 27 dicembre 2019, n. 160",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 30 dicembre 2020, n. 178",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "allegato parte integrante del presente decreto (tabella riportata nel testo)"
+    ],
+    "note_estrazione": "L'atto non riporta un numero di decreto né una data nel testo fornito (il testo inizia direttamente con il nome del Ministero e il preambolo). Il decreto attuato (n. 464/2021) assegnava in totale € 660.660.678,33; il presente atto dispone gli impegni contabili coerentemente con quella ripartizione. La tabella presente nel testo è l'allegato richiamato dagli articoli 1, 2 e 3. Non sono presenti CUP provvisori né CUP Master. Il CUP 'C11B21008720001' appare isolato nel testo prima della tabella sotto 'Roma Capitale', ma nella tabella strutturata [TABELLA pag.4 n.1] è correttamente associato al Comune di Torino insieme a D81E20000410007; il testo prima della tabella sembra avere un errore di allineamento. Seguo la tabella strutturata come fonte autorevole."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 1 e art. 2; Allegato / [TABELLA pag.4 n.1], riga 2 (Comune di Padova)",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui € 3.000.000,00 (art.1: € 1.000.000,00 2020 + € 2.000.000,00 2021) + impegno in conto competenza € 631.174.000,00 (art.2) sullo stesso PG 7. Il totale per Padova è la somma delle annualità indicate."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 1 e art. 2; Allegato / [TABELLA pag.4 n.1], riga 3 (Roma Capitale)",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui + impegno in conto competenza sullo stesso PG 7. Nota: nel testo prima della tabella appare anche 'C11B21008720001' sotto Roma Capitale, ma nella tabella strutturata [TABELLA pag.4 n.1] questo CUP non è associato a Roma Capitale. Seguo la tabella strutturata."
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 1 e art. 2; Allegato / [TABELLA pag.4 n.1], riga 4 (Comune di Torino)",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due CUP; l'atto non ripartisce l'importo tra i due CUP. Impegno in conto residui + impegno in conto competenza sullo stesso PG 7."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 1 e art. 2; Allegato / [TABELLA pag.4 n.1], riga 5 (Comune di Brescia PG 7)",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui + impegno in conto competenza sullo stesso PG 7."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato / [TABELLA pag.4 n.1], riga 6 (Comune di Brescia PG 1)",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | | | | | | | | | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,38 | 26.486.678,33",
+      "atto_riferito": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto competenza distinto sul PG 1, per annualità 2029-2034. Stesso CUP C81B21013200005 che ha anche finanziamento su PG 7."
+    }
+  ],
+  "raw_content": null
+}

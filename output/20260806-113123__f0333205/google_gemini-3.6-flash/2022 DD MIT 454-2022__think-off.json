@@ -1,0 +1,65 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:47:17",
+  "received_at": "2026-08-06T11:47:30",
+  "latency_seconds": 13.816,
+  "prompt_tokens": 5137,
+  "completion_tokens": 2526,
+  "reasoning_tokens": 2092,
+  "cached_tokens": 0,
+  "total_tokens": 7663,
+  "cost_usd_api": 0.0266505,
+  "cost_usd_reconstructed": 0.0266505,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786009637-IYtQL7Vax5PDmqKkIXVu",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non reca explicitamente numero e data nell'intestazione/testo fornite. I riferimenti ai decreti precedenti nel preambolo sono stati ignorati ai fini dei metadati del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Ripartizione pluriennale: 2022 (€ 35.000.000,00), 2023 (€ 40.000.000,00), 2024 (€ 33.500.000,00), 2025 (€ 22.500.000,00)"
+    }
+  ],
+  "raw_content": null
+}

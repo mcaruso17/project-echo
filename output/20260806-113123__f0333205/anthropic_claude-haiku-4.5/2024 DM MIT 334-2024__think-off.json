@@ -1,0 +1,139 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:56:15",
+  "received_at": "2026-08-06T14:56:34",
+  "latency_seconds": 19.221,
+  "prompt_tokens": 15737,
+  "completion_tokens": 2310,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 18047,
+  "cost_usd_api": 0.027287,
+  "cost_usd_reconstructed": 0.027287,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020975-z17FkLlMXyP5WSa6rN99",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data nel testo fornito. Il decreto corrente è identificato come un Decreto del Ministro delle Infrastrutture e dei Trasporti che modifica il D.M. 22 dicembre 2023, n. 345. Le azioni di finanziamento sono estratte dalla parte dispositiva (Art. 1-4) e dagli Allegati 1 e 2. L'Art. 2 assegna risorse statali (non PNRR) a Trieste e Milano a valere su risorse diverse dal PNRR, pertanto non incluse nei record in quanto non rappresentano azioni di finanziamento PNRR. L'Art. 3 uniforma le percentuali di anticipazione ma non rappresenta una nuova azione di finanziamento. Le rimodulazioni sono estratte come singole azioni sulla base del testo del preambolo e della parte dispositiva."
+  },
+  "records": [
+    {
+      "cup": "B44D22000090005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14324340.38,
+      "importo_originale": "14.324.340,38 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (RITENUTO di dover rimodulare il contributo) e Art. 1 (Allegato 1)",
+      "note": "Rimodulazione dell'intervento 'Tramvia 7 Bausan – Villapizzone' - tratta 1. Importo rideterminato in linea con il Quadro Economico trasmesso dal comune di Milano. Target modificato da 1 km a 0,5 km."
+    },
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 308501539.82,
+      "importo_originale": "308.501.539,82 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Preambolo (RITENUTO di assegnare al suddetto intervento le risorse residue) e Art. 1 (Allegato 1)",
+      "note": "Assegnazione di risorse residue a seguito della rimodulazione dell'intervento 'Tramvia 7 Bausan – Villapizzone' e delle risorse precedentemente destinate all'intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso' per il completamento dell'intervento 'Linea SIR 2 del tram-completamento del sistema intermedio a rete della città di Padova'."
+    },
+    {
+      "cup": "J81J20000290001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 120000000.0,
+      "importo_originale": "120.000.000,00 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (VISTE le note di Roma Capitale) e Art. 1 (Allegato 1)",
+      "note": "Rimodulazione dell'intervento 'Linea tranviaria Termini-Vaticano-Aurelio'. Sostituzione del lotto funzionale da 'tratta Termini-Venezia' a 'tratta Giureconsulti – Largo Cardinal Clemente Micara' per raggiungere il target M2C2-26."
+    },
+    {
+      "cup": "B69H13000230002",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 33579216.0,
+      "importo_originale": "33.579.216,00 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (VISTE le note del comune di Napoli) e Art. 1 (Allegato 1)",
+      "note": "Rimodulazione dell'intervento 'Completamento della flotta rotabile di linea 1: fornitura materiale rotabile n. 4 elettrotreni'. Target rideterminato da 4 a 3 elettrotreni, costo rideterminato in € 33.579.216,00."
+    },
+    {
+      "cup": "B60J21000070001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 16130353.46,
+      "importo_originale": "16.130.353,46 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (VISTA la nota del comune di Napoli prot. 873909) e Art. 1 (Allegato 1)",
+      "note": "Rimodulazione dell'intervento 'Fornitura materiale rotabile di n. 5 tram da 24 metri, 3 elementi, pianale basso'. Incremento di € 630.353,46 derivante dalle economie della rimodulazione dell'intervento 'Completamento della flotta rotabile di linea 1: fornitura materiale rotabile n. 3 elettrotreni'."
+    },
+    {
+      "cup": "D71D18000520001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21997800.0,
+      "importo_originale": "21.997.800,00 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (PRESO ATTO di quanto indicato in merito all'intervento 'Sistema Tram Palermo') e Art. 1 (Allegato 1)",
+      "note": "Rimodulazione dell'intervento 'Sistema Tram Palermo - Fase II - Tratte D, E2, F, G e parcheggi di interscambio: fornitura materiale rotabile tram'. Target rideterminato da 6 a 5 veicoli, costo rideterminato in € 21.997.800,00 (5 veicoli × € 4.399.560,00 al lordo di IVA)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": -1143995.0,
+      "importo_originale": "1.143.995,00 €",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 4, comma 1",
+      "note": "Risorse non allocate a seguito della rimodulazione dell'intervento 'Sistema Tram Palermo'. Importo negativo in quanto rappresenta una riduzione rispetto all'allocazione precedente."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 1143995.0,
+      "importo_originale": "1.143.995,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 4, commi 1-2",
+      "note": "Destinazione delle risorse residue (€ 1.143.995,00) per le spese relative alla redazione del report di un valutatore indipendente previsto dai meccanismi di verifica negli Operational Arrangements per i target M2C2-25bis, M2C2-25ter e M2C2-26."
+    },
+    {
+      "cup": "B31E20000230001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 398976182.34,
+      "importo_originale": "398.976.182,34 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Preambolo (RITENUTO di rimodulare il contributo PNRR assegnato al comune di Genova) e Art. 1 (Allegato 2)",
+      "note": "Rimodulazione dell'intervento 'Sistema degli assi di forza per il trasporto pubblico locale nel comune di Genova' (Allegato 2 - Interventi a legislazione vigente). Utilizzo dell'intera disponibilità di risorse PNRR a 'Legislazione Vigente' a seguito dello stralcio dell'intervento 'Rimini FS-Rimini Fiera'."
+    }
+  ],
+  "raw_content": null
+}

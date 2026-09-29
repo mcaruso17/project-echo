@@ -1,0 +1,195 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T10:52:46",
+  "received_at": "2026-09-29T10:53:40",
+  "latency_seconds": 54.11,
+  "prompt_tokens": 14467,
+  "completion_tokens": 2091,
+  "reasoning_tokens": 1,
+  "cached_tokens": 0,
+  "total_tokens": 16558,
+  "cost_usd_api": 0.02210765,
+  "cost_usd_reconstructed": 0.022107650000000003,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790671971-jL1wsbrGqW6lxiVKjPJU",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto ministeriale 3 febbraio 2020, n. 144",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto ministeriale 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 30 dicembre 2018, n. 145",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 27 dicembre 2019, n. 160",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 30 dicembre 2020, n. 178",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale senza numero né data esplicitamente indicati nell'intestazione o nella parte dispositiva; il testo inizia con \"Il Ministro delle Infrastrutture e della Mobilità Sostenibili\" e termina con \"IL MINISTRO\". La parte dispositiva (artt. 1-12) dispone l'assegnazione di risorse tramite Allegato 1. L'art. 1, comma 2 prevede un successivo provvedimento per l'impegno contabile: l'impegno NON è disposto dal presente atto, quindi non genera record con stato_importo='impegnato'. Il totale di € 660.660.678,33 è la somma delle assegnazioni dell'Allegato 1, ma NON è un record a sé (valore complessivo citato). Le risorse derivano da due fonti: cap. 7400 pg 7 (legge 160/2019) e cap. 7400 pg 1 (legge 178/2020), ma l'atto non specifica quale CUP attinga a quale fonte, né ripartisce l'importo tra le due fonti; pertanto si è attribuito il piano gestionale 7 come principale fonte indicata nel testo, ma con ambiguità nella ripartizione effettiva. Il CUP per Padova (H94I19000130004) è stato ricostruito dal testo della tabella; il preambolo cita un importo di € 115.602.425 per il pg 1, ma l'atto finale assegna € 97.154.124,10 a Padova e il residuo di € 88.415.746,74 è rinviato a successivo provvedimento: queste risorse non assegnate non generano record."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 1",
+      "passaggio_testuale": "COMUNE DI PADOVA | LINEA SIR 2 DEL TRAM-COMPLETAMENTO DEL SISTEMA INTERMEDIO A RETE DELLA CITTA' DI PADOVA | H94I19000130004 | TRANVIA | 335.211.901,76 | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo assegnato inferiore al costo totale dell'intervento (€ 335.211.901,76); la differenza è coperta da altre fonti (PNRR M2C2-4.2 per € 238.057.777,66)"
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI BRESCIA | NUOVA LINEA TRANVIARIA \"PENDOLINA-FIERA (T2)\" | C81B21013200005 | TRANVIA | 363.288.528,40 | 359.545.887,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo assegnato leggermente inferiore al costo totale (€ 363.288.528,40); differenza di € 3.742.641,33 non coperta"
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 3",
+      "passaggio_testuale": "ROMA CAPITALE | RINNOVO MATERIALE LINEE A e B-B1 DELLA METROPOLITANA | J80J18000000001 | METRO | 159.466.174,12 | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento a copertura totale del costo dell'intervento"
+    },
+    {
+      "cup": [
+        "C11B21008720001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI TORINO | ATTESTAMENTO LINEA TRANVIARIA 15 PRESSO OSPEDALE MARTINI E MODIFICA INSTRADAMENTO IN ZONA CENTRO | C11B21008720001 | TRANVIA | 9.408.502,67 | 9.408.502,67",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento a copertura totale del costo dell'intervento"
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 5",
+      "passaggio_testuale": "COMUNE DI TORINO | METROPOLITANA AUTOMATICA DI TORINO - LINEA 1: PROLUNGAMENTO OVEST COLLEGNO - CASCINE VICA: NUOVO FABBRICATO DEPOSITO TRENI | D81E20000410007 | METRO | 35.085.990,37 | 35.085.990,37",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento a copertura totale del costo dell'intervento"
+    }
+  ],
+  "raw_content": null
+}

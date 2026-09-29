@@ -1,0 +1,68 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T17:40:41",
+  "received_at": "2026-09-21T17:40:58",
+  "latency_seconds": 16.774,
+  "prompt_tokens": 9227,
+  "completion_tokens": 1224,
+  "reasoning_tokens": 306,
+  "cached_tokens": 0,
+  "total_tokens": 10451,
+  "cost_usd_api": 0.15347,
+  "cost_usd_reconstructed": 0.15347,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790005242-0W0iEsKa9CjcFFFOlmzK",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto interministeriale MIMS-MEF 20 aprile 2022, n. 97",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "Decreto interministeriale MIT-MEF 30 dicembre 2023, n. 362",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "Decreto interministeriale MIT-MEF 17 aprile 2024, n. 107",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2021, n. 234, art. 1 comma 393",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1 comma 478",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto interministeriale MIT-MEF di proroga di termini (natura 'altro': proroga/abrogazione di obiettivi intermedi), privo di numero e data (non stampati nel testo fornito; la firma non riporta estremi). La parte dispositiva (art. 1) non dispone alcuna azione di finanziamento: proroga al 31 dicembre 2025 i termini di affidamento per gli interventi 'Skymetro Val Bisagno' (Genova) e 'Metropolitana automatica di Torino – Linea 2 – Tratta Politecnico–Rebaudengo' (Torino), ridetermina i termini di ultimazione e abroga l'obiettivo dell'avanzamento al 50% per gli interventi dell'Allegato 1 del D.I. n. 97/2022. Nessun CUP, capitolo o importo è associato a movimentazioni di risorse disposte da questo atto: gli importi citati nel preambolo (es. € 3.700.000.000,00 della legge 234/2021 e le autorizzazioni di spesa della legge 197/2022) sono meri richiami e non generano record. Gli 'Allegati 1 e 2' menzionati appartengono al D.I. n. 97/2022, non all'atto corrente, e non sono presenti nel testo."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"Decreto interministeriale MIMS-MEF 20 aprile 2022, n. 97\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"Decreto interministeriale MIT-MEF 30 dicembre 2023, n. 362\",\n      \"relazione\": \"rimodula\"\n    },\n    {\n      \"estremi\": \"Decreto interministeriale MIT-MEF 17 aprile 2024, n. 107\",\n      \"relazione\": \"rimodula\"\n    },\n    {\n      \"estremi\": \"Legge 30 dicembre 2021, n. 234, art. 1 comma 393\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"Legge 29 dicembre 2022, n. 197, art. 1 comma 478\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto interministeriale MIT-MEF di proroga di termini (natura 'altro': proroga/abrogazione di obiettivi intermedi), privo di numero e data (non stampati nel testo fornito; la firma non riporta estremi). La parte dispositiva (art. 1) non dispone alcuna azione di finanziamento: proroga al 31 dicembre 2025 i termini di affidamento per gli interventi 'Skymetro Val Bisagno' (Genova) e 'Metropolitana automatica di Torino – Linea 2 – Tratta Politecnico–Rebaudengo' (Torino), ridetermina i termini di ultimazione e abroga l'obiettivo dell'avanzamento al 50% per gli interventi dell'Allegato 1 del D.I. n. 97/2022. Nessun CUP, capitolo o importo è associato a movimentazioni di risorse disposte da questo atto: gli importi citati nel preambolo (es. € 3.700.000.000,00 della legge 234/2021 e le autorizzazioni di spesa della legge 197/2022) sono meri richiami e non generano record. Gli 'Allegati 1 e 2' menzionati appartengono al D.I. n. 97/2022, non all'atto corrente, e non sono presenti nel testo.\"\n}"
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:52:53",
+  "received_at": "2026-08-06T12:52:57",
+  "latency_seconds": 4.13,
+  "prompt_tokens": 5189,
+  "completion_tokens": 293,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5482,
+  "cost_usd_api": 0.006654,
+  "cost_usd_reconstructed": 0.006654,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013573-8cxxOKjVVThVM41HCQ8T",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di importi). Il documento è un decreto di rimodulazione dei termini temporali (cronoprogrammi) per interventi già finanziati da precedenti decreti (in particolare il decreto del 20 aprile 2022, n. 97). Gli articoli 1 e 2 dispongono esclusivamente la modifica dei termini di affidamento, avanzamento e ultimazione dei lavori, non l'assegnazione o la variazione di risorse finanziarie. Gli allegati 1 e 2 riportano i nuovi cronoprogrammi, ma nessun importo di finanziamento. Pertanto, non vi sono azioni di finanziamento da estrarre."
+  },
+  "records": [],
+  "raw_content": null
+}

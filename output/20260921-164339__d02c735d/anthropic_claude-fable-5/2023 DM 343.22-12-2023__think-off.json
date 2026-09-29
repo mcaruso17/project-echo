@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:59:18",
+  "received_at": "2026-09-21T16:59:43",
+  "latency_seconds": 25.747,
+  "prompt_tokens": 14651,
+  "completion_tokens": 1845,
+  "reasoning_tokens": 649,
+  "cached_tokens": 0,
+  "total_tokens": 16496,
+  "cost_usd_api": 0.23876,
+  "cost_usd_reconstructed": 0.23876,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790002758-h6TA0BjR2RNN6nMI1rsG",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 184/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 235/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 350/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 517/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 97/2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT n. 8/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a interventi di trasporto rapido di massa, emanato previa intesa in Conferenza Unificata del 20 dicembre 2023; numero e data del decreto non sono stampati nel testo fornito. La parte dispositiva (art. 1 e art. 2) e gli Allegati 1 e 2 non dispongono alcuna assegnazione, impegno, rimodulazione o revoca di importi: le tabelle allegate contengono solo comune, denominazione intervento e termine OGV, senza importi né capitoli. L'art. 2 detta un criterio generale di destinazione delle risorse derivanti da eventuali futuri definanziamenti, senza quantificarle né associarle a CUP: non genera record. I CUP presenti nel testo (C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) compaiono solo nel preambolo, riferiti a interventi già finanziati da decreti precedenti, senza importi disposti dall'atto corrente: ai sensi di R2 non costituiscono azioni di finanziamento. Nessun definanziamento è disposto direttamente nell'atto (gli interventi di Roma e Torino elencati come non meritevoli di proroga non sono oggetto di revoca esplicita di importi nella parte dispositiva)."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\"estremi\": \"DM MIT 23 dicembre 2022, n. 410\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"DM MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 184/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 235/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 350/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 517/2020\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 44/2021\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT 22 novembre 2021, n. 464\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 97/2022\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"DM MIT n. 8/2022\", \"relazione\": \"richiama\"}\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto ministeriale di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a interventi di trasporto rapido di massa, emanato previa intesa in Conferenza Unificata del 20 dicembre 2023; numero e data del decreto non sono stampati nel testo fornito. La parte dispositiva (art. 1 e art. 2) e gli Allegati 1 e 2 non dispongono alcuna assegnazione, impegno, rimodulazione o revoca di importi: le tabelle allegate contengono solo comune, denominazione intervento e termine OGV, senza importi né capitoli. L'art. 2 detta un criterio generale di destinazione delle risorse derivanti da eventuali futuri definanziamenti, senza quantificarle né associarle a CUP: non genera record. I CUP presenti nel testo (C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) compaiono solo nel preambolo, riferiti a interventi già finanziati da decreti precedenti, senza importi disposti dall'atto corrente: ai sensi di R2 non costituiscono azioni di finanziamento. Nessun definanziamento è disposto direttamente nell'atto (gli interventi di Roma e Torino elencati come non meritevoli di proroga non sono oggetto di revoca esplicita di importi nella parte dispositiva).\"\n}"
+}

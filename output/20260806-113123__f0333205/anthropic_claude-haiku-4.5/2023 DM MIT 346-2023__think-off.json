@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:38:34",
+  "received_at": "2026-08-06T14:38:43",
+  "latency_seconds": 8.629,
+  "prompt_tokens": 4996,
+  "completion_tokens": 1302,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6298,
+  "cost_usd_api": 0.011506,
+  "cost_usd_reconstructed": 0.011506,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786019914-fTszMgSoNAQXFtwdqfc0",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non reca numero e data espliciti nel testo fornito. La tabella principale riporta colonne 'DECRETO DI FINANZIAMENTO' e 'DECRETO DI ASSEGNAZIONE' che identificano i decreti precedenti (464/2021, 517/2020, 97/2022, 607/2019, 360/2018, 86/2018) da cui gli interventi erano già stati finanziati; tali valori NON costituiscono il numero del decreto corrente. L'importo totale € 392.989.123,64 è stato ripartito tra i 5 interventi principali; il Lotto 2 della Metrotranvia (B71J22000050006) non ha importo separatamente indicato nella tabella. Art. 1, comma 3 specifica che i contributi sono addizionali rispetto a quelli già assegnati."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Brescia, Nuova Linea Tranviaria Pendolina-Fiera (T2)",
+      "note": "Contributo addizionale rispetto a decreto 464/2021"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Firenze, Sistema tramviario Linea 3 (II lotto)",
+      "note": "Contributo addizionale rispetto a decreto 517/2020"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Milano, Ampliamento Deposito Gallaratese Linea M1",
+      "note": "Contributo addizionale rispetto a decreto 97/2022"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Milano, Linea M1 Prolungamento Baggio-Olmi-Valsesia",
+      "note": "Contributo addizionale rispetto a decreti 607/2019 e 97/2022"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Milano, Riqualificazione Metrotranvia Milano-Limbiate Lotto 1",
+      "note": "Contributo addizionale rispetto a decreti 360/2018 e 86/2018; include copertura di € 59.000.000 di risorse revocate dal Piano Sviluppo e Coesione 2014-2020"
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, tabella - Milano, Riqualificazione Metrotranvia Milano-Limbiate Lotto 2",
+      "note": "Lotto 2 Varedo-Limbiate; importo non separatamente specificato nella tabella"
+    }
+  ],
+  "raw_content": null
+}

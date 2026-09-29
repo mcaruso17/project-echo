@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:19:24",
+  "received_at": "2026-08-06T15:19:39",
+  "latency_seconds": 15.5,
+  "prompt_tokens": 93520,
+  "completion_tokens": 1011,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 94531,
+  "cost_usd_api": 0.492875,
+  "cost_usd_reconstructed": 0.492875,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022364-bPRmPsokYBxFkmQmK5FT",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è la Delibera CIPESS n. 86/2024 del 19 dicembre 2024, che approva il progetto definitivo del Sistema tramviario fiorentino Linea 4.1 (costo complessivo 200.120.520,56 euro). Al punto 1.2.1 sono indicate le quote a carico dello Stato con relativi capitoli e piani gestionali del MIT. Il definanziamento FSC di 27,55 milioni citato (delibera CIPESS n. 14/2024) è stato disposto da un decreto precedente e non dal decreto corrente, pertanto non è stato estratto. Le quote a carico del Comune di Firenze (30.246.176,56 euro) non risultano associate a capitoli/piani gestionali statali e non costituiscono azioni di finanziamento del bilancio dello Stato."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Somme destinate alla tranvia di Firenze (Sblocca Italia). Copertura finanziaria del progetto definitivo Linea 4.1 Leopolda-Piagge approvato dal decreto corrente."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Spese per interventi nel settore dei sistemi di trasporto rapido di massa. Copertura finanziaria del progetto definitivo."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "Fondo per le reti metropolitane in costruzione in aree metropolitane (art. 1, comma 88 legge n. 147/2013). Copertura finanziaria del progetto definitivo."
+    }
+  ],
+  "raw_content": null
+}

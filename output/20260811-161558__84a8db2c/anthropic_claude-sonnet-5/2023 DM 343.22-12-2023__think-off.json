@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:26:21",
+  "received_at": "2026-08-11T16:26:30",
+  "latency_seconds": 9.768,
+  "prompt_tokens": 10747,
+  "completion_tokens": 547,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11294,
+  "cost_usd_api": 0.026964,
+  "cost_usd_reconstructed": 0.026964,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458381-U1pkIOym47gpf5O91Ghp",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con un numero e una data proprie: il testo fornito riporta solo la parte finale ('IL MINISTRO') priva di numero/data del provvedimento corrente, mentre tutti i numeri di decreto presenti nel testo (587/2017, 360/2018, 86/2018, 607/2019, 235/2020, 350/2020, 517/2020, 44/2021, 464/2021, 410/2022, 97/2022) sono riferiti a decreti precedenti citati nel preambolo o come 'decreto di assegnazione' nelle tabelle. Il decreto corrente dispone esclusivamente proroghe dei termini per il conseguimento delle OGV (art. 1) e destina, in via generale e senza importi né CUP specifici, le risorse disponibili da eventuali definanziamenti agli stessi Enti beneficiari per interventi in corso (art. 2), senza indicare importi, capitoli, piani gestionali o CUP di destinazione puntuali. Non sono quindi presenti azioni di finanziamento con i dettagli richiesti (importo, capitolo, piano gestionale, CUP) nella parte dispositiva o negli allegati, che contengono solo tabelle di interventi con termini di scadenza OGV, non importi finanziari."
+  },
+  "records": [],
+  "raw_content": null
+}

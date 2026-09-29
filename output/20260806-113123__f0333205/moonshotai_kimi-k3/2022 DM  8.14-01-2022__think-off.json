@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:03",
+  "received_at": "2026-08-06T12:34:10",
+  "latency_seconds": 6.53,
+  "prompt_tokens": 2952,
+  "completion_tokens": 254,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3206,
+  "cost_usd_api": 0.012666,
+  "cost_usd_reconstructed": 0.012666,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012443-gUoKNR8xEdi4usPVdRHH",
+    "provider": "Together",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (emanato dal Ministro delle Infrastrutture e della Mobilità Sostenibili, successivo al 16 dicembre 2021) dispone esclusivamente la proroga al 31 dicembre 2022 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti di cui ai decreti 587/2017 e 86/2018. Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione) né riferimenti a capitoli di spesa, piani gestionali o CUP. Il numero e la data del decreto non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

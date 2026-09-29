@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:47:02",
+  "received_at": "2026-07-24T12:47:08",
+  "latency_seconds": 5.746,
+  "prompt_tokens": 6346,
+  "completion_tokens": 278,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6624,
+  "cost_usd_api": 0.015472,
+  "cost_usd_reconstructed": 0.015472,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890023-SBMGyRnUvZoOoahMKiKI",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con decreti precedenti (citati nel preambolo). Non sono presenti nuove azioni di finanziamento, definanziamento o rimodulazione di risorse economiche, né importi, capitoli di spesa, piani gestionali o CUP. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

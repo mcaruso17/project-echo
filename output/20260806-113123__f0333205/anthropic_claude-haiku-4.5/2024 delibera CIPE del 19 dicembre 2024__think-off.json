@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:19:03",
+  "received_at": "2026-08-06T15:19:12",
+  "latency_seconds": 8.969,
+  "prompt_tokens": 76125,
+  "completion_tokens": 807,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 76932,
+  "cost_usd_api": 0.08016,
+  "cost_usd_reconstructed": 0.08016,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022343-xTjp4VFal0wdYapKYRBI",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato Interministeriale per la Programmazione Economica e lo Sviluppo Sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva il progetto definitivo della Linea tramviaria 4.1 Leopolda-Piagge. Le risorse sono assegnate a carico dello Stato per un totale di 171.900.000,00 euro. Il CUP H11J12000200001 è il codice attualmente associato all'intervento (ex CUP H11I12000010002). Il costo complessivo dell'intervento è di 200.120.520,56 euro, di cui 171.900.000,00 euro a carico dello Stato e 30.246.176,56 euro a carico del Comune di Firenze. Non sono state estratte azioni di definanziamento o rimodulazione dalla parte dispositiva del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1, primo capoverso",
+      "note": "Somme destinate alla tranvia di Firenze, istituito dall'art. 18, comma 1, del decreto-legge n. 69 del 2013, rifinanziato dall'art. 3, comma 2, lettera c), del decreto-legge n. 133 del 2014"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1, secondo capoverso",
+      "note": "Spese per interventi nel settore dei sistemi di trasporto rapido di massa"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1.2.1, terzo capoverso",
+      "note": "Fondo per le reti metropolitane in costruzione in aree metropolitane, di cui all'art. 1, comma 88 della legge n. 147 del 2013"
+    }
+  ],
+  "raw_content": null
+}

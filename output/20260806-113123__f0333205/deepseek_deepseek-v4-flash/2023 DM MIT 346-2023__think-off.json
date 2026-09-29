@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:47:17",
+  "received_at": "2026-08-06T14:47:25",
+  "latency_seconds": 8.365,
+  "prompt_tokens": 4640,
+  "completion_tokens": 1083,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5723,
+  "cost_usd_api": 0.00090644,
+  "cost_usd_reconstructed": 0.00061254,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020437-KWZ4F2NyWG80m0rTesy1",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data espliciti. Il totale indicato è € 392.989.123,64, ma la somma degli importi espliciti è € 392.989.123,64 (escludendo il CUP B71J22000050006 che non ha importo separato). Il CUP B71J22000050006 è associato al Lotto 2, ma l'importo è incluso nel totale del progetto Riqualificazione Metrotranvia Milano-Limbiate. Si è scelto di creare un record separato per il Lotto 2 con importo 0 per non perdere il CUP, ma potrebbe essere considerato parte del record precedente."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Brescia, Nuova Linea Tranviaria 'Pendolina-Fiera (T2)'"
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Firenze, Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2)"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano, Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano, Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia"
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano, Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo (anche a copertura delle risorse revocate)"
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano, Riqualificazione Metrotranvia Milano-Limbiate Lotto 2 - Varedo-Limbiate (importo non specificato separatamente, incluso nel totale)"
+    }
+  ],
+  "raw_content": null
+}

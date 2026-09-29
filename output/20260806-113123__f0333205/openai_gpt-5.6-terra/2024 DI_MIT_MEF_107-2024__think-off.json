@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:49:14",
+  "received_at": "2026-08-06T14:49:18",
+  "latency_seconds": 3.121,
+  "prompt_tokens": 3040,
+  "completion_tokens": 145,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 3185,
+  "cost_usd_api": 0.0029661,
+  "cost_usd_reconstructed": 0.009775,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020555-h2gsn6DgUfxFz4VRSnef",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente la rimodulazione dei termini del cronoprogramma dell'intervento Skymetro Val Bisagno; non sono indicati capitoli di spesa, piani gestionali o importi oggetto di assegnazione, riduzione o trasferimento."
+  },
+  "records": [],
+  "raw_content": null
+}

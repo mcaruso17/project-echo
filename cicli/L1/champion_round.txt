@@ -1,0 +1,9 @@
+google/gemma-4-31b-it
+google/gemma-4-26b-a4b-it
+z-ai/glm-4.7-flash
+qwen/qwen3.6-35b-a3b
+deepseek/deepseek-v4-flash
+minimax/minimax-m3
+moonshotai/kimi-k2.6
+deepseek/deepseek-v4-pro-0813
+anthropic/claude-opus-5.5

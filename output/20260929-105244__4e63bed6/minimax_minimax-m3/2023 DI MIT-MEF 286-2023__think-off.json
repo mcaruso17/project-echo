@@ -1,0 +1,89 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:24",
+  "received_at": "2026-09-29T11:17:32",
+  "latency_seconds": 7.779,
+  "prompt_tokens": 8743,
+  "completion_tokens": 742,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 9485,
+  "cost_usd_api": 0.00348258,
+  "cost_usd_reconstructed": 0.0035133,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673445-wgNG7tw0VWzuk3GHMyQI",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Legge 197/2022, art. 1, comma 483",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto legislativo 29 dicembre 2011, n. 229",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto-legge 24 aprile 2014, n. 66, art. 25, comma 2",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto legislativo 31 marzo 2023, n. 36, art. 19",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 (cronoprogramma)"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Nel testo non sono indicati numero e data del decreto corrente, né capitolo/piano gestionale di imputazione della spesa: il decreto si limita ad assegnare i contributi al Comune di Milano, demandando l'erogazione alle risorse annualmente disponibili (art. 4, co. 4). L'Allegato 1 (cronoprogramma) è richiamato dall'art. 2 ma non è presente nel testo fornito; la sua assenza non incide sull'estrazione dei CUP, che è unico (B81I06000000003). Il preambolo contiene il CUP solo come dato identificativo (CONSIDERATO) e l'art. 1 lo riproduce; il CUP compare dunque anche nel preambolo, ma viene qui usato direttamente l'art. 1 come fonte dispositivo."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023-2027",
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": "Legge 197/2022, art. 1, comma 483",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il decreto non indica capitolo né piano gestionale; la quota annua di 15 mln (2023-2027) è meramente la ripartizione temporale dell'importo complessivo di 75 mln disposto dall'art. 1."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,89 @@
+==============================================================================
+TIMESTAMP      : 2026-08-14T15:45:39.120
+MODELLO        : anthropic/claude-fable-5   (tier flagship, reasoning optional)
+THINKING       : off
+DOCUMENTO      : 2022 DM 410.23-12-2022
+TENTATIVO      : 3/4
+ENDPOINT       : https://openrouter.ai/api/v1/chat/completions
+LATENZA (s)    : 8.363
+==============================================================================
+
+----- REQUEST BODY (credenziali NON incluse) -----
+{
+  "model": "anthropic/claude-fable-5",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Sei un analista esperto del bilancio dello Stato italiano e dei decreti ministeriali\n(decreti ministeriali / interministeriali). Il tuo compito è estrarre, dal testo del\ndecreto fornito, ogni azione di finanziamento che collega linee di bilancio a progetti.\n\nConcetti chiave:\n- \"capitolo di spesa\" (capitolo): il capitolo di bilancio su cui lo Stato stanzia risorse.\n- \"piano gestionale\" (piano_gestionale): una sotto-articolazione del capitolo.\n- \"CUP\" (Codice Unico di Progetto): codice alfanumerico di 15 caratteri che identifica un\n  progetto specifico (es. \"J51B21000000001\"). Compare SOLO quando un decreto assegna\n  risorse a un progetto identificato. Molti decreti NON hanno alcun CUP: è normale.\n- Un'azione di finanziamento muove denaro: un'\"assegnazione/finanziamento\" (positiva), un\n  \"definanziamento/riduzione\" (negativa), o una \"rimodulazione\" (fondi spostati, es. da un\n  piano gestionale verso un CUP; può avere una gamba positiva e una negativa).\n\nIDENTIFICAZIONE DEL DECRETO CORRENTE\n\nIl documento può citare numerosi decreti precedenti nel preambolo\n(\"VISTO\", \"RICHIAMATO\", \"CONSIDERATO\", ecc.).\n\nIl decreto corrente è esclusivamente quello rappresentato dal documento\nche stai analizzando, cioè quello che contiene la parte dispositiva\n(\"DECRETA\", \"ART.\", ecc.).\n\nI campi:\n\n- numero_decreto\n- data_decreto\n- ministero_1\n- ministero_2\n\ndevono riferirsi SEMPRE al decreto corrente e MAI ai decreti citati nel\npreambolo o nelle tabelle.\n\nREGOLE DI ESTRAZIONE:\n1. Estrai SOLO ciò che è esplicitamente scritto nel testo. NON dedurre, completare o\n   inventare codici o importi. Se un campo non è presente, usa null.\n2. Se il decreto non contiene alcuna azione di finanziamento con il dettaglio richiesto,\n   restituisci un array \"record\" vuoto. Non restituire nulla è meglio che tirare a indovinare.\n3. Importi: il formato italiano usa \".\" per le migliaia e \",\" per i decimali\n   (\"1.500.000,00\" = un milione e cinquecentomila). Restituisci \"importo_eur\" come numero\n   semplice (punto decimale, senza separatori) e conserva la stringa originale in\n   \"importo_originale\". Usa un numero NEGATIVO per definanziamenti/riduzioni e per la gamba\n   negativa di una rimodulazione; positivo per le assegnazioni e per la gamba positiva.\n4. Un record per ogni azione di finanziamento. Se una rimodulazione toglie fondi da un\n   piano gestionale e li assegna a un CUP, e sono indicate sia la riduzione all'origine sia\n   l'aumento a destinazione, crea record separati per ciascuna gamba.\n5. Compila \"riferimento_fonte\" con il punto del decreto in cui hai trovato il dato (es.\n   \"art. 2\", \"Allegato 1, riga 5\"), così un umano può verificare in fretta.\n6. Riporta i campi a livello di decreto (numero, data, ministeri) una sola volta al livello\n   superiore, non dentro ogni record.\n7. Il preambolo (\"VISTO\", \"CONSIDERATO\", \"RITENUTO\", ecc.) ha funzione esclusivamente descrittiva\ne serve come contesto storico. NON estrarre azioni di finanziamento dal preambolo, \nsalvo che il decreto rinvii esplicitamente ad un allegato contenente le nuove assegnazioni.\n8. Le azioni di finanziamento devono essere estratte dalla parte\ndispositiva del decreto (\"DECRETA\", \"ART.\", ecc.) e dagli allegati\nrichiamati dagli articoli.\n9. Se una tabella contiene colonne come \"Decreto di assegnazione\",\n\"Decreto originario\", \"Decreto di finanziamento\" o analoghe, tali valori\nidentificano il provvedimento con cui il progetto era stato finanziato in\nprecedenza e NON il decreto corrente.\n10. Se il decreto corrente assegna contributi aggiuntivi a interventi già\nfinanziati da precedenti decreti, estrai esclusivamente il nuovo importo\nassegnato dal decreto corrente. I decreti precedenti possono essere\ncitati eventualmente nel campo \"note\", ma NON devono essere utilizzati\ncome valore di \"numero_decreto\".\n11. Prima di produrre il JSON esegui mentalmente questa procedura:\n\na) identifica il decreto corrente;\nb) individua dove inizia la parte dispositiva (\"DECRETA\");\nc) individua le nuove azioni di finanziamento;\nd) verifica che \"numero_decreto\" appartenga al decreto corrente e non a\nun decreto citato.\n\nRestituisci UN SOLO oggetto JSON, e nient'altro (niente prosa, niente fence markdown), con\nquesta forma esatta:\n\n{\n  \"decreto_corrente_identificato\": true\n  \"numero_decreto\": string | null,       // es. \"125\" o \"125/2024\" come stampato\n  \"data_decreto\": string | null,         // ISO \"AAAA-MM-GG\"\n  \"ministero_1\": string | null,          // ministero primo / capofila\n  \"ministero_2\": string | null,          // secondo ministero se interministeriale, altrimenti null\n  \"record\": [\n    {\n      \"cup\": string | null,               // codice di 15 caratteri, maiuscolo, senza spazi\n      \"capitolo\": string | null,          // capitolo, come stampato (es. \"7003\")\n      \"piano_gestionale\": string | null,  // piano gestionale, come stampato (es. \"1\")\n      \"importo_eur\": number | null,       // con segno, punto decimale\n      \"importo_originale\": string | null, // stringa originale, es. \"€ 1.500.000,00\"\n      \"tipo_azione\": \"assegnazione\" | \"definanziamento\" | \"rimodulazione\" | \"altro\",\n      \"riferimento_fonte\": string | null,\n      \"note\": string | null\n    },\n    {\n      \"cup\": string | null,               // codice di 15 caratteri, maiuscolo, senza spazi\n      \"capitolo\": string | null,          // capitolo, come stampato (es. \"7003\")\n       ...\n    }\n\n  ],\n  \"note_estrazione\": string | null       // ambiguità, se il testo sembrava incompleto\n}"
+    },
+    {
+      "role": "user",
+      "content": "Analizza il seguente decreto ministeriale.\n\nIdentifica innanzitutto il decreto corrente rappresentato dal documento.\nIgnora come possibili risultati i decreti citati nel preambolo o nelle tabelle (ad esempio colonne 'Decreto di assegnazione', 'Decreto originario', 'Decreto di finanziamento'), salvo che il decreto corrente disponga esplicitamente una modifica o una revoca di tali decreti.\n\nEstrai esclusivamente le azioni di finanziamento disposte dal decreto corrente.\nRestituisci solo il JSON descritto nel system prompt.\n\n=== INIZIO TESTO DECRETO ===\nIl Ministro delle Infrastrutture e dei Trasporti\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587, con cui\nè stata effettuata, a favore degli interventi di cui all’Allegato 1 del decreto medesimo, la ripartizione\ndelle risorse di cui all’articolo 1, comma 140, della legge 11 dicembre 2016, n. 232, destinate al\nsettore dei sistemi di trasporto rapido di massa;\nVISTO l’articolo 1, comma 142, della legge 11 dicembre 2016, n. 232 relativo alle modalità di\nmonitoraggio attraverso il sistema previsto dal decreto legislativo 29 dicembre 2011, n.229.\nVISTO l’articolo 11 della legge 16 gennaio 2003, n. 3.\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360, emanato a\nseguito dell’intesa in Conferenza Unificata acquisita nella seduta del 1 agosto 2018, con cui è stata\nconfermata la ripartizione delle risorse di cui sopra tra gli interventi elencati nell’Allegato 1 del\npredetto decreto;\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86, in cui\nvengono individuati gli interventi da finanziare con le risorse di cui all’articolo 1, comma 88, della\nlegge 27 dicembre 2013, n. 147, disponendo il riparto delle risorse tra i Comuni di Milano, Torino,\nGenova, Firenze, Roma, Napoli e Catania;\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti 14 gennaio 2022, n.8 con cui, tra\nl’altro, è stato posticipato dal 31 dicembre 2021 al 31 dicembre 2022 il termine per conseguire le\nobbligazioni giuridicamente vincolanti di cui all’articolo 4 del decreto ministeriale 22 dicembre\n2017, n. 587 e dell’articolo 4 del decreto ministeriale 2 marzo 2018, n. 86;\nVISTO il decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607 con cui è\nstato definito il piano di riparto degli interventi presentati ai sensi dell’ “Avviso per l’accesso alle\nrisorse del trasporto rapido di massa”, elencati nell’Allegato 1 del predetto decreto;\nVISTI i successivi decreti del Ministro delle infrastrutture e dei trasporti nn. 235, 350, 517 del\n2020, con cui sono stati finanziati ulteriori interventi connessi alla procedura di cui sopra;\nTENUTO CONTO che i succitati decreti n. 607/2019 e nn. 235, 350, 517 del 2020, fissavano al 31\ndicembre 2022 il termine per conseguire le obbligazioni giuridicamente vincolanti di cui agli\ninterventi finanziati;\nTENUTO CONTO che nel 2022 questo Ministero ha esteso l’attività di monitoraggio già avviata\ndegli interventi finanziati con i decreti n. 587/2017 e n. 86/2018, con l’inclusione degli interventi\nfinanziati con i succitati decreti n. 607/2019 e nn. 235, 350, 517 del 2020;\nCONSIDERATO che complessivamente, nel 2022, gli interventi finanziati con i succitati decreti\nhanno presentato un buon avanzamento delle attività, ma tuttavia risentono, per ragioni anche\n1\nesogene connesse sia al termine dell’emergenza sanitaria, sia all’incremento dei prezzi dovuto alla\nsituazione internazionale, di ritardi rispetto ai cronoprogrammi originari;\nCONSIDERATO che, con riferimento ai decreti n. 587/2017 e n. 86/2018, risulta che n.11 su n.29\ninterventi finanziati presentano, da ricognizione effettuata, tempistiche per il conseguimento delle\nobbligazioni giuridicamente vincolanti non compatibili con il termine del 31 dicembre 2022, già\nprorogato;\nCONSIDERATO che, con riferimento ai decreti n. 607/2019 e nn.235, 350, 517 del 2020, risulta\nche n.13 su n.17 interventi finanziati presentano, da ricognizione effettuata, tempistiche per il\nconseguimento delle obbligazioni giuridicamente vincolanti non compatibili con il termine del 31\ndicembre 2022;\nVALUTATO che in ragione dei suddetti ritardi, molti Enti Beneficiari interessati hanno avanzato\nrichieste di proroga del termine previsto per il conseguimento delle obbligazioni vincolanti;\nVISTE le richieste formulate dagli Enti Beneficiari, dalle quali si rileva, in generale, la necessità di\ndefinire un nuovo termine, comunque non superiore a dodici mesi rispetto all’attuale;\nRITENUTE condivisibili le motivazioni espresse nelle suddette richieste di proroga in relazione\nalle specifiche situazioni, nonché, in generale, in ragione dell’emergenza sanitaria COVID-19 e\ndell’incremento dei prezzi dovuto alla situazione internazionale;\nVISTA l’intesa con la Conferenza Unificata acquisita nella seduta del 21 dicembre 2022;\nDECRETA\nART. 1\n1. Il termine per il conseguimento dell’obbligazione giuridicamente vincolante di cui all’articolo 4\ndel decreto ministeriale 22 dicembre 2017, n. 587 e dell’articolo 4 del decreto ministeriale 2\nmarzo 2018, n. 86, già modificato con decreto del Ministro delle infrastrutture e della mobilità\nsostenibili del 14 gennaio 2022, n. 8, è fissato al 31 dicembre 2023;\n2. Il termine per il conseguimento dell’obbligazione giuridicamente vincolante di cui all’articolo 1\ncomma 4 del decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019 n. 607, e\ndell’articolo 1 commi 4,5 dei decreti nn. 235, 350, 517 del 2020, è fissato al 31 dicembre 2023;\n3. La verifica del conseguimento delle obbligazioni giuridicamente vincolanti ed il monitoraggio\nfinanziario, fisico e procedurale degli interventi avviene attraverso il sistema previsto dal\ndecreto legislativo 29 dicembre 2011, n.229. A tal fine il Ministero delle Infrastrutture e dei\nTrasporti comunica al Ministero dell’Economia e delle Finanze – Dipartimento della\nRagioneria Generale dello Stato l’elenco degli interventi identificati dal CUP, ai sensi\ndell’articolo 11 della legge 16 gennaio 2003 n. 3.\nIL MINISTRO\n2\n=== FINE TESTO DECRETO ==="
+    }
+  ],
+  "temperature": 0.0,
+  "usage": {
+    "include": true
+  },
+  "max_tokens": 32000
+}
+
+----- RESPONSE STATUS -----
+200 OK
+
+----- RESPONSE HEADERS -----
+Date: Fri, 14 Aug 2026 13:45:33 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+X-Generation-Id: gen-1786715131-hQ4QLXTr9EkJw0BP7qd4
+access-control-expose-headers: X-Generation-Id,X-Provider-Name,request-id,cf-ray
+set-cookie: __cf_bm=0LlV21z1GtyB8LMHDtb.2SURy7kRsU4CtYgHc0mvDSE-1786715131.0446775-1.0.1.1-MuJ195hNLv2zQalH32jnZMI94mhwbkm751jphwF67Du_FOdq4faK7eum7jKziBv8AO8O0FUN5lMOceuTA3AYpnB.n.5DksZFdFDu2TOrmHeiDeAId7RovzB1idlusT1j; HttpOnly; SameSite=None; Secure; Path=/; Domain=openrouter.ai; Expires=Fri, 14 Aug 2026 14:15:33 GMT
+Permissions-Policy: payment=(self "https://checkout.stripe.com" "https://connect-js.stripe.com" "https://js.stripe.com" "https://*.js.stripe.com" "https://hooks.stripe.com")
+Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: cloudflare
+CF-RAY: a2b066810ac9ea38-FCO
+
+----- RESPONSE BODY (integrale, non elaborato) -----
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+
+         
+{"id":"gen-1786715131-hQ4QLXTr9EkJw0BP7qd4","object":"chat.completion","created":1786715131,"model":"anthropic/claude-fable-5","provider":"Amazon Bedrock","system_fingerprint":null,"service_tier":"default","choices":[{"index":0,"logprobs":null,"finish_reason":"stop","native_finish_reason":"end_turn","message":{"role":"assistant","content":"{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente dispone esclusivamente la proroga al 31 dicembre 2023 del termine per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con precedenti decreti (n. 587/2017, n. 86/2018, n. 607/2019, nn. 235, 350, 517 del 2020). Non contiene alcuna nuova azione di finanziamento, definanziamento o rimodulazione, né indica capitoli, piani gestionali, CUP o importi. Il numero e la data del decreto corrente non sono riportati nel testo fornito.\"\n}","refusal":null,"reasoning":"The decree only extends deadlines without providing any financing, and the document doesn't include a decree number or date—just a reference to an agreement from December 21, 2022—so I'm marking this as null.","reasoning_details":[{"type":"reasoning.text","text":"The decree only extends deadlines without providing any financing, and the document doesn't include a decree number or date—just a reference to an agreement from December 21, 2022—so I'm marking this as null.","format":"anthropic-claude-v1","index":0,"signature":"CAIS0gMKiAEIEBgCKkBZm3tXyNeqCPwrOS33rtZRI4UjyHm+J212pueD5JMoP5j8BqcIc/W/+vOocdZDC+HZJNPGxk4bJh9TryIkfcGMMg5jbGF1ZGUtZmFibGUtNTgBQgh0aGlua2luZ1okNGMwZjA0NmYtMjVmZC00NWZiLWJmYjMtYTA4YThlMjQ5Y2E3Egzdn83fIqTOlRLbN3saDEOs3oHA64+eqF3baCIwSwMw17f1NFJke6SR1pCY3clRk4Fzvk553HPvShyUbSV7SjPciYeYY/XOc9ggVmvqKvYBHEiRGoZadLVWC2biOzSnmChMPmpolgVrtrdBytaS4kw0E95MS/PJLHONMH1qBmWo2M6GFo/AFGL2ZqknN+CGeug5Z4XtX3cCRuWSCp+8GGDKg1Cfja5WtJit3sK0NZgxtTUyx0uRy22YJN9FtqOYWuOR2FDclUVPLnfAxvKiJw3BlWC3dOJrw2dQsdBSmoEXIj3fYwRnL2jzRQ8Ih5RmNLeGCdTnbxG6gLJ3GHHbMgyUQ9xD9OmPOAb9YrGmsI5jgQ1BZUrQvJUOCoecDrycgBtAY+IEjrGJXDto+tqk+c1G3WQljoXstMU+O8xynwQmZDPmQm8WGAE="}]}}],"usage":{"prompt_tokens":5070,"completion_tokens":389,"total_tokens":5459,"cost":0.07015,"is_byok":false,"prompt_tokens_details":{"cached_tokens":0,"cache_write_tokens":0,"audio_tokens":0,"video_tokens":0},"cost_details":{"upstream_inference_cost":0.07015,"upstream_inference_prompt_cost":0.0507,"upstream_inference_completions_cost":0.01945},"completion_tokens_details":{"reasoning_tokens":76,"image_tokens":0,"audio_tokens":0}}}

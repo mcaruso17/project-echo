@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:16:11",
+  "received_at": "2026-08-06T15:17:06",
+  "latency_seconds": 55.098,
+  "prompt_tokens": 14641,
+  "completion_tokens": 611,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15252,
+  "cost_usd_api": 0.002204957,
+  "cost_usd_reconstructed": 0.00142767,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022171-RZ4b59sBbZl7jBTWDxI2",
+    "provider": "Morph",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data nel testo fornito. Le tabelle degli allegati contengono importi di finanziamento PNRR per ciascun intervento, ma non sono state estratte come singole azioni perché rappresentano la ripartizione complessiva della misura, non nuove assegnazioni specifiche disposte dal decreto. Le azioni di finanziamento esplicite sono quelle dell'art. 2 e dell'art. 4."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Trieste per l'intervento 'Cabinovia metropolitana Trieste-Porto Vecchio-Carso' a valere sulle risorse di cui all'art. 1, comma 14, legge 160/2019."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Milano per il completamento dell'intervento 'Tramvia 7 Bausan – Villapizzone' a valere sulle risorse di cui all'art. 1, comma 14, legge 160/2019."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 1143995.0,
+      "importo_originale": "1.143.995,00 €",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 4, comma 1",
+      "note": "Risorse non allocate a seguito della rimodulazione di cui all'art. 1, a valere sull'Allegato 1 - Nuovi interventi."
+    }
+  ],
+  "raw_content": null
+}

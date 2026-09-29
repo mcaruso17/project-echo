@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:50:32",
+  "received_at": "2026-08-06T14:50:33",
+  "latency_seconds": 1.512,
+  "prompt_tokens": 3174,
+  "completion_tokens": 165,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3339,
+  "cost_usd_api": 0.001041,
+  "cost_usd_reconstructed": 0.001041,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020632-58Waiinv94voM7RLMPB4",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente una rimodulazione dei termini temporali (cronoprogramma) per l'intervento identificato dal CUP B39J22001360001, senza variare gli importi finanziari stanziati. Non sono presenti azioni di finanziamento (assegnazioni o definanziamenti) nel testo."
+  },
+  "records": [],
+  "raw_content": null
+}

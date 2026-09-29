@@ -1,0 +1,62 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:58:54",
+  "received_at": "2026-08-06T14:59:13",
+  "latency_seconds": 19.631,
+  "prompt_tokens": 13956,
+  "completion_tokens": 439,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 14395,
+  "cost_usd_api": 0.0183751,
+  "cost_usd_reconstructed": 0.041475,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786021134-naGPeEisAU9RZSUxrAzP",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Numero e data del decreto corrente non sono riportati nel testo fornito. Gli allegati sostituiscono quelli del D.M. n. 345/2023 e riportano finanziamenti PNRR rimodulati, ma non consentono di distinguere in modo esplicito, per ciascun CUP, la sola variazione finanziaria disposta dal decreto corrente; sono pertanto estratte esclusivamente le nuove assegnazioni espresse all'art. 2."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al Comune di Trieste per l'intervento “Cabinovia metropolitana Trieste-Porto Vecchio-Carso”; CUP non indicato nell'articolo."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al Comune di Milano per il completamento dell'intervento “Tramvia 7 Bausan – Villapizzone”; CUP non indicato nell'articolo."
+    }
+  ],
+  "raw_content": null
+}

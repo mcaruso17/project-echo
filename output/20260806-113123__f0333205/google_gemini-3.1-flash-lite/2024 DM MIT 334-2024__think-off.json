@@ -1,0 +1,62 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:04:19",
+  "received_at": "2026-08-06T15:04:21",
+  "latency_seconds": 2.088,
+  "prompt_tokens": 15120,
+  "completion_tokens": 366,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15486,
+  "cost_usd_api": 0.004329,
+  "cost_usd_reconstructed": 0.004329,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786021460-3xe8Zl28zQ90SjD6V2NF",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero di protocollo o numero di decreto esplicito nel testo fornito. Le assegnazioni sono disposte dall'art. 2 a valere sulle risorse della legge 160/2019."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 48768102.54,
+      "importo_originale": "48.768.102,54 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Trieste per l'intervento Cabinovia metropolitana Trieste-Porto Vecchio-Carso"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 21675659.62,
+      "importo_originale": "21.675.659,62 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1",
+      "note": "Assegnazione al comune di Milano per il completamento dell'intervento Tramvia 7 Bausan – Villapizzone"
+    }
+  ],
+  "raw_content": null
+}

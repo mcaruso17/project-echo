@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:21:36",
+  "received_at": "2026-08-11T16:21:43",
+  "latency_seconds": 7.357,
+  "prompt_tokens": 8576,
+  "completion_tokens": 979,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9555,
+  "cost_usd_api": 0.013471,
+  "cost_usd_reconstructed": 0.013471,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458097-7GqhFxMYwIaagMpU2sDZ",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non riporta numero e data nella parte dispositiva. I CUP non sono esplicitamente indicati nel testo del decreto corrente, sebbene il preambolo menzioni che gli interventi dell'Allegato 2 del decreto 23 settembre 2021, n. 363 'dispongono del codice unico di progetto'. L'Allegato 1 richiamato dall'art. 1 non è fornito nel testo. Le assegnazioni sono estratte dalla tabella dell'art. 2, comma 1, che riporta la ripartizione delle risorse tra i beneficiari per i tre anni 2023, 2024, 2025. L'importo complessivo di 46,20 milioni di euro è confermato dall'art. 1, comma 1."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella; Art. 1, comma 1",
+      "note": "Assegnazione a Regione Liguria per acquisto materiale rotabile ferroviario regionale, anni 2023-2025 (5,00 + 5,00 + 4,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella; Art. 1, comma 1",
+      "note": "Assegnazione a Regione Toscana per acquisto materiale rotabile ferroviario regionale, anni 2023-2025 (5,00 + 4,00 + 4,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella; Art. 1, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Trento per acquisto materiale rotabile ferroviario regionale, anni 2023-2025 (4,00 + 3,00 + 3,00 milioni di euro)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella; Art. 1, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Bolzano per acquisto materiale rotabile ferroviario regionale, anni 2023-2025 (3,20 + 3,00 + 3,00 milioni di euro)"
+    }
+  ],
+  "raw_content": null
+}

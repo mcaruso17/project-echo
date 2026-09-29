@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:21",
+  "received_at": "2026-08-06T14:52:27",
+  "latency_seconds": 5.915,
+  "prompt_tokens": 5260,
+  "completion_tokens": 298,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5558,
+  "cost_usd_api": 0.03375,
+  "cost_usd_reconstructed": 0.03375,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020741-cT1eyr0p6sosABeV19O1",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe di termini per l'affidamento e l'ultimazione dei lavori (art. 1) e l'abrogazione di un obiettivo intermedio; non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di risorse su capitoli/piani gestionali/CUP). Gli importi citati nel preambolo appartengono a norme e decreti precedenti. Il documento non riporta numero né data del decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

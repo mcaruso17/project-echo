@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:52:35",
+  "received_at": "2026-08-06T12:52:44",
+  "latency_seconds": 8.907,
+  "prompt_tokens": 4734,
+  "completion_tokens": 3,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4737,
+  "cost_usd_api": 0.007821003,
+  "cost_usd_reconstructed": 0.0020619,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013555-LNTZbJq5sFizutj7QWTZ",
+    "provider": "Venice",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": null
+}

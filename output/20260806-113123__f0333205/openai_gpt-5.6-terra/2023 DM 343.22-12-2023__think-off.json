@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:56:23",
+  "received_at": "2026-08-06T12:56:26",
+  "latency_seconds": 2.375,
+  "prompt_tokens": 6891,
+  "completion_tokens": 143,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 7034,
+  "cost_usd_api": 0.00776785,
+  "cost_usd_reconstructed": 0.0193725,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013784-v7ZKKHIsjmQsczL4twX1",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti e stabilisce una destinazione generale per risorse eventualmente disponibili a seguito di definanziamento, senza indicare importi, capitoli o piani gestionali per singole azioni di finanziamento."
+  },
+  "records": [],
+  "raw_content": null
+}

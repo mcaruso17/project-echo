@@ -1,0 +1,83 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T17:40:30",
+  "received_at": "2026-09-21T17:40:40",
+  "latency_seconds": 10.293,
+  "prompt_tokens": 6383,
+  "completion_tokens": 738,
+  "reasoning_tokens": 0,
+  "cached_tokens": 4096,
+  "total_tokens": 7121,
+  "cost_usd_api": 0.0048972352,
+  "cost_usd_reconstructed": 0.003418665,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790005230-vu9MCgVHZtJ2qh0LFYDJ",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti del 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente non dispone alcuna azione di finanziamento in termini di importi: si limita a rimodulare i termini cronoprogrammatici dell'intervento Skymetro Val Bisagno (CUP B39J22001360001) come riportato nell'Allegato 1. Non sono presenti capitoli di spesa, piani gestionali o importi. Il numero e la data del decreto corrente non sono indicati nel testo."
+  },
+  "records": [
+    {
+      "cup": [
+        "B39J22001360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": null,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI GENOVA | SKY METRO VAL BISAGNO | COMUNE DI GENOVA | B39J22001360001 | 30.06.2025 | 31.03.2027 | 31.12.2029",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto dispone esclusivamente la rimodulazione dei termini cronoprogrammatici (affidamento, avanzamento del 50%, ultimazione) per l'intervento Skymetro Val Bisagno. Non sono presenti importi di finanziamento."
+    }
+  ],
+  "raw_content": null
+}

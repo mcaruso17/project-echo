@@ -1,0 +1,61 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:13:51",
+  "received_at": "2026-09-29T11:14:01",
+  "latency_seconds": 9.227,
+  "prompt_tokens": 6875,
+  "completion_tokens": 408,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 7283,
+  "cost_usd_api": 0.0011257,
+  "cost_usd_reconstructed": 0.00075747,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673232-TGXAO0aMCgZfTqpFjiYI",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente dispone esclusivamente la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (termine fissato al 31 dicembre 2022). Non sono presenti nuove assegnazioni, impegni, rimodulazioni di importi o codici CUP nella parte dispositiva."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e della Mobilità Sostenibili\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 30 aprile 2020, n. 184\",\n      \"relazione\": \"integra\"\n    },\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente dispone esclusivamente la proroga del termine per il conseguimento delle obbligazioni giuridicamente vincolanti (termine fissato al 31 dicembre 2022). Non sono presenti nuove assegnazioni, impegni, rimodulazioni di importi o codici CUP nella parte dispositiva.\"\n}"
+}

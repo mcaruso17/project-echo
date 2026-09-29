@@ -1,0 +1,108 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:38:32",
+  "received_at": "2026-09-28T12:38:40",
+  "latency_seconds": 8.175,
+  "prompt_tokens": 12410,
+  "completion_tokens": 1292,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 13702,
+  "cost_usd_api": 0.0031535,
+  "cost_usd_reconstructed": 0.0031535,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591912-VUi2Z6IWQWNaO6fvniPQ",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto Intermiinisteriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interminisiteriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva una convenzione che riassume finanziamenti già assegnati/impegnati da atti precedenti (DM 498/2014, DM 97/2022, Legge 197/2022). Tuttavia, gli artt. 3 e 4 dispongono esplicitamente nuovi impegni di spesa (contabilizzazione) su capitoli specifici (7419 pg 2 e 7416 pg 1) per importi non ancora interamente impegnati o per coprire annualità specifiche. Gli importi riferiti ai DM 498/2014 e 97/2022 (€ 145M e € 1.600M) sono dichiarati come 'già impegnate' con atti precedenti e non generano nuovi record di finanziamento in questo atto, in quanto l'atto corrente si limita ad autorizzare nuovi impegni per la quota residua/nuova della Legge 197/2022."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2025-2032",
+      "importo_eur": 2075000000.0,
+      "importo_originale": "€ 2.075.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3",
+      "passaggio_testuale": "È autorizzato l’impegno ... per la somma complessiva di € 2.125.000.000,00, di cui ... 2.075.000.000,00 per gli esercizi finanziari dal 2025 al 2032",
+      "atto_riferito": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo impegnato per gli esercizi 2025-2032. Include anche € 50.000.000,00 in conto residui 2024."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l’impegno ... sul capitolo 7416 piano gestionale 1 ... per la somma complessiva di € 75.000.000,00, di cui 50.000.000,00 per l’esercizio finanziario 2027 e € 25.000.000,00 per l’esercizio finanziario 2028.",
+      "atto_riferito": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

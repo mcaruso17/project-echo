@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:43:42",
+  "received_at": "2026-08-06T11:43:50",
+  "latency_seconds": 8.393,
+  "prompt_tokens": 7207,
+  "completion_tokens": 650,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7857,
+  "cost_usd_api": 0.020914,
+  "cost_usd_reconstructed": 0.020914,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009422-fyYsy3oPP8sDQj9bj6KA",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un proprio numero né data espliciti nel testo fornito; il documento richiama il DM n. 498/2014 e il DM n. 97/2022 come atti presupposti, non come decreto corrente. I due articoli dispositivi (art. 1 e art. 2) costituiscono le uniche azioni di finanziamento individuate."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021, a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Importo complessivo articolato: 2022 € 35.000.000,00; 2023 € 40.000.000,00; 2024 € 33.500.000,00; 2025 € 22.500.000,00, a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C"
+    }
+  ],
+  "raw_content": null
+}

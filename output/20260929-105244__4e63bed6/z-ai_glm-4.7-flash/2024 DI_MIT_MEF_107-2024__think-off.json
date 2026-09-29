@@ -1,0 +1,58 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:07:36",
+  "received_at": "2026-09-29T12:07:50",
+  "latency_seconds": 13.783,
+  "prompt_tokens": 7266,
+  "completion_tokens": 403,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 7669,
+  "cost_usd_api": 0.00047556,
+  "cost_usd_reconstructed": 0.000604426,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676462-F0139UqmRpSdrkwArLzN",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto interministeriale 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 30 dicembre 2023, n. 362",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 (al decreto n. 97/2022)",
+      "Allegato 1 (al presente decreto)"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1 (al presente decreto)"
+    ],
+    "note_estrazione": "L'atto rimodula esclusivamente i termini (cronoprogramma: affidamento 30.06.2025, avanzamento del 50% 31.03.2027, ultimazione 31.12.2029) dell'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) rispetto all'allegato 1 del decreto n. 97/2022. Nessun importo, capitolo o piano gestionale è disposto dall'atto: non risultano azioni di finanziamento (nessun record). L'allegato 1 del decreto n. 97/2022 non è presente nel testo. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": \"Ministero dell'Economia e delle Finanze\", \"natura_atto\": \"rimodulazione\", \"atti_collegati\": [{\"estremi\": \"decreto interministeriale 20 aprile 2022, n. 97\", \"relazione\": \"rimodula\"}, {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 30 dicembre 2023, n. 362\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [\"Allegato 1 (al decreto n. 97/2022)\", \"Allegato 1 (al presente decreto)\"], \"allegati_presenti_nel_testo\": [\"Allegato 1 (al presente decreto)\"], \"record\": [], \"note_estrazione\": \"L'atto rimodula esclusivamente i termini (cronoprogramma: affidamento 30.06.2025, avanzamento del 50% 31.03.2027, ultimazione 31.12.2029) dell'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) rispetto all'allegato 1 del decreto n. 97/2022. Nessun importo, capitolo o piano gestionale è disposto dall'atto: non risultano azioni di finanziamento (nessun record). L'allegato 1 del decreto n. 97/2022 non è presente nel testo. Il numero e la data del decreto corrente non sono riportati nel testo fornito.\"}"
+}

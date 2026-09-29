@@ -1,0 +1,112 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T10:55:07",
+  "received_at": "2026-09-29T10:57:01",
+  "latency_seconds": 113.516,
+  "prompt_tokens": 9463,
+  "completion_tokens": 1009,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10472,
+  "cost_usd_api": 0.00163379,
+  "cost_usd_reconstructed": 0.0011543699999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790672109-4NBACrO9fUqQKqH6QQdi",
+    "provider": "Parasail",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT e MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT e MIMS n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Tabella allegata al DM n. 498/2014"
+    ],
+    "allegati_presenti_nel_testo": [
+      "[TABELLA pag.3 n.1]"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato, sul capitolo 7426, piano di gestione 1 [...] l’impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno in conto residui (lettera F) relativo all'esercizio 2021"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1]",
+      "passaggio_testuale": "è autorizzato l’impegno, sul capitolo 7426, piano di gestione 1 [...] per l’importo complessivo di € 131.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo è ripartito nelle annualità 2022, 2023, 2024 e 2025 come indicato in tabella."
+    }
+  ],
+  "raw_content": null
+}

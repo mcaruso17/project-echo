@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:49:37",
+  "received_at": "2026-08-06T11:49:48",
+  "latency_seconds": 11.595,
+  "prompt_tokens": 8460,
+  "completion_tokens": 987,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9447,
+  "cost_usd_api": 0.02679,
+  "cost_usd_reconstructed": 0.02679,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009777-A6CYmow6vr4hcRV0sWbF",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Gli articoli 1 e 2 dispongono impegni complessivi a favore di più beneficiari (Comuni di Padova, Torino, Brescia e Città metropolitana di Roma) senza disaggregare l'importo per singolo beneficiario nel testo dispositivo; il dettaglio per CUP e beneficiario è riportato solo nella tabella allegata, che riporta la ripartizione annuale complessiva già cumulata nei due articoli. Non è stato possibile attribuire con certezza le quote di CUP ai singoli articoli 1 e 2 poiché la tabella fonde entrambi gli impegni (conto residui e conto competenza) in un'unica serie temporale per beneficiario/CUP; si è pertanto preferito riportare gli importi complessivi di articolo senza disaggregazione per CUP, per evitare di dedurre valori non esplicitamente enunciati nel testo dispositivo."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno in conto residui (1.000.000,00 esercizio 2020 + 2.000.000,00 esercizio 2021) a favore dei Comuni di Padova, Torino, Brescia e Città metropolitana di Roma, come da allegato"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Impegno in conto competenza per gli esercizi finanziari 2022-2034 a favore dei Comuni di Padova, Torino, Brescia e Città metropolitana di Roma, come da allegato"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "€ 26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3",
+      "note": "Impegno in conto competenza per gli esercizi finanziari 2029-2034 a favore del Comune di Brescia, come da allegato"
+    }
+  ],
+  "raw_content": null
+}

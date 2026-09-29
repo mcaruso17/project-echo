@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:52:57",
+  "received_at": "2026-08-06T12:53:04",
+  "latency_seconds": 7.769,
+  "prompt_tokens": 7220,
+  "completion_tokens": 322,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7542,
+  "cost_usd_api": 0.01766,
+  "cost_usd_reconstructed": 0.01766,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013577-NyTpfT1xuRsgwHsgWU1z",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente non dispone alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di risorse). Si limita a rimodulare termini temporali (affidamento, avanzamento, ultimazione, conseguimento OGV) per interventi già finanziati con il decreto 20 aprile 2022, n. 97, citato nel preambolo. Gli allegati 1 e 2 riportano esclusivamente CUP, beneficiari e nuove scadenze temporali, senza alcun importo monetario o movimento di capitoli/piani gestionali di bilancio."
+  },
+  "records": [],
+  "raw_content": null
+}

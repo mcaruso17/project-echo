@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:11",
+  "received_at": "2026-08-06T14:52:14",
+  "latency_seconds": 3.75,
+  "prompt_tokens": 3924,
+  "completion_tokens": 273,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4197,
+  "cost_usd_api": 0.005289,
+  "cost_usd_reconstructed": 0.005289,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020731-Le0fbI58U57QLVcjZ4zt",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di risorse). Il documento dispone esclusivamente proroghe di termini per l'affidamento dei lavori (art. 1, comma 1) e la rideterminazione dei termini di ultimazione (art. 1, comma 2), nonché l'abrogazione dell'obiettivo intermedio del 50% di avanzamento (art. 1, comma 3). Non sono presenti capitoli di bilancio, piani gestionali, CUP, importi o movimenti di denaro. Il decreto è di natura procedurale e non comporta variazioni di bilancio."
+  },
+  "records": [],
+  "raw_content": null
+}

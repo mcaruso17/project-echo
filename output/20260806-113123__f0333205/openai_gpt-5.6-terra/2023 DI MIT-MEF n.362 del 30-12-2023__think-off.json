@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:53:28",
+  "received_at": "2026-08-06T12:53:32",
+  "latency_seconds": 3.212,
+  "prompt_tokens": 4630,
+  "completion_tokens": 141,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 4771,
+  "cost_usd_api": 0.0049296,
+  "cost_usd_reconstructed": 0.01369,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013608-p4WlWaQDBJieUEcLFHoC",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente rimodula esclusivamente termini e cronoprogrammi negli allegati 1 e 2; non dispone nuove assegnazioni, definanziamenti, riduzioni o rimodulazioni di importi, capitoli o piani gestionali."
+  },
+  "records": [],
+  "raw_content": null
+}

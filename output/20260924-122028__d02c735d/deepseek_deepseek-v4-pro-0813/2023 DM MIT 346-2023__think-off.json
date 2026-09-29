@@ -1,0 +1,235 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:31:54",
+  "received_at": "2026-09-24T13:32:13",
+  "latency_seconds": 18.699,
+  "prompt_tokens": 7657,
+  "completion_tokens": 2642,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10299,
+  "cost_usd_api": 0.01064803,
+  "cost_usd_reconstructed": 0.007199346,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790249514-ntc7Eyapm4ECeBTGGD4B",
+    "provider": "Wafer",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreti MIT nn. 235, 350, 517 del 2020, n. 44 del 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIMS 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIMS-MEF 20 aprile 2022, n. 97",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 29 dicembre 2022, n. 197",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto MIT 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto-legge 17 maggio 2022, n. 50",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data di emanazione nella parte dispositivo; numero_decreto e data_decreto sono null. La tabella nel testo è presente sia come testo libero sia come blocco [TABELLA pag.3 n.1]; il blocco [TABELLA pag.3 n.1] contiene la rappresentazione completa, le altre tabelle richiamate ([TABELLA pag.3 n.2] e seguenti) sono frammenti incompleti e non contengono dati aggiuntivi. Non sono presenti allegati richiamati. L'importo totale è l'unico record senza CUP, in quanto somma dei singoli interventi, e non viene calcolato ma riportato come stampato."
+  },
+  "records": [
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "464/2021 | BRESCIA | Nuova Linea Tranviaria \"Pendolina-Fiera (T2)\" | C81B21013200005 | € 63.091.133,28",
+      "atto_riferito": "decreto MIMS 22 novembre 2021, n. 464",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Contributo addizionale rispetto a quelli già assegnati con il decreto 464/2021."
+    },
+    {
+      "cup": [
+        "H11J21000010003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 2",
+      "passaggio_testuale": "517/2020 | FIRENZE | Sistema tramviario di Firenze: Linea 3 (II lotto) - trattta Libertà - Rovezzano (Linea 3.2.2) | H11J21000010003 | € 48.794.211,94",
+      "atto_riferito": "decreto MIT n. 517 del 2020",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Contributo addizionale rispetto a quelli già assegnati con il decreto 517/2020."
+    },
+    {
+      "cup": [
+        "F44I19000530001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 3",
+      "passaggio_testuale": "97/2022 | MILANO | Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1 | F44I19000530001 | € 47.668.750,43",
+      "atto_riferito": "decreto MIMS-MEF 20 aprile 2022, n. 97",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Contributo addizionale rispetto a quelli già assegnati con il decreto 97/2022."
+    },
+    {
+      "cup": [
+        "B44D20000040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 4",
+      "passaggio_testuale": "607/2019 97/2022 | MILANO | Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia | B44D20000040001 | € 145.000.000,00",
+      "atto_riferito": "decreto MIT 27 dicembre 2019, n. 607 e decreto MIMS-MEF 20 aprile 2022, n. 97",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Contributo addizionale rispetto a quelli già assegnati con i decreti 607/2019 e 97/2022."
+    },
+    {
+      "cup": [
+        "B24C17000320005",
+        "B71J22000050006"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO ASSEGNATO",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 5",
+      "passaggio_testuale": "360/2018 86/2018 | MILANO | Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo: B24C17000320005 Lotto 2 - Varedo-Limbiate: B71J22000050006 | € 88.435.027,99 (anche a copertura delle risorse revocate)",
+      "atto_riferito": "decreto MIT 6 agosto 2018, n. 360 e decreto MIT 2 marzo 2018, n. 86",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due lotti/CUP; l'atto non ripartisce. Include la copertura delle risorse revocate del Piano Sviluppo e Coesione 2014-2020 (€ 59.000.000)."
+    },
+    {
+      "cup": [],
+      "n_cup": 0,
+      "cup_valido": false,
+      "cup_tipo": null,
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 392989123.64,
+      "importo_originale": "€ 392.989.123,64",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "TOTALE",
+      "riferimento_fonte": "Art. 1, comma 1; [TABELLA pag.3 n.1], riga 6",
+      "passaggio_testuale": "TOTALE | € 392.989.123,64",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Totale complessivo delle assegnazioni del comma 1; non associato a un singolo CUP. Livello totale dell'atto corrente."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,202 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:43:40",
+  "received_at": "2026-09-21T16:44:25",
+  "latency_seconds": 45.225,
+  "prompt_tokens": 17746,
+  "completion_tokens": 4188,
+  "reasoning_tokens": 860,
+  "cached_tokens": 0,
+  "total_tokens": 21934,
+  "cost_usd_api": 0.38686,
+  "cost_usd_reconstructed": 0.38686,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790001820-z9jqfZTH6SPpRAbnYxfs",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "AVVISO n. 2 per la presentazione di istanze per accesso alle risorse destinate al Trasporto Rapido di Massa ad Impianti Fissi, pubblicato il 16 maggio 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Addendum all'AVVISO 2, prot. n. 466 del 4 febbraio 2020",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DPCM 11 giugno 2019 (riparto Fondo art. 1, comma 95, l. 145/2018)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DPCM 23 dicembre 2020 (riparto Fondo art. 1, comma 14, l. 160/2019)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto ministeriale 3 febbraio 202[2], n. 144",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto ministeriale 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto del Ministro delle infrastrutture e della mobilità sostenibili privo, nel testo fornito, di numero e data (è citata l'intesa della Conferenza unificata dell'11 novembre 2021, ma non è la data dell'atto: non dedotta). Il totale ripartito di € 660.660.678,33 (art. 1, c. 1) coincide con la somma delle righe dell'Allegato 1 e non è riferito ad alcun CUP: non genera un record autonomo. La colonna della tabella è intitolata 'FINANZIAMENTO AMMESSO' ma l'art. 1 dispone la ripartizione delle risorse tra gli interventi elencati: lo stato è quindi 'assegnato'. Il residuo di € 88.415.746,74 (rispetto alla disponibilità di € 749.076.425,07) è menzionato solo nel preambolo come da ripartire con successivo provvedimento e non è attribuito ad alcun CUP dalla parte dispositiva: non generato come record. L'articolato salta dall'art. 8 all'art. 10 (assente art. 9 nel testo fornito)."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 1",
+      "passaggio_testuale": "COMUNE DI PADOVA | LINEA SIR 2 DEL TRAM-COMPLETAMENTO DEL SISTEMA INTERMEDIO A RETE DELLA CITTA' DI PADOVA | H94I19000130004 | TRANVIA | 335.211.901,76 | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Costo totale intervento € 335.211.901,76 (non oggetto di assegnazione). Nel preambolo si precisa che l'importo completa la copertura dell'intervento già ammesso a finanziamento nella Misura M2C2-4.2 del PNRR per € 238.057.777,66. Le risorse ripartite gravano sul cap. 7400, PG 7 (l. 160/2019, art. 1, c. 14) e PG 1 (l. 178/2020), senza ripartizione per PG a livello di singolo intervento."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI BRESCIA | NUOVA LINEA TRANVIARIA \"PENDOLINA- FIERA (T2)\" | C81B21013200005 | TRANVIA | 363.288.528,40 | 359.545.887,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Costo totale intervento € 363.288.528,40 (non oggetto di assegnazione)."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 3",
+      "passaggio_testuale": "ROMA CAPITALE | RINNOVO MATERIALE LINEE A e B-B1 DELLA METROPOLITANA | J80J18000000001 | METRO | 159.466.174,12 | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento pari al costo totale dell'intervento."
+    },
+    {
+      "cup": [
+        "C11B21008720001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI TORINO | ATTESTAMENTO LINEA TRANVIARIA 15 PRESSO OSPEDALE MARTINI E MODIFICA INSTRADAMENTO IN ZONA CENTRO | C11B21008720001 | TRANVIA | 9.408.502,67 | 9.408.502,67",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento pari al costo totale dell'intervento."
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 5",
+      "passaggio_testuale": "COMUNE DI TORINO | METROPOLITANA AUTOMATICA DI TORINO - LINEA 1: PROLUNGAMENTO OVEST COLLEGNO - CASCINE VICA: NUOVO FABBRICATO DEPOSITO TRENI | D81E20000410007 | METRO | 35.085.990,37 | 35.085.990,37",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Finanziamento pari al costo totale dell'intervento."
+    }
+  ],
+  "raw_content": null
+}

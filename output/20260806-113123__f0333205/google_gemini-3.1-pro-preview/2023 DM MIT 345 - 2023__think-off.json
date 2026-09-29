@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T14:26:14",
+  "received_at": "2026-08-06T14:27:11",
+  "latency_seconds": 56.875,
+  "prompt_tokens": 15760,
+  "completion_tokens": 7996,
+  "reasoning_tokens": 7677,
+  "cached_tokens": 0,
+  "total_tokens": 23756,
+  "cost_usd_api": 0.127472,
+  "cost_usd_reconstructed": 0.127472,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786019175-0FVdRpKcbAqomCUsyUf3",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministro delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"H11B21006730001\",\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 80000000.00,\n      \"importo_originale\": \"80.000.000,00\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"Allegato 1\",\n      \"note\": \"EBRT BERGAMO - DALMINE\"\n    },\n    {\n      \"cup\": \"F31D21000020001\",\n      \"capitolo\": null,\n      \"piano_gestionale\": null,\n      \"importo_eur\": 222142224.26,\n      \"importo_originale\": \"222.142.224,26\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_"
+}

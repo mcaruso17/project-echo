@@ -1,0 +1,40 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T16:00:35",
+  "received_at": "2026-08-14T16:00:38",
+  "latency_seconds": 3.111,
+  "prompt_tokens": 4455,
+  "completion_tokens": 126,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 4581,
+  "cost_usd_api": 0.00491524,
+  "cost_usd_reconstructed": 0.002047545,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786716035-ClSWD3n42fthxYzmrGhM",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non dispone azioni di finanziamento. Contiene esclusivamente proroghe di termini per il conseguimento di obbligazioni giuridicamente vincolanti, senza movimentazione di risorse."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non dispone azioni di finanziamento. Contiene esclusivamente proroghe di termini per il conseguimento di obbligazioni giuridicamente vincolanti, senza movimentazione di risorse.\"\n}"
+}

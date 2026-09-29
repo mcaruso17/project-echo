@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:27:02",
+  "received_at": "2026-08-11T16:27:21",
+  "latency_seconds": 19.207,
+  "prompt_tokens": 12312,
+  "completion_tokens": 2114,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14426,
+  "cost_usd_api": 0.045764,
+  "cost_usd_reconstructed": 0.045764,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458423-2F5ifnX9SLkUu12ttw8k",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data proprio; la firma finale indica solo 'IL MINISTRO' senza numero/data del provvedimento. La tabella dell'Allegato 1 presenta ambiguità nella ripartizione degli importi 'finanziamento ammesso' quando un intervento ha più subinterventi/CUP: in alcuni casi l'importo è riportato a livello di singolo subintervento (es. F47C19000370001, F47C19000390001), in altri solo a livello di intervento complessivo (es. Comune di Milano M1+M2, Comune di Genova), rendendo impossibile attribuire con certezza l'importo a ciascun CUP singolarmente in questi ultimi casi."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Torino",
+      "note": "Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linea M3",
+      "note": "Subintervento: nuovi impianti di rivelazione e segnalazione incendi"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linea M3",
+      "note": "Subintervento: rifacimento impianto diffusione sonora; finanziamento ammesso indicato come '-' (nessun importo aggiuntivo)"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linea M3",
+      "note": "Subintervento: nuovi cavi fibra ottica resistenti al fuoco; finanziamento ammesso indicato come '-'"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linea M3",
+      "note": "Subintervento: interventi di ammodernamento SSE Duomo"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linee M1+M2",
+      "note": "Finanziamento ammesso indicato a livello di intervento (45.000.000,07) comprensivo dei subinterventi F47C19000350001 e F47C19000360001; non è chiara la ripartizione esatta tra i due CUP"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga Comune di Milano - Metropolitana Linee M1+M2",
+      "note": "Subintervento adeguamento impianti GE, cabine elettriche e sostituzione cavi; importo specifico non indicato separatamente nella tabella, il finanziamento ammesso è riportato solo a livello di intervento complessivo (vedi CUP F47C19000350001)"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Genova",
+      "note": "Finanziamento ammesso indicato a livello di intervento comprensivo dei subinterventi B31J23000240001 e B34J18000230001; non è chiara la ripartizione esatta tra i due CUP"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, riga Comune di Genova",
+      "note": "Subintervento completamento stazione Martinez/Terralba; importo specifico non indicato separatamente, il finanziamento ammesso è riportato solo a livello di intervento complessivo (vedi CUP B31J23000240001)"
+    }
+  ],
+  "raw_content": null
+}

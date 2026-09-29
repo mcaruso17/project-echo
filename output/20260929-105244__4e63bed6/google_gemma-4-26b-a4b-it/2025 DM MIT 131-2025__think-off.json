@@ -1,0 +1,106 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:18:27",
+  "received_at": "2026-09-29T12:19:05",
+  "latency_seconds": 38.398,
+  "prompt_tokens": 9626,
+  "completion_tokens": 1073,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10699,
+  "cost_usd_api": 0.0012845,
+  "cost_usd_reconstructed": 0.0011882399999999997,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677108-3WkVzopi0AsVajvobCzS",
+    "provider": "CoreWeave",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Secondo Atto Modificativo della Convenzione del 7 novembre 2019"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data del decreto corrente (probabilmente un atto dirigenziale interno). Il CUP è stato identificato nel preambolo come associato all'atto modificativo. L'importo complessivo di 915 milioni è la somma dei due record estratti."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 900.000.000,00 a valere sulle risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto approva il Secondo Atto Modificativo che ridetermina l'erogazione del finanziamento."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorse stanziate dalla legge n. 234/2021."
+    }
+  ],
+  "raw_content": null
+}

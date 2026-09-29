@@ -1,0 +1,285 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:22:24",
+  "received_at": "2026-09-29T11:23:25",
+  "latency_seconds": 60.311,
+  "prompt_tokens": 12507,
+  "completion_tokens": 3261,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 15768,
+  "cost_usd_api": 0.00305538,
+  "cost_usd_reconstructed": 0.00223437,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format"
+  ],
+  "response_meta": {
+    "id": "gen-1790673745-SYWS5zyYPiyhzFQyCeCm",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto dell’allora Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto Interministeriale n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto non riporta un numero di decreto o una data specifica nel testo fornito. Alcuni CUP in tabella non hanno un importo individuale associato nella colonna 'Finanziamento Ammesso', ma sono parte di un intervento che ha un importo totale assegnato."
+  },
+  "records": [
+    {
+      "cup": [
+        "C11J22000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 1",
+      "passaggio_testuale": "COMUNE DI TORINO | PROLUNGAMENTO LINEA TRANVIARIA 12... | C11J22000000001 | ... | 221.721.410,41",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000370001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEA M3... | F47C19000370001 | NUOVI IMPIANTI... | 2.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47D17000140005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 3",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47D17000140005 | RIFACIMENTO DELL'IMPIANTO... | 20.900.000,02",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000380001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000380001 | NUOVI CAVI FIBRA... | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000390001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 5",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000390001 | INTERVENTI DI AMMODERNAMENTO SSE DUOMO | 2.100.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000350001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 6",
+      "passaggio_testuale": "COMUNE DI MILANO | METROPOLITANA LINEE M1 + M2... | F47C19000350001 | ... | 45.000.000,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "F47C19000360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 7",
+      "passaggio_testuale": "COMUNE DI MILANO | ... | F47C19000360001 | ADEGUAMENTO DEGLI IMPIANTI... |",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "La cella dell'importo per questo CUP è vuota nella tabella, ma il CUP è elencato sotto l'intervento finanziato complessivamente",
+      "note": null
+    },
+    {
+      "cup": [
+        "B31J23000240001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 8",
+      "passaggio_testuale": "COMUNE DI GENOVA | LINEA METROPOLITANA... | B31J23000240001 | ... | 74.516.124,63",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "B34J18000230001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": null,
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.7 n.1], riga 9",
+      "passaggio_testuale": "COMUNE DI GENOVA | ... | B34J18000230001 | COMPLETAMENTO DELLA STAZIONE... |",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "La cella dell'importo per questo CUP è vuota nella tabella, ma il CUP è elencato sotto l'intervento finanziato complessivamente",
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

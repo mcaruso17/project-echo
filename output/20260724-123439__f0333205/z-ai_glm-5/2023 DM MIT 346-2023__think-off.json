@@ -1,0 +1,95 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:44:23",
+  "received_at": "2026-07-24T12:44:38",
+  "latency_seconds": 15.19,
+  "prompt_tokens": 4573,
+  "completion_tokens": 982,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 5555,
+  "cost_usd_api": 0.00475564,
+  "cost_usd_reconstructed": 0.00462924,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784889863-LFZBAHw4GK6Jdmod3wre",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto fornito non riporta il numero e la data del decreto corrente nell'intestazione o nel dispositivo. Tali informazioni vanno reperite dalla rubrica o dall'originale formattato. L'importo totale indicato nella tabella (€ 392.989.123,64) corrisponde alla somma delle singole assegnazioni estratte."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Nuova Linea Tranviaria 'Pendolina-Fiera (T2)'. Comune: Brescia. Contributo addizionale rispetto a decreto 464/2021."
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2). Comune: Firenze. Contributo addizionale rispetto a decreto 517/2020."
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1. Comune: Milano. Contributo addizionale rispetto a decreto 97/2022."
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia. Comune: Milano. Contributo addizionale rispetto a decreti 607/2019 e 97/2022."
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Intervento: Riqualificazione Metrotranvia Milano-Limbiate Lotto 1 - Milano Comasina-Varedo. Comune: Milano. Contributo addizionale rispetto a decreti 360/2018 e 86/2018, anche a copertura delle risorse revocate."
+    }
+  ],
+  "raw_content": null
+}

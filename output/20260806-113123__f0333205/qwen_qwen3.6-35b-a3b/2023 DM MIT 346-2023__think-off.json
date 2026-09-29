@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:48:28",
+  "received_at": "2026-08-06T14:48:47",
+  "latency_seconds": 19.449,
+  "prompt_tokens": 4534,
+  "completion_tokens": 1318,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5852,
+  "cost_usd_api": 0.00195276,
+  "cost_usd_reconstructed": 0.0019074200000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020508-ryW2JoeDPiRviiJbr9BM",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "191/2023",
+    "data_decreto": "2023-08-07",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è identificato come il decreto del 7 agosto 2023, n. 191, citato nel preambolo ('VISTO il decreto... n. 191') e confermato dalla struttura del testo che ne dispone l'emanazione. La tabella nell'art. 1 elenca importi 'assegnati' come addizionali rispetto a quelli già finanziati dai decreti precedenti (colonna 'Decreto di finanziamento'). Poiché il testo specifica che i contributi sono 'addizionali', si estraggono gli importi totali indicati nella colonna 'Assegnato' come nuove risorse stanziate dal decreto corrente sul capitolo 7400, piano 1. Non vi sono definanziamenti espliciti in questa tabella, sebbene il preambolo menzioni la revoca di risorse PSC coperte da questi importi."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Brescia. Decreto di finanziamento precedente citato: 464/2021."
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Firenze. Decreto di finanziamento precedente citato: 517/2020."
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Milano. Decreto di finanziamento precedente citato: 97/2022."
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Milano. Decreto di finanziamento precedente citato: 607/2019, 97/2022."
+    },
+    {
+      "cup": "B24C17000320005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Milano (Lotto 1). Decreto di finanziamento precedente citato: 360/2018, 86/2018. Copre anche risorse revocate dal PSC."
+    },
+    {
+      "cup": "B71J22000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Assegnazione aggiuntiva per Milano (Lotto 2). Decreto di finanziamento precedente citato: 360/2018, 86/2018. Copre anche risorse revocate dal PSC."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:54:48",
+  "received_at": "2026-08-06T14:55:12",
+  "latency_seconds": 24.205,
+  "prompt_tokens": 4114,
+  "completion_tokens": 299,
+  "reasoning_tokens": 153,
+  "cached_tokens": 0,
+  "total_tokens": 4413,
+  "cost_usd_api": 0.17724,
+  "cost_usd_reconstructed": 0.17724,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020888-8yKCl8KVgEthh3YNQjtd",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto corrente dispone esclusivamente la proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante per gli interventi dell'Allegato 1; non sono presenti importi, capitoli, piani gestionali o CUP relativi a nuove azioni di finanziamento. Numero e data del decreto corrente non risultano esplicitamente indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

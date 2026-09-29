@@ -1,0 +1,98 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:16:40",
+  "received_at": "2026-08-11T16:17:09",
+  "latency_seconds": 28.873,
+  "prompt_tokens": 13842,
+  "completion_tokens": 1963,
+  "reasoning_tokens": 72,
+  "cached_tokens": 0,
+  "total_tokens": 15805,
+  "cost_usd_api": 0.23657,
+  "cost_usd_reconstructed": 0.23657,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786457800-iAab6WGF1F63jiKFXp4h",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta nel testo fornito numero e data (è indicata l'intesa della Conferenza unificata dell'11 novembre 2021, quindi il decreto è successivo a tale data, presumibilmente novembre 2021). L'articolo 1 ripartisce complessivi € 660.660.678,33 a valere sul capitolo 7400, piano gestionale 7 (legge 160/2019, art. 1, c. 14) e piano gestionale 1 (legge 178/2020), ma non specifica quale quota di ciascun piano gestionale finanzi ciascun intervento: per questo il campo piano_gestionale è stato lasciato null nei singoli record. Il residuo di € 88.415.746,74 è rinviato a successivo provvedimento e non costituisce azione di finanziamento del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1 e Allegato 1, riga 1",
+      "note": "Beneficiario: Comune di Padova - Linea SIR 2 del tram, completamento del sistema intermedio a rete della città di Padova (tranvia). Costo totale intervento € 335.211.901,76; intervento già ammesso a finanziamento nell'ambito della Misura M2C2 - 4.2 del PNRR per € 238.057.777,66. Risorse a valere sul capitolo 7400, piani gestionali 7 e 1, senza indicazione della ripartizione per singolo intervento."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1 e Allegato 1, riga 2",
+      "note": "Beneficiario: Comune di Brescia - Nuova linea tranviaria \"Pendolina-Fiera (T2)\" (tranvia). Costo totale intervento € 363.288.528,40. Risorse a valere sul capitolo 7400, piani gestionali 7 e 1, senza indicazione della ripartizione per singolo intervento."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1 e Allegato 1, riga 3",
+      "note": "Beneficiario: Roma Capitale - Rinnovo materiale linee A e B-B1 della metropolitana (metro). Costo totale intervento € 159.466.174,12. Risorse a valere sul capitolo 7400, piani gestionali 7 e 1, senza indicazione della ripartizione per singolo intervento."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1 e Allegato 1, riga 4",
+      "note": "Beneficiario: Comune di Torino - Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro (tranvia). Costo totale intervento € 9.408.502,67. Risorse a valere sul capitolo 7400, piani gestionali 7 e 1, senza indicazione della ripartizione per singolo intervento."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1 e Allegato 1, riga 5",
+      "note": "Beneficiario: Comune di Torino - Metropolitana automatica di Torino, Linea 1: prolungamento ovest Collegno - Cascine Vica: nuovo fabbricato deposito treni (metro). Costo totale intervento € 35.085.990,37. Risorse a valere sul capitolo 7400, piani gestionali 7 e 1, senza indicazione della ripartizione per singolo intervento."
+    }
+  ],
+  "raw_content": null
+}

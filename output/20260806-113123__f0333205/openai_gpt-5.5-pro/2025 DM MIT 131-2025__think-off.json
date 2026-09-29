@@ -1,0 +1,42 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:34:33",
+  "received_at": "2026-08-06T15:36:50",
+  "latency_seconds": 136.373,
+  "prompt_tokens": 4876,
+  "completion_tokens": 1646,
+  "reasoning_tokens": 1500,
+  "cached_tokens": 0,
+  "total_tokens": 6522,
+  "cost_usd_api": 0.44256,
+  "cost_usd_reconstructed": 0.44256,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786023273-2OOuvHNdZDsLtJJX19Iq",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non riporta numero né data del decreto corrente. La parte dispositiva approva il Secondo Atto Modificativo della Convenzione e richiama importi già impegnati con precedenti decreti direttoriali n. 381/2019 e n. 108/2024; non dispone esplicitamente una nuova assegnazione, riduzione o rimodulazione di risorse."
+  },
+  "records": [],
+  "raw_content": null
+}

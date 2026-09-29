@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:58:37",
+  "received_at": "2026-08-06T12:58:54",
+  "latency_seconds": 17.301,
+  "prompt_tokens": 7728,
+  "completion_tokens": 345,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8073,
+  "cost_usd_api": 0.028359,
+  "cost_usd_reconstructed": 0.028359,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013917-t48Egk95oy9ECj7t8wgu",
+    "provider": "Chutes",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (Ministro delle Infrastrutture e dei Trasporti, intesa Conferenza Unificata 20 dicembre 2023) dispone esclusivamente proroghe dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1 e allegati 1 e 2) e la destinazione di eventuali risorse da definanziamento futuro (art. 2), senza indicare capitoli di spesa, piani gestionali o importi. Nessuna azione di finanziamento con dettaglio di bilancio è presente. Il numero e la data del decreto non sono riportati nel testo fornito. I CUP citati (es. C81B21013200005, H11J21000010003, F44I19000530001, B44D20000040001, B24C17000320005, B71J22000050006, D71D18000520001) compaiono solo nel preambolo in relazione a decreti di assegnazione precedenti e non a nuove assegnazioni."
+  },
+  "records": [],
+  "raw_content": null
+}

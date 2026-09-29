@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:36:15",
+  "received_at": "2026-08-06T13:36:24",
+  "latency_seconds": 9.011,
+  "prompt_tokens": 42581,
+  "completion_tokens": 243,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 42824,
+  "cost_usd_api": 0.00379248002,
+  "cost_usd_reconstructed": 0.00387603,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016175-aNbeV1jcXFv2jthM1Z7x",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (non numerato né datato nel testo) è un decreto del Ministro delle Infrastrutture e dei Trasporti che riprogramma gli interventi già finanziati dal DM 182/2020, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni con dettaglio di capitolo/piano gestionale. L'Allegato 1 elenca gli interventi riprogrammati con CUP e importi, ma non specifica il capitolo di spesa o il piano gestionale. L'Allegato 2 riporta il riparto in annualità, ma senza capitolo/piano gestionale. Pertanto non è possibile estrarre record conformi ai campi richiesti."
+  },
+  "records": [],
+  "raw_content": null
+}

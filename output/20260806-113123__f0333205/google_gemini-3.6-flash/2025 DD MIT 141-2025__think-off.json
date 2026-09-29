@@ -1,0 +1,65 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:31:03",
+  "received_at": "2026-08-06T15:31:16",
+  "latency_seconds": 12.7,
+  "prompt_tokens": 8652,
+  "completion_tokens": 2971,
+  "reasoning_tokens": 2518,
+  "cached_tokens": 0,
+  "total_tokens": 11623,
+  "cost_usd_api": 0.0352605,
+  "cost_usd_reconstructed": 0.0352605,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786023063-j9BXOCVWz4PKKPJUgJzk",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3",
+      "note": "Autorizzazione all'impegno di risorse ex art. 1, comma 478, L. 197/2022 per la Linea C della Metropolitana di Roma"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 4",
+      "note": "Autorizzazione all'impegno di risorse ex art. 1, comma 478, L. 197/2022 per la Linea C della Metropolitana di Roma (2027-2028)"
+    }
+  ],
+  "raw_content": null
+}

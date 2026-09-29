@@ -1,0 +1,75 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:48:10",
+  "received_at": "2026-09-24T12:48:20",
+  "latency_seconds": 10.27,
+  "prompt_tokens": 10471,
+  "completion_tokens": 902,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11373,
+  "cost_usd_api": 0.044943,
+  "cost_usd_reconstructed": 0.044943,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246890-bHI7MDa3H5ObKkaAMqZw",
+    "provider": "Together",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il decreto corrente non riporta nel testo fornito né il numero né la data di emanazione (l'intestazione si limita a 'Il Ministro delle Infrastrutture e della Mobilità Sostenibili'). L'atto integra il decreto 12 novembre 2021, n. 443, includendo il Comune di Rimini tra i beneficiari a seguito di errore materiale di protocollazione, e posticipa di un anno le scadenze di cui all'art. 3 del decreto n. 443/2021 limitatamente a tale intervento. La tabella di premessa ([TABELLA pag.1 n.1]) riporta lo stanziamento pluriennale del fondo (€ 184.964.094,00) sul capitolo 7400 PG 5: si tratta di quadro delle risorse richiamato nel preambolo, non di azione di finanziamento disposta dall'atto corrente, pertanto non genera record. Le percentuali di erogazione di cui all'art. 6 (20% anticipo, richieste intermedie, 5% saldo) disciplinano le modalità di erogazione del contributo già assegnato e non costituiscono quote di assegnazione autonome. Nessun allegato è richiamato dall'articolato."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018, per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\"",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il costo totale stimato dell'intervento (€ 2.250.000,00) non costituisce assegnazione e non è estratto come record. Il capitolo 7400 e il piano gestionale 5 sono desunti dal CONSIDERATO in premessa che indica l'iscrizione delle risorse del fondo su tale capitolo/PG."
+    }
+  ],
+  "raw_content": null
+}

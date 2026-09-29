@@ -1,0 +1,65 @@
+{
+  "decree_file": "2022 DM MIT 409-2022.pdf",
+  "decree_relpath": "2022 DM MIT 409-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:35:03",
+  "received_at": "2026-07-24T12:35:16",
+  "latency_seconds": 12.814,
+  "prompt_tokens": 7375,
+  "completion_tokens": 979,
+  "reasoning_tokens": 71,
+  "cached_tokens": 0,
+  "total_tokens": 8354,
+  "cost_usd_api": 0.1227,
+  "cost_usd_reconstructed": 0.1227,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1784889304-IqFPis8rU08MrZov4jgZ",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto non riporta numero e data del decreto corrente (l'intesa in Conferenza Unificata è del 21 dicembre 2022, quindi il decreto è successivo a tale data). Non sono indicati capitoli di spesa né piani gestionali; il limite complessivo delle risorse ripartite è € 75.000.000,00."
+  },
+  "records": [
+    {
+      "cup": "C61C22007040001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37448232.02,
+      "importo_originale": "€ 37.448.232,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo alla provincia autonoma di Trento per l'intervento \"Impianto di trasporto collettivo tra la città di Trento ed il monte Bondone – Lotto 1 Trento-Sardagna\". Risorse ex art. 33 bis, comma 1, del decreto-legge 30 aprile 2022, n. 36. Finanziamento confermato con provvedimento di impegno contabile (art. 2); termine obbligazione giuridicamente vincolante: 31 dicembre 2025 (art. 3, comma 2)."
+    },
+    {
+      "cup": "J51C22002060001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 37500000.0,
+      "importo_originale": "€ 37.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Cofinanziamento alla provincia autonoma di Bolzano per l'intervento \"Sistema Trasporto Rapido di Massa - Rete portante elettrica di trasporto pubblico Merano-Scena-Tirolo – Lotto 1 Funicolare Merano-Scena-Tirolo\". Risorse ex art. 33 bis, comma 1, del decreto-legge 30 aprile 2022, n. 36. Finanziamento confermato con provvedimento di impegno contabile (art. 2); termine obbligazione giuridicamente vincolante: 31 dicembre 2025 (art. 3, comma 2)."
+    }
+  ],
+  "raw_content": null
+}

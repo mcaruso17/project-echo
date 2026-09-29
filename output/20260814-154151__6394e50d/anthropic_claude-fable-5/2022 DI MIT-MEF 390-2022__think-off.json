@@ -1,0 +1,88 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:44:35",
+  "received_at": "2026-08-14T15:44:54",
+  "latency_seconds": 18.803,
+  "prompt_tokens": 11626,
+  "completion_tokens": 1544,
+  "reasoning_tokens": 252,
+  "cached_tokens": 0,
+  "total_tokens": 13170,
+  "cost_usd_api": 0.19346,
+  "cost_usd_reconstructed": 0.19346,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715076-vSiuaNQReW0ojFdZEZmd",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente è un decreto interministeriale MIT-MEF privo, nel testo fornito, di numero e data (il documento appare troncato prima delle firme e della data). L'assegnazione complessiva è di 46,20 milioni di euro (art. 1 e art. 2). Gli interventi specifici e i relativi CUP sono contenuti nell'Allegato 1, non incluso nel testo fornito: pertanto non è stato possibile estrarre CUP, capitoli di spesa o piani gestionali. La restante quota di 103,80 milioni di euro (art. 1, comma 3) è rinviata a successivo decreto e non costituisce un'azione di finanziamento del decreto corrente."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Regione Liguria. Ripartizione annuale: 5,00 mln (2023), 5,00 mln (2024), 4,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile; interventi di cui all'Allegato 1 (già individuati nell'Allegato 2 del DM 363/2021)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Regione Toscana. Ripartizione annuale: 5,00 mln (2023), 4,00 mln (2024), 4,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Provincia Autonoma di Trento. Ripartizione annuale: 4,00 mln (2023), 3,00 mln (2024), 3,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 (milioni di euro)",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Provincia Autonoma di Bolzano. Ripartizione annuale: 3,20 mln (2023), 3,00 mln (2024), 3,00 mln (2025). Risorse ex art. 8, comma 12, DL 68/2022 per acquisto materiale rotabile."
+    }
+  ],
+  "raw_content": null
+}

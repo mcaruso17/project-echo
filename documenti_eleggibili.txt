@@ -1,0 +1,22 @@
+# Documenti con benchmark manuale di Alessandro: denominatore del punteggio.
+# Generato da Output a MANO.xlsx. Uno stem per riga (senza .pdf).
+# I documenti in quarantena restano elencati ma commentati: vanno riattivati
+# appena il problema di ESTRAZIONE che li blocca e' risolto.
+
+2021 DM mit 464-2021
+2022 DD MIT 454-2022
+2022 DDG 128 del 02-05-22
+2022 DI Mims Mef 97 20.04.2022
+2022 DM MIMS 342-2022
+2022 DM MIT 409-2022
+2023 DI MIT-MEF 286-2023
+2023 DM MIT 191-2023
+2023 DM MIT 270-2023
+2023 DM MIT 342-2023
+2023 DM MIT 344-2023
+2023 DM MIT 345 - 2023
+2023 DM MIT 346-2023
+2024 DM MIT 334-2024
+# QUARANTENA (content_filter / GU due colonne): 2024 delibera CIPE del 19 dicembre 2024
+2025 DD MIT 141-2025
+2025 DM MIT 131-2025

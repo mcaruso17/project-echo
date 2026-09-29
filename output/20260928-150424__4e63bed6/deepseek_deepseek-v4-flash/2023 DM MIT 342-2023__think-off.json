@@ -1,0 +1,73 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T15:18:40",
+  "received_at": "2026-09-28T15:19:09",
+  "latency_seconds": 28.7,
+  "prompt_tokens": 31072,
+  "completion_tokens": 598,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 31670,
+  "cost_usd_api": 0.003162264,
+  "cost_usd_reconstructed": 0.0028712539999999997,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790601520-DkTX3oWoACdZsbQQg5F1",
+    "provider": "DigitalOcean",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "rettifica",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364",
+        "relazione": "sostituisce_allegato"
+      },
+      {
+        "estremi": "decreto direttoriale n. 342 del 26 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale del 26 luglio 2022, n. 235",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale del 22 settembre 2022, n. 270",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto direttoriale del 17 luglio 2023, n. 257",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2",
+      "Allegato 3"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1 (REV.2)",
+      "Allegato 2 (REV.4)",
+      "Allegato 3"
+    ],
+    "note_estrazione": "Il presente decreto (DM MIT, n. e data non indicati) rettifica l'Allegato 3 del DM 364/2021 e aggiorna/sostituisce gli Allegati 1, 2 e 3 dello stesso DM 364/2021 (art.1, commi 1 e 3). Tuttavia gli Allegati 1, 2 e 3 riportati nel testo non contengono alcun CUP. L'unica menzione di CUP è nella tabella dell'Allegato 1 (pagine 4-6), ma per ogni riga la colonna CUP è vuota (tranne alcune righe in cui il CUP è indicato nel testo della pagina ma non nella tabella strutturata [TABELLA]). L'atto non dispone su alcun CUP, ma solo su importi regionali per annualità (art.1, comma 1) che non sono associati a CUP. Pertanto record è vuoto."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"rettifica\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364\",\n      \"relazione\": \"sostituisce_allegato\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale n. 342 del 26 novembre 2021\",\n      \"relazione\": \"attua\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale del 26 luglio 2022, n. 235\",\n      \"relazione\": \"attua\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale del 22 settembre 2022, n. 270\",\n      \"relazione\": \"attua\"\n    },\n    {\n      \"estremi\": \"decreto direttoriale del 17 luglio 2023, n. 257\",\n      \"relazione\": \"attua\"\n    }\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\", \"Allegato 3\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1 (REV.2)\", \"Allegato 2 (REV.4)\", \"Allegato 3\"],\n  \"record\": [],\n  \"note_estrazione\": \"Il presente decreto (DM MIT, n. e data non indicati) rettifica l'Allegato 3 del DM 364/2021 e aggiorna/sostituisce gli Allegati 1, 2 e 3 dello stesso DM 364/2021 (art.1, commi 1 e 3). Tuttavia gli Allegati 1, 2 e 3 riportati nel testo non contengono alcun CUP. L'unica menzione di CUP è nella tabella dell'Allegato 1 (pagine 4-6), ma per ogni riga la colonna CUP è vuota (tranne alcune righe in cui il CUP è indicato nel testo della pagina ma non nella tabella strutturata [TABELLA]). L'atto non dispone su alcun CUP, ma solo su importi regionali per annualità (art.1, comma 1) che non sono associati a CUP. Pertanto record è vuoto.\"\n}"
+}

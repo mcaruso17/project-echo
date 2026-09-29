@@ -1,0 +1,128 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:45:55",
+  "received_at": "2026-08-06T13:47:16",
+  "latency_seconds": 81.064,
+  "prompt_tokens": 26953,
+  "completion_tokens": 1435,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 28388,
+  "cost_usd_api": 0.00417522,
+  "cost_usd_reconstructed": 0.00268407,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016755-XNi6E33R1tLupgKJ3GIK",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non ha numero né data espliciti. Il ministero è desunto dall'intestazione. Le azioni di finanziamento sono state estratte dall'art. 1, comma 1, che modifica gli importi per le annualità 2032 e 2033 per le regioni Veneto ed Emilia Romagna. Le variazioni sono state calcolate come differenza tra il nuovo importo e quello precedente indicato nel testo. Non sono stati estratti i dati degli Allegati 1, 2 e 3 perché il decreto si limita a rettificare e aggiornare tali allegati, ma non dispone nuove assegnazioni a livello di singolo progetto con CUP, capitolo e piano gestionale espliciti. L'unico riferimento a capitolo e piano gestionale è nella riga 'TOTALE Programma di interventi ammessi a contributo per il potenziamento e l’ammodernamento delle ferrovie regionali (cap. 7150 p.g. 3)' e analogo per sicurezza, ma non è possibile associare i singoli importi delle variazioni a specifici CUP o progetti. Si è quindi optato per estrarre le variazioni aggregate per regione e annualità."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Veneto per l'annualità 2033, in luogo dei precedenti 117.585 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": -100000.0,
+      "importo_originale": "100.000 euro (differenza tra 217.585 e 117.585)",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione implicita per la Regione Veneto: l'importo precedente era 117.585, ora 217.585, quindi aumento netto di 100.000. La riduzione è implicita nel confronto con l'importo originario."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Emilia Romagna per l'annualità 2033, in luogo dei precedenti 790.994 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": -100000.0,
+      "importo_originale": "100.000 euro (differenza tra 790.994 e 690.994)",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione implicita per la Regione Emilia Romagna: l'importo precedente era 790.994, ora 690.994, quindi diminuzione netta di 100.000."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Veneto per l'annualità 2032, in luogo dei precedenti 125.268 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": -2.0,
+      "importo_originale": "2 euro (differenza tra 125.268 e 125.266)",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Riduzione implicita per la Regione Veneto: l'importo precedente era 125.268, ora 125.266, quindi diminuzione netta di 2 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione alla Regione Emilia Romagna per l'annualità 2032, in luogo dei precedenti 842.680 euro."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7150",
+      "piano_gestionale": "3",
+      "importo_eur": 2.0,
+      "importo_originale": "2 euro (differenza tra 842.682 e 842.680)",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Aumento implicito per la Regione Emilia Romagna: l'importo precedente era 842.680, ora 842.682, quindi aumento netto di 2 euro."
+    }
+  ],
+  "raw_content": null
+}

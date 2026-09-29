@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:27",
+  "received_at": "2026-08-06T14:52:37",
+  "latency_seconds": 9.36,
+  "prompt_tokens": 5260,
+  "completion_tokens": 455,
+  "reasoning_tokens": 50,
+  "cached_tokens": 0,
+  "total_tokens": 5715,
+  "cost_usd_api": 0.07535,
+  "cost_usd_reconstructed": 0.07535,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020747-mu8tfzUu8oCWDNLRshAh",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe di termini (art. 1) per gli interventi 'Skymetro Val Bisagno' (Genova) e 'Metropolitana automatica di Torino – Linea 2' e abroga l'obiettivo di avanzamento al 50% per gli interventi dell'Allegato 1 del D.I. n. 97/2022. Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione di importi), né capitoli, piani gestionali o CUP. Numero e data del decreto corrente non sono riportati nel testo fornito; gli importi citati nel preambolo si riferiscono ad autorizzazioni di spesa di leggi e decreti precedenti."
+  },
+  "records": [],
+  "raw_content": null
+}

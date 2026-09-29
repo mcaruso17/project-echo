@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:17:17",
+  "received_at": "2026-08-11T16:17:28",
+  "latency_seconds": 11.138,
+  "prompt_tokens": 7270,
+  "completion_tokens": 1109,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8379,
+  "cost_usd_api": 0.02563,
+  "cost_usd_reconstructed": 0.02563,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457837-cnpKmLZ93m3DIHnCAM5A",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta un numero né una data propri nel testo fornito; risulta firmato dal Direttore della Div 2 (Dr. Raffaele Di Trani) senza indicazione esplicita di numero/data del provvedimento corrente. Gli importi di cui all'art. 2 sono riportati sia nel corpo del testo che nella tabella allegata, coerenti tra loro."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021, a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia della Linea C"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 35000000.0,
+      "importo_originale": "€ 35.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella anno 2022",
+      "note": "Parte dell'importo complessivo di € 131.000.000,00 per l'anno 2022"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 40000000.0,
+      "importo_originale": "€ 40.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella anno 2023",
+      "note": "Parte dell'importo complessivo di € 131.000.000,00 per l'anno 2023"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 33500000.0,
+      "importo_originale": "€ 33.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella anno 2024",
+      "note": "Parte dell'importo complessivo di € 131.000.000,00 per l'anno 2024"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 22500000.0,
+      "importo_originale": "€ 22.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella anno 2025",
+      "note": "Parte dell'importo complessivo di € 131.000.000,00 per l'anno 2025"
+    }
+  ],
+  "raw_content": null
+}

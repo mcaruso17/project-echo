@@ -1,0 +1,230 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:49:47",
+  "received_at": "2026-09-24T12:49:56",
+  "latency_seconds": 8.562,
+  "prompt_tokens": 8269,
+  "completion_tokens": 2457,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10726,
+  "cost_usd_api": 0.0109175757,
+  "cost_usd_reconstructed": 0.01768355,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246987-7bLlogYDWyj3lRplP6Rp",
+    "provider": "Decart",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto legislativo 29 dicembre 2011, n. 229",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 16 gennaio 2003, n. 3",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto-legge 16 luglio 2020, n. 76, convertito con modificazioni dalla legge 11 settembre 2020, n. 120",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 197/2022, comma 483 dell'articolo 1",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto-legge 24 aprile 2014, n. 66, convertito con modificazioni dalla legge 23 giugno 2014, n. 89",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto legislativo 31 marzo 2023, n. 36",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 26 febbraio 2013",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 12 maggio 2016",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Allegato 1 (cronoprogramma) richiamato all'art. 2 ma non presente nel testo fornito. L'atto non riporta numero né data di decreto nell'intestazione o nella parte dispositiva; il numero e la data potrebbero essere indicati nella firma o in intestazione non riportata nel testo. Non sono presenti blocchi [TABELLA] nel testo. Il CUP B81I06000000003 compare nel preambolo (CONSIDERATO) e viene richiamato esplicitamente nell'art. 1; l'assegnazione è disposta dall'art. 1. L'atto non specifica il capitolo di spesa né il piano gestionale. Le annualità sono desunte dal testo '15 milioni di euro per ciascuno degli anni dal 2023 al 2027' ma l'atto non chiarisce se si tratti di stanziamenti già effettuati o di impegno pluriennale futuro; il comma 483 della legge 197/2022 parla di 'limite massimo del concorso dello Stato'."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, finalizzati alla copertura del fabbisogno emergente dall'incremento dei prezzi e quello derivante dalla realizzazione della linea M4 della metropolitana di Milano (CUP B81I06000000003)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Assegnazione complessiva per 5 annualità (2023-2027) di 15 milioni ciascuna; l'atto non specifica il capitolo di spesa né il piano gestionale"
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto non esplicita se le annualità siano già stanziate o siano solo un impegno pluriennale; il comma 483 della legge 197/2022 indica il limite massimo del concorso dello Stato",
+      "note": "Quota annuale derivata dal totale; l'atto non specifica se le risorse siano già disponibili per ciascun anno o se rappresentino un impegno pluriennale"
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2024",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto non esplicita se le annualità siano già stanziate o siano solo un impegno pluriennale; il comma 483 della legge 197/2022 indica il limite massimo del concorso dello Stato",
+      "note": "Quota annuale derivata dal totale; l'atto non specifica se le risorse siano già disponibili per ciascun anno o se rappresentino un impegno pluriennale"
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2025",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto non esplicita se le annualità siano già stanziate o siano solo un impegno pluriennale; il comma 483 della legge 197/2022 indica il limite massimo del concorso dello Stato",
+      "note": "Quota annuale derivata dal totale; l'atto non specifica se le risorse siano già disponibili per ciascun anno o se rappresentino un impegno pluriennale"
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2026",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto non esplicita se le annualità siano già stanziate o siano solo un impegno pluriennale; il comma 483 della legge 197/2022 indica il limite massimo del concorso dello Stato",
+      "note": "Quota annuale derivata dal totale; l'atto non specifica se le risorse siano già disponibili per ciascun anno o se rappresentino un impegno pluriennale"
+    },
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2027",
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'atto non esplicita se le annualità siano già stanziate o siano solo un impegno pluriennale; il comma 483 della legge 197/2022 indica il limite massimo del concorso dello Stato",
+      "note": "Quota annuale derivata dal totale; l'atto non specifica se le risorse siano già disponibili per ciascun anno o se rappresentino un impegno pluriennale"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,96 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:44:54",
+  "received_at": "2026-08-14T15:45:14",
+  "latency_seconds": 20.075,
+  "prompt_tokens": 7995,
+  "completion_tokens": 690,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8685,
+  "cost_usd_api": 0.0132858,
+  "cost_usd_reconstructed": 0.004078125,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715094-m6xVxoVTZMauhki5hk1T",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non riporta numero e data. Non sono presenti CUP, capitoli o piani gestionali nel testo. Gli importi sono espressi in milioni di euro e sono stati convertiti in euro."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 46200000.0,
+      "importo_originale": "46,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione complessiva agli interventi di cui all'Allegato 2 del DM 363/2021, riportati nell'Allegato 1 del presente decreto."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella",
+      "note": "Assegnazione alla Regione Liguria."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella",
+      "note": "Assegnazione alla Regione Toscana."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella",
+      "note": "Assegnazione alla Provincia Autonoma di Trento."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 2, comma 1, tabella",
+      "note": "Assegnazione alla Provincia Autonoma di Bolzano."
+    }
+  ],
+  "raw_content": null
+}

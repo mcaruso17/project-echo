@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:43:37",
+  "received_at": "2026-08-06T13:43:49",
+  "latency_seconds": 11.243,
+  "prompt_tokens": 27763,
+  "completion_tokens": 511,
+  "reasoning_tokens": 0,
+  "cached_tokens": 54,
+  "total_tokens": 28274,
+  "cost_usd_api": 0.00214457,
+  "cost_usd_reconstructed": 0.0018701800000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016617-jke54z9HCyMHzjGta2Hf",
+    "provider": "Novita",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per l'annualità 2033 alla Regione Veneto"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per l'annualità 2033 alla Regione Emilia Romagna"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per l'annualità 2032 alla Regione Veneto"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per l'annualità 2032 alla Regione Emilia Romagna"
+    }
+  ],
+  "raw_content": null
+}

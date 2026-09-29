@@ -1,0 +1,35 @@
+{
+  "created_at": "2026-09-24T18:20:30",
+  "prompt_fingerprint": "d02c735d",
+  "prompt_source": "/Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/TEST/prompts/v000.json",
+  "prompt_version": "v000",
+  "price_list_date": "2026-09-24",
+  "generation": {
+    "temperature": 0.0,
+    "max_output_tokens": 32000,
+    "disable_max_tokens": false,
+    "reasoning_effort_on": "medium",
+    "requested_thinking": "off",
+    "json_response_format": true,
+    "workers": 2
+  },
+  "logging": {
+    "log_raw_responses": false,
+    "log_dir": null,
+    "log_include_request": true
+  },
+  "models": [
+    {
+      "slug": "z-ai/glm-4.7-flash",
+      "family": "zai",
+      "kind": "open",
+      "tier": "small",
+      "vision": false,
+      "reasoning": "optional",
+      "price_in": 0.061,
+      "price_out": 0.4,
+      "params_total": "~30B",
+      "params_active": null
+    }
+  ]
+}

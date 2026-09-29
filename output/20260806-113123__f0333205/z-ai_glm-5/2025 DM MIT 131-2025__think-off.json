@@ -1,0 +1,39 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:37:25",
+  "received_at": "2026-08-06T15:37:29",
+  "latency_seconds": 4.529,
+  "prompt_tokens": 5146,
+  "completion_tokens": 280,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5426,
+  "cost_usd_api": 0.0036252,
+  "cost_usd_reconstructed": 0.0036252,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023445-UoT4Qk90gshvIGG6nHP8",
+    "provider": "GMICloud",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento è un decreto direttoriale (non riporta numero e data propri nella parte dispositiva). Il provvedimento approva il Secondo Atto modificativo di una Convenzione e descrive la ripartizione di un contributo complessivo di € 915.000.000,00 sul capitolo 7418 (piano di gestione 4), ma non dispone nuove azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni). Gli importi citati nell'art. 2 si riferiscono a risorse già stanziate e impegnate da precedenti decreti direttoriali (n. 381/2019 e n. 108/2024) e leggi (145/2018 e 234/2021). Non essendo disposta alcuna nuova movimentazione finanziaria a carico del decreto corrente, l'array 'record' è vuoto."
+  },
+  "records": [],
+  "raw_content": null
+}

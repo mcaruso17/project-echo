@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:49:20",
+  "received_at": "2026-08-06T11:49:27",
+  "latency_seconds": 7.723,
+  "prompt_tokens": 4961,
+  "completion_tokens": 482,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5443,
+  "cost_usd_api": 0.00122615,
+  "cost_usd_reconstructed": 0.0011269300000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009760-ql2Y4kVo5hH713Fs9L0Q",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta esplicitamente numero e data nella parte iniziale del testo fornito (spesso presenti nell'intestazione formale non inclusa qui). I ministeri sono stati dedotti dal testo 'Ministero delle infrastrutture e dei trasporti' presente nell'Art. 1 e nell'intestazione. Sono stati estratti due atti di impegno/assegnazione distinti (Art. 1 e Art. 2) sullo stesso capitolo e piano gestionale ma per importi e nature temporali diverse (residui vs nuovi impegni)."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Impegno per gli anni 2022-2025"
+    }
+  ],
+  "raw_content": null
+}

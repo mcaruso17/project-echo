@@ -1,0 +1,124 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:16:23",
+  "received_at": "2026-09-29T12:16:37",
+  "latency_seconds": 14.17,
+  "prompt_tokens": 12610,
+  "completion_tokens": 1572,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14182,
+  "cost_usd_api": 0.0034635,
+  "cost_usd_reconstructed": 0.0034635,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676984-L3jmdKt6RnGgRf4WKZo6",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto-legge 12 settembre 2014, n. 133",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto interministeriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2021, n. 234",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto approva una Convenzione che aggrega finanziamenti precedenti (D.L. 133/2014, D.I. 498/2014, D.I. 97/2022, L. 234/2021, L. 197/2022). Tuttavia, l'unica azione contabile dispositiva (impegno) disposta dal presente decreto riguarda esclusivamente le risorse della Legge 29 dicembre 2022, n. 197 (art. 1, c. 478). Gli importi relativi alle altre fonti (€ 145M e € 1.6M) sono citati nell'art. 2 come copertura già impegnata da atti precedenti (D.D. 454/2022 e D.D. 419/2022) e non generano nuovi record di impegno in questo atto. Il CUP E51I04000010007 è esplicitamente associato alla Convenzione e agli interventi in essa descritti."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2025-2032",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3",
+      "passaggio_testuale": "È autorizzato l’impegno delle risorse di cui al citato articolo 1, comma 478, della legge 29 dicembre 2022, n. 197, sul capitolo 7419, piano gestionale 2 ... per la somma complessiva di € 2.125.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo include € 50.000.000,00 in conto residui (2024) e € 2.075.000.000,00 per gli esercizi 2025-2032. Il CUP E51I04000010007 è associato alla Convenzione di cui all'art. 1."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l’impegno delle risorse di cui al citato art.1, comma 478, della legge 29 dicembre 2022, n.197, sul capitolo 7416 piano gestonale 1 ... per la somma complessiva di € 75.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo è ripartito in € 50.000.000,00 per il 2027 e € 25.000.000,00 per il 2028. Il CUP E51I04000010007 è associato alla Convenzione di cui all'art. 1."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,140 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:47:59",
+  "received_at": "2026-08-14T15:48:12",
+  "latency_seconds": 13.112,
+  "prompt_tokens": 8397,
+  "completion_tokens": 1508,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9905,
+  "cost_usd_api": 0.01705572,
+  "cost_usd_reconstructed": 0.004964655000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715279-pGHTrYTG92eVOOM9qnj2",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data. Gli importi con valore '-' sono stati interpretati come 0 (nessun finanziamento aggiuntivo per quel sub-intervento). Il totale assegnato è 362.137.535,13 euro, come indicato nell'articolo 1 e nell'allegato."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": "Comune di Torino - Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": "Comune di Milano - Metropolitana linea M3: interventi di adeguamento antincendio - Nuovi impianti di rivelazione e segnalazione degli incendi e rimozione impianti esistenti e potenziamento impianti illuminazione di emergenza e compartimentazioni locali tecnici"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Comune di Milano - Metropolitana linea M3: interventi di adeguamento antincendio - Rifacimento dell'impianto di diffusione sonora per consentire l'invio e la diffusione di annunci audio dal vivo oppure preregistrati nelle zone aperte al pubblico e nelle zone di servizio della linea 3"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Comune di Milano - Metropolitana linea M3: interventi di adeguamento antincendio - Nuovi cavi fibra ottica resistenti al fuoco in soluzione ridondata"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": "Comune di Milano - Metropolitana linea M3: interventi di adeguamento antincendio - Interventi di ammodernamento SSE Duomo"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 6",
+      "note": "Comune di Milano - Metropolitana linee M1 + M2: interventi di adeguamento antincendio ai sensi del DM 21.10.2015 fase 2 - Completamento opere civili di compartimentazione e resistenza antincendio"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 7",
+      "note": "Comune di Milano - Metropolitana linee M1 + M2: interventi di adeguamento antincendio ai sensi del DM 21.10.2015 fase 2 - Adeguamento degli impianti dei GE, delle cabine elettriche e sostituzione cavi"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 8",
+      "note": "Comune di Genova - Linea metropolitana: prolungamento a Rivarolo e completamento della stazione di Martinez/Terralba - Tratta Canepari - Rivarolo"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 9",
+      "note": "Comune di Genova - Linea metropolitana: prolungamento a Rivarolo e completamento della stazione di Martinez/Terralba - Completamento della stazione di Martinez/Terralba"
+    }
+  ],
+  "raw_content": null
+}

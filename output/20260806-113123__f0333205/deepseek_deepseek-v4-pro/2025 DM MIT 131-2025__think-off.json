@@ -1,0 +1,39 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:38:05",
+  "received_at": "2026-08-06T15:38:10",
+  "latency_seconds": 5.692,
+  "prompt_tokens": 5192,
+  "completion_tokens": 197,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 5389,
+  "cost_usd_api": 0.0026849128,
+  "cost_usd_reconstructed": 0.00242991,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023485-Il0PU8pntOcS6qa0Fv9X",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto direttoriale che approva un atto modificativo di una convenzione, ma non dispone nuove azioni di finanziamento. Gli importi citati (€ 900.000.000,00 e € 15.000.000,00) sono già stati impegnati con precedenti decreti (n. 381/2019 e n. 108/2024) e qui sono solo richiamati. Non sono presenti assegnazioni, definanziamenti o rimodulazioni disposte dal decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

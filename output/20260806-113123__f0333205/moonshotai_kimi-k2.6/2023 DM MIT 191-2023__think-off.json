@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:08:01",
+  "received_at": "2026-08-06T13:08:40",
+  "latency_seconds": 39.286,
+  "prompt_tokens": 8956,
+  "completion_tokens": 1399,
+  "reasoning_tokens": 1,
+  "cached_tokens": 0,
+  "total_tokens": 10355,
+  "cost_usd_api": 0.010013982,
+  "cost_usd_reconstructed": 0.01068155,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014481-TxtOdjRiHcy4w5ubV9F1",
+    "provider": "StreamLake",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta numero né data espliciti nell'intestazione o nella parte dispositiva. Il numero e la data del decreto non sono indicati nel testo fornito (il riferimento 'dell'8 aprile 2021' nel preambolo sembra un refuso di battitura, essendo collocato dopo un decreto legislativo del 2026 e prima di un articolo del 2014). Le azioni con importo 0 corrispondono a righe dove il finanziamento ammesso è indicato con '-' ma sono parte del piano di riparto; sono state incluse per completezza ma potrebbero essere escluse se si interpreta che non generano movimento contabile. Il totale delle risorse ripartite è € 362.137.535,13 come da art. 1 comma 1."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI TORINO - PROLUNGAMENTO LINEA TRANVIARIA 12 ALL'ALLIANZ STADIUM",
+      "note": "Finanziamento ammesso, cofinanziamento disponibile nullo (-)"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - METROPOLITANA LINEA M3 - NUOVI IMPIANTI DI RIVELAZIONE",
+      "note": "Cofinanziamento disponibile 2.000.000,00; costo subintervento 9.803.527,30"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - RIFACIMENTO IMPIANTO DIFFUSIONE SONORA",
+      "note": "Finanziamento ammesso nullo (-); costo subintervento 4.056.131,32. Non crea movimento di bilancio"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - NUOVI CAVI FIBRA OTTICA",
+      "note": "Finanziamento ammesso nullo (-); costo subintervento 1.165.984,00. Non crea movimento di bilancio"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - INTERVENTI DI AMMODERNAMENTO SSE DUOMO",
+      "note": "Cofinanziamento disponibile 2.100.000,00; costo subintervento 9.974.357,40"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - METROPOLITANA LINEE M1+M2 FASE 2 - COMPLETAMENTO OPERE CIVILI",
+      "note": "Finanziamento ammesso nullo (-); costo subintervento 10.067.742,09. Non crea movimento di bilancio"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI MILANO - METROPOLITANA LINEE M1+M2 FASE 2 - ADEGUAMENTO IMPIANTI GE",
+      "note": "Totale intervento 45.000.000,07; costo subintervento 34.932.257,98"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI GENOVA - TRATTA CANEPARI - RIVAROLO",
+      "note": "Finanziamento ammesso nullo (-); costo subintervento 64.158.886,29. Non crea movimento di bilancio"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga COMUNE DI GENOVA - COMPLETAMENTO STAZIONE MARTINEZ/TERRALBA",
+      "note": "Totale intervento 74.516.124,63; costo subintervento 10.357.238,34"
+    }
+  ],
+  "raw_content": null
+}

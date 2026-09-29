@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:18:05",
+  "received_at": "2026-08-11T16:18:15",
+  "latency_seconds": 9.813,
+  "prompt_tokens": 6882,
+  "completion_tokens": 1311,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8193,
+  "cost_usd_api": 0.013437,
+  "cost_usd_reconstructed": 0.013437,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457886-wjRCg87ANpg1HgigTinn",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non riporta numero e data nella testata. Il numero e la data sono desumibili dal contesto come decreto successivo al D.M. n. 464 del 22/11/2021, ma non sono esplicitamente indicati nel documento. La tabella allegata riporta i CUP e gli importi per beneficiario e anno. Tutti gli importi sono estratti dalla tabella allegata al decreto, che costituisce parte integrante degli articoli 1, 2 e 3."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "€ 97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e 2, Allegato Tabella 1 - Comune di Padova",
+      "note": "Impegno in conto residui (Art. 1: € 1.000.000,00 es. 2020 + € 2.000.000,00 es. 2021) e in conto competenza (Art. 2: € 631.174.000,00 per esercizi 2022-2034). Totale pluriennale € 97.154.124,10"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "€ 159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e 2, Allegato Tabella 1 - Roma Capitale",
+      "note": "Impegno in conto residui (Art. 1: € 1.000.000,00 es. 2020 + € 2.000.000,00 es. 2021) e in conto competenza (Art. 2: € 631.174.000,00 per esercizi 2022-2034). Totale pluriennale € 159.466.174,12"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "€ 44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e 2, Allegato Tabella 1 - Comune di Torino",
+      "note": "Impegno in conto residui (Art. 1: € 1.000.000,00 es. 2020 + € 2.000.000,00 es. 2021) e in conto competenza (Art. 2: € 631.174.000,00 per esercizi 2022-2034). Totale pluriennale € 44.494.493,04"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 333059208.74,
+      "importo_originale": "€ 333.059.208,74",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1 e 2, Allegato Tabella 1 - Comune di Brescia (PG 7)",
+      "note": "Impegno in conto residui (Art. 1: € 1.000.000,00 es. 2020 + € 2.000.000,00 es. 2021) e in conto competenza (Art. 2: € 631.174.000,00 per esercizi 2022-2034). Totale pluriennale € 333.059.208,74"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "€ 26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 3, Allegato Tabella 1 - Comune di Brescia (PG 1)",
+      "note": "Impegno in conto competenza per esercizi finanziari 2029-2034. Totale pluriennale € 26.486.678,33"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 334-2024.pdf",
+  "decree_relpath": "2024 DM MIT 334-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T15:17:06",
+  "received_at": "2026-08-06T15:18:46",
+  "latency_seconds": 100.022,
+  "prompt_tokens": 14639,
+  "completion_tokens": 8000,
+  "reasoning_tokens": 8000,
+  "cached_tokens": 0,
+  "total_tokens": 22639,
+  "cost_usd_api": 0.035786352,
+  "cost_usd_reconstructed": 0.013327965,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022226-6ab9yCQTOUu1nVlfSI4w",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": ""
+}

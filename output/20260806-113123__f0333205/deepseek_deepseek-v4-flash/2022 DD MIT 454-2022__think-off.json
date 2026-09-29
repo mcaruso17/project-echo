@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:49:00",
+  "received_at": "2026-08-06T11:49:07",
+  "latency_seconds": 6.603,
+  "prompt_tokens": 5068,
+  "completion_tokens": 419,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5487,
+  "cost_usd_api": 0.0005539828,
+  "cost_usd_reconstructed": 0.0005315399999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009740-BIqfuDcAJJbpsi3Apdk6",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non ha un numero e una data espliciti nel testo; si tratta di un decreto dirigenziale (Direttore della Div 2). I ministeri sono desunti dall'intestazione e dal contesto."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2 e tabella",
+      "note": "Importo complessivo ripartito in 35.000.000,00 € (2022), 40.000.000,00 € (2023), 33.500.000,00 € (2024), 22.500.000,00 € (2025)"
+    }
+  ],
+  "raw_content": null
+}

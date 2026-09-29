@@ -1,0 +1,147 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:06:13",
+  "received_at": "2026-09-29T12:06:33",
+  "latency_seconds": 19.615,
+  "prompt_tokens": 74031,
+  "completion_tokens": 1734,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 75765,
+  "cost_usd_api": 0.01283865,
+  "cost_usd_reconstructed": 0.01283865,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676374-qusUmv0Aj61cS6oODTh9",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "19 dicembre 2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "approvazione",
+    "atti_collegati": [
+      {
+        "estremi": "Delibera CIPE 4 aprile 2019, n. 6",
+        "relazione": "approva_progetto_preliminare"
+      },
+      {
+        "estremi": "Delibera CIPESS n. 14 del 23 aprile 2024",
+        "relazione": "definanzia"
+      },
+      {
+        "estremi": "Decreto MIT 22 dicembre 2017, n. 587",
+        "relazione": "finanzia"
+      },
+      {
+        "estremi": "Decreto MIT 2 marzo 2018, n. 86",
+        "relazione": "finanzia"
+      },
+      {
+        "estremi": "Decreto MIT 4 marzo 2015, n. 82",
+        "relazione": "finanzia"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto approva il progetto definitivo e ne determina la copertura finanziaria. Gli importi indicati (95M, 47M, 29.9M) corrispondono a risorse già assegnate da decreti MIT precedenti (n. 82/2015, n. 587/2017, n. 86/2018) e qui confermate/riportate come copertura per l'intervento approvato. Non vi sono nuovi stanziamenti o rimodulazioni di importo netto rispetto agli atti precedenti citati, ma l'atto dispone l'uso di tali risorse per l'intervento CUP H11J12000200001. La delibera CIPESS n. 14/2024 ha definito le risorse FSC (27.55M), ma l'atto corrente non dispone su di esse (sono escluse dal finanziamento statale diretto ora confermato). I record estratti riflettono la disposizione di copertura statale per l'intervento."
+  },
+  "records": [
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "annualita": null,
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "art. 1.2.1; premesse (Visto d. MIT 4 marzo 2015, n. 82)",
+      "passaggio_testuale": "95.000.000,00 euro a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorsa destinata alla Linea 4.1; l'atto approva il progetto e conferma la copertura finanziaria già assegnata da atti precedenti, ma ne dispone l'utilizzo per l'intervento."
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "annualita": null,
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "art. 1.2.1; premesse (Visto d. MIT 22 dicembre 2017, n. 587)",
+      "passaggio_testuale": "47.000.000,00 euro a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorsa destinata alla Linea 4.1; l'atto approva il progetto e conferma la copertura finanziaria."
+    },
+    {
+      "cup": [
+        "H11J12000200001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Quota a carico dello Stato",
+      "riferimento_fonte": "art. 1.2.1; premesse (Visto d. MIT 2 marzo 2018, n. 86)",
+      "passaggio_testuale": "29.900.000,00 euro a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT)»",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Risorsa destinata alla Linea 4.1; l'atto approva il progetto e conferma la copertura finanziaria."
+    }
+  ],
+  "raw_content": null
+}

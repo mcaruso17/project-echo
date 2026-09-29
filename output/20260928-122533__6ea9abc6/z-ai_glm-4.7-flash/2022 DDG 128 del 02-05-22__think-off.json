@@ -1,0 +1,208 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:26:45",
+  "received_at": "2026-09-28T12:27:41",
+  "latency_seconds": 56.066,
+  "prompt_tokens": 10416,
+  "completion_tokens": 2675,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 13091,
+  "cost_usd_api": 0.001700168,
+  "cost_usd_reconstructed": 0.001705376,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591205-YgCFRXnwY66D1mqbHjST",
+    "provider": "Cloudflare",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "464",
+    "data_decreto": "2021-11-22",
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 23 dicembre 2020, n. 190",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | 153.197,90 | 306.395,80 | 612.791,59 | 1.302.182,14 | 1.685.176,88 | 6.970.504,38 | 8.732.280,22 | 10.597.311,43 | 11.030.248,69 | 12.255.831,88 | 12.255.831,88 | 7.659.894,93 | 7.506.697,03 | 7.659.894,93 | 8.425.884,42 | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | 251.454,92 | 502.909,85 | 1.005.819,69 | 2.137.366,84 | 2.766.004,15 | 11.441.198,98 | 14.332.930,59 | 17.394.142,82 | 18.104.754,43 | 20.116.393,81 | 20.116.393,81 | 12.572.746,13 | 12.321.291,21 | 12.572.746,13 | 13.830.020,76 | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 44494493.04,
+      "importo_originale": "€ 44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | 70.161,34 | 140.322,66 | 280.645,33 | 596.371,33 | 771.774,66 | 3.192.340,64 | 3.999.195,96 | 4.853.340,04 | 5.051.615,96 | 5.612.906,63 | 5.612.906,63 | 3.508.066,64 | 3.437.905,30 | 3.508.066,64 | 3.858.873,28 | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 333059208.74,
+      "importo_originale": "€ 333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | 70.161,34 | 140.322,66 | 280.645,33 | 596.371,33 | 771.774,66 | 3.192.340,64 | 3.999.195,96 | 4.853.340,04 | 5.051.615,96 | 5.612.906,63 | 5.612.906,63 | 3.508.066,64 | 3.437.905,30 | 3.508.066,64 | 3.858.873,28 | 44.494.493,04",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 333059208.74,
+      "importo_originale": "€ 333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 1 / [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | 525.185,84 | 1.050.371,69 | 2.100.743,39 | 4.464.079,69 | 5.777.044,31 | 23.895.956,00 | 29.935.593,23 | 36.329.205,71 | 37.813.380,92 | 42.014.867,68 | 42.014.867,68 | 26.259.292,30 | 25.734.106,46 | 26.259.292,30 | 28.885.221,54 | 333.059.208,74",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 26486678.33,
+      "importo_originale": "€ 26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; Allegato 1 / [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | | | | | | | | | | | | | | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,39 | 4.414.446,38 | 26.486.678,33",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

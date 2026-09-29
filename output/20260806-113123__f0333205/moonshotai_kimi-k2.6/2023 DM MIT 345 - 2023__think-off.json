@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:30:33",
+  "received_at": "2026-08-06T14:30:43",
+  "latency_seconds": 9.93,
+  "prompt_tokens": 15153,
+  "completion_tokens": 337,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1856,
+  "total_tokens": 15490,
+  "cost_usd_api": 0.01427711,
+  "cost_usd_reconstructed": 0.01115015,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786019433-SeJiKK7SJkagsCjgjHNY",
+    "provider": "Cloudflare",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data specifici nel testo fornito. Il documento contiene la parte dispositiva ('DECRETA') emanata dal 'Ministro delle infrastrutture e dei trasporti', ma non riporta il numero di decreto né la data di emissione nel formato tipico (es. 'del ...'). Gli allegati 1 e 2 sostituiscono quelli del DM 448/2021, ma il decreto corrente non dispone nuove assegnazioni finanziarie con capitoli di bilancio, piani gestionali o CUP aggiuntivi rispetto a quanto già previsto dal DM 448/2021. Le tabelle riportano solo l'elenco degli interventi con i relativi CUP e importi già assegnati dal decreto precedente, senza indicare nuovi stanziamenti con capitoli di spesa o piani gestionali del decreto corrente. Non sono presenti azioni di finanziamento che colleghino linee di bilancio (capitoli/piani gestionali) a progetti/CUP nel testo del decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

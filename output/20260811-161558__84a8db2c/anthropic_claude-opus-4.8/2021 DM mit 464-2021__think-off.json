@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:16:23",
+  "received_at": "2026-08-11T16:16:39",
+  "latency_seconds": 16.389,
+  "prompt_tokens": 13842,
+  "completion_tokens": 1388,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15230,
+  "cost_usd_api": 0.10391,
+  "cost_usd_reconstructed": 0.10391,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457783-t1ARH02npys4pqeURhFv",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto non riporta il numero né la data del decreto corrente (firma 'IL MINISTRO' senza data). Le risorse ripartite provengono dal capitolo 7400, piano gestionale 7 (art. 1, c. 14 L. 160/2019) e piano gestionale 1 (art. 1, c. 14 L. 178/2020); l'Allegato 1 non specifica il piano gestionale per ciascun intervento, quindi il campo piano_gestionale è null. Il totale ripartito è € 660.660.678,33 (art. 1). Un residuo di € 88.415.746,74 è rinviato a successivo provvedimento e non risulta assegnato in questo decreto."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Padova",
+      "note": "Comune di Padova - Linea Sir 2 del tram, completamento sistema intermedio a rete della città di Padova; costo intervento € 335.211.901,76; intervento già ammesso a finanziamento nell'ambito della Misura M2C2-4.2 del PNRR per € 238.057.777,66"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Brescia",
+      "note": "Comune di Brescia - Nuova linea tranviaria 'Pendolina-Fiera (T2)'; costo intervento € 363.288.528,40"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Roma Capitale",
+      "note": "Roma Capitale - Rinnovo materiale linee A e B-B1 della metropolitana; costo intervento € 159.466.174,12"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Torino (linea tranviaria 15)",
+      "note": "Comune di Torino - Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro; costo intervento € 9.408.502,67"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Torino (metropolitana Linea 1)",
+      "note": "Comune di Torino - Metropolitana automatica di Torino - Linea 1: prolungamento ovest Collegno - Cascine Vica: nuovo fabbricato deposito treni; costo intervento € 35.085.990,37"
+    }
+  ],
+  "raw_content": null
+}

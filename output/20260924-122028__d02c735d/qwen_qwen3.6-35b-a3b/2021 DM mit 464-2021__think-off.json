@@ -1,0 +1,210 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:20:42",
+  "received_at": "2026-09-24T12:21:01",
+  "latency_seconds": 19.123,
+  "prompt_tokens": 12085,
+  "completion_tokens": 2415,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14500,
+  "cost_usd_api": 0.00229475,
+  "cost_usd_reconstructed": 0.00422775,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790245242-aZRPNGluWA4a4z3ShtJU",
+    "provider": "Darkbloom",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Presidente del Consiglio dei ministri 11 giugno 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto del Presidente del Consiglio dei ministri 23 dicembre 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto ministeriale 3 febbraio 2022, n. 144",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "Il decreto non riporta un numero e una data espliciti nell'intestazione o nella parte dispositiva visibile. Si è proceduto all'estrazione basandosi sul testo fornito. I CUP estratti sono tutti definitivi. L'importo totale assegnato (660.660.678,33) corrisponde alla somma delle quote dei singoli CUP nell'allegato. È stato estratto anche il residuo non allocato menzionato nelle premesse."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento totale ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.10 n.1], riga 1",
+      "passaggio_testuale": "COMUNE DI PADOVA | LINEA SIR 2 DEL TRAM... | H94I19000130004 | TRANVIA | 335.211.901,76 | 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento totale ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.10 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI BRESCIA | NUOVA LINEA TRANVIARIA... | C81B21013200005 | TRANVIA | 363.288.528,40 | 359.545.887,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento totale ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.10 n.1], riga 3",
+      "passaggio_testuale": "ROMA CAPITALE | RINNOVO MATERIALE... | J80J18000000001 | METRO | 159.466.174,12 | 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento totale ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.10 n.1], riga 4",
+      "passaggio_testuale": "COMUNE DI TORINO | ATTESTAMENTO LINEA... | C11B21008720001 | TRANVIA | 9.408.502,67 | 9.408.502,67",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Finanziamento totale ammesso",
+      "riferimento_fonte": "Allegato 1 / [TABELLA pag.10 n.1], riga 5",
+      "passaggio_testuale": "COMUNE DI TORINO | METROPOLITANA AUTOMATICA... | D81E20000410007 | METRO | 35.085.990,37 | 35.085.990,37",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [],
+      "n_cup": 0,
+      "cup_valido": false,
+      "cup_tipo": null,
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": null,
+      "importo_eur": 88415746.74,
+      "importo_originale": "88.415.746,74",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "non_allocato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Art. 1; premesse (CONSIDERATO)",
+      "passaggio_testuale": "CONSIDERATA l’urgenza... il residuo di € 88.415.746,74 sia ripartito con successivo provvedimento",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "L'importo è indicato nelle premesse come residuo non ripartito nel presente decreto, ma l'Art. 1 assegna un totale di 660.660.678,33 che corrisponde alla somma dei CUP. Il residuo è esplicitamente menzionato come non allocato a questo decreto.",
+      "note": "Importo residuo non assegnato a specifici CUP nel presente decreto, come da premesse."
+    }
+  ],
+  "raw_content": null
+}

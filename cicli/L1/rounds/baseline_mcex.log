@@ -1,0 +1,382 @@
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/L1/prompts/v000.json
+  versione: v000   fingerprint: d02c735d
+Logging integrale ATTIVO -> /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-122028__d02c735d/log
+--docs-file -> 16 documento/i su 25 (elenco di 16 stem).
+16 PDF x 10 modelli -> 10 celle-modello per documento
+Run: 20260924-122028__d02c735d
+
+[2021 DM mit 464-2021.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2021 DM mit 464-2021.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2021 DM mit 464-2021.pdf] -> moonshotai_kimi-k3 [OFF]
+[2021 DM mit 464-2021.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 0 record, 12429->3 tok, $0.0012, 2.638s
+[2021 DM mit 464-2021.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 6 record, 12430->2232 tok, $0.0316, 11.124s
+[2021 DM mit 464-2021.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 6 record, 13371->2716 tok, $0.0513, 26.258s
+[2021 DM mit 464-2021.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 6 record, 12085->2415 tok, $0.0023, 19.123s
+[2021 DM mit 464-2021.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 13308->2096 tok, $0.0173, 50.258s
+[2021 DM mit 464-2021.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 6 record, 12292->2232 tok, $0.0016, 51.439s
+[2021 DM mit 464-2021.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 12204->2310 tok, $0.0064, 24.853s
+    ok: 5 record, 17748->4842 tok, $0.1678, 39.531s
+    ok: 5 record, 12378->2096 tok, $0.0020, 21.748s
+    ok: 6 record, 12379->2191 tok, $0.0020, 26.178s
+[2022 DD MIT 454-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DD MIT 454-2022.pdf] -> moonshotai_kimi-k3 [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 6 record, 8564->1937 tok, $0.0132, 22.197s
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 6 record, 8627->2459 tok, $0.0528, 26.671s
+[2022 DD MIT 454-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 6 record, 8105->1804 tok, $0.0007, 35.296s
+[2022 DD MIT 454-2022.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 6 record, 8069->1877 tok, $0.0012, 43.208s
+[2022 DD MIT 454-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 6 record, 8183->2268 tok, $0.0020, 22.799s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 6 record, 7994->1561 tok, $0.0106, 7.978s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 6 record, 11176->3349 tok, $0.1117, 26.008s
+    ok: 6 record, 8372->2161 tok, $0.0016, 17.59s
+    ok: 6 record, 8424->2129 tok, $0.0008, 29.55s
+    ok: 6 record, 8105->2084 tok, $0.0122, 106.262s
+[2022 DDG 128 del 02-05-22.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> moonshotai_kimi-k3 [OFF]
+    ok: 5 record, 9350->1718 tok, $0.0012, 17.24s
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 8 record, 9350->3348 tok, $0.0124, 44.204s
+[2022 DDG 128 del 02-05-22.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 10381->2171 tok, $0.0030, 7.61s
+[2022 DDG 128 del 02-05-22.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 76 record, 9897->25661 tok, $0.4146, 130.128s
+[2022 DDG 128 del 02-05-22.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 71 record, 9831->18072 tok, $0.0583, 231.694s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 5 record, 10620->1899 tok, $0.0017, 17.642s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 71 record, 12429->26793 tok, $0.5856, 185.453s
+    ok: 8 record, 10621->2672 tok, $0.0020, 9.939s
+    ok: 64 record, 9280->17444 tok, $0.0237, 129.973s
+    errore di rete (Response ended prematurely), retry 1/4 tra 2.3512436793948686s
+    ok: 87 record, 9573->24062 tok, $0.0102, 592.081s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> moonshotai_kimi-k3 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 19 record, 17416->7112 tok, $0.0283, 69.189s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 19 record, 16544->5642 tok, $0.0060, 111.442s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 19 record, 16435->6453 tok, $0.0036, 111.817s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 19 record, 16544->7068 tok, $0.0269, 45.33s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 19 record, 17170->6946 tok, $0.0057, 53.132s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 19 record, 23456->10229 tok, $0.2984, 73.726s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 24 record, 17472->9888 tok, $0.1781, 189.733s
+    ok: 19 record, 17412->6935 tok, $0.0041, 124.425s
+    ok: 27 record, 17464->9062 tok, $0.0027, 114.304s
+    ok: 20 record, 16181->7110 tok, $0.0123, 236.614s
+[2022 DM MIMS 342-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIMS 342-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIMS 342-2022.pdf] -> moonshotai_kimi-k3 [OFF]
+[2022 DM MIMS 342-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 1 record, 9757->481 tok, $0.0011, 5.85s
+[2022 DM MIMS 342-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 1 record, 10471->902 tok, $0.0449, 10.27s
+[2022 DM MIMS 342-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 1 record, 9874->616 tok, $0.0124, 10.547s
+[2022 DM MIMS 342-2022.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 1 record, 9708->613 tok, $0.0009, 7.494s
+[2022 DM MIMS 342-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 1 record, 10429->959 tok, $0.0158, 18.349s
+[2022 DM MIMS 342-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 1 record, 9652->670 tok, $0.0009, 19.718s
+[2022 DM MIMS 342-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 1 record, 9624->991 tok, $0.0040, 5.959s
+    ok: 1 record, 9920->612 tok, $0.0012, 7.704s
+    ok: 1 record, 13554->1717 tok, $0.0886, 16.549s
+    ok: 4 record, 9920->1451 tok, $0.0024, 31.763s
+[2022 DM MIT 409-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIT 409-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIT 409-2022.pdf] -> moonshotai_kimi-k3 [OFF]
+[2022 DM MIT 409-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 2 record, 8083->786 tok, $0.0005, 9.228s
+[2022 DM MIT 409-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 8686->1421 tok, $0.0474, 16.522s
+[2022 DM MIT 409-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 8083->958 tok, $0.0123, 11.112s
+[2022 DM MIT 409-2022.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 2 record, 8618->923 tok, $0.0075, 21.271s
+[2022 DM MIT 409-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 7955->1148 tok, $0.0030, 6.032s
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 2 record, 7971->1100 tok, $0.0012, 15.985s
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 7951->952 tok, $0.0009, 36.016s
+    ok: 2 record, 11344->1981 tok, $0.0850, 17.842s
+    ok: 2 record, 8106->896 tok, $0.0014, 7.07s
+    ok: 2 record, 8105->1027 tok, $0.0012, 17.975s
+[2023 DI MIT-MEF 286-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 6 record, 8269->2457 tok, $0.0109, 8.562s
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 6 record, 7771->1786 tok, $0.0125, 17.462s
+[2023 DI MIT-MEF 286-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 6 record, 7771->1564 tok, $0.0011, 32.984s
+[2023 DI MIT-MEF 286-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 6 record, 8335->2025 tok, $0.0554, 34.74s
+[2023 DI MIT-MEF 286-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 1 record, 7681->550 tok, $0.0008, 9.586s
+[2023 DI MIT-MEF 286-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 6 record, 7698->2375 tok, $0.0051, 8.311s
+[2023 DI MIT-MEF 286-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 6 record, 7676->1685 tok, $0.0011, 58.288s
+    ok: 11 record, 7828->3309 tok, $0.0019, 35.9s
+    ok: 13 record, 10918->5508 tok, $0.1538, 40.788s
+    ok: 11 record, 7829->3331 tok, $0.0017, 41.29s
+[2023 DM MIT 191-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 191-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 191-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 191-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 9 record, 11358->3035 tok, $0.0015, 32.453s
+[2023 DM MIT 191-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 12 record, 12100->4754 tok, $0.0728, 34.742s
+[2023 DM MIT 191-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 12 record, 12037->3618 tok, $0.0146, 52.656s
+[2023 DM MIT 191-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 9 record, 11203->3354 tok, $0.0050, 35.935s
+[2023 DM MIT 191-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 9 record, 11234->3401 tok, $0.0020, 70.691s
+[2023 DM MIT 191-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 13 record, 11129->4160 tok, $0.0066, 30.716s
+[2023 DM MIT 191-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 16218->5838 tok, $0.1816, 48.568s
+    ok: 12 record, 11417->4120 tok, $0.0025, 38.282s
+    ok: 8 record, 11417->3172 tok, $0.0021, 41.062s
+    ok: 12 record, 11358->4513 tok, $0.0224, 195.259s
+[2023 DM MIT 270-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 270-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 270-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 270-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 43 record, 45618->14490 tok, $0.0065, 110.379s
+[2023 DM MIT 270-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 13 record, 45795->4571 tok, $0.0050, 173.422s
+[2023 DM MIT 270-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 44 record, 45619->15108 tok, $0.1501, 71.121s
+[2023 DM MIT 270-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 44 record, 47659->13986 tok, $0.1012, 247.396s
+[2023 DM MIT 270-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 44 record, 47722->16622 tok, $0.3881, 279.699s
+[2023 DM MIT 270-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 44 record, 44994->14277 tok, $0.0241, 80.267s
+[2023 DM MIT 270-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 43 record, 60533->21496 tok, $0.6721, 166.581s
+    ok: 45 record, 48940->18026 tok, $0.0151, 273.912s
+    ok: 39 record, 49589->14292 tok, $0.0052, 207.659s
+    ok: 42 record, 49537->15164 tok, $0.0101, 272.538s
+[2023 DM MIT 342-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 342-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 9 record, 30723->3344 tok, $0.0032, 66.873s
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 26 record, 29990->7666 tok, $0.0339, 38.632s
+[2023 DM MIT 342-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 4 record, 33155->2886 tok, $0.0059, 18.014s
+[2023 DM MIT 342-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 26 record, 31215->9419 tok, $0.0673, 130.228s
+[2023 DM MIT 342-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 34 record, 29990->9963 tok, $0.0070, 132.466s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 26 record, 31278->8245 tok, $0.2501, 170.0s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 26 record, 33303->9305 tok, $0.0065, 118.584s
+    ok: 26 record, 29673->9051 tok, $0.0155, 138.424s
+    ok: 24 record, 33355->7916 tok, $0.0031, 108.893s
+    ok: 34 record, 40698->20469 tok, $0.5722, 161.146s
+[2023 DM MIT 344-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 344-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 344-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 344-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 17 record, 13674->4706 tok, $0.0044, 118.971s
+[2023 DM MIT 344-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 85 record, 14295->21833 tok, $0.0599, 254.445s
+[2023 DM MIT 344-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 85 record, 13652->24049 tok, $0.0601, 179.791s
+[2023 DM MIT 344-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 74 record, 14358->21735 tok, $0.3647, 322.879s
+[2023 DM MIT 344-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 77 record, 13826->21256 tok, $0.0093, 351.916s
+[2023 DM MIT 344-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 73 record, 13515->16903 tok, $0.0243, 54.719s
+[2023 DM MIT 344-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 73 record, 18516->28128 tok, $0.6366, 194.54s
+    ok: 83 record, 15134->28883 tok, $0.0210, 313.916s
+    ok: 67 record, 15450->21986 tok, $0.0090, 252.185s
+    PARSE_ERROR: 0 record, 15502->32000 tok, $0.0077, 352.122s
+    ATTENZIONE: output troncato (alzare MAX_OUTPUT_TOKENS).
+[2023 DM MIT 345 - 2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 38 record, 17765->13756 tok, $0.0066, 134.604s
+[2023 DM MIT 345 - 2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 40 record, 18298->13172 tok, $0.2525, 188.67s
+[2023 DM MIT 345 - 2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 40 record, 17670->14508 tok, $0.0808, 68.007s
+[2023 DM MIT 345 - 2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 38 record, 18232->12698 tok, $0.0464, 228.299s
+[2023 DM MIT 345 - 2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 59 record, 17337->18772 tok, $0.0222, 60.92s
+[2023 DM MIT 345 - 2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 38 record, 25627->19528 tok, $0.4931, 135.485s
+[2023 DM MIT 345 - 2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 38 record, 18971->12951 tok, $0.0100, 168.73s
+    ok: 18 record, 18998->6426 tok, $0.0041, 20.981s
+    ok: 38 record, 17669->11769 tok, $0.0040, 595.068s
+    ok: 38 record, 18998->12564 tok, $0.0268, 335.875s
+[2023 DM MIT 346-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 346-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 346-2023.pdf] -> moonshotai_kimi-k3 [OFF]
+[2023 DM MIT 346-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 6 record, 8090->2729 tok, $0.0435, 18.926s
+[2023 DM MIT 346-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 6 record, 7585->2308 tok, $0.0014, 23.459s
+[2023 DM MIT 346-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 8034->2563 tok, $0.0113, 27.385s
+[2023 DM MIT 346-2023.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 6 record, 7657->2642 tok, $0.0106, 18.699s
+[2023 DM MIT 346-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 6 record, 7756->2849 tok, $0.0024, 27.714s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 5 record, 7550->2492 tok, $0.0042, 17.114s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 10583->3663 tok, $0.1156, 32.09s
+    ok: 6 record, 7901->2853 tok, $0.0016, 26.813s
+    ok: 5 record, 7900->2358 tok, $0.0018, 37.008s
+    ok: 5 record, 7657->1918 tok, $0.0010, 96.196s
+[2024 DM MIT 334-2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 DM MIT 334-2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 DM MIT 334-2024.pdf] -> moonshotai_kimi-k3 [OFF]
+[2024 DM MIT 334-2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 41 record, 18519->14606 tok, $0.2746, 213.413s
+[2024 DM MIT 334-2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 40 record, 17762->14734 tok, $0.0070, 270.765s
+[2024 DM MIT 334-2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 39 record, 17773->15431 tok, $0.0635, 148.838s
+[2024 DM MIT 334-2024.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 36 record, 18271->13368 tok, $0.0103, 103.094s
+[2024 DM MIT 334-2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 39 record, 18456->12400 tok, $0.0681, 448.314s
+[2024 DM MIT 334-2024.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 41 record, 17358->11380 tok, $0.0188, 75.629s
+[2024 DM MIT 334-2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 39 record, 25958->18667 tok, $0.4772, 140.366s
+    ok: 37 record, 17656->12533 tok, $0.0042, 527.351s
+    ok: 25 record, 18355->8005 tok, $0.0042, 104.597s
+    ok: 39 record, 18356->12895 tok, $0.0267, 333.722s
+[2025 DD MIT 141-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DD MIT 141-2025.pdf] -> moonshotai_kimi-k3 [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 13 record, 11669->3042 tok, $0.0127, 39.157s
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 19 record, 11732->6140 tok, $0.0827, 48.741s
+[2025 DD MIT 141-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 18 record, 11073->5568 tok, $0.0314, 49.985s
+[2025 DD MIT 141-2025.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 16 record, 11579->5522 tok, $0.0044, 44.493s
+[2025 DD MIT 141-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 16 record, 11054->5907 tok, $0.0030, 112.392s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 13 record, 10946->3759 tok, $0.0062, 22.292s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 18 record, 11073->5599 tok, $0.0030, 151.316s
+    ok: 20 record, 15454->8185 tok, $0.2255, 75.932s
+    ok: 17 record, 11889->5536 tok, $0.0028, 102.738s
+    ok: 18 record, 11889->5901 tok, $0.0032, 113.149s
+[2025 DM MIT 131-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DM MIT 131-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DM MIT 131-2025.pdf] -> moonshotai_kimi-k3 [OFF]
+[2025 DM MIT 131-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 3 record, 8736->1778 tok, $0.0529, 9.912s
+[2025 DM MIT 131-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 8123->1039 tok, $0.0009, 19.125s
+[2025 DM MIT 131-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 3 record, 8670->1328 tok, $0.0062, 20.603s
+[2025 DM MIT 131-2025.pdf] -> anthropic_claude-opus-5.5 [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 3 record, 8209->1459 tok, $0.0010, 24.287s
+[2025 DM MIT 131-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 3 record, 8210->1570 tok, $0.0171, 18.19s
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 8536->3 tok, $0.0064, 0.684s
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 3 record, 8122->1777 tok, $0.0045, 6.732s
+    ok: 3 record, 8364->1605 tok, $0.0015, 18.17s
+    ok: 3 record, 11518->3062 tok, $0.1073, 27.139s
+    ok: 3 record, 8588->1297 tok, $0.0006, 22.722s
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-122028__d02c735d
+JSONL scritto: results.jsonl (160 righe, tutte le celle)
+
+Spesa totale (API): $9.2642
+Costo per cella-modello:
+cell
+anthropic/claude-opus-5.5::off        4.972020
+moonshotai/kimi-k3::off               2.626408
+deepseek/deepseek-v4-pro-0813::off    0.590133
+moonshotai/kimi-k2.6::off             0.539092
+minimax/minimax-m3::off               0.191521
+google/gemma-4-31b-it::off            0.106658
+qwen/qwen3.6-35b-a3b::off             0.091497
+z-ai/glm-4.7-flash::off               0.057982
+google/gemma-4-26b-a4b-it::off        0.044516
+deepseek/deepseek-v4-flash::off       0.044333
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-122028__d02c735d
+/Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-122028__d02c735d

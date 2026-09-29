@@ -1,0 +1,72 @@
+{
+  "request_body": {
+    "model": "z-ai/glm-4.7-flash",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Ciao! Rispondi con una sola parola."
+      }
+    ],
+    "usage": {
+      "include": true
+    }
+  },
+  "http_status": 200,
+  "sent_at": "2026-07-23T09:06:28",
+  "received_at": "2026-07-23T09:06:32",
+  "latency_seconds": 3.868,
+  "raw_response": {
+    "id": "gen-1784790389-3vHnitkqbm1h71RwqOyv",
+    "object": "chat.completion",
+    "created": 1784790389,
+    "model": "z-ai/glm-4.7-flash",
+    "provider": "Cloudflare",
+    "system_fingerprint": null,
+    "service_tier": null,
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "Ciao",
+          "refusal": null,
+          "reasoning": "1.  **Analyze the user's request:** The user wants me to answer \"Ciao!\" (Hello!) with a *single word*.\n\n2.  **Identify the language:** Italian.\n\n3.  **Determine the appropriate response:**\n    *   Standard greeting: \"Ciao\".\n    *   Alternative greeting (more formal): \"Salve\".\n    *   Alternative greeting (very casual): \"Hi\", \"Hello\" (if the user implies multilingual interaction, but since they started in Italian, sticking to Italian is safer).\n    *   Alternative greeting (polite): \"Buongiorno\" (Good morning), \"Buonasera\" (Good evening). Depending on the time of day.\n    *   Alternative greeting (emoji-based): \"👋\" (waving hand). This is a single \"character\", though technically not a word.\n    *   Alternative greeting (affirmation): \"Sì\" (Yes) - no, contextually wrong.\n    *   Alternative greeting (curiosity): \"Chi sei?\" (Who are you?) - no, too meta.\n\n4.  **Select the best option:** \"Ciao\" is the most direct and natural equivalent. \"Salve\" is also good, but \"Ciao\" matches the casual tone often found in short prompt interactions. \"Buongiorno\" is safest if unsure of time, but usually, just repeating the greeting or a simple acknowledgement is best.\n\n    *   Option A: \"Ciao\" (Matches the casualness).\n    *   Option B: \"Salve\" (Slightly more formal).\n    *   Option C: \"Buongiorno/Buonasera\" (Time-dependent).\n\n    Let's go with \"Ciao\" as it mirrors the user's input length and tone.\n\n5.  **Final Polish:** The constraint is \"a single word\".\n\n    *   Output: Ciao",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "1.  **Analyze the user's request:** The user wants me to answer \"Ciao!\" (Hello!) with a *single word*.\n\n2.  **Identify the language:** Italian.\n\n3.  **Determine the appropriate response:**\n    *   Standard greeting: \"Ciao\".\n    *   Alternative greeting (more formal): \"Salve\".\n    *   Alternative greeting (very casual): \"Hi\", \"Hello\" (if the user implies multilingual interaction, but since they started in Italian, sticking to Italian is safer).\n    *   Alternative greeting (polite): \"Buongiorno\" (Good morning), \"Buonasera\" (Good evening). Depending on the time of day.\n    *   Alternative greeting (emoji-based): \"👋\" (waving hand). This is a single \"character\", though technically not a word.\n    *   Alternative greeting (affirmation): \"Sì\" (Yes) - no, contextually wrong.\n    *   Alternative greeting (curiosity): \"Chi sei?\" (Who are you?) - no, too meta.\n\n4.  **Select the best option:** \"Ciao\" is the most direct and natural equivalent. \"Salve\" is also good, but \"Ciao\" matches the casual tone often found in short prompt interactions. \"Buongiorno\" is safest if unsure of time, but usually, just repeating the greeting or a simple acknowledgement is best.\n\n    *   Option A: \"Ciao\" (Matches the casualness).\n    *   Option B: \"Salve\" (Slightly more formal).\n    *   Option C: \"Buongiorno/Buonasera\" (Time-dependent).\n\n    Let's go with \"Ciao\" as it mirrors the user's input length and tone.\n\n5.  **Final Polish:** The constraint is \"a single word\".\n\n    *   Output: Ciao",
+              "format": "unknown",
+              "index": 0
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 17,
+      "completion_tokens": 396,
+      "total_tokens": 413,
+      "cost": 0.0001594285,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001594285,
+        "upstream_inference_prompt_cost": 1.0285e-06,
+        "upstream_inference_completions_cost": 0.0001584
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 378,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:56:10",
+  "received_at": "2026-08-06T11:57:13",
+  "latency_seconds": 63.682,
+  "prompt_tokens": 6752,
+  "completion_tokens": 2031,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8783,
+  "cost_usd_api": 0.0145384,
+  "cost_usd_reconstructed": 0.011382030000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010170-ppDT1F3X0YzZXSq5Hvl6",
+    "provider": "AtlasCloud",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente NON riporta un proprio numero o data nell'intestazione. È identificabile come il decreto di impegno contabile che attua l'art. 1, comma 2 del DM 464/2021 del 22/11/2021, firmato dal Direttore della Div. 2 Dr. Raffaele Di Trani. Il numero e la data del decreto corrente non sono esplicitamente indicati nel testo fornito. Le tabelle riportano la ripartizione pluriennale per annualità ma gli articoli 1, 2 e 3 indicano gli importi totali impegnati: art. 1 = € 3.000.000,00 (residui); art. 2 = € 631.174.000,00 (competenza 2022-2034); art. 3 = € 26.486.678,33 (competenza 2029-2034). Gli importi annuali nelle tabelle sono ripartizioni del decreto 464/2021, non nuovi stanziamenti del decreto corrente. I CUP sono esplicitamente indicati nelle tabelle allegati. Per il Comune di Torino sono indicati due CUP (C11B21008720001 e D81E20000410007) nella stessa riga; ho creato record separati per ciascun CUP con lo stesso importo totale dell'art. 1 e art. 2 poiché il decreto non specifica la ripartizione tra i due CUP."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto residui di stanziamento: € 1.000.000,00 esercizio 2020 + € 2.000.000,00 esercizio 2021. Il decreto corrente non ha numero/data espliciti nell'intestazione, ma è il decreto che attua il comma 2 del DM 464/2021."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto residui di stanziamento: € 1.000.000,00 esercizio 2020 + € 2.000.000,00 esercizio 2021. Il decreto corrente non ha numero/data espliciti nell'intestazione, ma è il decreto che attua il comma 2 del DM 464/2021."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto residui di stanziamento: € 1.000.000,00 esercizio 2020 + € 2.000.000,00 esercizio 2021. Il decreto corrente non ha numero/data espliciti nell'intestazione, ma è il decreto che attua il comma 2 del DM 464/2021."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto residui di stanziamento: € 1.000.000,00 esercizio 2020 + € 2.000.000,00 esercizio 2021. Il decreto corrente non ha numero/data espliciti nell'intestazione, ma è il decreto che attua il comma 2 del DM 464/2021."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 3000000.0,
+      "importo_originale": "€ 3.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto residui di stanziamento: € 1.000.000,00 esercizio 2020 + € 2.000.000,00 esercizio 2021. Il decreto corrente non ha numero/data espliciti nell'intestazione, ma è il decreto che attua il comma 2 del DM 464/2021."
+    },
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2022-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2022-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2022-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2022-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 631174000.0,
+      "importo_originale": "€ 631.174.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2022-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "€ 26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 3, in attuazione del decreto n. 464/2021",
+      "note": "Impegno in conto competenza per esercizi 2029-2034. Il decreto corrente non ha numero/data espliciti nell'intestazione."
+    }
+  ],
+  "raw_content": null
+}

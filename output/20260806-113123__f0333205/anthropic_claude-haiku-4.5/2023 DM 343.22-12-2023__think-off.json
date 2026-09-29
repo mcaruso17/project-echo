@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:55:48",
+  "received_at": "2026-08-06T12:55:53",
+  "latency_seconds": 5.487,
+  "prompt_tokens": 7821,
+  "completion_tokens": 397,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8218,
+  "cost_usd_api": 0.009806,
+  "cost_usd_reconstructed": 0.009806,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013748-eq02stKdQVAcnVoxp5AE",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": "Il documento non contiene un numero di decreto e una data di emanazione chiaramente identificabili nella parte dispositiva. Il testo inizia con 'Il Ministro delle Infrastrutture e dei Trasporti' ma manca l'intestazione formale con numero e data del decreto corrente. La parte dispositiva ('DECRETA', 'ART. 1', 'ART. 2') contiene esclusivamente disposizioni di proroga dei termini per il conseguimento di obbligazioni giuridicamente vincolanti e indicazioni su risorse disponibili a seguito di definanziamento, senza assegnare nuovi importi a capitoli, piani gestionali o CUP. Gli Allegati 1 e 2 riportano elenchi di interventi con termini di scadenza, ma non contengono azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni) con importi specifici. Le tabelle nel preambolo citano decreti precedenti (464/2021, 517/2020, 97/2022, 607/2019, 360/2018, 86/2018) come 'Decreto di assegnazione', ma questi sono riferimenti storici e non azioni del decreto corrente. Pertanto, non è possibile estrarre alcuna azione di finanziamento."
+  },
+  "records": [],
+  "raw_content": null
+}

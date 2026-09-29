@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:27:02",
+  "received_at": "2026-08-06T15:27:12",
+  "latency_seconds": 9.815,
+  "prompt_tokens": 70151,
+  "completion_tokens": 700,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 70851,
+  "cost_usd_api": 0.0067114838,
+  "cost_usd_reconstructed": 0.00643959,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022822-7BgaQIMwih8SSEGYzNyy",
+    "provider": "GMICloud",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva il progetto definitivo e assegna le risorse statali indicate. Non sono state estratte azioni relative a definanziamenti o rimodulazioni disposte dal decreto corrente, in quanto il definanziamento di 27,55 milioni di euro è stato disposto con precedente delibera CIPESS n. 14/2024 e non dal presente decreto. Le quote a carico del Comune di Firenze non sono state inserite in quanto non riguardano capitoli di spesa statali."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, punto 1.2.1.1",
+      "note": "Quota a carico dello Stato a valere sulle 'somme destinate alla tranvia di Firenze' (capitolo 7140, Piano gestionale 9 del MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, punto 1.2.1.2",
+      "note": "Quota a carico dello Stato a valere sulle risorse destinate alle 'spese per interventi nel settore dei sistemi di trasporto rapido di massa' (capitolo 7400, Piano di gestione 2 del MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1.2.1, punto 1.2.1.3",
+      "note": "Quota a carico dello Stato a valere sul 'fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT)"
+    }
+  ],
+  "raw_content": null
+}

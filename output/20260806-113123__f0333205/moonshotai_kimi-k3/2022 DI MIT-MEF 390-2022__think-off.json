@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:03:06",
+  "received_at": "2026-08-06T12:03:20",
+  "latency_seconds": 14.125,
+  "prompt_tokens": 8729,
+  "completion_tokens": 906,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9635,
+  "cost_usd_api": 0.039777,
+  "cost_usd_reconstructed": 0.039777,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010586-7kEyECsx5Qa3ebepOhg6",
+    "provider": "Together",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo fornito non riporta il numero e la data del decreto corrente (intestazione assente nel testo trasmesso). L'Allegato 1, richiamato dagli articoli 1 e 4 e contenente il dettaglio degli interventi con i relativi CUP, non è incluso nel testo: pertanto i CUP dei singoli interventi non sono estraibili. Non sono indicati capitolo di spesa né piano gestionale. L'importo complessivo assegnato è pari a 46,20 milioni di euro (art. 1, comma 1 e art. 2, comma 1)."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Regione Liguria. Ripartizione annuale: 2023: 5,00; 2024: 5,00; 2025: 4,00 milioni di euro. Risorse ex art. 8, comma 12, d.l. 68/2022."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Regione Toscana. Ripartizione annuale: 2023: 5,00; 2024: 4,00; 2025: 4,00 milioni di euro. Risorse ex art. 8, comma 12, d.l. 68/2022."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Provincia Autonoma di Trento. Ripartizione annuale: 2023: 4,00; 2024: 3,00; 2025: 3,00 milioni di euro. Risorse ex art. 8, comma 12, d.l. 68/2022."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, comma 1, tabella",
+      "note": "Beneficiario: Provincia Autonoma di Bolzano. Ripartizione annuale: 2023: 3,20; 2024: 3,00; 2025: 3,00 milioni di euro. Risorse ex art. 8, comma 12, d.l. 68/2022."
+    }
+  ],
+  "raw_content": null
+}

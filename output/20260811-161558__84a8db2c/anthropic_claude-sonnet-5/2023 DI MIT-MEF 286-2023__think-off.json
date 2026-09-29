@@ -1,0 +1,106 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:24:56",
+  "received_at": "2026-08-11T16:25:11",
+  "latency_seconds": 15.2,
+  "prompt_tokens": 7012,
+  "completion_tokens": 1433,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8445,
+  "cost_usd_api": 0.028354,
+  "cost_usd_reconstructed": 0.028354,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458296-aLgvOwagR2o2F6d6NdGh",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero e data del provvedimento nel testo fornito. Non sono indicati capitoli di spesa o piani gestionali di bilancio. L'importo complessivo di 75 milioni di euro è dettagliato in cinque componenti di fabbisogno che sono state estratte come record distinti oltre al totale, per completezza; l'utente potrebbe voler considerare solo il totale di 75 milioni come unica assegnazione operativa."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi assegnati al Comune di Milano per la linea M4, pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro, a copertura del fabbisogno da incremento prezzi e realizzazione linea M4"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 35000000.0,
+      "importo_originale": "35 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Aumento costi materiali (2021-2022): 14 milioni tratta 'Linate-San Babila' (40%) e 21 milioni tratta 'San Babila-San Cristoforo' (60%)"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Tecnica del Congelamento per la realizzazione dei cunicoli di collegamento, attribuita al 100% alla Tratta San Babila - San Cristoforo"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 17000000.0,
+      "importo_originale": "17 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Varianti, maggiori opere riconosciute dal Collegio Consultivo Tecnico, attribuita al 100% all'intera Linea M4 Linate-San Cristoforo"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7000000.0,
+      "importo_originale": "7 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Spese generali periodo COVID (DGR 23/06/2020 Regione Lombardia), attribuita al 100% all'intera Linea M4 Linate-San Cristoforo"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 6000000.0,
+      "importo_originale": "6 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Oneri sicurezza inerziali per nuovo cronoprogramma lavori, attribuita al 100% all'intera Linea M4 Linate-San Cristoforo"
+    }
+  ],
+  "raw_content": null
+}

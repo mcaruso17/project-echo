@@ -1,0 +1,128 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:47:29",
+  "received_at": "2026-08-06T13:47:42",
+  "latency_seconds": 13.193,
+  "prompt_tokens": 29980,
+  "completion_tokens": 1179,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 31159,
+  "cost_usd_api": 0.0053762,
+  "cost_usd_reconstructed": 0.0050764,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016849-kxbuZTcqFnJEMxxpnMXX",
+    "provider": "AkashML",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto è un atto di rettifica di errori materiali e recepimento di rimodulazioni precedenti. Non contiene codici CUP né capitoli di bilancio espliciti nella parte dispositiva, ma solo importi e regioni. Gli importi sono stati scomposti nelle due gambe (definanziamento del valore errato precedente e assegnazione del valore corretto) come richiesto dalle regole per le correzioni/rimodulazioni."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 217585.0,
+      "importo_originale": "217.585 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Correzione errore materiale per annualità 2033 Regione Veneto (da 117.585 a 217.585)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": -100000.0,
+      "importo_originale": "117.585 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Definanziamento precedente per annualità 2033 Regione Veneto"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 690994.0,
+      "importo_originale": "690.994 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Correzione errore materiale per annualità 2033 Regione Emilia Romagna (da 790.994 a 690.994)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": -100000.0,
+      "importo_originale": "790.994 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Definanziamento precedente per annualità 2033 Regione Emilia Romagna"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 125266.0,
+      "importo_originale": "125.266 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Correzione errore materiale per annualità 2032 Regione Veneto (da 125.268 a 125.266)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": -2.0,
+      "importo_originale": "125.268 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Definanziamento precedente per annualità 2032 Regione Veneto"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 842682.0,
+      "importo_originale": "842.682 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Correzione errore materiale per annualità 2032 Regione Emilia Romagna (da 842.680 a 842.682)"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 2.0,
+      "importo_originale": "842.680 euro",
+      "tipo_azione": "definanziamento",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Definanziamento precedente per annualità 2032 Regione Emilia Romagna"
+    }
+  ],
+  "raw_content": null
+}

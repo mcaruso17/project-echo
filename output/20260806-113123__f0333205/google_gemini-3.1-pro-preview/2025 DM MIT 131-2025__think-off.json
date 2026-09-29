@@ -1,0 +1,42 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:37:06",
+  "received_at": "2026-08-06T15:37:20",
+  "latency_seconds": 14.148,
+  "prompt_tokens": 5299,
+  "completion_tokens": 1630,
+  "reasoning_tokens": 1428,
+  "cached_tokens": 0,
+  "total_tokens": 6929,
+  "cost_usd_api": 0.030158,
+  "cost_usd_reconstructed": 0.030158,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786023426-78GVEencgzxSBNGIlch4",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva il Secondo Atto modificativo di una convenzione (Art. 1). L'Art. 2 riepiloga gli importi complessivi (915.000.000,00 euro) specificando esplicitamente che tali risorse sono già state impegnate con precedenti decreti direttoriali (n. 381 del 2019 e n. 108 del 2024). Non vi sono pertanto nuove azioni di finanziamento disposte dal decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}

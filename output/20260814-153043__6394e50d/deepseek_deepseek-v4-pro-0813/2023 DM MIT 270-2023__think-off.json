@@ -1,0 +1,40 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:39:17",
+  "received_at": "2026-08-14T15:39:25",
+  "latency_seconds": 8.143,
+  "prompt_tokens": 42637,
+  "completion_tokens": 209,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 42846,
+  "cost_usd_api": 0.05710848,
+  "cost_usd_reconstructed": 0.018728925000000004,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714757-cS8sa7kzuj0JjwVdoBzb",
+    "provider": "Cloudflare",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non dispone nuove azioni di finanziamento. Esso effettua esclusivamente una riprogrammazione degli interventi già finanziati dal decreto ministeriale del 29 aprile 2020, n. 182, aggiornando e sostituendo l'Allegato 1 di tale decreto. Non vengono stanziati nuovi fondi, definanziati importi o rimodulate risorse tra capitoli/piani gestionali nel testo del decreto corrente. Gli importi riportati negli allegati si riferiscono al finanziamento originario del DM 182/2020."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non dispone nuove azioni di finanziamento. Esso effettua esclusivamente una riprogrammazione degli interventi già finanziati dal decreto ministeriale del 29 aprile 2020, n. 182, aggiornando e sostituendo l'Allegato 1 di tale decreto. Non vengono stanziati nuovi fondi, definanziati importi o rimodulate risorse tra capitoli/piani gestionali nel testo del decreto corrente. Gli importi riportati negli allegati si riferiscono al finanziamento originario del DM 182/2020.\"\n}"
+}

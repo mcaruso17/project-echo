@@ -1,0 +1,85 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:31:26",
+  "received_at": "2026-09-29T12:31:36",
+  "latency_seconds": 10.682,
+  "prompt_tokens": 8498,
+  "completion_tokens": 580,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5632,
+  "total_tokens": 9078,
+  "cost_usd_api": 0.000463716,
+  "cost_usd_reconstructed": 0.000858982,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677886-vhGtUdAm7kVyErqFO2Si",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT 22 dicembre 2017, n. 587",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 2 marzo 2018, n. 86",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT nn. 235, 350, 517 del 2020 e n. 44/2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 novembre 2021, n. 464",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 23 dicembre 2022, n. 410",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 7 agosto 2023, n. 191",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIT 22 dicembre 2023, n. 343",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "L'atto corrente (decreto ministeriale non numerato e non datato) non dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione, revoca) su CUP o capitoli/PG. L'unica disposizione è la proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante al 31.12.2025 per gli interventi elencati nell'Allegato 1. Non sono presenti CUP, importi, capitoli o piani gestionali. Gli atti citati nel preambolo sono richiamati ma non attuati, sostituiti, rettificati, rimodulati o revocati dall'atto corrente. La tabella a pag.4 riproduce l'Allegato 1 e non contiene dati finanziari."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": null, \"natura_atto\": \"altro\", \"atti_collegati\": [{\"estremi\": \"DM MIT 22 dicembre 2017, n. 587\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 2 marzo 2018, n. 86\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 27 dicembre 2019, n. 607\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT nn. 235, 350, 517 del 2020 e n. 44/2021\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 22 novembre 2021, n. 464\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 23 dicembre 2022, n. 410\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 7 agosto 2023, n. 191\", \"relazione\": \"richiama\"}, {\"estremi\": \"DM MIT 22 dicembre 2023, n. 343\", \"relazione\": \"richiama\"}], \"allegati_richiamati\": [\"Allegato 1\"], \"allegati_presenti_nel_testo\": [\"Allegato 1\"], \"record\": [], \"note_estrazione\": \"L'atto corrente (decreto ministeriale non numerato e non datato) non dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione, revoca) su CUP o capitoli/PG. L'unica disposizione è la proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante al 31.12.2025 per gli interventi elencati nell'Allegato 1. Non sono presenti CUP, importi, capitoli o piani gestionali. Gli atti citati nel preambolo sono richiamati ma non attuati, sostituiti, rettificati, rimodulati o revocati dall'atto corrente. La tabella a pag.4 riproduce l'Allegato 1 e non contiene dati finanziari.\"}"
+}

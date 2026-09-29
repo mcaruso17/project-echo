@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:02:07",
+  "received_at": "2026-08-06T12:02:33",
+  "latency_seconds": 26.192,
+  "prompt_tokens": 7781,
+  "completion_tokens": 879,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 8660,
+  "cost_usd_api": 0.0064662,
+  "cost_usd_reconstructed": 0.006356279999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010527-5thMFdAt3kl6gGwEd49S",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo del decreto non riporta il numero e la data del decreto corrente nell'intestazione o nel dispositivo, né i capitoli di spesa o i piani gestionali. I CUP sono citati come presenti negli Allegati (non forniti nel testo) e come requisito per le erogazioni (Art. 10), ma non sono elencati nel corpo del testo. Gli importi sono ripartiti per beneficiario (Regioni/Province Autonome) e per annualità (2023-2025)."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 46000000.0,
+      "importo_originale": "46,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Assegnazione complessiva agli interventi di cui all'Allegato 2 del DM 363/2021, ripartita tra i beneficiari secondo tabella Articolo 2."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella",
+      "note": "Importo totale finanziato a favore della Regione Liguria (5,00 Mln 2023 + 5,00 Mln 2024 + 4,00 Mln 2025)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella",
+      "note": "Importo totale finanziato a favore della Regione Toscana (5,00 Mln 2023 + 4,00 Mln 2024 + 4,00 Mln 2025)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella",
+      "note": "Importo totale finanziato a favore della Provincia Autonoma di Trento (4,00 Mln 2023 + 3,00 Mln 2024 + 3,00 Mln 2025)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, tabella",
+      "note": "Importo totale finanziato a favore della Provincia Autonoma di Bolzano (3,20 Mln 2023 + 3,00 Mln 2024 + 3,00 Mln 2025)."
+    }
+  ],
+  "raw_content": null
+}

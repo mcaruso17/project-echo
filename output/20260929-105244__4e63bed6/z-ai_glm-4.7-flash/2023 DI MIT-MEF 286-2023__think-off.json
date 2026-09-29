@@ -1,0 +1,72 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:12",
+  "received_at": "2026-09-29T11:17:31",
+  "latency_seconds": 19.775,
+  "prompt_tokens": 8731,
+  "completion_tokens": 549,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 9280,
+  "cost_usd_api": 0.00062186,
+  "cost_usd_reconstructed": 0.000752191,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673438-JhhuxvdDRM0KiGXVaWsK",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [],
+    "allegati_richiamati": [
+      "Allegato 1 (cronoprogramma)"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Numero e data del decreto non presenti nel testo fornito. L'Allegato 1 (cronoprogramma) è richiamato dall'art. 2 ma non è presente nel testo. Le somme per singola tratta sono descritte come attribuzione del fabbisogno, non come assegnazioni distinte; l'unico CUP presente è quello dell'intera linea M4 (B81I06000000003), citato sia nel preambolo sia nell'art. 1."
+  },
+  "records": [
+    {
+      "cup": [
+        "B81I06000000003"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": "2023-2027",
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "Sono assegnati al Comune di Milano contributi pari a 15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Assegnazione complessiva 2023-2027 (15 milioni/anno). Il CUP B81I06000000003 identifica l'intera linea M4; le ripartizioni per tratta (14+21+10+17+7+6 milioni) sono componenti del fabbisogno, non assegnazioni distinte su CUP separati."
+    }
+  ],
+  "raw_content": null
+}

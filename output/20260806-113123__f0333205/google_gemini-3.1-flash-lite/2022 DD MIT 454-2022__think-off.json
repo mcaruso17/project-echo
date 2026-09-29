@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:47:14",
+  "received_at": "2026-08-06T11:47:16",
+  "latency_seconds": 2.669,
+  "prompt_tokens": 5137,
+  "completion_tokens": 726,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5863,
+  "cost_usd_api": 0.00237325,
+  "cost_usd_reconstructed": 0.00237325,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009634-md6x2iVdAPH7GRvvUYji",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto non sono esplicitamente indicati nel testo fornito."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1",
+      "note": "Impegno in conto residui, esercizio di provenienza 2021"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 35000000.0,
+      "importo_originale": "35.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Anno 2022"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 40000000.0,
+      "importo_originale": "40.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Anno 2023"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 33500000.0,
+      "importo_originale": "33.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Anno 2024"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 22500000.0,
+      "importo_originale": "22.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2",
+      "note": "Anno 2025"
+    }
+  ],
+  "raw_content": null
+}

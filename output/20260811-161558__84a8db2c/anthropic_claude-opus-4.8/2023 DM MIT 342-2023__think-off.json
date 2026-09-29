@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:32:49",
+  "received_at": "2026-08-11T16:33:01",
+  "latency_seconds": 12.057,
+  "prompt_tokens": 36792,
+  "completion_tokens": 620,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 37412,
+  "cost_usd_api": 0.19946,
+  "cost_usd_reconstructed": 0.19946,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458769-F1TlLsiPEvabSECTQvfd",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto del Ministro delle infrastrutture e dei trasporti che rettifica l'Allegato 3 del DM 23 settembre 2021, n. 364 (correzione di meri errori materiali e recepimento di rimodulazioni già disposte da precedenti decreti direttoriali). Non riporta numero né data del provvedimento corrente (firma 'IL MINISTRO' senza estremi). L'art. 1 non dispone nuove azioni di finanziamento, ma corregge importi già assegnati dal DM n. 364/2021: per la Regione Veneto annualità 2033 da 117.585 a 217.585 euro e annualità 2032 da 125.268 a 125.266 euro; per la Regione Emilia Romagna annualità 2033 da 790.994 a 690.994 euro e annualità 2032 da 842.680 a 842.682 euro. Gli Allegati 1, 2 e 3 sostituiscono i corrispondenti allegati del DM 364/2021 ma riportano importi di interventi già ammessi a finanziamento dal decreto originario (cap. 7150 p.g. 3 potenziamento e p.g. 4 sicurezza), non nuove assegnazioni disposte dal decreto corrente. Poiché il decreto si limita a rettificare errori materiali e recepire rimodulazioni preesistenti, non si estraggono azioni di finanziamento autonome. Capitolo di riferimento: 7150, piani gestionali 3 e 4."
+  },
+  "records": [],
+  "raw_content": null
+}

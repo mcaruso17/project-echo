@@ -1,0 +1,62 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:17:28",
+  "received_at": "2026-08-11T16:17:39",
+  "latency_seconds": 10.587,
+  "prompt_tokens": 7270,
+  "completion_tokens": 708,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7978,
+  "cost_usd_api": 0.05405,
+  "cost_usd_reconstructed": 0.05405,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786457849-aqbtBg1wYfYw0FGx4zXk",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non riporta numero né data del decreto corrente (firmato dal Direttore della Div 2, Dr. Raffaele Di Trani). I decreti n. 498/2014, n. 97/2022, DD n. 220/2020 sono citati nel preambolo come contesto storico e non estratti. L'importo di € 131.000.000,00 è indicato come complessivo con articolazione pluriennale; non chiaro se costituisca più impegni separati."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021, a favore di Roma Capitale per la Tratta Colosseo - Piazza Venezia Linea C metropolitana di Roma. In attuazione del DM n. 498 del 14 novembre 2014."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2",
+      "note": "Importo complessivo ripartito: 35.000.000,00 (2022), 40.000.000,00 (2023), 33.500.000,00 (2024), 22.500.000,00 (2025) a favore di Roma Capitale. In attuazione del DM n. 498 del 14 novembre 2014."
+    }
+  ],
+  "raw_content": null
+}

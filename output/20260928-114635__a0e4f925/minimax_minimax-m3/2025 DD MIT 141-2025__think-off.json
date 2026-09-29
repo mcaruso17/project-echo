@@ -1,0 +1,124 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:00:22",
+  "received_at": "2026-09-28T12:00:35",
+  "latency_seconds": 12.921,
+  "prompt_tokens": 11692,
+  "completion_tokens": 1369,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 13061,
+  "cost_usd_api": 0.00511968,
+  "cost_usd_reconstructed": 0.005150399999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790589623-eFzuE4vgpeFsIEEVa2ZX",
+    "provider": "StreamLake",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": "141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione MIT - Roma Capitale del 10 marzo 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Art. 1, comma 478, legge 29 dicembre 2022, n. 197",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto dirigenziale n. 454 del 22 dicembre 2022",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto direttoriale n. 419 del 6 dicembre 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Convenzione del 10 marzo 2025"
+    ],
+    "allegati_presenti_nel_testo": [
+      "[TABELLA pag.5 n.1]"
+    ],
+    "note_estrazione": "L'atto corrente (decreto direttoriale n. 141 del 18 aprile 2025) approva la Convenzione del 10 marzo 2025 (art. 1) e dispone due NUOVI impegni: art. 3 (cap. 7419/2, € 2.125.000.000,00) e art. 4 (cap. 7416/1, € 75.000.000,00). Non sono record: il valore complessivo della Convenzione (€ 3.945.000.000,00 di cui all'art. 2) e le quote annuali della tabella di art. 3 (R2, R5). Le somme di € 145.000.000,00 (cap. 7426/1) e € 1.600.000.000,00 (cap. 7400 pg 1 e pg 8) sono già impegnate da atti precedenti (d.d. 454/2022 e d.d. 419/2022): l'atto corrente le richiama per descrivere la copertura della Convenzione, ma non dispone nuovi impegni (R2). Il CUP E51I04000010007 è indicato nel preambolo (CONSIDERATO su art. 41 d.l. 76/2020) ed è il CUP della Convenzione cui si riferiscono gli impegni degli artt. 3 e 4 (R2 eccezione)."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024-2032",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1]",
+      "passaggio_testuale": "È autorizzato l'impegno delle risorse di cui al citato articolo 1, comma 478, della legge 29 dicembre 2022, n. 197, sul capitolo 7419, piano gestionale 2 ... per la somma complessiva di € 2.125.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo disposto dall'atto corrente (art. 3); quote annuali riportate nella tabella non generano record separati (R5). Include € 50.000.000,00 in conto residui 2024."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l'impegno delle risorse ... sul capitolo 7416 piano gestionale 1 ... per la somma complessiva di € 75.000.000,00, di cui 50.000.000,00 per l'esercizio finanziario 2027 e € 25.000.000,00 per l'esercizio finanziario 2028",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quote annuali 2027 (€ 50.000.000) e 2028 (€ 25.000.000) registrate solo come arco complessivo (R5)."
+    }
+  ],
+  "raw_content": null
+}

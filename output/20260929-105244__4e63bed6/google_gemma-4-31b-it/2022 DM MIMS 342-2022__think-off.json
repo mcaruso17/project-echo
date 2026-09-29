@@ -1,0 +1,78 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:15:15",
+  "received_at": "2026-09-29T11:15:30",
+  "latency_seconds": 14.717,
+  "prompt_tokens": 11010,
+  "completion_tokens": 652,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5970,
+  "total_tokens": 11662,
+  "cost_usd_api": 0.0018022,
+  "cost_usd_reconstructed": 0.00121258,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790673316-V9zDZcmW3LckWz2Fx8CB",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data di emanazione nel testo fornito. Il capitolo e il piano gestionale sono stati ricavati dal preambolo in quanto l'Articolo 1 specifica che l'assegnazione avviene a valere sul fondo di cui alla legge 145/2018, che il preambolo collega esplicitamente al cap. 7400 PG 5."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "passaggio_testuale": "E’ assegnato al Comune di Rimini il contributo di € 2.041.389,20... per l’intervento di manutenzione relativo a “Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il capitolo 7400 PG 5 è identificato nel preambolo come la fonte per il Programma di manutenzione straordinaria e interventi per la prevenzione incendi nelle metropolitane."
+    }
+  ],
+  "raw_content": null
+}

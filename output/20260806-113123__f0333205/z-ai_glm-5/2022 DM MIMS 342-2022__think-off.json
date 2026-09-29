@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "z-ai/glm-5",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:42:30",
+  "received_at": "2026-08-06T12:42:38",
+  "latency_seconds": 7.388,
+  "prompt_tokens": 6640,
+  "completion_tokens": 334,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6974,
+  "cost_usd_api": 0.00539616,
+  "cost_usd_reconstructed": 0.00462528,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012951-ZV60ccc20chW9TVLP9ML",
+    "provider": "Baidu",
+    "model": "z-ai/glm-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta esplicitamente il numero e la data nella parte dispositiva o nel preambolo immediato. L'identificazione del capitolo (7400) e del piano gestionale (5) è ricavata dal preambolo che descrive il fondo su cui grava il finanziamento."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per intervento 'Impianto filoviario Rimini – Riccione: linea di contatto'. Il capitolo e il piano gestionale sono desunti dal preambolo (CONSIDERATO che in attuazione del decreto... sul capitolo 7400, piano di gestione 5...)."
+    }
+  ],
+  "raw_content": null
+}

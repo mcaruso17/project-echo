@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 344-2023.pdf",
+  "decree_relpath": "2023 DM MIT 344-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:17:35",
+  "received_at": "2026-08-06T14:17:40",
+  "latency_seconds": 5.047,
+  "prompt_tokens": 10637,
+  "completion_tokens": 258,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10895,
+  "cost_usd_api": 0.01940622,
+  "cost_usd_reconstructed": 0.0048515550000000005,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786018655-3pUATxhatgftKdIjIY9E",
+    "provider": "CoreWeave",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente (non numerato né datato nel testo) dispone esclusivamente la rimodulazione degli interventi e la proroga dei termini di un precedente decreto (DM 443/2021). L'allegato 1 riporta la nuova distribuzione degli importi tra gli interventi, ma non contiene alcuna nuova azione di finanziamento (assegnazione, definanziamento o rimodulazione contabile) che movimenti fondi tra capitoli/piani gestionali o verso CUP. Non sono presenti capitoli di spesa o piani gestionali. Le 'Economie rispetto importo DM 443/2021' sono indicate a zero o come importi già riassorbiti nella rimodulazione complessiva, senza costituire un'azione di finanziamento distinta nel presente decreto."
+  },
+  "records": [],
+  "raw_content": null
+}

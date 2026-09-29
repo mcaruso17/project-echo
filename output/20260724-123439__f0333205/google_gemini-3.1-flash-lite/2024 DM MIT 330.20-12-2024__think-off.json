@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:47:59",
+  "received_at": "2026-07-24T12:48:01",
+  "latency_seconds": 1.432,
+  "prompt_tokens": 4286,
+  "completion_tokens": 149,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4435,
+  "cost_usd_api": 0.001295,
+  "cost_usd_reconstructed": 0.001295,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890079-ZFh9GIWnRLp6d3Vl1aKB",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto analizzato dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) per una serie di interventi già finanziati in precedenza. Non sono presenti nel testo né negli allegati nuove assegnazioni, definanziamenti o rimodulazioni di importi economici."
+  },
+  "records": [],
+  "raw_content": null
+}

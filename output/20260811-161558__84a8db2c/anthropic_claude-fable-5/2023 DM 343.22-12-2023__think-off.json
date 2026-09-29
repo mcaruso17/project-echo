@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:26:40",
+  "received_at": "2026-08-11T16:26:51",
+  "latency_seconds": 11.746,
+  "prompt_tokens": 10747,
+  "completion_tokens": 549,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11296,
+  "cost_usd_api": 0.13492,
+  "cost_usd_reconstructed": 0.13492,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786458400-VnvEb7mZ1abLXSULHy8J",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto di proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) relativi a interventi già finanziati con decreti precedenti (D.M. 587/2017, 86/2018, 360/2018, 607/2019, 235/2020, 350/2020, 517/2020, 44/2021, 464/2021, 97/2022, ecc.). La parte dispositiva (art. 1 e art. 2, allegati 1 e 2) non dispone alcuna nuova assegnazione, definanziamento o rimodulazione con importi specifici: l'art. 2 si limita a indicare in via generale la destinazione delle eventuali risorse derivanti da futuri definanziamenti, senza importi, capitoli o CUP. Il numero e la data del decreto corrente non sono riportati nel testo fornito (l'unica data utile è l'intesa in Conferenza Unificata del 20 dicembre 2023, che non è la data del decreto). Nessun record di finanziamento estraibile."
+  },
+  "records": [],
+  "raw_content": null
+}

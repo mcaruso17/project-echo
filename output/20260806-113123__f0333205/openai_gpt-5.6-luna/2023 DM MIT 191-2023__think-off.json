@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:00:52",
+  "received_at": "2026-08-06T13:00:58",
+  "latency_seconds": 6.024,
+  "prompt_tokens": 7734,
+  "completion_tokens": 1296,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 9030,
+  "cost_usd_api": 0.00157396,
+  "cost_usd_reconstructed": 0.01551,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014052-rpQIQCcMKHXRXiAudF9A",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il numero e la data del decreto corrente non sono riportati nel testo fornito. La tabella presenta alcune righe con finanziamento ammesso indicato con '-' e il totale dell'intervento aggregato; tali righe sono state mantenute come azioni senza importo positivo esplicito."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Torino; prolungamento linea tranviaria 12 all’Allianz Stadium e recupero trincea ferroviaria Torino-Ceres"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Milano; metropolitana linea M3, nuovi impianti di rivelazione e segnalazione degli incendi, rimozione impianti esistenti, potenziamento illuminazione di emergenza e compartimentazioni locali tecnici"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 20900000.02,
+      "importo_originale": "20.900.000,02",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Milano; rifacimento dell'impianto di diffusione sonora della linea 3"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Finanziamento ammesso indicato con '-'"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Milano; interventi di ammodernamento SSE Duomo"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Finanziamento ammesso indicato con '-'; completamento opere civili di compartimentazione e resistenza antincendio"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Milano; adeguamento degli impianti dei GE, delle cabine elettriche e sostituzione cavi"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Finanziamento ammesso indicato con '-'; tratta Canepari-Rivarolo"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1; Allegato 1, Piano di riparto",
+      "note": "Comune di Genova; completamento della stazione di Martinez/Terralba"
+    }
+  ],
+  "raw_content": null
+}

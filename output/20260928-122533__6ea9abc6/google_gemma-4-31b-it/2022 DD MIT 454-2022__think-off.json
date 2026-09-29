@@ -1,0 +1,100 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T12:25:52",
+  "received_at": "2026-09-28T12:26:45",
+  "latency_seconds": 53.172,
+  "prompt_tokens": 9264,
+  "completion_tokens": 999,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10263,
+  "cost_usd_api": 0.00104082,
+  "cost_usd_reconstructed": 0.00117342,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790591152-h3hfsxLY6Fnikkd2Av2A",
+    "provider": "Reka",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non riporta numero e data di emissione nel testo fornito. Sono stati estratti solo gli impegni disposti dagli Articoli 1 e 2, escludendo i richiami a finanziamenti precedenti (DM 498/2014, DM 97/2022) e le semplici descrizioni di reiscrizioni a bilancio presenti nel preambolo."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "Articolo 1",
+      "passaggio_testuale": "a favore di Roma Capitale per l’intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma” CUP E51I04000010007, l’impegno di € 14.000.000,00",
+      "atto_riferito": "DM MIT MEF n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "impegno in conto residui di lettera F"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022-2025",
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "Articolo 2; [TABELLA pag.3 n.1], riga 5",
+      "passaggio_testuale": "per l’importo complessivo di € 131.000.000,00 a favore di Roma Capitale, per l’intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma” CUP E51I04000010007",
+      "atto_riferito": "DM MIT MEF n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

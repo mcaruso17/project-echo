@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:27:12",
+  "received_at": "2026-08-06T15:27:23",
+  "latency_seconds": 11.363,
+  "prompt_tokens": 70171,
+  "completion_tokens": 717,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 70888,
+  "cost_usd_api": 0.08363464,
+  "cost_usd_reconstructed": 0.031148175,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022832-FJVWUSuR5GYuINQbi0ah",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "La delibera approva il progetto definitivo e indica la copertura finanziaria, ma non dispone nuovi finanziamenti oltre a quelli già stanziati da precedenti decreti. Le risorse statali sono già state assegnate in passato; la delibera si limita a confermarle e a dettagliare la provenienza per la copertura del costo dell'intervento. Non sono presenti azioni di finanziamento aggiuntive rispetto a quanto già previsto."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "a valere sulle «somme destinate alla tranvia di Firenze» (capitolo 7140, Piano gestionale 9 del MIT), istituito dall’art. 18, comma 1, del decreto-legge n. 69 del 2013, rifinanziato dall’art. 3, comma 2, lettera c), del decreto-legge n. 133 del 2014"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» (capitolo 7400, Piano di gestione 2 del MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Delibera, punto 1.2.1",
+      "note": "a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane (capitolo 7423, Piano di gestione 1 del MIT), di cui all’art. 1, comma 88 della legge n. 147 del 2013»"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,73 @@
+{
+  "decree_file": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "decree_relpath": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 13,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:30:44",
+  "received_at": "2026-08-06T12:30:55",
+  "latency_seconds": 10.177,
+  "prompt_tokens": 13948,
+  "completion_tokens": 748,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14696,
+  "cost_usd_api": 0.0039864,
+  "cost_usd_reconstructed": 0.00256124,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012245-55PJwQWy7YSOMAaNvpXa",
+    "provider": "SiliconFlow",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non riporta un numero o una data specifica nell'intestazione o nel corpo del testo (es. 'Decreto Ministeriale n. X del Y'). I campi numero_decreto e data_decreto sono quindi nulli. Le azioni di finanziamento sono estratte dall'Art. 1 che ripartisce le risorse tra i piani gestionali 8 e 1 del capitolo 7400. I CUP presenti negli allegati identificano i progetti beneficiari ma non sono associati a specifiche righe di capitolo/piano in modo univoco nel testo normativo principale per l'azione di stanziamento globale; pertanto i record riflettono le assegnazioni ai piani gestionali come disposto dall'articolo 1."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "8",
+      "importo_eur": 3700000000.0,
+      "importo_originale": "€ 3.700.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lettera a)",
+      "note": "Risorse iscritte in bilancio sul capitolo 7400, piano di gestione 8, afferenti finanziamento di cui all’articolo 1, comma 393, della legge 30 dicembre 2021, n. 234."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 723733987.0,
+      "importo_originale": "€ 723.733.987,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lettera a)",
+      "note": "Quota parte delle risorse iscritte in bilancio sul medesimo capitolo, piano di gestione 1, afferenti il finanziamento di cui alla sez. II della legge 30 dicembre 2021, n. 234."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 333168049.81,
+      "importo_originale": "€ 333.168.049,81",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1, lettera b)",
+      "note": "Risorse residue iscritte in bilancio sul capitolo 7400, piano di gestione 1."
+    }
+  ],
+  "raw_content": null
+}

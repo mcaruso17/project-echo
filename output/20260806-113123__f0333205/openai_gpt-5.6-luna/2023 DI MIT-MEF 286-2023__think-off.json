@@ -1,0 +1,62 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:49:02",
+  "received_at": "2026-08-06T12:49:07",
+  "latency_seconds": 4.5,
+  "prompt_tokens": 4422,
+  "completion_tokens": 374,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 4796,
+  "cost_usd_api": 0.00060676,
+  "cost_usd_reconstructed": 0.006666,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013342-vzSEDLTaxgXF5uW1dpdg",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "note_estrazione": "Il testo non riporta numero e data del decreto, né capitolo di spesa o piano gestionale. Le voci di costo dettagliate nell'articolo 1 sono la destinazione del contributo complessivo e non ulteriori assegnazioni autonome."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "articolo 1, comma 1",
+      "note": "Contributo annuale per ciascuno degli anni dal 2023 al 2027."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "articolo 1, comma 1",
+      "note": "Importo complessivo dei contributi assegnati per gli anni dal 2023 al 2027."
+    }
+  ],
+  "raw_content": null
+}

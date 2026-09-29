@@ -1,0 +1,1574 @@
+Scarico l'elenco modelli da OpenRouter...
+460 modelli disponibili.
+
+  OK   anthropic/claude-haiku-4.5
+  OK   anthropic/claude-sonnet-5
+  OK   anthropic/claude-opus-4.8
+  OK   anthropic/claude-fable-5
+  OK   openai/gpt-5.6-luna
+  OK   openai/gpt-5.6-terra
+  OK   openai/gpt-5.6-sol
+  OK   openai/gpt-5.5-pro
+  OK   google/gemini-3.1-flash-lite
+  OK   google/gemini-3.6-flash
+  OK   google/gemini-3.1-pro-preview
+  OK   z-ai/glm-4.7-flash
+  OK   z-ai/glm-5
+  OK   z-ai/glm-5.2
+  OK   moonshotai/kimi-k2.6
+  OK   moonshotai/kimi-k3
+  OK   deepseek/deepseek-v4-flash
+  OK   deepseek/deepseek-v4-pro-0813
+  OK   qwen/qwen3.6-35b-a3b
+  OK   anthropic/claude-opus-5.5
+  OK   minimax/minimax-m3
+  OK   moonshotai/kimi-k2.5
+  OK   google/gemma-4-31b-it
+  OK   google/gemma-4-26b-a4b-it
+Prompt da file: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\cicli\manuale\v003.json
+  versione: v003   fingerprint: 4e63bed6
+25 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260929-105058__4e63bed6
+
+[2021 DM mit 464-2021.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2021 DM mit 464-2021.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DD MIT 454-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DDG 128 del 02-05-22.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DM  8.14-01-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DM 410.23-12-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DM MIMS 342-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2022 DM MIT 409-2022.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM 343.22-12-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 191-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 270-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 342-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 344-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 345 - 2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2023 DM MIT 346-2023.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2024 DM MIT 334-2024.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2025 DD MIT 141-2025.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> z-ai_glm-4.7-flash [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> moonshotai_kimi-k2.6 [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> deepseek_deepseek-v4-flash [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> deepseek_deepseek-v4-pro-0813 [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> qwen_qwen3.6-35b-a3b [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> minimax_minimax-m3 [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> google_gemma-4-31b-it [OFF]
+[2025 DM MIT 131-2025.pdf] (dry-run) -> google_gemma-4-26b-a4b-it [OFF]
+
+Fatto. Risultati in: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105058__4e63bed6
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\cicli\manuale\v003.json
+  versione: v003   fingerprint: 4e63bed6
+25 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260929-105244__4e63bed6
+
+[2021 DM mit 464-2021.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2021 DM mit 464-2021.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2021 DM mit 464-2021.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2021 DM mit 464-2021.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 5 record, 13531->1899 tok, $0.0135, 25.218s
+[2021 DM mit 464-2021.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 13116->2323 tok, $0.0043, 20.057s
+[2021 DM mit 464-2021.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 13511->2201 tok, $0.0016, 48.589s
+[2021 DM mit 464-2021.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2021 DM mit 464-2021.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 14467->2091 tok, $0.0221, 54.11s
+    ok: 5 record, 13249->2173 tok, $0.0066, 24.49s
+    ok: 5 record, 13468->1998 tok, $0.0019, 26.444s
+    ok: 5 record, 13347->2621 tok, $0.0018, 110.829s
+[2022 DD MIT 454-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 9207->1210 tok, $0.0127, 19.532s
+[2022 DD MIT 454-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 9187->759 tok, $0.0010, 23.305s
+[2022 DD MIT 454-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 9124->799 tok, $0.0009, 28.059s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 2 record, 9214->1169 tok, $0.0026, 10.881s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+    ok: 2 record, 9723->1172 tok, $0.0107, 35.343s
+    ok: 2 record, 9039->1150 tok, $0.0041, 19.156s
+    ok: 2 record, 9463->1009 tok, $0.0016, 113.516s
+[2022 DDG 128 del 02-05-22.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 5 record, 10452->1965 tok, $0.0159, 27.067s
+[2022 DDG 128 del 02-05-22.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 10628->1849 tok, $0.0013, 41.279s
+[2022 DDG 128 del 02-05-22.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 10432->1698 tok, $0.0012, 44.775s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 10990->1966 tok, $0.0151, 56.891s
+    ok: 5 record, 10325->1786 tok, $0.0052, 20.362s
+    ok: 9 record, 11459->4622 tok, $0.0063, 43.181s
+    ok: 6 record, 11711->2386 tok, $0.0025, 90.018s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 15 record, 17646->5719 tok, $0.0177, 55.316s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 15 record, 18201->5487 tok, $0.0082, 39.941s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 15 record, 18568->4988 tok, $0.0344, 138.755s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 19 record, 17490->6591 tok, $0.0036, 161.145s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 26 record, 17226->7988 tok, $0.0147, 75.042s
+    ok: 19 record, 17626->7011 tok, $0.0028, 182.105s
+    ok: 19 record, 18503->6921 tok, $0.0052, 107.246s
+    ok: 19 record, 18502->6991 tok, $0.0054, 182.869s
+[2022 DI MIT-MEF 390-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 12038->2 tok, $0.0007, 7.852s
+[2022 DI MIT-MEF 390-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 11500->430 tok, $0.0022, 5.215s
+[2022 DI MIT-MEF 390-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 11848->553 tok, $0.0008, 23.51s
+[2022 DI MIT-MEF 390-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 11830->599 tok, $0.0042, 11.742s
+[2022 DI MIT-MEF 390-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+    ok: 5 record, 12058->2118 tok, $0.0127, 30.195s
+    ok: 4 record, 12904->1531 tok, $0.0151, 51.014s
+    ok: 12 record, 11875->3739 tok, $0.0030, 497.709s
+[2022 DM  8.14-01-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM  8.14-01-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM  8.14-01-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM  8.14-01-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 6759->351 tok, $0.0007, 10.177s
+[2022 DM  8.14-01-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 6756->412 tok, $0.0024, 12.274s
+[2022 DM  8.14-01-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 6735->342 tok, $0.0014, 4.089s
+[2022 DM  8.14-01-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 6676->396 tok, $0.0024, 5.899s
+[2022 DM  8.14-01-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 0 record, 6647->462 tok, $0.0005, 19.768s
+    ok: 0 record, 6875->408 tok, $0.0011, 9.227s
+    ok: 0 record, 7127->618 tok, $0.0092, 24.055s
+    ok: 0 record, 6875->407 tok, $0.0008, 10.59s
+[2022 DM 410.23-12-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM 410.23-12-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM 410.23-12-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM 410.23-12-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 7578->2 tok, $0.0007, 7.908s
+[2022 DM 410.23-12-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 7598->633 tok, $0.0039, 14.373s
+[2022 DM 410.23-12-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 7570->597 tok, $0.0017, 7.943s
+[2022 DM 410.23-12-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 7480->630 tok, $0.0030, 6.972s
+[2022 DM 410.23-12-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 0 record, 7475->552 tok, $0.0005, 22.394s
+    ok: 0 record, 7726->467 tok, $0.0013, 9.89s
+    ok: 0 record, 8038->827 tok, $0.0077, 29.685s
+    ok: 0 record, 7727->508 tok, $0.0012, 23.179s
+[2022 DM MIMS 342-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIMS 342-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIMS 342-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM MIMS 342-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 1 record, 10862->570 tok, $0.0004, 11.611s
+[2022 DM MIMS 342-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 1 record, 10859->585 tok, $0.0070, 12.773s
+[2022 DM MIMS 342-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 1 record, 10739->926 tok, $0.0025, 7.567s
+[2022 DM MIMS 342-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 1 record, 10669->808 tok, $0.0042, 19.059s
+[2022 DM MIMS 342-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 1 record, 11010->652 tok, $0.0018, 14.717s
+    ok: 1 record, 11567->1118 tok, $0.0108, 37.75s
+    ok: 1 record, 10707->769 tok, $0.0008, 40.219s
+    ok: 1 record, 11011->690 tok, $0.0017, 26.492s
+[2022 DM MIT 409-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DM MIT 409-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DM MIT 409-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DM MIT 409-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 9185->907 tok, $0.0063, 16.126s
+[2022 DM MIT 409-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 9165->720 tok, $0.0005, 20.441s
+[2022 DM MIT 409-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 9002->1046 tok, $0.0024, 9.744s
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 9779->910 tok, $0.0097, 31.35s
+    ok: 2 record, 9006->1154 tok, $0.0009, 34.624s
+    ok: 2 record, 9000->1189 tok, $0.0041, 14.377s
+    ok: 2 record, 9196->963 tok, $0.0016, 47.805s
+[2023 DI MIT-MEF 286-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 8853->2 tok, $0.0004, 7.026s
+[2023 DI MIT-MEF 286-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 1 record, 8712->549 tok, $0.0019, 5.092s
+[2023 DI MIT-MEF 286-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 1 record, 8873->543 tok, $0.0049, 13.309s
+[2023 DI MIT-MEF 286-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 1 record, 8731->549 tok, $0.0006, 19.775s
+[2023 DI MIT-MEF 286-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 1 record, 8743->742 tok, $0.0035, 7.779s
+    ok: 1 record, 8918->630 tok, $0.0015, 12.671s
+    ok: 1 record, 9428->759 tok, $0.0088, 28.018s
+    ok: 7 record, 8918->2364 tok, $0.0016, 23.824s
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 9015->343 tok, $0.0005, 15.272s
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 8920->495 tok, $0.0006, 17.821s
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 8874->718 tok, $0.0021, 11.386s
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 9 record, 9035->3798 tok, $0.0147, 39.042s
+[2023 DI MIT-MEF n.362 del 30-12-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 9 record, 9186->3502 tok, $0.0049, 24.761s
+    ok: 0 record, 9339->357 tok, $0.0015, 8.043s
+    ok: 8 record, 9339->3253 tok, $0.0016, 37.415s
+    ok: 9 record, 9437->4064 tok, $0.0220, 102.963s
+[2023 DM 343.22-12-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM 343.22-12-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM 343.22-12-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM 343.22-12-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 11434->465 tok, $0.0004, 10.157s
+[2023 DM 343.22-12-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 11431->733 tok, $0.0080, 14.053s
+[2023 DM 343.22-12-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 11482->805 tok, $0.0025, 10.146s
+[2023 DM 343.22-12-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 11242->619 tok, $0.0008, 24.23s
+[2023 DM 343.22-12-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 0 record, 11182->917 tok, $0.0044, 13.815s
+    ok: 0 record, 11865->814 tok, $0.0113, 29.368s
+    ok: 7 record, 11686->3051 tok, $0.0029, 46.607s
+    ok: 6 record, 11686->2567 tok, $0.0016, 58.554s
+[2023 DM MIT 191-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 191-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 191-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 191-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 9 record, 12460->3472 tok, $0.0171, 38.957s
+[2023 DM MIT 191-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 9 record, 12281->3364 tok, $0.0052, 34.021s
+[2023 DM MIT 191-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 9 record, 12289->3372 tok, $0.0020, 78.132s
+[2023 DM MIT 191-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 9 record, 13196->3406 tok, $0.0213, 97.194s
+[2023 DM MIT 191-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 9 record, 12440->2860 tok, $0.0012, 107.733s
+    ok: 9 record, 12174->3951 tok, $0.0070, 61.12s
+    ok: 9 record, 12507->3261 tok, $0.0031, 60.311s
+    ok: 8 record, 12507->2928 tok, $0.0021, 55.895s
+[2023 DM MIT 270-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 270-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 270-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 270-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 43 record, 46720->16012 tok, $0.0883, 137.403s
+[2023 DM MIT 270-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 44 record, 49971->19576 tok, $0.0271, 196.196s
+[2023 DM MIT 270-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 43 record, 48818->13125 tok, $0.0956, 339.34s
+[2023 DM MIT 270-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 43 record, 46798->14646 tok, $0.0085, 349.604s
+[2023 DM MIT 270-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 43 record, 46700->16380 tok, $0.0067, 438.916s
+    ok: 43 record, 46039->12696 tok, $0.0290, 126.752s
+    ok: 43 record, 50627->15853 tok, $0.0098, 423.506s
+    ok: 43 record, 50627->16112 tok, $0.0135, 435.661s
+[2023 DM MIT 342-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 31072->2 tok, $0.0028, 10.921s
+[2023 DM MIT 342-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 26 record, 34233->8993 tok, $0.0141, 75.91s
+[2023 DM MIT 342-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 22 record, 31778->7494 tok, $0.0049, 128.528s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 42 record, 31092->16265 tok, $0.0494, 132.695s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 27 record, 30718->8732 tok, $0.0197, 64.011s
+    ok: 22 record, 32374->6727 tok, $0.0577, 169.833s
+    ok: 13 record, 34393->4699 tok, $0.0048, 88.471s
+    ok: 22 record, 34393->8548 tok, $0.0082, 188.12s
+[2023 DM MIT 344-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 344-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 344-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 344-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    OK_REPAIRED: 42 record, 10976->8774 tok, $0.0000, 60.694s
+[2023 DM MIT 344-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 61 record, 14754->18028 tok, $0.0626, 133.528s
+[2023 DM MIT 344-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 74 record, 14560->19886 tok, $0.0282, 106.892s
+[2023 DM MIT 344-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2023 DM MIT 344-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 63 record, 16165->21487 tok, $0.0239, 204.9s
+    OK_REPAIRED: 59 record, 14881->16384 tok, $0.0073, 347.603s
+    ATTENZIONE: output troncato (alzare MAX_OUTPUT_TOKENS).
+    ok: 66 record, 15454->18073 tok, $0.0837, 422.433s
+    ok: 33 record, 16540->12092 tok, $0.0053, 220.249s
+[2023 DM MIT 345 - 2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 345 - 2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 38 record, 18771->15529 tok, $0.0592, 121.556s
+[2023 DM MIT 345 - 2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 38 record, 20002->13122 tok, $0.0161, 103.485s
+[2023 DM MIT 345 - 2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 38 record, 18751->11368 tok, $0.0037, 281.161s
+[2023 DM MIT 345 - 2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 49 record, 18820->14198 tok, $0.0067, 285.388s
+[2023 DM MIT 345 - 2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 38 record, 19391->12847 tok, $0.0666, 299.231s
+    ok: 49 record, 18382->13771 tok, $0.0220, 176.813s
+    ok: 22 record, 20087->7795 tok, $0.0043, 192.512s
+    ok: 38 record, 20087->13790 tok, $0.0083, 576.484s
+[2023 DM MIT 346-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 346-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 346-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 346-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 5 record, 8759->2172 tok, $0.0096, 24.018s
+[2023 DM MIT 346-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 8739->1822 tok, $0.0011, 39.987s
+[2023 DM MIT 346-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 8640->2636 tok, $0.0016, 40.951s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 5 record, 8787->2439 tok, $0.0038, 21.543s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+    ok: 5 record, 8595->2130 tok, $0.0051, 16.908s
+    ok: 5 record, 9186->2475 tok, $0.0186, 62.64s
+    ok: 6 record, 8990->2981 tok, $0.0018, 30.834s
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 6 record, 74290->2088 tok, $0.0742, 31.033s
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 4 record, 74314->1799 tok, $0.0051, 33.2s
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 3 record, 74270->1312 tok, $0.0065, 37.412s
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 6 record, 72949->2467 tok, $0.0248, 17.018s
+    ok: 3 record, 74031->1734 tok, $0.0128, 19.615s
+    ok: 4 record, 76611->2189 tok, $0.0783, 85.125s
+    ok: 7 record, 74028->2451 tok, $0.0081, 70.499s
+[2024 DI_MIT_MEF_107-2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2024 DI_MIT_MEF_107-2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 7266->403 tok, $0.0005, 13.783s
+[2024 DI_MIT_MEF_107-2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 1 record, 7368->696 tok, $0.0038, 15.045s
+[2024 DI_MIT_MEF_107-2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 7276->404 tok, $0.0026, 3.99s
+[2024 DI_MIT_MEF_107-2024.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 1 record, 7348->670 tok, $0.0004, 19.46s
+[2024 DI_MIT_MEF_107-2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 1 record, 7354->825 tok, $0.0019, 6.686s
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+    ok: 1 record, 7753->801 tok, $0.0073, 25.512s
+    ok: 1 record, 7499->662 tok, $0.0009, 7.338s
+[2024 DI_MIT_MEF_349_2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2024 DI_MIT_MEF_349_2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 7741->2 tok, $0.0007, 6.379s
+[2024 DI_MIT_MEF_349_2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 7761->405 tok, $0.0034, 9.87s
+[2024 DI_MIT_MEF_349_2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 7632->456 tok, $0.0016, 6.54s
+[2024 DI_MIT_MEF_349_2024.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 7656->365 tok, $0.0027, 4.456s
+[2024 DI_MIT_MEF_349_2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 0 record, 7658->583 tok, $0.0006, 14.636s
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 0 record, 8218->588 tok, $0.0069, 21.913s
+    ok: 0 record, 7786->454 tok, $0.0009, 8.845s
+    ok: 0 record, 7786->415 tok, $0.0013, 14.499s
+[2024 DM MIT 330.20-12-2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2024 DM MIT 330.20-12-2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    RISPOSTA_VUOTA: 0 record, 8498->2 tok, $0.0008, 7.763s
+[2024 DM MIT 330.20-12-2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 8518->349 tok, $0.0040, 12.216s
+[2024 DM MIT 330.20-12-2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 0 record, 8406->672 tok, $0.0019, 6.423s
+[2024 DM MIT 330.20-12-2024.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 8374->621 tok, $0.0006, 22.519s
+[2024 DM MIT 330.20-12-2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 0 record, 8380->629 tok, $0.0033, 12.87s
+    ok: 0 record, 8973->850 tok, $0.0087, 25.481s
+    ok: 0 record, 8611->654 tok, $0.0008, 8.416s
+    ok: 0 record, 8611->700 tok, $0.0015, 21.311s
+[2024 DM MIT 334-2024.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2024 DM MIT 334-2024.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2024 DM MIT 334-2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2024 DM MIT 334-2024.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 39 record, 18758->14986 tok, $0.0576, 115.618s
+[2024 DM MIT 334-2024.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 36 record, 19302->14200 tok, $0.0171, 124.992s
+[2024 DM MIT 334-2024.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 39 record, 18738->13880 tok, $0.0038, 248.095s
+[2024 DM MIT 334-2024.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 39 record, 19615->13362 tok, $0.0688, 290.706s
+[2024 DM MIT 334-2024.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 6 record, 19445->2468 tok, $0.0037, 70.946s
+    ok: 7 record, 19445->2875 tok, $0.0028, 37.229s
+    ok: 39 record, 18817->12384 tok, $0.0060, 383.679s
+    ok: 39 record, 18403->12294 tok, $0.0189, 165.896s
+[2025 DD MIT 141-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 12175->1216 tok, $0.0102, 20.209s
+[2025 DD MIT 141-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 12155->1165 tok, $0.0013, 27.954s
+[2025 DD MIT 141-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 12610->1572 tok, $0.0035, 14.17s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 12828->1456 tok, $0.0148, 41.784s
+    ok: 2 record, 12109->1328 tok, $0.0011, 47.234s
+    ok: 2 record, 11991->1522 tok, $0.0054, 21.365s
+    ok: 5 record, 12979->2121 tok, $0.0019, 73.794s
+[2025 DM MIT 131-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DM MIT 131-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DM MIT 131-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2025 DM MIT 131-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 9311->326 tok, $0.0047, 14.086s
+[2025 DM MIT 131-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 0 record, 9291->303 tok, $0.0009, 15.232s
+[2025 DM MIT 131-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 9395->1245 tok, $0.0027, 10.491s
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 0 record, 9167->626 tok, $0.0021, 15.336s
+    ok: 0 record, 9178->557 tok, $0.0007, 35.503s
+    ok: 1 record, 9829->1111 tok, $0.0105, 36.368s
+    ok: 2 record, 9626->1073 tok, $0.0013, 38.398s
+
+Fatto. Risultati in: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+JSONL scritto: results.jsonl (200 righe, tutte le celle)
+
+Spesa totale (API): $1.9055
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.715818
+deepseek/deepseek-v4-pro-0813::off    0.563801
+minimax/minimax-m3::off               0.229467
+qwen/qwen3.6-35b-a3b::off             0.172546
+google/gemma-4-26b-a4b-it::off        0.069435
+z-ai/glm-4.7-flash::off               0.058579
+google/gemma-4-31b-it::off            0.054992
+deepseek/deepseek-v4-flash::off       0.040844
+
+CSV scritti in C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\cicli\manuale\v003.json
+  versione: v003   fingerprint: 4e63bed6
+25 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260929-105244__4e63bed6
+
+[2021 DM mit 464-2021.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 5 record, 13468->2143 tok, $0.0027, 70.936s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 2 record, 9462->980 tok, $0.0017, 19.481s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DI MIT-MEF 390-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI MIT-MEF 390-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    RISPOSTA_VUOTA: 0 record, 12038->2 tok, $0.0007, 2.66s
+    ok: 4 record, 11874->1485 tok, $0.0023, 26.973s
+[2022 DM 410.23-12-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 7578->2 tok, $0.0003, 1.246s
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 8853->2 tok, $0.0004, 3.519s
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 31072->2 tok, $0.0028, 2.375s
+[2023 DM MIT 344-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 344-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 344-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 0 record, 14881->206 tok, $0.0009, 15.17s
+    ok: 60 record, 14734->17780 tok, $0.0041, 273.205s
+    ok: 65 record, 16540->21917 tok, $0.0111, 435.552s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2024 delibera CIPE del 19 dicembre 2024.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 5 record, 74028->2040 tok, $0.0112, 82.519s
+[2024 DI_MIT_MEF_107-2024.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 0 record, 7500->410 tok, $0.0012, 12.66s
+[2024 DI_MIT_MEF_349_2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 7741->2 tok, $0.0003, 1.001s
+[2024 DM MIT 330.20-12-2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    ok: 0 record, 8498->580 tok, $0.0005, 10.682s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 2 record, 12979->1103 tok, $0.0023, 51.802s
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+
+Fatto. Risultati in: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+JSONL scritto: results.jsonl (200 righe, tutte le celle)
+
+Spesa totale (API): $1.9345
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.715818
+deepseek/deepseek-v4-pro-0813::off    0.563801
+minimax/minimax-m3::off               0.229467
+qwen/qwen3.6-35b-a3b::off             0.172546
+google/gemma-4-31b-it::off            0.087442
+google/gemma-4-26b-a4b-it::off        0.069435
+z-ai/glm-4.7-flash::off               0.052108
+deepseek/deepseek-v4-flash::off       0.043853
+
+CSV scritti in C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\cicli\manuale\v003.json
+  versione: v003   fingerprint: 4e63bed6
+25 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260929-105244__4e63bed6
+
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 5 record, 11710->2166 tok, $0.0025, 62.231s
+[2022 DI MIT-MEF 390-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 12038->2 tok, $0.0011, 2.474s
+[2022 DM 410.23-12-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 7578->2 tok, $0.0001, 1.091s
+[2022 DM MIT 409-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ok: 2 record, 9195->1018 tok, $0.0017, 30.2s
+[2023 DI MIT-MEF 286-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 8853->2 tok, $0.0008, 2.129s
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 31072->2 tok, $0.0006, 2.078s
+[2023 DM MIT 346-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 5 record, 8990->2475 tok, $0.0022, 105.135s
+[2024 DI_MIT_MEF_349_2024.pdf] -> deepseek_deepseek-v4-flash [OFF]
+    RISPOSTA_VUOTA: 0 record, 7741->2 tok, $0.0003, 2.33s
+[2025 DM MIT 131-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 9626->397 tok, $0.0015, 15.117s
+
+Fatto. Risultati in: C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+JSONL scritto: results.jsonl (200 righe, tutte le celle)
+
+Spesa totale (API): $1.9409
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.715818
+deepseek/deepseek-v4-pro-0813::off    0.563801
+minimax/minimax-m3::off               0.229467
+qwen/qwen3.6-35b-a3b::off             0.172546
+google/gemma-4-31b-it::off            0.095397
+google/gemma-4-26b-a4b-it::off        0.069435
+z-ai/glm-4.7-flash::off               0.052108
+deepseek/deepseek-v4-flash::off       0.042304
+
+CSV scritti in C:\Users\matteo.caruso\OneDrive - mef.gov.it\File di Olivieri Giuseppe - AAAA Previsioni di Spesa\5. LLMs\output\20260929-105244__4e63bed6
+Run: 20260929-105244__4e63bed6
+Denominatore: 16 documenti eleggibili (con benchmark, meno 1 in quarantena)
+    quarantena: 2024 delibera CIPE del 19 dicembre 2024
+Livello pieno (CUP + importo + capitolo/PG + tipologia): 1 documenti; gli altri al livello base (CUP + importo)
+
+  10/16  (pieno 1/1)   deepseek/deepseek-v4-flash::off   ATTENZIONE: guardia di precisione violata su 1 doc
+           coppie CUP-importo su un atto senza benchmark: 2024 DI_MIT_MEF_107-2024
+  12/16  (pieno 1/1)   deepseek/deepseek-v4-pro-0813::off   ATTENZIONE: guardia di precisione violata su 1 doc
+           coppie CUP-importo su un atto senza benchmark: 2024 DI_MIT_MEF_107-2024
+   4/16  (pieno 0/1)   google/gemma-4-26b-a4b-it::off   ATTENZIONE: guardia di precisione violata su 2 doc
+           coppie CUP-importo su un atto senza benchmark: 2023 DM 343.22-12-2023
+           coppie CUP-importo su un atto senza benchmark: 2024 DI_MIT_MEF_107-2024
+  10/16  (pieno 1/1)   google/gemma-4-31b-it::off
+  11/16  (pieno 1/1)   minimax/minimax-m3::off
+  12/16  (pieno 1/1)   moonshotai/kimi-k2.6::off   ATTENZIONE: guardia di precisione violata su 2 doc
+           coppie CUP-importo su un atto senza benchmark: 2023 DI MIT-MEF n.362 del 30-12-2023
+           coppie CUP-importo su un atto senza benchmark: 2024 DI_MIT_MEF_107-2024
+  10/16  (pieno 1/1)   qwen/qwen3.6-35b-a3b::off   ATTENZIONE: guardia di precisione violata su 2 doc
+           coppie CUP-importo su un atto senza benchmark: 2023 DI MIT-MEF n.362 del 30-12-2023
+           coppie CUP-importo su un atto senza benchmark: 2024 DI_MIT_MEF_107-2024
+  10/16  (pieno 1/1)   z-ai/glm-4.7-flash::off
+
+=== deepseek/deepseek-v4-flash::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  NO  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 24 fn= 0 fp= 9  [ok]
+         in piu' B34J18000220001          37,258,062
+         in piu' B34J18000230001          37,258,062
+         in piu' C11J22000000001         221,721,410
+         in piu' F47C19000350001          22,500,000
+         in piu' F47C19000360001          22,500,000
+         in piu' F47C19000370001           5,225,000
+         in piu' F47C19000380001           5,225,000
+         in piu' F47C19000390001           5,225,000
+         in piu' F47D17000140005           5,225,000
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  0 fn= 1 fp= 0  [risposta_vuota]
+         manca   B81I06000000003          75,000,000
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001                   0
+         in piu' B34J18000230001          74,516,125
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001          45,000,000
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005                   0
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred=  0 fn=31 fp= 0  [risposta_vuota]
+         manca   B19F22013250002           2,400,000
+         manca   B41E04000210001          50,000,000
+         manca   B81B21003770005           1,750,000
+         manca   B89J21020930005           1,200,000
+         manca   C56G21008730001           3,400,000
+         manca   C71G22000090001           7,000,000
+         manca   C75B23000000001          10,543,255
+         manca   C89F23000050001             600,000
+         manca   C99F23000050001           5,400,000
+         manca   D49D15001920001          25,000,000
+         manca   D69D15002090001          25,000,000
+         manca   E51B21002250001          20,000,000
+         manca   F41B21005790009          30,000,000
+         manca   F61B21003640009          30,000,000
+         manca   F81B21005610001          18,000,000
+         manca   G11B18000550005           3,500,000
+         manca   G31G22000250001           2,800,000
+         manca   G31G22000260001           7,200,000
+         manca   G71B18000620005           2,500,000
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              47,725
+         manca   H49J21005480003              86,250
+         manca   I57H21005640001           1,512,215
+         manca   I61B21003020001           9,900,000
+         manca   I67H21003160001           2,900,000
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 61 fn= 3 fp= 2  [ok]
+         manca   B67H20015780001                   0
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' H30J21000100001           2,914,000
+         in piu' H39J21010200001                   0
+  OK  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 39 fn= 0 fp= 0  [ok]
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  0 fn= 1 fp= 0  [ok]
+         manca   B21F19000040009         915,000,000
+
+=== deepseek/deepseek-v4-pro-0813::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 15 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001                   0
+         in piu' B34J18000230001                   0
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001                   0
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005                   0
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 23 fn= 8 fp= 0  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              86,250
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 61 fn= 2 fp= 1  [ok]
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' H30J21000100001           2,914,000
+  OK  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 39 fn= 0 fp= 0  [ok]
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  0 fn= 1 fp= 0  [ok]
+         manca   B21F19000040009         915,000,000
+
+=== google/gemma-4-26b-a4b-it::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  7 fn= 1 fp= 2  [ok]
+         manca   H94I19000130004          97,154,124
+         in piu' H94I19000130004           3,000,000
+         in piu' H94I19000130004         631,174,000
+  NO  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 24 fn= 0 fp= 9  [ok]
+         in piu' B34J18000220001          37,258,062
+         in piu' B34J18000230001          37,258,062
+         in piu' C11J22000000001         221,721,410
+         in piu' F47C19000350001          22,500,000
+         in piu' F47C19000360001          22,500,000
+         in piu' F47C19000370001           5,225,000
+         in piu' F47C19000380001           5,225,000
+         in piu' F47C19000390001           5,225,000
+         in piu' F47D17000140005           5,225,000
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  7 fn= 0 fp= 6  [ok]
+         in piu' B81I06000000003           6,000,000
+         in piu' B81I06000000003           7,000,000
+         in piu' B81I06000000003          10,000,000
+         in piu' B81I06000000003          14,000,000
+         in piu' B81I06000000003          17,000,000
+         in piu' B81I06000000003          21,000,000
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 6 fp= 6  [ok]
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001          45,000,000
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005          20,900,000
+  NO  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 39 fn= 6 fp= 2  [ok]
+         manca   C47D22000030002          17,000,000
+         manca   C71G23000060001           8,000,000
+         manca   C77D22000050002          35,000,000
+         manca   C77D23000040001          19,000,000
+         manca   E47D23000020001          59,000,000
+         manca   F70B18000000003          23,000,000
+         in piu' E47D23000020001          39,079,122
+         in piu' E67G20000050002          39,079,122
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 13 fn=22 fp= 4  [ok]
+         manca   B41E04000210001          50,000,000
+         manca   B89J21020930005           1,200,000
+         manca   C71G22000090001           7,000,000
+         manca   C75B23000000001          10,543,255
+         manca   D49D15001920001          25,000,000
+         manca   D69D15002090001          25,000,000
+         manca   E51B21002250001          20,000,000
+         manca   F61B21003640009          30,000,000
+         manca   F81B21005610001          18,000,000
+         manca   G31G22000250001           2,800,000
+         manca   G71B18000620005           2,500,000
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              47,725
+         manca   H49J21005480003              86,250
+         manca   I61B21003020001           9,900,000
+         manca   I67H21003160001           2,900,000
+         in piu' C75B23000000001             690,994
+         in piu' C75B23000000001             842,682
+         in piu' H49J21005480003             125,266
+         in piu' H49J21005480003             217,585
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 36 fn=42 fp=16  [ok]
+         manca   B67H20015770001             160,000
+         manca   B67H20015770001             280,000
+         manca   B67H20015770001             350,000
+         manca   B67H20015770001             400,000
+         manca   B67H20015770001             485,000
+         manca   B67H20015770001             585,000
+         manca   B67H20015770001             800,000
+         manca   B67H20015780001                   0
+         manca   B67H20015780001              70,000
+         manca   B67H20015780001              84,035
+         manca   B67H20015780001              90,000
+         manca   B67H20015780001             150,000
+         manca   B67H20015780001             164,435
+         manca   B67H20015780001             435,000
+         manca   B67H20015780001             650,000
+         manca   B67H20015780001             945,000
+         manca   B67H21009130001           1,500,000
+         manca   B67H21009130001           4,000,000
+         manca   D44D21000410001              10,000
+         manca   D44D21000410001             200,000
+         manca   D44D21000410001             570,000
+         manca   D44D21000410001           1,400,000
+         manca   D44D21000420001             300,000
+         manca   D44D21000420001           1,200,000
+         manca   D48H21000600001             500,000
+         manca   D48H21000600001          14,500,000
+         manca   D49I21000120001             250,000
+         manca   D49I21000120001             500,000
+         manca   F97H21009420001             550,000
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010190001           2,729,483
+         manca   H39J21010200001           1,457,000
+         manca   H97H21005650001             100,000
+         manca   H97H21005650001             180,000
+         manca   H97H21005650001             290,000
+         manca   H97H21005650001             630,000
+         manca   H97H21005650001           5,800,000
+         manca   I79J21015680001              82,767
+         manca   I79J21015680001           1,600,000
+         manca   I80J21000060004          11,500,000
+         manca   I87B20001100004          11,500,000
+         manca   J87C19000370004          11,500,000
+         in piu' B67H20015770001           4,740,000
+         in piu' B67H20015780001               3,004
+         in piu' B67H21009130001           5,500,000
+         in piu' D44D21000410001           2,180,000
+         in piu' D44D21000420001           1,500,000
+         in piu' D48H2100060001           15,500,000
+         in piu' D49I21000120001             750,000
+         in piu' F97H21009420001           6,350,000
+         in piu' H30J21000100001           1,881,161
+         in piu' H30J21000110001             261,857
+         in piu' H39J21010190001           1,881,161
+         in piu' H39J21010200001           1,881,161
+         in piu' H97H21005650001           7,200,000
+         in piu' I79J21015680001           1,882,767
+         in piu' I80J21000060004          17,250,000
+         in piu' I87B20001100004          17,250,000
+  NO  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 23 fn=16 fp= 0  [ok]
+         manca   B60I20000000001          30,000,000
+         manca   B60J21000070001          15,500,000
+         manca   B61B21004880001          26,000,000
+         manca   B61B21004920001          17,000,000
+         manca   B61B21004930001           5,700,000
+         manca   B61E16000790007          41,761,536
+         manca   B67H21009110001           7,500,000
+         manca   B67H21009120001           2,500,000
+         manca   B69H13000230002          41,500,000
+         manca   C91G20000560006         317,071,778
+         manca   D71D18000520001          23,141,795
+         manca   E51J20000070001         134,558,977
+         manca   F61B19000600007          24,644,000
+         manca   F91B20001110007         120,772,120
+         manca   F91B21005050001          48,768,103
+         manca   J91B21002850001         159,171,170
+  NO  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  7 fn= 0 fp= 1  [ok]
+         in piu' B24C17000320005          59,000,000
+  NO  2024 DM MIT 334-2024                          [base ] gt= 37 pred=  7 fn=32 fp= 2  [ok]
+         manca   B31B21011680001          43,899,107
+         manca   B44D22000070005          25,155,736
+         manca   B44D22000090005          14,324,340
+         manca   B44D22000100005          25,155,736
+         manca   B44E07000120004           9,000,000
+         manca   B60I20000000001          30,000,000
+         manca   B60J21000070001          16,130,353
+         manca   B61B21004880001          26,000,000
+         manca   B61B21004920001          17,000,000
+         manca   B61B21004930001           5,700,000
+         manca   B61E16000790007          49,051,967
+         manca   B67H21009110001           7,500,000
+         manca   B67H21009120001           2,500,000
+         manca   C91B21006380001          86,711,743
+         manca   C91D17000020001         115,000,000
+         manca   C91G20000560006         317,071,778
+         manca   E51D20001110001         130,000,000
+         manca   F31D21000020001         222,142,224
+         manca   F31F19000110001         398,822,273
+         manca   F40E19000030008           8,800,000
+         manca   F40J21000050001          52,360,000
+         manca   F61B19000600007          24,644,000
+         manca   F91B20001110007         120,772,120
+         manca   H11B21006730001          80,000,000
+         manca   H21D18000120001         100,000,000
+         manca   H21E03000370005           7,201,545
+         manca   H41J22000280003         150,000,000
+         manca   H91F18000260005          14,642,359
+         manca   H91J12000770005         222,485,839
+         manca   J81F19000890001         100,000,000
+         manca   J81J20000290001         120,000,000
+         manca   J91B21002850001         159,171,170
+         in piu' B44D22000090005          21,675,660
+         in piu' D71D18000520001          48,768,103
+  NO  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  5 fn= 0 fp= 3  [ok]
+         in piu' E51I04000010007         113,733,987    7400/1  impegnato
+         in piu' E51I04000010007         145,000,000    7426/1  impegnato
+         in piu' E51I04000010007       1,486,266,013    7400/8  impegnato
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  2 fn= 1 fp= 2  [ok]
+         manca   B21F19000040009         915,000,000
+         in piu' B21F19000040009          15,000,000
+         in piu' B21F19000040009         900,000,000
+
+=== google/gemma-4-31b-it::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  NO  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 24 fn= 0 fp= 9  [ok]
+         in piu' B34J18000220001          37,258,062
+         in piu' B34J18000230001          37,258,062
+         in piu' C11J22000000001         221,721,410
+         in piu' F47C19000350001          22,500,000
+         in piu' F47C19000360001          22,500,000
+         in piu' F47C19000370001           5,225,000
+         in piu' F47C19000380001           5,225,000
+         in piu' F47C19000390001           5,225,000
+         in piu' F47D17000140005           5,225,000
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001          74,516,125
+         in piu' B34J18000230001                   0
+         in piu' F47C19000350001          45,000,000
+         in piu' F47C19000360001                   0
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005          20,900,000
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 23 fn= 9 fp= 1  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              47,725
+         manca   H49J21005480003              86,250
+         in piu' H49J21005480003             256,450
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 62 fn= 2 fp= 2  [ok]
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' H30J21000100001           2,914,000
+         in piu' H39J21010200001                   0
+  OK  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 39 fn= 0 fp= 0  [ok]
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  NO  2024 DM MIT 334-2024                          [base ] gt= 37 pred=  3 fn=34 fp= 0  [ok]
+         manca   B31B21011680001          43,899,107
+         manca   B31E20000230001         398,976,182
+         manca   B44D22000070005          25,155,736
+         manca   B44D22000100005          25,155,736
+         manca   B44E07000120004           9,000,000
+         manca   B60I20000000001          30,000,000
+         manca   B60J21000070001          16,130,353
+         manca   B61B21004880001          26,000,000
+         manca   B61B21004920001          17,000,000
+         manca   B61B21004930001           5,700,000
+         manca   B61E16000790007          49,051,967
+         manca   B67H21009110001           7,500,000
+         manca   B67H21009120001           2,500,000
+         manca   C91B21006380001          86,711,743
+         manca   C91D17000020001         115,000,000
+         manca   C91G20000560006         317,071,778
+         manca   E51D20001110001         130,000,000
+         manca   E51J20000070001         134,558,977
+         manca   F31D21000020001         222,142,224
+         manca   F31F19000110001         398,822,273
+         manca   F40E19000030008           8,800,000
+         manca   F40J21000050001          52,360,000
+         manca   F61B19000600007          24,644,000
+         manca   F91B20001110007         120,772,120
+         manca   H11B21006730001          80,000,000
+         manca   H21D18000120001         100,000,000
+         manca   H21E03000370005           7,201,545
+         manca   H41J22000280003         150,000,000
+         manca   H91F18000260005          14,642,359
+         manca   H91J12000770005         222,485,839
+         manca   H94I19000130004         308,501,540
+         manca   J81F19000890001         100,000,000
+         manca   J81J20000290001         120,000,000
+         manca   J91B21002850001         159,171,170
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  0 fn= 1 fp= 0  [ok]
+         manca   B21F19000040009         915,000,000
+
+=== minimax/minimax-m3::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 15 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001                   0
+         in piu' B34J18000230001                   0
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001                   0
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005                   0
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 24 fn= 8 fp= 1  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              86,250
+         in piu' H49J21005480003             256,450
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 62 fn= 2 fp= 2  [ok]
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' H30J21000100001           2,914,000
+         in piu' H39J21010200001                   0
+  NO  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 50 fn= 0 fp=11  [ok]
+         in piu' B31E20000230001         121,645,087
+         in piu' C91B21006380001           5,000,000
+         in piu' C91G20000560006          28,700,000
+         in piu' C91G20000560006         115,000,000
+         in piu' F31F19000110001         112,502,097
+         in piu' H21D18000120001          78,629,102
+         in piu' H21E03000370005          60,118,257
+         in piu' H41J22000280003         134,235,779
+         in piu' H91F18000260005          86,390,313
+         in piu' H94I19000130004          97,154,124
+         in piu' J81F19000890001          84,256,600
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  0 fn= 1 fp= 0  [ok]
+         manca   B21F19000040009         915,000,000
+
+=== moonshotai/kimi-k2.6::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 15 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001                   0
+         in piu' B34J18000230001          74,516,125
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001          45,000,000
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005                   0
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 23 fn= 9 fp= 1  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              47,725
+         manca   H49J21005480003              86,250
+         in piu' H49J21005480003             256,450
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 77 fn= 2 fp=17  [ok]
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' D44D21000420001                   0
+         in piu' D48H21000600001                   0
+         in piu' H30J21000080001              43,643
+         in piu' H30J21000090001              43,643
+         in piu' H30J21000100001              43,643
+         in piu' H30J21000100001           2,914,000
+         in piu' H30J21000110001              43,643
+         in piu' H39J21010190001              43,643
+         in piu' H39J21010200001                   0
+         in piu' H39J21010200001              43,643
+         in piu' I79J21015680001             167,233
+         in piu' I80J21000010004              15,933
+         in piu' I80J21000020004              15,933
+         in piu' I80J21000060004              15,933
+         in piu' I87B20001090004              15,933
+         in piu' I87B20001100004              15,933
+         in piu' J87C19000370004              15,933
+  OK  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 39 fn= 0 fp= 0  [ok]
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  1 fn= 1 fp= 1  [ok]
+         manca   B21F19000040009         915,000,000
+         in piu' B21F19000040009          15,000,000
+
+=== qwen/qwen3.6-35b-a3b::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred= 11 fn= 5 fp=10  [ok]
+         manca   C11B21008720001          22,247,247
+         manca   C81B21013200005         333,059,209
+         manca   D81E20000410007          22,247,247
+         manca   H94I19000130004          97,154,124
+         manca   J80J18000000001         159,466,174
+         in piu' C11B21008720001             105,198
+         in piu' C11B21008720001          22,142,005
+         in piu' C81B21013200005           1,575,558
+         in piu' C81B21013200005         331,483,651
+         in piu' D81E20000410007             105,198
+         in piu' D81E20000410007          22,142,005
+         in piu' H94I19000130004           1,000,000
+         in piu' H94I19000130004          96,694,526
+         in piu' J80J18000000001             754,365
+         in piu' J80J18000000001         158,711,809
+  OK  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 15 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001                   0
+         in piu' B34J18000230001          74,516,125
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001          45,000,000
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005          20,900,000
+  NO  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 44 fn= 0 fp= 1  [ok]
+         in piu' E67G20000050002          59,000,000
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 23 fn= 8 fp= 0  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              47,725
+         manca   H49J21005480003              86,250
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred= 64 fn= 2 fp= 4  [ok]
+         manca   H30J21000100001           1,457,000
+         manca   H39J21010200001           1,457,000
+         in piu' D44D21000420001                   0
+         in piu' D48H21000600001                   0
+         in piu' H30J21000100001           2,914,000
+         in piu' H39J21010200001                   0
+  OK  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 39 fn= 0 fp= 0  [ok]
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  2 fn= 1 fp= 2  [ok]
+         manca   B21F19000040009         915,000,000
+         in piu' B21F19000040009          15,000,000
+         in piu' B21F19000040009         900,000,000
+
+=== z-ai/glm-4.7-flash::off ===
+  OK  2021 DM mit 464-2021                          [base ] gt=  5 pred=  5 fn= 0 fp= 0  [ok]
+  OK  2022 DD MIT 454-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2022 DDG 128 del 02-05-22                     [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  NO  2022 DI Mims Mef 97 20.04.2022                [base ] gt= 15 pred= 24 fn= 0 fp= 9  [ok]
+         in piu' B34J18000220001          37,258,062
+         in piu' B34J18000230001          37,258,062
+         in piu' C11J22000000001         221,721,410
+         in piu' F47C19000350001          22,500,000
+         in piu' F47C19000360001          22,500,000
+         in piu' F47C19000370001           5,225,000
+         in piu' F47C19000380001           5,225,000
+         in piu' F47C19000390001           5,225,000
+         in piu' F47D17000140005           5,225,000
+  OK  2022 DM MIMS 342-2022                         [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  OK  2022 DM MIT 409-2022                          [base ] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  OK  2023 DI MIT-MEF 286-2023                      [base ] gt=  1 pred=  1 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 191-2023                          [base ] gt=  9 pred=  9 fn= 8 fp= 8  [ok]
+         manca   B31J23000240001          37,258,062
+         manca   B34J18000230001          37,258,062
+         manca   F47C19000350001          22,500,000
+         manca   F47C19000360001          22,500,000
+         manca   F47C19000370001           5,225,000
+         manca   F47C19000380001           5,225,000
+         manca   F47C19000390001           5,225,000
+         manca   F47D17000140005           5,225,000
+         in piu' B31J23000240001          64,158,886
+         in piu' B34J18000230001          10,357,238
+         in piu' F47C19000350001                   0
+         in piu' F47C19000360001          45,000,000
+         in piu' F47C19000370001           2,000,000
+         in piu' F47C19000380001                   0
+         in piu' F47C19000390001           2,100,000
+         in piu' F47D17000140005                   0
+  OK  2023 DM MIT 270-2023                          [base ] gt= 43 pred= 43 fn= 0 fp= 0  [ok]
+  NO  2023 DM MIT 342-2023                          [base ] gt= 31 pred= 23 fn= 8 fp= 0  [ok]
+         manca   H49J21005480003               4,025
+         manca   H49J21005480003               6,325
+         manca   H49J21005480003               7,475
+         manca   H49J21005480003               9,200
+         manca   H49J21005480003              25,300
+         manca   H49J21005480003              25,875
+         manca   H49J21005480003              44,275
+         manca   H49J21005480003              86,250
+  NO  2023 DM MIT 344-2023                          [base ] gt= 62 pred=  0 fn=62 fp= 0  [ok]
+         manca   B67H20015770001             160,000
+         manca   B67H20015770001             280,000
+         manca   B67H20015770001             350,000
+         manca   B67H20015770001             400,000
+         manca   B67H20015770001             485,000
+         manca   B67H20015770001             585,000
+         manca   B67H20015770001             800,000
+         manca   B67H20015780001                   0
+         manca   B67H20015780001              70,000
+         manca   B67H20015780001              84,035
+         manca   B67H20015780001              90,000
+         manca   B67H20015780001             150,000
+         manca   B67H20015780001             164,435
+         manca   B67H20015780001             435,000
+         manca   B67H20015780001             650,000
+         manca   B67H20015780001             945,000
+         manca   B67H21009130001           1,500,000
+         manca   B67H21009130001           4,000,000
+         manca   D17H21005490001          10,000,000
+         manca   D17H21005500001             564,000
+         manca   D17H21005510001          13,450,000
+         manca   D17H21005520001           3,250,000
+         manca   D17H21005530001           1,040,000
+         manca   D17H21005540001             630,000
+         manca   D44D21000410001              10,000
+         manca   D44D21000410001             200,000
+         manca   D44D21000410001             570,000
+         manca   D44D21000410001           1,400,000
+         manca   D44D21000420001             300,000
+         manca   D44D21000420001           1,200,000
+         manca   D48H21000600001             500,000
+         manca   D48H21000600001          14,500,000
+         manca   D49I21000120001             250,000
+         manca   D49I21000120001             500,000
+         manca   D87G21000050001           3,300,000
+         manca   F47H21008020001           8,000,000
+         manca   F49J21012710001          17,400,000
+         manca   F49J21012720001          19,000,000
+         manca   F97H21009420001             550,000
+         manca   F99J21009810001             272,065
+         manca   F99J21009820001                   0
+         manca   H30J21000080001           1,454,962
+         manca   H30J21000090001           1,955,566
+         manca   H30J21000100001           1,457,000
+         manca   H30J21000110001             684,131
+         manca   H39J21010190001           2,729,483
+         manca   H39J21010200001           1,457,000
+         manca   H97H21005650001             100,000
+         manca   H97H21005650001             180,000
+         manca   H97H21005650001             290,000
+         manca   H97H21005650001             630,000
+         manca   H97H21005650001           5,800,000
+         manca   I79J21015680001              82,767
+         manca   I79J21015680001           1,600,000
+         manca   I80J21000010004           1,646,880
+         manca   I80J21000020004             203,404
+         manca   I80J21000060004          11,500,000
+         manca   I87B20001090004           1,092,286
+         manca   I87B20001100004          11,500,000
+         manca   J19J21020260001          12,000,000
+         manca   J19J21020270001           6,000,000
+         manca   J87C19000370004          11,500,000
+  NO  2023 DM MIT 345 - 2023                        [base ] gt= 39 pred= 50 fn= 0 fp=11  [ok]
+         in piu' B31E20000230001         121,645,087
+         in piu' C91B21006380001           5,000,000
+         in piu' C91G20000560006          28,700,000
+         in piu' C91G20000560006         115,000,000
+         in piu' F31F19000110001         112,502,097
+         in piu' H21D18000120001          78,629,102
+         in piu' H21E03000370005          60,118,257
+         in piu' H41J22000280003         134,235,779
+         in piu' H91F18000260005          86,390,313
+         in piu' H94I19000130004          97,154,124
+         in piu' J81F19000890001          84,256,600
+  OK  2023 DM MIT 346-2023                          [base ] gt=  6 pred=  6 fn= 0 fp= 0  [ok]
+  OK  2024 DM MIT 334-2024                          [base ] gt= 37 pred= 37 fn= 0 fp= 0  [ok]
+  OK  2025 DD MIT 141-2025                          [pieno] gt=  2 pred=  2 fn= 0 fp= 0  [ok]
+  NO  2025 DM MIT 131-2025                          [base ] gt=  1 pred=  0 fn= 1 fp= 0  [ok]
+         manca   B21F19000040009         915,000,000
+Benchmark: 264 righe, 225 coppie (doc,CUP), 263 coppie (doc,CUP,importo) distinte, 17 documenti
+
+                      run                               cell  n_records  n_pairs_pred  pair_P  pair_R  pair_F1  pairtot_P  pairtot_R  pairtot_F1  cup_F1  total_F1  cost_usd  latency_mean_s                          status
+20260929-105244__4e63bed6    deepseek/deepseek-v4-flash::off        234           241   0.905   0.829    0.865      0.905      0.829       0.865   0.920     0.869     0.042          75.055 {"ok": 20, "risposta_vuota": 5}
+20260929-105244__4e63bed6 deepseek/deepseek-v4-pro-0813::off        291           259   0.938   0.924    0.931      0.938      0.924       0.931   0.993     0.949     0.564          43.420                      {"ok": 25}
+20260929-105244__4e63bed6     google/gemma-4-26b-a4b-it::off        215           203   0.670   0.517    0.584      0.670      0.517       0.584   0.791     0.632     0.069          92.751                      {"ok": 25}
+20260929-105244__4e63bed6         google/gemma-4-31b-it::off        241           233   0.893   0.791    0.839      0.893      0.791       0.839   0.896     0.844     0.095         102.558                      {"ok": 25}
+20260929-105244__4e63bed6            minimax/minimax-m3::off        296           271   0.897   0.924    0.910      0.897      0.924       0.910   0.998     0.860     0.229          40.940                      {"ok": 25}
+20260929-105244__4e63bed6          moonshotai/kimi-k2.6::off        274           283   0.855   0.920    0.886      0.855      0.920       0.886   0.978     0.878     0.716         101.474                      {"ok": 25}
+20260929-105244__4e63bed6          qwen/qwen3.6-35b-a3b::off        273           276   0.862   0.905    0.883      0.862      0.905       0.883   0.976     0.911     0.173          40.544                      {"ok": 25}
+20260929-105244__4e63bed6            z-ai/glm-4.7-flash::off        208           215   0.851   0.696    0.766      0.851      0.696       0.766   0.891     0.801     0.052          79.679                      {"ok": 25}

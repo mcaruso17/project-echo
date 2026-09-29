@@ -1,0 +1,11 @@
+{
+  "champion": [
+    "z-ai/glm-4.7-flash"
+  ],
+  "docs_file": "/tmp/docs_test.txt",
+  "modello_giudice": "anthropic/claude-opus-5.5",
+  "max_round": 2,
+  "budget_usd": 3.0,
+  "workers": 2,
+  "celle_soffitto": []
+}

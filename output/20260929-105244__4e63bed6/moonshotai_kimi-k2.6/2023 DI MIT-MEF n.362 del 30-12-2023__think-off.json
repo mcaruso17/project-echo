@@ -1,0 +1,289 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:17:56",
+  "received_at": "2026-09-29T11:19:39",
+  "latency_seconds": 102.963,
+  "prompt_tokens": 9437,
+  "completion_tokens": 4064,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 13501,
+  "cost_usd_api": 0.02198531,
+  "cost_usd_reconstructed": 0.02522115,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673483-Q1oQ0o7W7wZZcb6nLq0Y",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "legge 30 dicembre 2021, n. 234",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "legge 29 dicembre 2022, n. 197",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "Atto di rimodulazione dei termini cronoprogrammatici (Allegato 1) e dei termini per il conseguimento dell'obbligazione giuridicamente vincolante (Allegato 2). L'atto NON dispone alcun importo finanziario né modifica gli importi precedentemente assegnati: modifica esclusivamente le scadenze temporali. Le tabelle degli allegati non contengono colonne di importo. Il numero e la data del decreto corrente non sono esplicitamente indicati nel testo fornito (mancano nell'intestazione finale). Il CUP B39J22001360001 (Skymetro Val Bisagno) è citato nel preambolo ma espressamente escluso dalla disposizione ('trattare con separato provvedimento'): non genera record. Gli importi delle leggi 234/2021 e 197/2022 citati nel preambolo sono stanziamenti normativi, non eventi contabili disposti dal presente atto."
+  },
+  "records": [
+    {
+      "cup": [
+        "B31F20000030005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI GENOVA | PROLUNGAMENTO METROPOLITANA DI GENOVA DA BRIN A CANEPARI | COMUNE DI GENOVA | B31F20000030005 | 30.04.2024 | 30.10.2025 | 30.09.2026",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "B44D20000040001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 2",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI MILANO | LINEA METROPOLITANA M1 PROLUNGAMENTO QUARTIERE BAGGIO – OLMI - VALSESIA | COMUNE DI MILANO | B44D20000040001 | 30.11.2024 | 31.12.2027 | 30.06.2029",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "F41B22000740009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 3",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI NAPOLI | NUOVO COLLEGAMENTO IN SEDE PROPRIA TRA LA STAZIONE AV DI AFRAGOLA E LA RETE METROPOLITANA DI NAPOLI. LOTTO 1°_STRALCIO I | COMUNE DI NAPOLI / EAV Srl | F41B22000740009 (CUP MASTER) | 31.03.2024 | 31.03.2027 | 31.12.2030",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini. Il CUP master indicato nella tabella è lo stesso CUP della riga.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente. Nota: la dicitura '(CUP MASTER)' accanto al CUP nella tabella sembra riferirsi al ruolo del CUP stesso come master per l'intervento complessivo, non a un CUP master separato."
+    },
+    {
+      "cup": [
+        "F41B22000830009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 4",
+      "passaggio_testuale": "NUOVO COLLEGAMENTO IN SEDE PROPRIA TRA LA STAZIONE AV DI AFRAGOLA E LA RETE METROPOLITANA DI NAPOLI. LOTTO 1°_STRALCIO II | COMUNE DI NAPOLI / EAV Srl | F41B22000830009 | 31.03.2024 | 31.03.2027 | 31.12.2030",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 5",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI ROMA | LINEA C DELLA METROPOLITANA DI ROMA - TRATTA T2 - LOTTO COSTRUTTIVO | ROMA CAPITALE / ROMA METROPOLITANE Srl | E51I04000010007 | 30.09.2024 | 30.09.2028 | 15.08.2034",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "C71F20000020005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato 1 / [TABELLA pag.3 n.1], riga 6",
+      "passaggio_testuale": "CITTÀ METROPOLITANA DI TORINO | METROPOLITANA AUTOMATICA DI TORINO – LINEA 2 – TRATTA \"POLITECNICO – REBAUDENGO\" | COMUNE DI TORINO | C71F20000020005 | 31.12.2024 | 30.09.2028 | 27.09.2031",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini cronoprogrammatici senza modificare importi; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termini affidamento/avanzamento/ultimazione; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "J84E21005150001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 2 / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "ROMA CAPITALE | DEPOSITO DI CENTOCELLE EST | J84E21005150001 | TRANVIA | 30.06.2025",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini per il conseguimento dell'obbligazione giuridicamente vincolante; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termine OGV (obbligazione giuridicamente vincolante); nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "E31J19000030001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 2 / [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI PIACENZA | SISTEMA DI TRASPORTO RAPIDO DI MASSA PER IL COLLEGAMENTO TRA LA STAZIONE FERROVIARIA DI PIACENZA ED IL NUOVO POLO OSPEDALIERO | E31J19000030001 | BUSVIA | 31.03.2025",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini per il conseguimento dell'obbligazione giuridicamente vincolante; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termine OGV; nessun importo finanziario disposto dall'atto corrente"
+    },
+    {
+      "cup": [
+        "F44I19000530001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "0",
+      "livello_importo": "totale",
+      "tipo_azione": "rimodulazione",
+      "stato_importo": "rimodulato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; Allegato 2 / [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "COMUNE DI MILANO | AMPLIAMENTO DEL DEPOSITO GALLARATESE DEI TRENI DELLA LINEA METROPOLITANA 1 | F44I19000530001 | METRO | 30.06.2025",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+      "confidenza": "media",
+      "ambiguita": "L'atto rimodula i termini per il conseguimento dell'obbligazione giuridicamente vincolante; non sono presenti colonne di importo nelle tabelle. L'importo è posto a 0 per segnalare l'evento amministrativo di rimodulazione dei termini.",
+      "note": "Rimodulazione termine OGV; nessun importo finanziario disposto dall'atto corrente"
+    }
+  ],
+  "raw_content": null
+}

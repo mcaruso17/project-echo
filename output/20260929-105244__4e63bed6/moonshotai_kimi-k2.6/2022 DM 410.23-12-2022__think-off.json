@@ -1,0 +1,77 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:06",
+  "received_at": "2026-09-29T11:14:36",
+  "latency_seconds": 29.685,
+  "prompt_tokens": 8038,
+  "completion_tokens": 827,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 8865,
+  "cost_usd_api": 0.00770826,
+  "cost_usd_reconstructed": 0.010944099999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673254-ZFsSkpYMIjCANgCTTKfK",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti 14 gennaio 2022, n. 8",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti n. 235 del 2020",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti n. 350 del 2020",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti n. 517 del 2020",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto ministeriale del Ministro delle Infrastrutture e dei Trasporti (numero e data non esplicitamente indicati nell'intestazione, ma riferibile al contesto del 21 dicembre 2022 per l'intesa in Conferenza Unificata). La parte dispositiva (artt. 1-3) dispone esclusivamente proroghe di termini per il conseguimento di obbligazioni giuridicamente vincolanti e modalità di monitoraggio. NON dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione di importi) su capitoli/piani gestionali/CUP. L'art. 3 menziona la comunicazione di un elenco di interventi identificati dal CUP al MEF-Dipartimento della Ragioneria Generale dello Stato, ma si tratta di un adempimento procedurale di monitoraggio, non di un evento contabile di assegnazione/impegno di risorse. Gli atti citati nel preambolo (DM 587/2017, DM 86/2018, DM 607/2019, DM 235/2020, DM 350/2020, DM 517/2020) sono meramente richiamati come oggetto di proroga; l'atto corrente non ne riproduce né modifica gli importi finanziari. Nessun CUP è indicato nel testo. Nessuna tabella presente nel testo."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"natura_atto\": \"altro\",\n  \"atti_collegati\": [\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 22 dicembre 2017, n. 587\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 2 marzo 2018, n. 86\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 6 agosto 2018, n. 360\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 27 dicembre 2019, n. 607\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti 14 gennaio 2022, n. 8\", \"relazione\": \"richiama\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti n. 235 del 2020\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti n. 350 del 2020\", \"relazione\": \"rimodula\"},\n    {\"estremi\": \"decreto del Ministro delle infrastrutture e dei trasporti n. 517 del 2020\", \"relazione\": \"rimodula\"}\n  ],\n  \"allegati_richiamati\": [],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto ministeriale del Ministro delle Infrastrutture e dei Trasporti (numero e data non esplicitamente indicati nell'intestazione, ma riferibile al contesto del 21 dicembre 2022 per l'intesa in Conferenza Unificata). La parte dispositiva (artt. 1-3) dispone esclusivamente proroghe di termini per il conseguimento di obbligazioni giuridicamente vincolanti e modalità di monitoraggio. NON dispone alcuna azione di finanziamento (assegnazione, impegno, rimodulazione di importi) su capitoli/piani gestionali/CUP. L'art. 3 menziona la comunicazione di un elenco di interventi identificati dal CUP al MEF-Dipartimento della Ragioneria Generale dello Stato, ma si tratta di un adempimento procedurale di monitoraggio, non di un evento contabile di assegnazione/impegno di risorse. Gli atti citati nel preambolo (DM 587/2017, DM 86/2018, DM 607/2019, DM 235/2020, DM 350/2020, DM 517/2020) sono meramente richiamati come oggetto di proroga; l'atto corrente non ne riproduce né modifica gli importi finanziari. Nessun CUP è indicato nel testo. Nessuna tabella presente nel testo.\"\n}"
+}

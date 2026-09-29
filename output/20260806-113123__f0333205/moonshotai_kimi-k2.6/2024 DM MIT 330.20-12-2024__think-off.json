@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:55:39",
+  "received_at": "2026-08-06T14:55:51",
+  "latency_seconds": 11.363,
+  "prompt_tokens": 4733,
+  "completion_tokens": 336,
+  "reasoning_tokens": 1,
+  "cached_tokens": 0,
+  "total_tokens": 5069,
+  "cost_usd_api": 0.00584035,
+  "cost_usd_reconstructed": 0.00426954,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020939-kfje2f1q2DzjkscPhpKV",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non è identificabile con numero e data espliciti nel testo fornito (il documento si interrompe prima della firma). Il decreto dispone esclusivamente proroghe di termini per il conseguimento delle obbligazioni giuridicamente vincolanti (art. 1) e non contiene alcuna azione di finanziamento con capitoli di spesa, piani gestionali, importi o CUP. Le tabelle riportano solo elenchi di interventi con nuovi termini, senza alcuna movimentazione di risorse. I decreti citati nelle colonne o nel preambolo (D.M. 587/2017, 360/2018, 86/2018, 607/2019, 235/2020, 350/2020, 517/2020, 44/2021, 464/2021, 410/2022, 191/2023, 343/2023, D.I. 97/2022) sono tutti decreti precedenti e non oggetto di modifica finanziaria da parte del presente decreto."
+  },
+  "records": [],
+  "raw_content": null
+}

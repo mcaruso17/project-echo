@@ -1,0 +1,42 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:22:50",
+  "received_at": "2026-08-11T16:23:00",
+  "latency_seconds": 9.505,
+  "prompt_tokens": 3880,
+  "completion_tokens": 392,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4272,
+  "cost_usd_api": 0.0584,
+  "cost_usd_reconstructed": 0.0584,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786458171-GZVPWeMhiAVZU2QA364g",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non dispone alcuna azione di finanziamento: si limita a prorogare al 31 dicembre 2022 il termine per il conseguimento delle obbligazioni giuridicamente vincolanti relative agli interventi finanziati con i decreti ministeriali n. 587/2017 e n. 86/2018 (già modificato dal d.m. n. 184/2020). Numero e data del decreto corrente non sono riportati nel testo fornito; l'intesa in Conferenza unificata del 16 dicembre 2021 suggerisce una data successiva, ma non è esplicitata."
+  },
+  "records": [],
+  "raw_content": null
+}

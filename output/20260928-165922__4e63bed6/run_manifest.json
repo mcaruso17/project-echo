@@ -1,0 +1,152 @@
+{
+  "created_at": "2026-09-28T16:59:22",
+  "prompt_fingerprint": "4e63bed6",
+  "prompt_source": "/Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/manuale/v003.json",
+  "prompt_version": "v003",
+  "price_list_date": "2026-09-24",
+  "generation": {
+    "temperature": 0.0,
+    "max_output_tokens": 32000,
+    "disable_max_tokens": false,
+    "reasoning_effort_on": "medium",
+    "requested_thinking": "off",
+    "json_response_format": true,
+    "workers": 4
+  },
+  "providers_fissati": {
+    "z-ai/glm-4.7-flash": [
+      "venice/fp8"
+    ],
+    "moonshotai/kimi-k2.6": [
+      "moonshotai/int4",
+      "parasail/int4"
+    ],
+    "deepseek/deepseek-v4-flash": [
+      "deepinfra/fp8",
+      "gmicloud/fp8"
+    ],
+    "deepseek/deepseek-v4-pro-0813": [
+      "deepseek",
+      "novita/fp8"
+    ],
+    "qwen/qwen3.6-35b-a3b": [
+      "parasail/fp8",
+      "deepinfra/fp8"
+    ],
+    "minimax/minimax-m3": [
+      "minimax/fp8",
+      "deepinfra/fp8"
+    ],
+    "google/gemma-4-31b-it": [
+      "crusoe/bf16",
+      "novita/bf16"
+    ],
+    "google/gemma-4-26b-a4b-it": [
+      "coreweave/bf16",
+      "parasail/bf16"
+    ]
+  },
+  "logging": {
+    "log_raw_responses": false,
+    "log_dir": null,
+    "log_include_request": true
+  },
+  "models": [
+    {
+      "slug": "z-ai/glm-4.7-flash",
+      "family": "zai",
+      "kind": "open",
+      "tier": "small",
+      "vision": false,
+      "reasoning": "optional",
+      "price_in": 0.061,
+      "price_out": 0.4,
+      "params_total": "~30B",
+      "params_active": null
+    },
+    {
+      "slug": "moonshotai/kimi-k2.6",
+      "family": "moonshot",
+      "kind": "open",
+      "tier": "medium",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 0.95,
+      "price_out": 4.0,
+      "params_total": "~1T",
+      "params_active": "32B"
+    },
+    {
+      "slug": "deepseek/deepseek-v4-flash",
+      "family": "deepseek",
+      "kind": "open",
+      "tier": "medium",
+      "vision": false,
+      "reasoning": "optional",
+      "price_in": 0.089,
+      "price_out": 0.177,
+      "params_total": "284B",
+      "params_active": "13B"
+    },
+    {
+      "slug": "deepseek/deepseek-v4-pro-0813",
+      "family": "deepseek",
+      "kind": "open",
+      "tier": "frontier",
+      "vision": false,
+      "reasoning": "optional",
+      "price_in": 0.462,
+      "price_out": 1.386,
+      "params_total": "1.6T",
+      "params_active": "49B"
+    },
+    {
+      "slug": "qwen/qwen3.6-35b-a3b",
+      "family": "qwen",
+      "kind": "open",
+      "tier": "small",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 0.15,
+      "price_out": 1.0,
+      "params_total": "35B",
+      "params_active": "3B"
+    },
+    {
+      "slug": "minimax/minimax-m3",
+      "family": "minimax",
+      "kind": "open",
+      "tier": "frontier",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 0.3,
+      "price_out": 1.2,
+      "params_total": null,
+      "params_active": null
+    },
+    {
+      "slug": "google/gemma-4-31b-it",
+      "family": "google",
+      "kind": "open",
+      "tier": "small",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 0.09,
+      "price_out": 0.34,
+      "params_total": "31B",
+      "params_active": null
+    },
+    {
+      "slug": "google/gemma-4-26b-a4b-it",
+      "family": "google",
+      "kind": "open",
+      "tier": "small",
+      "vision": true,
+      "reasoning": "optional",
+      "price_in": 0.09,
+      "price_out": 0.3,
+      "params_total": "26B",
+      "params_active": "4B"
+    }
+  ]
+}

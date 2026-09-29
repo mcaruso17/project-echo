@@ -1,0 +1,109 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:23:19",
+  "received_at": "2026-08-06T15:23:51",
+  "latency_seconds": 32.241,
+  "prompt_tokens": 69701,
+  "completion_tokens": 5878,
+  "reasoning_tokens": 4809,
+  "cached_tokens": 0,
+  "total_tokens": 75579,
+  "cost_usd_api": 0.1486365,
+  "cost_usd_reconstructed": 0.1486365,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786022599-KQ6ZaSt61lFrsBkvqmE2",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "A valere sulle somme destinate alla tranvia di Firenze (MIT), art. 18, c. 1, d.l. 69/2013 e art. 3, c. 2, lett. c), d.l. 133/2014"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "A valere sulle risorse destinate a spese per interventi nel settore dei sistemi di trasporto rapido di massa (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "A valere sul fondo per le reti metropolitane in costruzione in aree metropolitane (MIT), art. 1, c. 88, l. 147/2013"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Quota a carico delle risorse proprie del Comune di Firenze"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze - trasferimenti da RFI"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze - RFI ulteriore finanziamento (inserito nel 2012)"
+    }
+  ],
+  "raw_content": null
+}

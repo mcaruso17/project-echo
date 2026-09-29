@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:52:45",
+  "received_at": "2026-08-06T14:53:18",
+  "latency_seconds": 32.35,
+  "prompt_tokens": 3367,
+  "completion_tokens": 361,
+  "reasoning_tokens": 226,
+  "cached_tokens": 0,
+  "total_tokens": 3728,
+  "cost_usd_api": 0.16599,
+  "cost_usd_reconstructed": 0.16599,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020765-9AZo1wQr5Lt9RtakJgI0",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il testo del decreto corrente non riporta numero né data. La parte dispositiva contiene esclusivamente proroghe/rideterminazioni di termini e abrogazione di un obiettivo intermedio, senza nuove assegnazioni, definanziamenti, rimodulazioni finanziarie, CUP, capitoli o importi."
+  },
+  "records": [],
+  "raw_content": null
+}

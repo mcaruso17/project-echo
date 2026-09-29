@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:50:33",
+  "received_at": "2026-08-06T14:50:41",
+  "latency_seconds": 7.39,
+  "prompt_tokens": 3172,
+  "completion_tokens": 1078,
+  "reasoning_tokens": 920,
+  "cached_tokens": 0,
+  "total_tokens": 4250,
+  "cost_usd_api": 0.012843,
+  "cost_usd_reconstructed": 0.012843,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786020633-3xKQ3FOfOe6JzRJMeXCk",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone esclusivamente una rimodulazione dei termini temporali del cronoprogramma per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001), senza comportare variazioni finanziarie, nuove assegnazioni o definanziamenti di risorse."
+  },
+  "records": [],
+  "raw_content": null
+}

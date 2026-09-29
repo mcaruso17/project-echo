@@ -1,0 +1,52 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:05:02",
+  "received_at": "2026-09-29T11:05:07",
+  "latency_seconds": 5.215,
+  "prompt_tokens": 11500,
+  "completion_tokens": 430,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11930,
+  "cost_usd_api": 0.002155,
+  "cost_usd_reconstructed": 0.002155,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790672703-WHPfOZwvRJNzgwEj4n8T",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "s.n.c.",
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 23 settembre 2021, n. 363",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente (Decreto interministeriale) dispone l'assegnazione di risorse per un importo complessivo di 46,20 milioni di euro ripartito tra beneficiari regionali/provinciali. Tuttavia, l'atto NON contiene l'elenco dettagliato degli interventi con i relativi CUP nell'Allegato 1, che viene richiamato ma non è presente nel testo fornito. Le tabelle presenti nel testo (Art. 2 e [TABELLA pag.3 n.1]) riportano solo la ripartizione degli importi per beneficiario e annualità, senza associare i CUP specifici degli interventi. Ai sensi della regola R2, non si possono estrarre record di finanziamento (che richiedono il collegamento CUP-Capitolo/Importo) se il CUP non è esplicitamente associato all'importo nella parte dispositiva o negli allegati presenti. L'atto dispone l'assegnazione, ma il dettaglio progettuale (CUP) è in un allegato mancante."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"s.n.c.\",\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": \"Ministero dell’economia e delle finanze\",\n  \"natura_atto\": \"assegnazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"Decreto del Ministro delle infrastrutture e della mobilità sostenibili 23 settembre 2021, n. 363\",\n      \"relazione\": \"attua\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\",\n    \"Allegato 2\"\n  ],\n  \"allegati_presenti_nel_testo\": [],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente (Decreto interministeriale) dispone l'assegnazione di risorse per un importo complessivo di 46,20 milioni di euro ripartito tra beneficiari regionali/provinciali. Tuttavia, l'atto NON contiene l'elenco dettagliato degli interventi con i relativi CUP nell'Allegato 1, che viene richiamato ma non è presente nel testo fornito. Le tabelle presenti nel testo (Art. 2 e [TABELLA pag.3 n.1]) riportano solo la ripartizione degli importi per beneficiario e annualità, senza associare i CUP specifici degli interventi. Ai sensi della regola R2, non si possono estrarre record di finanziamento (che richiedono il collegamento CUP-Capitolo/Importo) se il CUP non è esplicitamente associato all'importo nella parte dispositiva o negli allegati presenti. L'atto dispone l'assegnazione, ma il dettaglio progettuale (CUP) è in un allegato mancante.\"\n}"
+}

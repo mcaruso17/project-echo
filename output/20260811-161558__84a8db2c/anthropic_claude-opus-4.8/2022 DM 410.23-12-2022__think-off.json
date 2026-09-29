@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "anthropic/claude-opus-4.8",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:23:10",
+  "received_at": "2026-08-11T16:23:15",
+  "latency_seconds": 5.447,
+  "prompt_tokens": 5058,
+  "completion_tokens": 321,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5379,
+  "cost_usd_api": 0.033315,
+  "cost_usd_reconstructed": 0.033315,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458190-utY1pYz4Mgdtg5WyxgUZ",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-opus-4.8"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga al 31 dicembre 2023 dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi finanziati con precedenti decreti (nn. 587/2017, 86/2018, 607/2019, 235, 350, 517 del 2020) e disposizioni sul monitoraggio. Non contiene alcuna nuova azione di finanziamento (assegnazione, definanziamento o rimodulazione), né importi, capitoli, piani gestionali o CUP. Numero e data del decreto non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

@@ -1,0 +1,98 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:48:28",
+  "received_at": "2026-09-24T12:48:34",
+  "latency_seconds": 5.959,
+  "prompt_tokens": 9624,
+  "completion_tokens": 991,
+  "reasoning_tokens": 0,
+  "cached_tokens": 128,
+  "total_tokens": 10615,
+  "cost_usd_api": 0.00404568,
+  "cost_usd_reconstructed": 0.0040764,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246908-jjxmmUfaQuoy0xfAsfpZ",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "Relazione n. 7651 del 1° ottobre 2021 della Direzione generale per il trasporto pubblico locale e regionale e la mobilità pubblica sostenibile",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DPCM 11 giugno 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Decreto MEF 4 ottobre 2019, n. 195790",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2018, n. 145, art. 1, comma 95",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Intesa Conferenza Unificata del 28 settembre 2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [
+      "Tabella pag.1 n.1 (riepilogo stanziamento pluriennale cap. 7400 pg 5)",
+      "Tabella pag.5 n.1 e Tabella pag.6 n.1 (art. 6, comma 2, lettere a/b/c — erogazione per quote)"
+    ],
+    "note_estrazione": "Numero e data del decreto corrente non esplicitamente indicati nel testo fornito. Il preambolo contiene il riepilogo pluriennale dello stanziamento sul cap. 7400 pg 5 (TABELLA pag.1 n.1) ma si tratta di quadro delle risorse già iscritte in bilancio, non di azioni disposte dall'atto corrente: non si producono record aggiuntivi in quanto l'atto corrente assegna solo il residuo di € 2.041.389,20 al Comune di Rimini. Tabelle pag.5 n.1 e pag.6 n.1 ripetono l'elenco delle quote di erogazione dell'art. 6, comma 2 (20% anticipo, quote intermedie fino al 75%, 5% saldo): sono modalità procedurali, non azioni di finanziamento e quindi non generano record."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "Contributo assegnato",
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018, per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\" il cui costo totale è stimato in € 2.250.000,00.",
+      "atto_riferito": "DM 12 novembre 2021, n. 443 (residuo di € 2.041.389,20)",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo erogabile subordinatamente al cofinanziamento/individuazione di lotto funzionale (art. 1, c. 2); impegno contabile demandato a successivo provvedimento (art. 2, c. 1). Costo totale intervento stimato in € 2.250.000,00."
+    }
+  ],
+  "raw_content": null
+}

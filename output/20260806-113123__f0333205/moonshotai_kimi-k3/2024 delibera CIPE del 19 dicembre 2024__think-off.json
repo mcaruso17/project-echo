@@ -1,0 +1,73 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:26:26",
+  "received_at": "2026-08-06T15:27:02",
+  "latency_seconds": 35.538,
+  "prompt_tokens": 72436,
+  "completion_tokens": 995,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1792,
+  "total_tokens": 73431,
+  "cost_usd_api": 0.2273946,
+  "cost_usd_reconstructed": 0.232233,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022786-QOn2pj3PLHqnBZDHiOOE",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)",
+    "ministero_2": null,
+    "note_estrazione": "Il documento e' la delibera CIPESS n. 86/2024 del 19 dicembre 2024 (Sistema tramviario fiorentino - Linea 4.1 Leopolda-Piagge). Il dispositivo (punto 1.2) conferma la copertura finanziaria del costo dell'intervento (200.120.520,56 euro) con quota Stato 171.900.000,00 euro sui capitoli MIT 7140 PG9, 7400 PG2, 7423 PG1 e quota Comune di Firenze 30.246.176,56 euro (7.100.598,76 quota Comune; 22.900.000,00 trasferimenti RFI; 245.577,80 RFI ulteriore finanziamento 2012). Le quote a carico del Comune/RFI non sono state estratte in quanto prive di capitolo di spesa statale e non riconducibili a stanziamenti dello Stato. Il testo richiama il definanziamento FSC di 27.550.000,00 euro, ma esso e' stato disposto dalla precedente delibera CIPESS n. 14 del 23 aprile 2024 e non dalla presente delibera, quindi non e' stato estratto. Nel documento compare anche l'inizio di un'altra delibera (n. 94/2024, Piano annuale SACE), priva di parte dispositiva nel testo fornito."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Somme destinate alla tranvia di Firenze (fondo istituito dall'art. 18, comma 1, d.l. n. 69/2013, rifinanziato dall'art. 3, comma 2, lett. c), d.l. n. 133/2014). Quota a carico dello Stato per la copertura del progetto definitivo Sistema Tramviario Fiorentino - Linea 4.1 Tratta Leopolda-Piagge."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Risorse destinate alle spese per interventi nel settore dei sistemi di trasporto rapido di massa (fondo di cui al decreto MIT 22 dicembre 2017, n. 587). Quota a carico dello Stato."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Fondo per le reti metropolitane in costruzione in aree metropolitane, di cui all'art. 1, comma 88, legge n. 147/2013. Quota a carico dello Stato."
+    }
+  ],
+  "raw_content": null
+}

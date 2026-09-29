@@ -1,0 +1,79 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok_repaired",
+  "json_repaired": true,
+  "sent_at": "2026-09-28T16:44:06",
+  "received_at": "2026-09-28T16:48:27",
+  "latency_seconds": 261.545,
+  "prompt_tokens": 11459,
+  "completion_tokens": 32000,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 43459,
+  "cost_usd_api": 0.03371885,
+  "cost_usd_reconstructed": 0.03371885,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790606646-sYxhOxg9CvjLsvT0P4ia",
+    "provider": "Parasail",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIMS 22 novembre 2021, n. 464",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante del presente decreto"
+    ],
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2021",
+      "importo_eur": 1000000.0,
+      "importo_originale": "€ 1.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1; Allegato parte integrante del presente decreto / [TABELLA pag.4 n.1], riga 1",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | 153.197,90 | 306.395,80",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo in conto residui (provenienza 2020 ed 2021) come da art. 1. L'importo totale dell'anno 2020+2021 per questo CUP è 153.197,90 + 306.395,80 = 459.593,70. Tuttavia l'art. 1 autorizza un impegno complessivo di 1.000.000,00 in conto residui per i tre beneficiari (Padova, Torino, Brescia/Roma? No, art 1 cita Padova, Torino, Brescia e Roma Metropoli). La tabella mostra i dettagli annuali. L'art 1 dice \"a favore dei Comuni di Padova, Torino e Brescia e della Città metropolitana di Roma\". La tabella elenca Padova, Roma, Torino, Brescia. L'importo di 1.000.000 è il totale dei residui per TUTTI i beneficiari? No, l'art 1 dice \"è autorizzato l’impegno di euro 3.000.000,00 in conto residui... a favore dei Comuni... come riportato nell’allegato\". La tabella ha una riga \"Totale\" che somma 1.000.000,00 per il 2020 e 2.000.000,00 per il 2021. Quindi 1.000.000 è il totale per tutti i CUP nel 2020. Non è possibile ripartire l'importo di 1.000.000 sui singoli CUP basandosi solo sulla tabella senza ulteriori informazioni. Tuttavia, la regola R5 dice di produrre un record per CUP x Capitolo/PG. Se l'atto non ripartisce, ma dà un totale, e la tabella dà i dettagli annuali, dobbiamo vedere se l'importo di 1.000.000 è attribuito a un CUP specifico o è un totale. La tabella mostra i valori annuali per ogni CUP. La somma dei valori 2020 per tutti i CUP è 153.197,90 + 251.454,92 + 70.161,34 + 525.185,84 = 1.000.000,00. Quindi l'importo di 1.000.000 è la somma dei valori 2020 di tutti i CUP. L'art 1 autorizza l'impegno di 3.000.000 totali (1M 2020 + 2M 2021). Non c'è una ripartizione esplicita dell'importo 1M tra i CUP nell'art 1, ma la tabella fornisce i valori specifici per anno. Quindi per il CUP di Padova, l'importo 2020 è 153.197,90. Ma l'art 1 parla di un impegno globale. La regola R5 dice: \"Se l'atto dispone su più PG per lo stesso CUP... Se una cella CUP è unita su più righe... produci un record per OGNI riga-intervento\". Qui abbiamo una riga per CUP. L'art 1 autorizza l'impegno in conto residui. La tabella elenca i valori annuali. Poiché l'art 1 non ripartisce l'importo 1M tra i CUP, ma la tabella sì, e l'art 1 rimanda all'allegato, possiamo considerare che l'impegno sia disposto sui valori dell'allegato. Quindi per Padova, l'importo 2020 è 153.197,90. Ma l'art 1 dice \"impegno di euro 3.000.000,00... di cui 1.000.000,00 esercizio 2020\". Questo implica che l'importo 1.000.000 è il totale. Se non c'è ripartizione nell'art, ma c'è nella tabella, e l'art rimanda alla tabella, allora i record devono riflettere la tabella. Quindi per Padova, importo 2020: 153.197,90. Per Torino: 70.161,34. Per Brescia: 525.185,84. Per Roma: 251.454,92. Somma: 1.000.000. Quindi produco record separati per ogni CUP con l'importo dell'anno 2020 (e 2021 se presente). L'art 1 copre 2020 e 2021. Quindi per ogni CUP, devo sommare 2020 e 2021? No, l'art 1 dice \"di cui 1.000.000,00 esercizio 2020 ed euro 2.000.000,00 esercizio 2021\". Sono due blocchi distinti. Ma sono nello stesso articolo. La tabella ha colonne separate. Posso fare un record per CUP con annualita"
+    }
+  ],
+  "raw_content": null
+}

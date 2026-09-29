@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:55:51",
+  "received_at": "2026-08-06T14:55:59",
+  "latency_seconds": 8.813,
+  "prompt_tokens": 4798,
+  "completion_tokens": 219,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5017,
+  "cost_usd_api": 0.017679,
+  "cost_usd_reconstructed": 0.017679,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020951-Iv8bNRCj8aNnsn720Am4",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone esclusivamente la proroga al 31.12.2025 del termine per il conseguimento dell'obbligazione giuridicamente vincolante per gli interventi elencati nell'Allegato 1. Non contiene alcuna azione di finanziamento (assegnazione, definanziamento o rimodulazione) con dettaglio di capitoli, piani gestionali, CUP o importi. Il numero e la data del decreto corrente non sono riportati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

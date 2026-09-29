@@ -1,0 +1,84 @@
+{
+  "decree_file": "2022 DI MIT-MEF 390-2022.pdf",
+  "decree_relpath": "2022 DI MIT-MEF 390-2022.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 8,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:01:07",
+  "received_at": "2026-08-06T12:01:10",
+  "latency_seconds": 2.79,
+  "prompt_tokens": 7547,
+  "completion_tokens": 602,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 8149,
+  "cost_usd_api": 0.00278975,
+  "cost_usd_reconstructed": 0.00278975,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786010468-ZAnBtbwMlocTmWag1qc8",
+    "provider": "Google",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell’economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta un numero di protocollo o data specifica nel testo fornito. I CUP non sono esplicitati nel testo, sebbene citati come necessari per l'attuazione."
+  },
+  "records": [
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "14,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, comma 1",
+      "note": "Assegnazione a Regione Liguria"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 13000000.0,
+      "importo_originale": "13,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, comma 1",
+      "note": "Assegnazione a Regione Toscana"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 10000000.0,
+      "importo_originale": "10,00 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Trento"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 9200000.0,
+      "importo_originale": "9,20 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 2, comma 1",
+      "note": "Assegnazione a Provincia Autonoma di Bolzano"
+    }
+  ],
+  "raw_content": null
+}

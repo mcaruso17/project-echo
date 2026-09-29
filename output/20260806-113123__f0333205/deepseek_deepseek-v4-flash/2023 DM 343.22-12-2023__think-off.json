@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM 343.22-12-2023.pdf",
+  "decree_relpath": "2023 DM 343.22-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:58:54",
+  "received_at": "2026-08-06T12:59:00",
+  "latency_seconds": 5.628,
+  "prompt_tokens": 7292,
+  "completion_tokens": 172,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7464,
+  "cost_usd_api": 0.00067242616,
+  "cost_usd_reconstructed": 0.00068724,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013934-T0Y2ISTJbSe8ApTjK4E6",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni) con capitolo, piano gestionale o CUP. Dispone solo proroghe di termini per obbligazioni giuridicamente vincolanti. L'art. 2 menziona risorse da definanziamento ma non specifica importi, capitoli o CUP. Nessun record estraibile."
+  },
+  "records": [],
+  "raw_content": null
+}

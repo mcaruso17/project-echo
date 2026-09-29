@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:34:46",
+  "received_at": "2026-08-06T12:34:48",
+  "latency_seconds": 2.22,
+  "prompt_tokens": 3242,
+  "completion_tokens": 120,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 3362,
+  "cost_usd_api": 0.0030686,
+  "cost_usd_reconstructed": 0.009905,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012486-fgAIo75RsHMpeErbgdeb",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente contiene esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti e disposizioni di monitoraggio; non dispone nuove azioni di finanziamento con dettaglio di capitolo, piano gestionale, CUP o importo."
+  },
+  "records": [],
+  "raw_content": null
+}

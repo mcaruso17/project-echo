@@ -1,0 +1,95 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:51:12",
+  "received_at": "2026-08-06T12:51:19",
+  "latency_seconds": 7.138,
+  "prompt_tokens": 4664,
+  "completion_tokens": 694,
+  "reasoning_tokens": 0,
+  "cached_tokens": 64,
+  "total_tokens": 5358,
+  "cost_usd_api": 0.00055424,
+  "cost_usd_reconstructed": 0.0005574400000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013472-JhFqmmjr1Ag0Rk2sC1kk",
+    "provider": "DeepInfra",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni)"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni)"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni)"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni)"
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 1, comma 1",
+      "note": "Assegnazione per ciascuno degli anni dal 2023 al 2027 (totale 75 milioni)"
+    }
+  ],
+  "raw_content": null
+}

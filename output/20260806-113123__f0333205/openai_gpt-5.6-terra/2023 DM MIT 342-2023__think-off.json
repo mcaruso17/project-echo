@@ -1,0 +1,84 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:37:54",
+  "received_at": "2026-08-06T13:38:00",
+  "latency_seconds": 6.532,
+  "prompt_tokens": 26008,
+  "completion_tokens": 760,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 26768,
+  "cost_usd_api": 0.0353661,
+  "cost_usd_reconstructed": 0.07642,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016274-GnCsb3WqJXykxR8QYzvb",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta numero e data del decreto corrente. Gli Allegati 1 e 2 sostituiscono quelli del DM n. 364/2021 e recepiscono rimodulazioni già approvate; sono state estratte esclusivamente le quattro variazioni esplicitamente disposte dall'art. 1, comma 1."
+  },
+  "records": [
+    {
+      "cup": "I57H21005640001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 100000.0,
+      "importo_originale": "217.585 euro, in luogo dei precedenti 117.585 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica per l'annualità 2033 alla Regione Veneto; aumento rispetto all'importo precedente. Il CUP è individuato nell'Allegato 2 per l'intervento veneto."
+    },
+    {
+      "cup": "C56G21008730001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -100000.0,
+      "importo_originale": "690.994 euro, in luogo dei precedenti 790.994 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica per l'annualità 2033 alla Regione Emilia-Romagna; riduzione rispetto all'importo precedente. Il CUP è individuato nell'Allegato 2 per l'intervento dell'Emilia-Romagna."
+    },
+    {
+      "cup": "I57H21005640001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": -2.0,
+      "importo_originale": "125.266 euro, in luogo dei precedenti 125.268 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica per l'annualità 2032 alla Regione Veneto; riduzione rispetto all'importo precedente. Il CUP è individuato nell'Allegato 2 per l'intervento veneto."
+    },
+    {
+      "cup": "C56G21008730001",
+      "cup_valido": true,
+      "capitolo": "7150",
+      "piano_gestionale": "4",
+      "importo_eur": 2.0,
+      "importo_originale": "842.682 euro, in luogo dei precedenti 842.680 euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Rettifica per l'annualità 2032 alla Regione Emilia-Romagna; aumento rispetto all'importo precedente. Il CUP è individuato nell'Allegato 2 per l'intervento dell'Emilia-Romagna."
+    }
+  ],
+  "raw_content": null
+}

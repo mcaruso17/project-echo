@@ -1,0 +1,39 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:38:01",
+  "received_at": "2026-08-06T15:38:05",
+  "latency_seconds": 3.647,
+  "prompt_tokens": 5172,
+  "completion_tokens": 173,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5345,
+  "cost_usd_api": 0.00077252,
+  "cost_usd_reconstructed": 0.0004966199999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023481-bQWuyxBEgw67D06YWOqh",
+    "provider": "Parasail",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto approva un atto modificativo di una convenzione già esistente e non dispone nuove assegnazioni, definanziamenti o rimodulazioni di risorse. Gli importi citati (€ 915.000.000,00) sono già stati impegnati con decreti precedenti (n. 381/2019 e n. 108/2024). Nessuna azione di finanziamento nuova da estrarre."
+  },
+  "records": [],
+  "raw_content": null
+}

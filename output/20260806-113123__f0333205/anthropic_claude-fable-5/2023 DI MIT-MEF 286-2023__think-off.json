@@ -1,0 +1,54 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:48:47",
+  "received_at": "2026-08-06T12:49:02",
+  "latency_seconds": 14.701,
+  "prompt_tokens": 6949,
+  "completion_tokens": 904,
+  "reasoning_tokens": 64,
+  "cached_tokens": 0,
+  "total_tokens": 7853,
+  "cost_usd_api": 0.11469,
+  "cost_usd_reconstructed": 0.11469,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013328-VvrbJVVFnrTDebc91OXd",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il documento non riporta numero e data del decreto corrente né il capitolo di bilancio o il piano gestionale di imputazione della spesa. L'assegnazione complessiva di 75 milioni di euro è articolata in 15 milioni annui dal 2023 al 2027; è stata estratta come un unico record poiché lo schema non prevede un campo annualità."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributi assegnati al Comune di Milano per la linea M4 della metropolitana di Milano, in ragione di 15 milioni di euro annui dal 2023 al 2027 (ai sensi dell'art. 1, comma 483, legge n. 197/2022). Ripartizione del fabbisogno: 35 mln aumento costi materiali (14 mln tratta Linate–San Babila, 21 mln tratta San Babila–San Cristoforo); 10 mln tecnica del congelamento (tratta San Babila–San Cristoforo); 17 mln varianti/maggiori opere CCT; 7 mln spese generali periodo COVID; 6 mln oneri sicurezza inerziali."
+    }
+  ],
+  "raw_content": null
+}

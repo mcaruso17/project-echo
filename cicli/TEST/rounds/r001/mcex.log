@@ -1,0 +1,18 @@
+Parallelismo: 2 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/TEST/prompts/v000.json
+  versione: v000   fingerprint: d02c735d
+--docs-file -> 2 documento/i su 25 (elenco di 2 stem).
+2 PDF x 1 modelli -> 1 celle-modello per documento
+Run: 20260924-181513__d02c735d
+
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-181513__d02c735d
+JSONL scritto: results.jsonl (2 righe, tutte le celle)
+
+Spesa totale (API): $0.0028
+Costo per cella-modello:
+cell
+z-ai/glm-4.7-flash::off    0.002829
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-181513__d02c735d
+/Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260924-181513__d02c735d

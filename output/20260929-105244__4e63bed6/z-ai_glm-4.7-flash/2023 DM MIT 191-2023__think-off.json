@@ -1,0 +1,283 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:21:05",
+  "received_at": "2026-09-29T11:22:23",
+  "latency_seconds": 78.132,
+  "prompt_tokens": 12289,
+  "completion_tokens": 3372,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 15661,
+  "cost_usd_api": 0.00196454,
+  "cost_usd_reconstructed": 0.002098429,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673671-WeJqDrOAwcaHlDU8iSAt",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto dell'allora Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 - Piano di riparto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1 - Piano di riparto"
+    ],
+    "note_estrazione": "numero e data del decreto non presenti nel testo fornito. L'atto dispone il riparto di € 362.137.535,13 sul capitolo 7400, piano di gestione 1, tra gli interventi dell'Allegato 1 secondo la graduatoria dell'Avviso n. 2/2019. L'impegno contabile è rinviato a successivo provvedimento (art. 1, comma 2): gli importi registrati sono quindi 'assegnati' e non 'impegnati'. La somma dei finanziamenti ammessi (221.721.410,41 + 2.000.000,00 + 20.900.000,02 + 2.100.000,00 + 45.000.000,07 + 74.516.124,63) non è stata verificata riga per riga per la presenza di importi intermedi non chiaramente attribuibili a singoli CUP."
+  },
+  "records": [
+    {
+      "cup": [
+        "C11J22000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 2",
+      "passaggio_testuale": "COMUNE DI TORINO | PROLUNGAMENTO LINEA TRANVIARIA 12 ALL'ALLIANZ STADIUM E RECUPERO TRINCEA FERROVIARIA TORINO-CERES | C11J22000000001 | | TRANVIA | | | - |",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "importo su riga successiva della tabella, riferito all'intervento del Comune di Torino"
+    },
+    {
+      "cup": [
+        "F47C19000370001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 4",
+      "passaggio_testuale": "F47C19000370001 | NUOVI IMPIANTI DI RIVELAZIONE E SEGNALAZIONE DEGLI INCENDI E RIMOZIONE IMPIANTI ESISTENTI E POTENZIAMENTO IMPIANTI ILLUMINAZIONE DI EMERGENZA E COMPARTIMENTAZIONI LOCALI TECNICI | METRO | 9.803.527,30 | | 2.000.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "costo subintervento 9.803.527,30 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "F47D17000140005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 5",
+      "passaggio_testuale": "F47D17000140005 | RIFACIMENTO DELL'IMPIANTO DI DIFFUSIONE SONORA PER CONSENTIRE L'INVIO E LA DIFFUSIONE DI ANNUNCI AUDIO DAL VIVO OPPURE PREREGISTRATI NELLE ZONE APERTE AL PUBBLICO E NELLE ZONE DI SERVIZIO DELLA LINEA 3 | | 4.056.131,32 | | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "finanziamento ammesso pari a zero (indicato con '-'); costo subintervento 4.056.131,32 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "F47C19000380001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 7",
+      "passaggio_testuale": "F47C19000380001 | NUOVI CAVI FIBRA OTTICA RESISTENTI AL FUOCO IN SOLUZIONE RIDONDATA | | 1.165.984,00 | | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "finanziamento ammesso pari a zero (indicato con '-'); costo subintervento 1.165.984,00 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "F47C19000390001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 8",
+      "passaggio_testuale": "F47C19000390001 | INTERVENTI DI AMMODERNAMENTO SSE DUOMO | | 9.974.357,40 | | 2.100.000,00",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "costo subintervento 9.974.357,40 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "F47C19000350001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 10",
+      "passaggio_testuale": "F47C19000350001 | COMPLETAMENTO OPERE CIVILI DI COMPARTIMENTAZIONE E RESISTENZA ANTINCENDIO | METRO | 10.067.742,09 | | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "finanziamento ammesso pari a zero (indicato con '-'); costo subintervento 10.067.742,09 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "F47C19000360001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 11",
+      "passaggio_testuale": "| | | | | | 45.000.000,07 | | 45.000.000,07",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "l'importo 45.000.000,07 compare su riga separata tra i due subinterventi F47C19000350001 e F47C19000360001; la somma dei costi subintervento (10.067.742,09 + 34.932.257,98 = 45.000.000,07) indica che il finanziamento ammesso si riferisce all'intero intervento; il record è attribuito al CUP F47C19000360001, unico CUP con costo subintervento non ancora coperto",
+      "note": "costo subintervento 34.932.257,98 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "B31J23000240001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 64158886.29,
+      "importo_originale": "64.158.886,29",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 13",
+      "passaggio_testuale": "B31J23000240001 | TRATTA CANEPARI - RIVAROLO | METRO | 64.158.886,29 | | -",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "costo subintervento 64.158.886,29 non genera record di assegnazione"
+    },
+    {
+      "cup": [
+        "B34J18000230001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 10357238.34,
+      "importo_originale": "10.357.238,34",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO",
+      "riferimento_fonte": "art. 1; Allegato 1 - Piano di riparto / [TABELLA pag.7 n.1], riga 14",
+      "passaggio_testuale": "B34J18000230001 | COMPLETAMENTO DELLA STAZIONE DI MARTINEZ/TERRALBA | | 10.357.238,34",
+      "atto_riferito": null,
+      "confidenza": "media",
+      "ambiguita": "l'importo 74.516.124,63 compare su riga separata tra i due subinterventi B31J23000240001 e B34J18000230001; la somma dei costi subintervento (64.158.886,29 + 10.357.238,34 = 74.516.124,63) indica che il finanziamento ammesso si riferisce all'intero intervento; il record è attribuito al CUP B34J18000230001, unico CUP con costo subintervento non ancora coperto",
+      "note": "costo subintervento 10.357.238,34 non genera record di assegnazione"
+    }
+  ],
+  "raw_content": null
+}

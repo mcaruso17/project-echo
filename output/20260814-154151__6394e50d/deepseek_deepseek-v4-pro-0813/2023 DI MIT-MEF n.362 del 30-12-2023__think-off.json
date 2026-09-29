@@ -1,0 +1,40 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:47:01",
+  "received_at": "2026-08-14T15:47:05",
+  "latency_seconds": 4.179,
+  "prompt_tokens": 4972,
+  "completion_tokens": 152,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1664,
+  "total_tokens": 5124,
+  "cost_usd_api": 0.00570064,
+  "cost_usd_reconstructed": 0.0022950600000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715222-GFEeqHScF9QiaORj2IVc",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non contiene azioni di finanziamento: si limita a rimodulare i termini temporali (cronoprogrammi) di interventi già finanziati da precedenti decreti, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di importi."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": \"Ministero dell'economia e delle finanze\",\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto non contiene azioni di finanziamento: si limita a rimodulare i termini temporali (cronoprogrammi) di interventi già finanziati da precedenti decreti, senza disporre nuove assegnazioni, definanziamenti o rimodulazioni di importi.\"\n}"
+}

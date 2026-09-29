@@ -1,0 +1,112 @@
+{
+  "decree_file": "2025 DD MIT 141-2025.pdf",
+  "decree_relpath": "2025 DD MIT 141-2025.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 5,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:31:40",
+  "received_at": "2026-09-29T12:32:32",
+  "latency_seconds": 51.802,
+  "prompt_tokens": 12979,
+  "completion_tokens": 1103,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 14082,
+  "cost_usd_api": 0.00225826,
+  "cost_usd_reconstructed": 0.00154313,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format"
+  ],
+  "response_meta": {
+    "id": "gen-1790677901-YSlXkrL6xF13TLm7mlwa",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": "R.0000141",
+    "data_decreto": "2025-04-18",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto Interministeriale MIT/MEF n. 97 del 20 aprile 2022",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Convenzione sottoscritta il 10 marzo 2025"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'art. 2 cita risorse già impegnate da atti precedenti (decreto dirigenziale n. 454/2022 e decreto direttoriale n. 419/2022) che non costituiscono nuovi eventi contabili disposti dal presente atto, pertanto non sono state inserite come record."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7419",
+      "piano_gestionale": "2",
+      "annualita": "2024-2032",
+      "importo_eur": 2125000000.0,
+      "importo_originale": "€ 2.125.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "TOTALE",
+      "riferimento_fonte": "art. 3; [TABELLA pag.5 n.1], riga TOTALE",
+      "passaggio_testuale": "È autorizzato l’impegno... sul capitolo 7419, piano gestionale 2... per la somma complessiva di € 2.125.000.000,00",
+      "atto_riferito": "Legge 29 dicembre 2022, n. 197",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'importo include 50 milioni in conto residui 2024"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7416",
+      "piano_gestionale": "1",
+      "annualita": "2027-2028",
+      "importo_eur": 75000000.0,
+      "importo_originale": "€ 75.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 4",
+      "passaggio_testuale": "È autorizzato l’impegno... sul capitolo 7416 piano gestonale 1... per la somma complessiva di € 75.000.000,00",
+      "atto_riferito": "Legge 29 dicembre 2022, n. 197",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,63 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:58:38",
+  "received_at": "2026-08-14T15:58:46",
+  "latency_seconds": 8.647,
+  "prompt_tokens": 14708,
+  "completion_tokens": 567,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15275,
+  "cost_usd_api": 0.02165988,
+  "cost_usd_reconstructed": 0.00689127,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786715918-5FA0fqr7iB8HzrBzIP0Z",
+    "provider": "SiliconFlow",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non riporta numero e data. Le azioni di finanziamento sono state estratte dal preambolo (per l'assegnazione esplicita al Comune di Padova) e dall'Allegato 2 (per l'inserimento del nuovo intervento del Comune di Firenze). Non sono stati estratti i finanziamenti già esistenti negli allegati, in quanto non rappresentano nuove azioni del decreto corrente, ma la sostituzione degli allegati del D.M. 448/2021."
+  },
+  "records": [
+    {
+      "cup": "H91F18000260005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14642359.1,
+      "importo_originale": "€ 14.642.359,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "preambolo, RITENUTO",
+      "note": "Assegnazione contributo per intervento 'Linea tranviaria SIR3: tratta Stazione – Voltabarozzo' del Comune di Padova, in sostituzione dell'intervento 'Progetto di ammodernamento della rete, impianti e servizi autofiloviari della provincia di Napoli con integrazione alla rete filoviaria urbana nel territorio di Napoli'."
+    },
+    {
+      "cup": "H21E03000370005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7201544.96,
+      "importo_originale": "€ 7.201.544,96",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 2, riga 'COMUNE DI FIRENZE - LINEA 2 TRATTA 2 VARIANTE ALTERNATIVA AL CENTRO STORICO'",
+      "note": "Inserimento tra gli interventi a legislazione vigente e rimodulazione del finanziamento di 1.400 milioni di euro destinato agli interventi di cui all'allegato 2 del D.M. n. 448 del 2021."
+    }
+  ],
+  "raw_content": null
+}

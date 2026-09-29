@@ -1,0 +1,192 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "minimax/minimax-m3",
+  "model_family": "minimax",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T16:44:26",
+  "received_at": "2026-09-28T16:44:58",
+  "latency_seconds": 31.841,
+  "prompt_tokens": 10325,
+  "completion_tokens": 2446,
+  "reasoning_tokens": 0,
+  "cached_tokens": 5760,
+  "total_tokens": 12771,
+  "cost_usd_api": 0.0046503,
+  "cost_usd_reconstructed": 0.0060327,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790606666-7epgxlpcnY2zauZAlfyJ",
+    "provider": "Minimax",
+    "model": "minimax/minimax-m3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22 novembre 2021",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Legge 27 dicembre 2019, n. 160, art. 1, comma 14",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Legge 30 dicembre 2020, n. 178",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DPCM 23 dicembre 2020 (ripartizione Fondo investimenti)",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato parte integrante del presente decreto (tabella Cap. 7400, PG 7 e PG 1 con Beneficiari, CUP, Capitolo/PG e annualità 2020-2034)"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato (tabella Cap. 7400, PG 7 e PG 1) - presente come blocco testuale e come [TABELLA pag.4 n.1]"
+    ],
+    "note_estrazione": "L'atto corrente è il decreto direttoriale della Div. 2 del Dipartimento per la mobilità sostenibile, privo di numero e data espliciti nel testo, firmato dal Dr. Raffaele Di Trani. Esso attua l'art. 1, comma 2 del DM MIMS n. 464/2021, disponendo gli impegni: art. 1 (€ 3.000.000 in conto residui sul PG 7), art. 2 (€ 631.174.000 in conto competenza sul PG 7, esercizi 2022-2034), art. 3 (€ 26.486.678,33 in conto competenza sul PG 1, esercizi 2029-2034). L'Allegato è presente nel testo sia come tabella 'spalmata' sia come blocco [TABELLA pag.4 n.1]: si utilizza quest'ultimo per evitare duplicazioni. Per il Comune di Torino l'Allegato indica due CUP nella stessa cella (C11B21008720001 e D81E20000410007) con unico importo totale: si è prodotto un unico record con attribuzione 'aggregato' (R6). Le quote annuali 2020-2034 non generano record distinti (R5). Il totale di colonna 'Totale' di € 660.660.678,33 e i totali di riga 'Totale' per anno sono somme di righe già registrate e pertanto non sono record."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020-2034",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "artt. 1 e 2; Allegato / [TABELLA pag.4 n.1], riga 1 (Comune di Padova)",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | ... | 97.154.124,10",
+      "atto_riferito": "DM MIMS n. 464 del 22/11/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo sul PG 7: € 1.000.000,00 in conto residui (art. 1, di cui € 1.000.000,00 da esercizio 2020) + € 96.154.124,10 in conto competenza (art. 2, esercizi 2022-2034). Quote annuali non registrate."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2021-2034",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "artt. 1 e 2; Allegato / [TABELLA pag.4 n.1], riga 2 (Roma Capitale)",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | ... | 159.466.174,12",
+      "atto_riferito": "DM MIMS n. 464 del 22/11/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo sul PG 7: € 2.000.000,00 in conto residui (art. 1, esercizio di provenienza 2021) + € 157.466.174,12 in conto competenza (art. 2, esercizi 2022-2034). Quote annuali non registrate."
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2022-2034",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 3 (Comune di Torino)",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | ... | 44.494.493,04",
+      "atto_riferito": "DM MIMS n. 464 del 22/11/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo unico per due CUP associati al Comune di Torino; l'atto non ripartisce l'importo tra i due CUP. Quota in conto residui (art. 1) non presente per Torino (rilevabile solo dalla colonna 2020/2021 pari a zero)."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2023-2034",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 2; Allegato / [TABELLA pag.4 n.1], riga 4 (Comune di Brescia, PG 7)",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | ... | 333.059.208,74",
+      "atto_riferito": "DM MIMS n. 464 del 22/11/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota del Comune di Brescia sul PG 7, in conto competenza (art. 2), esercizi 2023-2034. Quote annuali non registrate."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029-2034",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "livello_importo": "totale",
+      "tipo_azione": "impegno",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Totale",
+      "riferimento_fonte": "art. 3; Allegato / [TABELLA pag.4 n.1], riga 5 (Comune di Brescia, PG 1)",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | ... | 26.486.678,33",
+      "atto_riferito": "DM MIMS n. 464 del 22/11/2021",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota del Comune di Brescia sul PG 1, in conto competenza (art. 3), esercizi 2029-2034. Quote annuali non registrate."
+    }
+  ],
+  "raw_content": null
+}

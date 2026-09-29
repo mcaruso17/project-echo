@@ -1,0 +1,99 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:31:46",
+  "received_at": "2026-08-14T15:32:10",
+  "latency_seconds": 24.772,
+  "prompt_tokens": 8535,
+  "completion_tokens": 2002,
+  "reasoning_tokens": 582,
+  "cached_tokens": 0,
+  "total_tokens": 10537,
+  "cost_usd_api": 0.18545,
+  "cost_usd_reconstructed": 0.18545,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786714306-LTU34ycc5TQHywZVx9uE",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto direttoriale (Direttore Div. 2, Dr. Raffaele Di Trani) attuativo del DM n. 464 del 22/11/2021; nel testo fornito non compaiono numero e data del decreto corrente. Gli impegni disposti dagli artt. 1 e 2 (rispettivamente € 3.000.000,00 in conto residui ed € 631.174.000,00 in conto competenza, entrambi su cap. 7400/PG 7) sono ripartiti per beneficiario nell'allegato: i record riportano il totale pluriennale per ciascun beneficiario come da colonna 'Totale' dell'allegato. Per il Comune di Torino l'importo non è ripartito tra i due CUP indicati."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Artt. 1 e 2; Allegato, riga Comune di Padova",
+      "note": "Impegno pluriennale 2020-2034 a favore del Comune di Padova, in attuazione dell'art. 1, comma 2, del DM n. 464 del 22/11/2021"
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Artt. 1 e 2; Allegato, riga Roma Capitale",
+      "note": "Impegno pluriennale 2020-2034 a favore di Roma Capitale (Città metropolitana di Roma), in attuazione dell'art. 1, comma 2, del DM n. 464 del 22/11/2021"
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 44494493.04,
+      "importo_originale": "44.494.493,04",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Artt. 1 e 2; Allegato, riga Comune di Torino",
+      "note": "Impegno pluriennale 2020-2034 a favore del Comune di Torino. Nell'allegato sono indicati due CUP (C11B21008720001 e D81E20000410007) senza ripartizione dell'importo tra i due progetti"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 333059208.74,
+      "importo_originale": "333.059.208,74",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Artt. 1 e 2; Allegato, riga Comune di Brescia (7400/PG 7)",
+      "note": "Impegno pluriennale 2020-2034 a favore del Comune di Brescia, in attuazione dell'art. 1, comma 2, del DM n. 464 del 22/11/2021"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26486678.33,
+      "importo_originale": "26.486.678,33",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Art. 3; Allegato, riga Comune di Brescia (7400/PG 1)",
+      "note": "Impegno in conto competenza per gli esercizi finanziari 2029-2034 a favore del Comune di Brescia"
+    }
+  ],
+  "raw_content": null
+}

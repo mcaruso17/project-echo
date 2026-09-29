@@ -1,0 +1,99 @@
+{
+  "decree_file": "2023 DM MIT 346-2023.pdf",
+  "decree_relpath": "2023 DM MIT 346-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:58:48",
+  "received_at": "2026-08-14T15:59:17",
+  "latency_seconds": 29.381,
+  "prompt_tokens": 6689,
+  "completion_tokens": 2359,
+  "reasoning_tokens": 751,
+  "cached_tokens": 0,
+  "total_tokens": 9048,
+  "cost_usd_api": 0.18484,
+  "cost_usd_reconstructed": 0.18484,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715928-iYQSm1Sne5YbBKhm5ck5",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo del decreto corrente non riporta numero né data di emanazione (è indicata solo l'intesa in Conferenza Unificata del 6 dicembre 2023 e la relazione istruttoria del 10.11.2023, quindi il decreto è successivo a tali date). I numeri di decreto presenti in tabella (464/2021, 517/2020, 97/2022, 607/2019, 360/2018, 86/2018) sono i decreti di finanziamento originari e non il decreto corrente. Per l'intervento Metrotranvia Milano-Limbiate l'importo di € 88.435.027,99 è indicato cumulativamente per due CUP (B24C17000320005 e B71J22000050006) senza ripartizione: è stato creato un unico record con CUP null e i due codici riportati in nota per evitare doppi conteggi o attribuzioni arbitrarie. Totale tabella: € 392.989.123,64."
+  },
+  "records": [
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 63091133.28,
+      "importo_originale": "€ 63.091.133,28",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Brescia - Nuova Linea Tranviaria \"Pendolina-Fiera (T2)\". Contributo addizionale rispetto al finanziamento originario (decreto 464/2021)."
+    },
+    {
+      "cup": "H11J21000010003",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 48794211.94,
+      "importo_originale": "€ 48.794.211,94",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Firenze - Sistema tramviario di Firenze: Linea 3 (II lotto) - tratta Libertà - Rovezzano (Linea 3.2.2). Contributo addizionale rispetto al finanziamento originario (decreto 517/2020)."
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 47668750.43,
+      "importo_originale": "€ 47.668.750,43",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano - Ampliamento del Deposito Gallaratese dei treni della Linea metropolitana 1. Contributo addizionale rispetto al finanziamento originario (decreto 97/2022)."
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 145000000.0,
+      "importo_originale": "€ 145.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano - Linea metropolitana M1 Prolungamento quartiere Baggio – Olmi – Valsesia. Contributo addizionale rispetto ai finanziamenti originari (decreti 607/2019 e 97/2022)."
+    },
+    {
+      "cup": null,
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 88435027.99,
+      "importo_originale": "€ 88.435.027,99",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1, tabella",
+      "note": "Comune di Milano - Riqualificazione Metrotranvia Milano-Limbiate. Importo unico riferito congiuntamente a due CUP: Lotto 1 Milano Comasina-Varedo (CUP B24C17000320005) e Lotto 2 Varedo-Limbiate (CUP B71J22000050006). L'importo è anche a copertura delle risorse revocate del Piano Sviluppo e Coesione 2014-2020 (€ 59.000.000). Contributo addizionale rispetto ai finanziamenti originari (decreti 360/2018 e 86/2018)."
+    }
+  ],
+  "raw_content": null
+}

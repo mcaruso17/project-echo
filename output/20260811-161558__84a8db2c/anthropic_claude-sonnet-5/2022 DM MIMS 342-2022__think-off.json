@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:23:32",
+  "received_at": "2026-08-11T16:23:42",
+  "latency_seconds": 10.195,
+  "prompt_tokens": 9648,
+  "completion_tokens": 562,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 10210,
+  "cost_usd_api": 0.024916,
+  "cost_usd_reconstructed": 0.024916,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458212-nIYg7QvR1rSOa2lMBCX8",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il capitolo 7400, PG 5 è indicato nel preambolo come riferimento contabile generale del fondo di cui alla L. 145/2018, non specificamente collegato all'importo assegnato nell'articolato dispositivo; è stato riportato come contesto pertinente poiché richiamato esplicitamente come fonte di copertura del contributo assegnato all'art. 1. Il decreto non riporta un proprio numero né una data di emanazione nel testo fornito."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto', a valere sul fondo di cui all'art. 1, comma 95, della legge 145/2018; costo totale intervento stimato € 2.250.000,00. Risorse residue rispetto al riparto disposto con il precedente DM 12 novembre 2021, n. 443, non oggetto di estrazione."
+    }
+  ],
+  "raw_content": null
+}

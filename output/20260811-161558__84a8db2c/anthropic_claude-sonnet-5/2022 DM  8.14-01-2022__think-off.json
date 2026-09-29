@@ -1,0 +1,39 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-11T16:22:38",
+  "received_at": "2026-08-11T16:22:44",
+  "latency_seconds": 6.14,
+  "prompt_tokens": 3880,
+  "completion_tokens": 296,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4176,
+  "cost_usd_api": 0.01072,
+  "cost_usd_reconstructed": 0.01072,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786458158-pFg5q9svHyMLoKb3B24J",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente si limita a modificare il termine per il conseguimento delle obbligazioni giuridicamente vincolanti relative a interventi già finanziati con decreti precedenti (n. 587/2017 e n. 86/2018), senza disporre nuove azioni di finanziamento, definanziamento o rimodulazione di risorse. Non sono presenti importi, CUP, capitoli o piani gestionali nella parte dispositiva. Il numero e la data del decreto corrente non sono indicati esplicitamente nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

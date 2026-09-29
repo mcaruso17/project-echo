@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:53:59",
+  "received_at": "2026-08-06T12:54:00",
+  "latency_seconds": 1.46,
+  "prompt_tokens": 5014,
+  "completion_tokens": 153,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5167,
+  "cost_usd_api": 0.001483,
+  "cost_usd_reconstructed": 0.001483,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013639-SLeCRgLrKKX7eQyiWTYh",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto analizzato dispone esclusivamente la rimodulazione dei termini temporali (cronoprogrammi) per interventi già finanziati in precedenza. Non sono presenti nel testo né negli allegati indicazioni di nuovi stanziamenti, definanziamenti o movimenti di risorse finanziarie (importi in euro)."
+  },
+  "records": [],
+  "raw_content": null
+}

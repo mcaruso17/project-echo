@@ -1,0 +1,144 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T17:54:26",
+  "received_at": "2026-09-21T17:55:05",
+  "latency_seconds": 39.047,
+  "prompt_tokens": 11516,
+  "completion_tokens": 3461,
+  "reasoning_tokens": 1124,
+  "cached_tokens": 0,
+  "total_tokens": 14977,
+  "cost_usd_api": 0.28821,
+  "cost_usd_reconstructed": 0.28821,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790006066-JRJuOjP7aNIxKdanHYg6",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti e la navigazione - Direzione Generale per il trasporto pubblico locale",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Convenzione 7 novembre 2019 tra MIT - DG TPL, Comune di Milano e Regione Lombardia",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "Atto modificativo della Convenzione del 7 novembre 2019, sottoscritto il 24 gennaio 2024",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente (decreto direttoriale del Direttore Generale per il trasporto pubblico locale) non riporta nel testo fornito numero e data di emanazione. Il Secondo Atto Modificativo approvato all'art. 1 non è allegato al testo. L'atto non dispone nuove assegnazioni né impegni: art. 2 ricapitola il contributo complessivo e le quote già impegnate con dd 381/2019 e dd 108/2024, come regolate dal Secondo Atto Modificativo."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "altro",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO su art. 41 d.l. 76/2020, CUP B21F19000040009)",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all'art. 1 è pari a complessivi € 915.000.000,00",
+      "atto_riferito": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+      "confidenza": "media",
+      "ambiguita": "il CUP dell'intervento compare solo nel preambolo, associato all'Atto modificativo; il collegamento all'importo dispositivo è ricostruito ai sensi di R2",
+      "note": "contributo complessivo per il Prolungamento della Linea metropolitana M5 di Milano fino al Comune di Monza; l'atto corrente approva la modifica della Convenzione, le risorse risultano già impegnate con dd 381/2019 e dd 108/2024"
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO su art. 41 d.l. 76/2020, CUP B21F19000040009)",
+      "passaggio_testuale": "€ 900.000.000,00 a valere sulle risorse stanziate dall'articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "media",
+      "ambiguita": "il CUP dell'intervento compare solo nel preambolo; il collegamento all'importo dispositivo è ricostruito ai sensi di R2",
+      "note": "quota a valere sulle risorse ex art. 1, comma 96, legge 145/2018, già impegnate con dd 381/2019; Missione 13 - programma 6, CDR 3"
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "altro",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2; premesse (CONSIDERATO su art. 41 d.l. 76/2020, CUP B21F19000040009)",
+      "passaggio_testuale": "€ 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "media",
+      "ambiguita": "l'art. 2 indica 'medesimo capitolo di spesa' (7418) senza esplicitare il piano gestionale per questa quota; il preambolo riferisce che l'incremento ex legge 234/2021 riguarda il cap. 7418 pg 4",
+      "note": "quota a valere sul rifinanziamento della legge 234/2021 (3 milioni/anno 2022-2026), già impegnata con dd 108/2024"
+    }
+  ],
+  "raw_content": null
+}

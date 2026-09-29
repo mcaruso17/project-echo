@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:53:47",
+  "received_at": "2026-08-06T14:53:53",
+  "latency_seconds": 5.804,
+  "prompt_tokens": 3592,
+  "completion_tokens": 164,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2874,
+  "total_tokens": 3756,
+  "cost_usd_api": 0.00115704,
+  "cost_usd_reconstructed": 0.0031627200000000004,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020827-k0sWjopHs9yWuhTCbHNt",
+    "provider": "Decart",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto corrente dispone esclusivamente proroghe di termini temporali per l'affidamento e l'ultimazione di lavori e forniture, nonché l'abrogazione di un obiettivo intermedio. Non contiene azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni di risorse economiche."
+  },
+  "records": [],
+  "raw_content": null
+}

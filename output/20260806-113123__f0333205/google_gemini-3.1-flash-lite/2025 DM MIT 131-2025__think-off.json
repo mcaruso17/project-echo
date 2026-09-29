@@ -1,0 +1,39 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "google/gemini-3.1-flash-lite",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:36:50",
+  "received_at": "2026-08-06T15:36:52",
+  "latency_seconds": 2.236,
+  "prompt_tokens": 5299,
+  "completion_tokens": 220,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 5519,
+  "cost_usd_api": 0.00165475,
+  "cost_usd_reconstructed": 0.00165475,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786023410-HVqfURu2COhJ5E7iCYGe",
+    "provider": "Google",
+    "model": "google/gemini-3.1-flash-lite"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento analizzato è un decreto direttoriale che approva un atto modificativo di una convenzione preesistente. Sebbene citi importi complessivi già stanziati (915 milioni di euro), non dispone nuove assegnazioni, definanziamenti o rimodulazioni di spesa, limitandosi a formalizzare la proroga dei termini e l'aggiornamento del cronoprogramma per risorse già impegnate con decreti precedenti (n. 381/2019 e n. 108/2024). Il numero e la data del decreto corrente non sono esplicitamente indicati nel testo fornito."
+  },
+  "records": [],
+  "raw_content": null
+}

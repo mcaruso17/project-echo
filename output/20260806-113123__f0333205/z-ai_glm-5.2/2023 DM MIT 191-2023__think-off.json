@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:06:35",
+  "received_at": "2026-08-06T13:08:01",
+  "latency_seconds": 85.903,
+  "prompt_tokens": 8223,
+  "completion_tokens": 1445,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9668,
+  "cost_usd_api": 0.0178702,
+  "cost_usd_reconstructed": 0.00982861,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786014395-m58lpYLlm3gA3OvOfnhg",
+    "provider": "Friendli",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": "n. 97 del 20 aprile 2022",
+    "data_decreto": "2022-04-20",
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo del preambolo cita il 'Decreto Interministeriale n. 97 del 20 aprile 2022' come provvedimento previgente. Tuttavia, poiché il documento analizzato prosegue con 'DECRETA' e dispone esplicitamente in via nuova l'utilizzo di € 362.137.535,13 sul capitolo 7400 (pg 1) in ottemperanza a tale previgente decreto, si è identificato il documento corrente come il decreto n. 97/2022. Gli importi nulli (indicati con '-' nella colonna 'FINANZIAMENTO AMMESSO') sono stati estratti come 0.00."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": "Intervento: Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": "Intervento: Metropolitana Linea M3 - Nuovi impianti di rivelazione e segnalazione incendi"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Intervento: Metropolitana Linea M3 - Rifacimento impianto di diffusione sonora"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Intervento: Metropolitana Linea M3 - Nuovi cavi fibra ottica resistenti al fuoco"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": "Intervento: Metropolitana Linea M3 - Interventi di ammodernamento SSE Duomo"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 6",
+      "note": "Intervento: Metropolitana Linee M1+M2 - Completamento opere civili di compartimentazione e resistenza antincendio"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 7",
+      "note": "Intervento: Metropolitana Linee M1+M2 - Adeguamento degli impianti dei GE, delle cabine elettriche e sostituzione cavi"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 8",
+      "note": "Intervento: Linea Metropolitana Genova - Tratta Canepari - Rivarolo"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 9",
+      "note": "Intervento: Linea Metropolitana Genova - Completamento della stazione di Martinez/Terralba"
+    }
+  ],
+  "raw_content": null
+}

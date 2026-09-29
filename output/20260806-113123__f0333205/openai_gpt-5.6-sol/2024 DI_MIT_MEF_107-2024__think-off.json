@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:49:18",
+  "received_at": "2026-08-06T14:49:22",
+  "latency_seconds": 4.872,
+  "prompt_tokens": 3040,
+  "completion_tokens": 158,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 3198,
+  "cost_usd_api": 0.0152205,
+  "cost_usd_reconstructed": 0.01994,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020558-s9AY7kdclCRH1sypEUDR",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente rimodula esclusivamente i termini temporali dell'intervento «Skymetro Val Bisagno» (CUP B39J22001360001), senza disporre azioni di finanziamento né indicare capitoli, piani gestionali o importi. Numero e data del decreto corrente non sono riportati nel testo."
+  },
+  "records": [],
+  "raw_content": null
+}

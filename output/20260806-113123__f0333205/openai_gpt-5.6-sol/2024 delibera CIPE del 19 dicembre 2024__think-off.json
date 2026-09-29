@@ -1,0 +1,106 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:20:35",
+  "received_at": "2026-08-06T15:20:51",
+  "latency_seconds": 16.505,
+  "prompt_tokens": 66496,
+  "completion_tokens": 1020,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 67516,
+  "cost_usd_api": 0.4376805,
+  "cost_usd_reconstructed": 0.36308,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786022435-2xc0DEEGXSNK5xYFq9Ds",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile",
+    "ministero_2": null,
+    "note_estrazione": "Il documento corrente è la delibera CIPESS n. 86/2024 del 19 dicembre 2024, non un decreto ministeriale. Sono state estratte le coperture finanziarie esplicitamente poste a carico delle risorse dal punto 1.2 della parte dispositiva. Il costo approvato dell'intervento è pari a 200.120.520,56 euro, mentre le risorse elencate ammontano complessivamente a 202.146.176,56 euro; la differenza è richiamata al punto 3.1 come possibile fonte per ulteriore materiale rotabile, ma non costituisce un'assegnazione disposta in modo vincolante."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota statale a valere sulle «somme destinate alla tranvia di Firenze» del MIT per il progetto «Sistema Tramviario Fiorentino - Linea 4.1 Tratta Leopolda-Piagge»."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota statale a valere sulle risorse destinate alle «spese per interventi nel settore dei sistemi di trasporto rapido di massa» del MIT."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.1",
+      "note": "Quota statale a valere sul «fondo per le reti metropolitane in costruzione in aree metropolitane» del MIT."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Copertura finanziaria mediante risorse «quota Comune di Firenze»."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Copertura finanziaria mediante risorse «quota Comune di Firenze - trasferimenti da RFI»."
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "punto 1.2.2",
+      "note": "Copertura finanziaria mediante risorse «RFI - ulteriore finanziamento (inserito nel 2012)»."
+    }
+  ],
+  "raw_content": null
+}

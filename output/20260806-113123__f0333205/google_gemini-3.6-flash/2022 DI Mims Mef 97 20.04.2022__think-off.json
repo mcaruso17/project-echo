@@ -1,0 +1,208 @@
+{
+  "decree_file": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "decree_relpath": "2022 DI Mims Mef 97 20.04.2022.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 13,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:11:06",
+  "received_at": "2026-08-06T12:11:55",
+  "latency_seconds": 48.899,
+  "prompt_tokens": 14177,
+  "completion_tokens": 6516,
+  "reasoning_tokens": 3950,
+  "cached_tokens": 0,
+  "total_tokens": 20693,
+  "cost_usd_api": 0.0701355,
+  "cost_usd_reconstructed": 0.0701355,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786011066-iWornA7E2KZOQDarzWC2",
+    "provider": "Google AI Studio",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il testo fornito non riporta il numero di decreto e la data di adozione nello schema di intesta/piè di pagina. Gli interventi inclusi nell'Allegato 3 non sono stati estratti in quanto ammissibili ma non finanziati con il presente provvedimento (ex Art. 2). Gli interventi dell'Allegato 1 attingono cumulativamente dal Capitolo 7400 PG 1 e PG 8, pertanto per essi il piano gestionale specifico non è distinto per singola riga."
+  },
+  "records": [
+    {
+      "cup": "B39J22001360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 398000000.0,
+      "importo_originale": "€ 398.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 1",
+      "note": "Intervento: SkyMetro Val Bisagno Genova - Comune di Genova"
+    },
+    {
+      "cup": "B31F20000030005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 20860000.0,
+      "importo_originale": "€ 20.860.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 2",
+      "note": "Intervento: Prolungamento metropolitana di Genova da Brin a Canepari - Comune di Genova"
+    },
+    {
+      "cup": "B44D20000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 180000000.0,
+      "importo_originale": "€ 180.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 3",
+      "note": "Intervento: Linea metropolitana M1 prolungamento Quartiere Baggio - Olmi - Valsesia - Comune di Milano"
+    },
+    {
+      "cup": "B91J21000040001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 420000000.0,
+      "importo_originale": "€ 420.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 4",
+      "note": "Intervento: Prolungamento linea metropolitana M4 da Aeroporto Linate a Segrate - Comune di Milano"
+    },
+    {
+      "cup": "B41J21000050006",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 4500000.0,
+      "importo_originale": "€ 4.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 5",
+      "note": "Intervento: Nuova linea metropolitana M6 ramo sud (PFTE) - Comune di Milano"
+    },
+    {
+      "cup": "B41C21000010001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 5500000.0,
+      "importo_originale": "€ 5.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 6",
+      "note": "Intervento: Prolungamento M3 San Donato M. - Asta Paullese (PFTE) - Comune di Milano"
+    },
+    {
+      "cup": "F41B22000740009",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 631373163.0,
+      "importo_originale": "€ 631.373.163,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 7",
+      "note": "Intervento: Nuovo collegamento Afragola AV - Rete metropolitana Napoli Lotto 1° stralcio I - Comune di Napoli / EAV Srl"
+    },
+    {
+      "cup": "F41B22000830009",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 163500824.0,
+      "importo_originale": "€ 163.500.824,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 8",
+      "note": "Intervento: Nuovo collegamento Afragola AV - Rete metropolitana Napoli Lotto 1° stralcio II - Comune di Napoli / EAV Srl"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 610000000.0,
+      "importo_originale": "€ 610.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 9",
+      "note": "Intervento: Linea C metropolitana di Roma - Sub-tratta Venezia - Fori Imperiali - Roma Capitale / Roma Metropolitane Srl"
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 990000000.0,
+      "importo_originale": "€ 990.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 10",
+      "note": "Intervento: Linea C metropolitana di Roma - Tratta T2 lotto costruttivo - Roma Capitale / Roma Metropolitane Srl"
+    },
+    {
+      "cup": "C71F20000020005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 1000000000.0,
+      "importo_originale": "€ 1.000.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga 11",
+      "note": "Intervento: Metropolitana automatica di Torino Linea 2 tratta Politecnico - Rebaudengo - Comune di Torino"
+    },
+    {
+      "cup": "J81B21014060001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 173183831.97,
+      "importo_originale": "€ 173.183.831,97",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 2, riga 1",
+      "note": "Intervento: Linea tranviaria Termini - Vaticano - Aurelio - Roma Capitale"
+    },
+    {
+      "cup": "J84E21005150001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 11284217.84,
+      "importo_originale": "€ 11.284.217,84",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 2, riga 2",
+      "note": "Intervento: Deposito di Centocelle Est - Roma Capitale"
+    },
+    {
+      "cup": "E31J19000030001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 26500000.0,
+      "importo_originale": "€ 26.500.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 2, riga 3",
+      "note": "Intervento: Sistema di trasporto rapido di massa Stazione Ferrov. Piacenza - Nuovo Polo Ospedaliero - Comune di Piacenza"
+    },
+    {
+      "cup": "F44I19000530001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 122200000.0,
+      "importo_originale": "€ 122.200.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 2, riga 4",
+      "note": "Intervento: Ampliamento del deposito Gallaratese dei treni della Linea Metropolitana 1 - Comune di Milano"
+    }
+  ],
+  "raw_content": null
+}

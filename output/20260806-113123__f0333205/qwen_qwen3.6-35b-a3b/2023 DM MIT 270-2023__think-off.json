@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:36:35",
+  "received_at": "2026-08-06T13:36:40",
+  "latency_seconds": 4.918,
+  "prompt_tokens": 45720,
+  "completion_tokens": 311,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 46031,
+  "cost_usd_api": 0.00885029625,
+  "cost_usd_reconstructed": 0.006254600000000001,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016195-9S2ZcWcfnHDfzN7Srjrf",
+    "provider": "AtlasCloud",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente è un decreto di riprogrammazione (rimodulazione) degli interventi già finanziati dal DM 182/2020. L'Articolo 1 stabilisce che il presente decreto effettua la riprogrammazione nell'ambito degli stanziamenti previsti dal DM 182/2020 per un importo pari a € 465.690.000. Non vi sono nuove assegnazioni di risorse da capitoli di bilancio diversi o aggiuntive rispetto al fondo originario, né definanziamenti espliciti con storno da capitoli specifici nel testo dispositivo. Le tabelle allegano importi agli interventi, ma questi rappresentano la ripartizione del finanziamento esistente (già assegnato col DM 182/2020), non una nuova azione di finanziamento disposta dal decreto corrente su un capitolo di bilancio specifico in modo autonomo. Pertanto, ai sensi della regola 2 ('Se il decreto non contiene alcuna azione di finanziamento con il dettaglio richiesto... restituisci un array record vuoto'), si restituisce un array vuoto."
+  },
+  "records": [],
+  "raw_content": null
+}

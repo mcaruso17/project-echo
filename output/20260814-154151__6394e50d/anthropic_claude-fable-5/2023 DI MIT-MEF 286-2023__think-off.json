@@ -1,0 +1,99 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:46:27",
+  "received_at": "2026-08-14T15:46:48",
+  "latency_seconds": 20.666,
+  "prompt_tokens": 7024,
+  "completion_tokens": 1544,
+  "reasoning_tokens": 278,
+  "cached_tokens": 0,
+  "total_tokens": 8568,
+  "cost_usd_api": 0.14744,
+  "cost_usd_reconstructed": 0.14744,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786715187-ROZMoRYEpdJ7g9KSJgDU",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto non riporta numero e data (assenti nel testo fornito). Non sono indicati capitolo di spesa né piano gestionale. L'assegnazione complessiva di 75 milioni di euro è stata suddivisa in cinque record annuali (15 milioni per ciascun anno 2023-2027) come disposto dall'art. 1. La ripartizione per tratte/voci di costo è una finalizzazione interna dello stesso contributo e non un'azione di finanziamento distinta."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Annualità 2023. Contributo al Comune di Milano per la linea M4 della metropolitana di Milano, ai sensi dell'art. 1, comma 483, della legge n. 197/2022."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Annualità 2024. Contributo al Comune di Milano per la linea M4 della metropolitana di Milano."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Annualità 2025. Contributo al Comune di Milano per la linea M4 della metropolitana di Milano."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Annualità 2026. Contributo al Comune di Milano per la linea M4 della metropolitana di Milano."
+    },
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "15 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Annualità 2027. Contributo al Comune di Milano per la linea M4 della metropolitana di Milano. Totale complessivo 2023-2027: 75 milioni di euro, ripartiti per finalità: aumento costi materiali 35 mln (14 mln tratta Linate–San Babila, 21 mln tratta San Babila–San Cristoforo); tecnica del congelamento 10 mln; varianti CCT 17 mln; spese generali COVID 7 mln; oneri sicurezza inerziali 6 mln."
+    }
+  ],
+  "raw_content": null
+}

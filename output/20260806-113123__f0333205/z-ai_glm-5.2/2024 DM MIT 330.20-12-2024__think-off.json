@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "z-ai/glm-5.2",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:55:37",
+  "received_at": "2026-08-06T14:55:39",
+  "latency_seconds": 1.945,
+  "prompt_tokens": 4308,
+  "completion_tokens": 209,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4517,
+  "cost_usd_api": 0.00377986,
+  "cost_usd_reconstructed": 0.0038229399999999995,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020938-nWpyDi0PfSW0EZDzHzUX",
+    "provider": "CoreWeave",
+    "model": "z-ai/glm-5.2"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente dispone esclusivamente la proroga del termine per il conseguimento dell'obbligazione giuridicamente vincolante per gli interventi elencati nell'Allegato 1. Non contiene azioni di finanziamento, assegnazioni, definanziamenti o rimodulazioni di risorse economiche, né sono indicati capitoli di spesa, piani gestionali o CUP. Le considerazioni su eventuali future rimodulazioni per gli interventi di Roma e Milano rimangono intenzioni espresse nel preambolo e non disposizioni operative del decreto."
+  },
+  "records": [],
+  "raw_content": null
+}

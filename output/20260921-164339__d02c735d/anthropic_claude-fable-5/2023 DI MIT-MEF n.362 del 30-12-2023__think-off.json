@@ -1,0 +1,66 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "anthropic/claude-fable-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-21T16:58:21",
+  "received_at": "2026-09-21T16:58:38",
+  "latency_seconds": 17.242,
+  "prompt_tokens": 11187,
+  "completion_tokens": 1087,
+  "reasoning_tokens": 286,
+  "cached_tokens": 0,
+  "total_tokens": 12274,
+  "cost_usd_api": 0.16622,
+  "cost_usd_reconstructed": 0.16622,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790002701-PmW63uNVbF7NkTmNnGXA",
+    "provider": "Anthropic",
+    "model": "anthropic/claude-fable-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      },
+      {
+        "estremi": "legge 30 dicembre 2021, n. 234, art. 1, comma 393",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "legge 29 dicembre 2022, n. 197, art. 1, comma 478",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto corrente è un decreto interministeriale MIT-MEF privo di numero e data nel testo fornito. La parte dispositiva (art. 1 e art. 2) rimodula esclusivamente i TERMINI temporali (affidamento, avanzamento 50%, ultimazione, conseguimento OGV) degli interventi già finanziati dal DM 20 aprile 2022, n. 97, come riportati negli allegati 1 e 2. Gli allegati contengono CUP (B31F20000030005, B44D20000040001, F41B22000740009 indicato come CUP MASTER, F41B22000830009, E51I04000010007, C71F20000020005, J84E21005150001, E31J19000030001, F44I19000530001) ma NESSUN importo: non vengono disposte, modificate o revocate risorse finanziarie, pertanto non sono estraibili record di azioni di finanziamento (R1). Il preambolo precisa inoltre che l'istanza del Comune di Genova per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) sarà trattata con separato provvedimento."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle infrastrutture e dei trasporti\",\n  \"ministero_2\": \"Ministero dell'economia e delle finanze\",\n  \"natura_atto\": \"rimodulazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell'economia e delle finanze, 20 aprile 2022, n. 97\",\n      \"relazione\": \"rimodula\"\n    },\n    {\n      \"estremi\": \"legge 30 dicembre 2021, n. 234, art. 1, comma 393\",\n      \"relazione\": \"richiama\"\n    },\n    {\n      \"estremi\": \"legge 29 dicembre 2022, n. 197, art. 1, comma 478\",\n      \"relazione\": \"richiama\"\n    }\n  ],\n  \"allegati_richiamati\": [\"Allegato 1\", \"Allegato 2\"],\n  \"allegati_presenti_nel_testo\": [\"Allegato 1\", \"Allegato 2\"],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto corrente è un decreto interministeriale MIT-MEF privo di numero e data nel testo fornito. La parte dispositiva (art. 1 e art. 2) rimodula esclusivamente i TERMINI temporali (affidamento, avanzamento 50%, ultimazione, conseguimento OGV) degli interventi già finanziati dal DM 20 aprile 2022, n. 97, come riportati negli allegati 1 e 2. Gli allegati contengono CUP (B31F20000030005, B44D20000040001, F41B22000740009 indicato come CUP MASTER, F41B22000830009, E51I04000010007, C71F20000020005, J84E21005150001, E31J19000030001, F44I19000530001) ma NESSUN importo: non vengono disposte, modificate o revocate risorse finanziarie, pertanto non sono estraibili record di azioni di finanziamento (R1). Il preambolo precisa inoltre che l'istanza del Comune di Genova per l'intervento 'Skymetro Val Bisagno' (CUP B39J22001360001) sarà trattata con separato provvedimento.\"\n}"
+}

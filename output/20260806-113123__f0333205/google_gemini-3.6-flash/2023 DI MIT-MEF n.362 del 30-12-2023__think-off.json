@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:54:01",
+  "received_at": "2026-08-06T12:54:10",
+  "latency_seconds": 9.599,
+  "prompt_tokens": 5012,
+  "completion_tokens": 1405,
+  "reasoning_tokens": 1253,
+  "cached_tokens": 0,
+  "total_tokens": 6417,
+  "cost_usd_api": 0.0180555,
+  "cost_usd_reconstructed": 0.0180555,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013641-NN167bHTeDaDawxebqXl",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Il decreto dispone unicamente la rimodulazione di termini temporali (cronoprogrammi e scadenze OGV) per interventi identificati da CUP, senza disporre nuove assegnazioni, variazioni o azioni di finanziamento di carattere monetario nella parte dispositiva o negli allegati."
+  },
+  "records": [],
+  "raw_content": null
+}

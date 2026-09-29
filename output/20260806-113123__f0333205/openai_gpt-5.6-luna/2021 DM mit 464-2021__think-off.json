@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "openai/gpt-5.6-luna",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:32:24",
+  "received_at": "2026-08-06T11:32:29",
+  "latency_seconds": 5.059,
+  "prompt_tokens": 8756,
+  "completion_tokens": 828,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9584,
+  "cost_usd_api": 0.001591225,
+  "cost_usd_reconstructed": 0.013724,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786008745-lxM4rj29kwfwWXK1b6TZ",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-luna"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Numero e data del decreto corrente non sono riportati esplicitamente nel testo fornito. L'articolo 1 dispone il riparto complessivo di 660.660.678,33 euro, ma l'Allegato 1 non distingue l'importo tra piano gestionale 7 e piano gestionale 1; il piano gestionale 7 è pertanto riportato come riferimento per ciascun record sulla base dell'individuazione delle risorse nel testo."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Comune di Padova; Linea Sir 2 del tram-completamento del sistema intermedio a rete della città di Padova"
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Comune di Brescia; Nuova linea tranviaria \"Pendolina-Fiera (T2)\""
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Roma Capitale; Rinnovo materiale linee A e B-B1 della metropolitana"
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Comune di Torino; Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro"
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, Piano di riparto",
+      "note": "Comune di Torino; Metropolitana automatica di Torino - Linea 1: prolungamento Ovest Collegno-Cascine Vica: nuovo fabbricato deposito treni"
+    }
+  ],
+  "raw_content": null
+}

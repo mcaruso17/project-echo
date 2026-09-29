@@ -1,0 +1,95 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "openai/gpt-5.6-sol",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:32:43",
+  "received_at": "2026-08-06T11:33:00",
+  "latency_seconds": 16.995,
+  "prompt_tokens": 8756,
+  "completion_tokens": 1062,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9818,
+  "cost_usd_api": 0.08658125,
+  "cost_usd_reconstructed": 0.07564,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786008763-wCMyP1ermf1CpQkeGpMp",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il testo identifica il decreto corrente come provvedimento del Ministro delle infrastrutture e della mobilità sostenibili, ma non ne riporta numero e data. Le assegnazioni dell'Allegato 1 ammontano complessivamente a € 660.660.678,33. Il capitolo 7400 e i piani gestionali 7 e 1 sono indicati congiuntamente dall'art. 1, senza attribuzione del singolo piano gestionale a ciascun progetto."
+  },
+  "records": [
+    {
+      "cup": "H94I19000130004",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1, riga Comune di Padova",
+      "note": "Linea SIR 2 del tram-completamento del sistema intermedio a rete della città di Padova. L'art. 1 indica complessivamente i piani gestionali 7 e 1, ma l'allegato non specifica quale piano gestionale finanzi il singolo intervento."
+    },
+    {
+      "cup": "C81B21013200005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1, riga Comune di Brescia",
+      "note": "Nuova linea tranviaria \"Pendolina-Fiera (T2)\". L'art. 1 indica complessivamente i piani gestionali 7 e 1, ma l'allegato non specifica quale piano gestionale finanzi il singolo intervento."
+    },
+    {
+      "cup": "J80J18000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1, riga Roma Capitale",
+      "note": "Rinnovo materiale linee A e B-B1 della metropolitana. L'art. 1 indica complessivamente i piani gestionali 7 e 1, ma l'allegato non specifica quale piano gestionale finanzi il singolo intervento."
+    },
+    {
+      "cup": "C11B21008720001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1, riga Comune di Torino – linea tranviaria 15",
+      "note": "Attestamento linea tranviaria 15 presso Ospedale Martini e modifica instradamento in zona centro. L'art. 1 indica complessivamente i piani gestionali 7 e 1, ma l'allegato non specifica quale piano gestionale finanzi il singolo intervento."
+    },
+    {
+      "cup": "D81E20000410007",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1, riga Comune di Torino – Metropolitana automatica",
+      "note": "Metropolitana automatica di Torino, linea 1: prolungamento ovest Collegno-Cascine Vica, nuovo fabbricato deposito treni. L'art. 1 indica complessivamente i piani gestionali 7 e 1, ma l'allegato non specifica quale piano gestionale finanzi il singolo intervento."
+    }
+  ],
+  "raw_content": null
+}

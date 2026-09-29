@@ -1,0 +1,141 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T13:50:00",
+  "received_at": "2026-09-24T13:50:24",
+  "latency_seconds": 24.287,
+  "prompt_tokens": 8209,
+  "completion_tokens": 1459,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 9668,
+  "cost_usd_api": 0.00100143,
+  "cost_usd_reconstructed": 0.000988844,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790250600-95LPSsdc2Vvm7vaPKzz8",
+    "provider": "DeepInfra",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "attuazione"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "attuazione"
+      },
+      {
+        "estremi": "Convenzione del 7 novembre 2019",
+        "relazione": "attuazione"
+      },
+      {
+        "estremi": "Primo Atto modificativo della Convenzione del 7 novembre 2019, sottoscritto il 24 gennaio 2024",
+        "relazione": "attuazione"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attuazione"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto non contiene allegati. Il CUP è presente solo nel preambolo (CONSIDERATO) ma è inequivocabilmente riferito all'intervento oggetto della parte dispositiva (artt. 1 e 2), pertanto è stato utilizzato in applicazione della regola R2. L'importo complessivo di 915.000.000,00 è dichiarato all'art. 2 e scomposto nelle due quote di provenienza; sono stati generati un record totale e due record quota (R5)."
+  },
+  "records": [
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 915000000.0,
+      "importo_originale": "€ 915.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "Il contributo oggetto del Secondo Atto Modificativo di cui all’art. 1 è pari a complessivi € 915.000.000,00, di cui € 900.000.000,00 a valere sulle risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4, ... ed € 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto approva il Secondo Atto Modificativo che conferma l'importo complessivo di 915.000.000,00 già impegnato con i decreti precedenti. Il CUP è indicato nel preambolo (CONSIDERATO) e si riferisce all'intervento oggetto dell'atto. L'importo è la somma delle due quote già impegnate (900.000.000 + 15.000.000)."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 900000000.0,
+      "importo_originale": "€ 900.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 900.000.000,00 a valere sulle risorse stanziate dall’articolo 1, comma 96, della legge n. 145/2018 ed impegnate con decreto direttoriale n. 381 del 5 dicembre 2019 sul capitolo 7418, piano di gestione 4",
+      "atto_riferito": "decreto direttoriale n. 381 del 5 dicembre 2019",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota di provenienza legge 145/2018, già impegnata con decreto 381/2019."
+    },
+    {
+      "cup": [
+        "B21F19000040009"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7418",
+      "piano_gestionale": "4",
+      "annualita": null,
+      "importo_eur": 15000000.0,
+      "importo_originale": "€ 15.000.000,00",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 2",
+      "passaggio_testuale": "€ 15.000.000,00 a valere sulle risorse stanziate dalla legge n. 234/2021, sul medesimo capitolo di spesa, ed impegnate con decreto direttoriale n. 108 del 25 marzo 2024.",
+      "atto_riferito": "decreto direttoriale n. 108 del 25 marzo 2024",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Quota di provenienza legge 234/2021, già impegnata con decreto 108/2024."
+    }
+  ],
+  "raw_content": null
+}

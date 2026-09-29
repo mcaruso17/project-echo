@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T15:20:52",
+  "received_at": "2026-08-06T15:23:15",
+  "latency_seconds": 143.716,
+  "prompt_tokens": 66496,
+  "completion_tokens": 8000,
+  "reasoning_tokens": 7431,
+  "cached_tokens": 0,
+  "total_tokens": 74496,
+  "cost_usd_api": 3.43488,
+  "cost_usd_reconstructed": 3.43488,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786022452-P4vrl6qFjH3Ht9MpA4Zc",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": \"86/2024\",\n  \"data_decreto\": \"2024-12-19\",\n  \"ministero_1\": \"Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)\",\n  \"ministero_2\": null,\n  \"record\": [\n    {\n      \"cup\": \"H11J12000200001\",\n      \"capitolo\": \"7140\",\n      \"piano_gestionale\": \"9\",\n      \"importo_eur\": 95000000,\n      \"importo_originale\": \"95.000.000,00 euro\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"punto 1.2.1; CUP nel titolo e punto 4.3\",\n      \"note\": \"Copertura finanziaria del progetto definitivo del Sistema tramviario fiorentino - Linea 4.1 Tratta Leopolda-Piagge; risorse somme destinate alla tranvia di Firenze del MIT.\"\n    },\n    {\n      \"cup\": \"H11J12000200001\",\n      \"capitolo\": \"7400\",\n      \"piano_gestionale\": \"2\",\n      \"importo_eur\": 47000000,\n      \"importo_originale\": \"47.000.000,00 euro\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"punto 1.2.1; CUP nel titolo e punto 4.3\",\n      \"note\": \"Copertura finanziaria del progetto definitivo; risorse destinate alle spese per interventi nel settore dei sistemi di trasporto rapido di massa del MIT.\"\n    },\n    {\n      \"cup\": \"H11J12000200001\",\n      \"capitolo\": \"7423\",\n      \"piano_gestionale\": \"1\",\n      \"importo_eur\": 29900000,\n      \"importo_originale\": \"29.900.000,00 euro\",\n      \"tipo_azione\": \"assegnazione\",\n      \"riferimento_fonte\": \"punto 1.2.1; CUP nel titolo e punto 4.3\",\n      \"note\": \"Copertura finanziaria del progetto definitivo; risorse del fondo per le reti metropolitane in costruzione in aree metropolitane del MIT.\"\n    }\n  ],\n  \"note_estrazione\": \"Il provvedimento corrente è la Delibera CIPESS n. 86/2024; il testo include frammenti di altri provvedimenti prima e"
+}

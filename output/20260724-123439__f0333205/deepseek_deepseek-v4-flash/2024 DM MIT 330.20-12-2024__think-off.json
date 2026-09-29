@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-flash",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:48:49",
+  "received_at": "2026-07-24T12:49:02",
+  "latency_seconds": 12.759,
+  "prompt_tokens": 4401,
+  "completion_tokens": 132,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 4533,
+  "cost_usd_api": 0.000648435,
+  "cost_usd_reconstructed": 0.00041985,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1784890129-YdkiOFnB4a8RLRE9cg1j",
+    "provider": "Morph",
+    "model": "deepseek/deepseek-v4-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto non contiene azioni di finanziamento (assegnazioni, definanziamenti o rimodulazioni di importi). Dispone solo proroghe di termini per il conseguimento delle obbligazioni giuridicamente vincolanti."
+  },
+  "records": [],
+  "raw_content": null
+}

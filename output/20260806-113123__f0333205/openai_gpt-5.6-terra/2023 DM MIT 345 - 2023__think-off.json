@@ -1,0 +1,62 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:21:57",
+  "received_at": "2026-08-06T14:22:01",
+  "latency_seconds": 4.566,
+  "prompt_tokens": 14008,
+  "completion_tokens": 513,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14521,
+  "cost_usd_api": 0.02058725,
+  "cost_usd_reconstructed": 0.042715,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786018917-sp31stlFT3jqAr653gEL",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta numero e data del decreto corrente, né capitoli di spesa o piani gestionali. Sono estratte le due azioni nuove esplicitamente individuabili: assegnazione alla Linea SIR3 di Padova e inserimento/rimodulazione per la Linea 2 Tratta 2 di Firenze."
+  },
+  "records": [
+    {
+      "cup": "H91F18000260005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14642359.1,
+      "importo_originale": "€ 14.642.359,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1, riga Comune di Padova - Linea SIR3 - Tratta Stazione - Voltabarozzo",
+      "note": "Contributo PNRR assegnato all'intervento in sostituzione del progetto autofiloviario della Città metropolitana di Napoli, come indicato nel preambolo; l'Allegato 1 è sostituito dall'art. 1, comma 1."
+    },
+    {
+      "cup": "H21E03000370005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7201544.96,
+      "importo_originale": "7.201.544,96",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Allegato 2, riga Comune di Firenze - Linea 2 Tratta 2 Variante alternativa al centro storico",
+      "note": "Finanziamento PNRR dell'intervento inserito tra gli interventi a legislazione vigente nell'ambito della rimodulazione di 1.400 milioni di euro richiamata nel preambolo; l'Allegato 2 è sostituito dall'art. 1, comma 1."
+    }
+  ],
+  "raw_content": null
+}

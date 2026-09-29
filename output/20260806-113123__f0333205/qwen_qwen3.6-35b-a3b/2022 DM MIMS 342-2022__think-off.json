@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "qwen/qwen3.6-35b-a3b",
+  "model_family": "qwen",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:43:11",
+  "received_at": "2026-08-06T12:43:25",
+  "latency_seconds": 13.385,
+  "prompt_tokens": 6486,
+  "completion_tokens": 403,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 6889,
+  "cost_usd_api": 0.00103145,
+  "cost_usd_reconstructed": 0.0012461800000000002,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012991-jgDLTHmLdkyuuUwe6P3I",
+    "provider": "DeepInfra",
+    "model": "qwen/qwen3.6-35b-a3b"
+  },
+  "decree_meta": {
+    "numero_decreto": "443/2022",
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta la data esatta di emanazione del decreto corrente né il suo numero completo (il testo cita il decreto n. 443 del 2021 come precedente). Ho inferito '443/2022' come numero probabile basandomi sulla logica di integrazione, ma la data è mancante. L'azione di finanziamento è l'assegnazione di € 2.041.389,20 al CUP PROV0000026838 a valere sul capitolo 7400, piano gestionale 5."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Il decreto non riporta esplicitamente la data di emanazione nel testo fornito, né il numero completo del decreto corrente (si deduce dal contesto che integra il d.m. 443/2021). L'importo è assegnato al Comune di Rimini."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,51 @@
+﻿doc,status,gt,pred,tp,fn,fp,cell
+2021 DM mit 464-2021,ok,5,5,5,0,0,anthropic/claude-fable-5::off
+2022 DD MIT 454-2022,ok_repaired,2,2,2,0,0,anthropic/claude-fable-5::off
+2022 DDG 128 del 02-05-22,ok,6,5,4,2,1,anthropic/claude-fable-5::off
+2022 DI MIT-MEF 390-2022,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2022 DI Mims Mef 97 20.04.2022,ok,24,15,14,10,1,anthropic/claude-fable-5::off
+2022 DM  8.14-01-2022,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2022 DM 410.23-12-2022,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2022 DM MIMS 342-2022,ok,1,1,1,0,0,anthropic/claude-fable-5::off
+2022 DM MIT 409-2022,ok,2,2,2,0,0,anthropic/claude-fable-5::off
+2023 DI MIT-MEF 286-2023,ok,1,1,0,1,1,anthropic/claude-fable-5::off
+2023 DI MIT-MEF n.362 del 30-12-2023,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2023 DM 343.22-12-2023,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2023 DM MIT 191-2023,ok,9,1,1,8,0,anthropic/claude-fable-5::off
+2023 DM MIT 270-2023,ok,43,43,43,0,0,anthropic/claude-fable-5::off
+2023 DM MIT 342-2023,ok,31,23,20,11,3,anthropic/claude-fable-5::off
+2023 DM MIT 344-2023,ok,62,59,57,5,2,anthropic/claude-fable-5::off
+2023 DM MIT 345 - 2023,ok,39,38,37,2,1,anthropic/claude-fable-5::off
+2023 DM MIT 346-2023,ok,6,4,4,2,0,anthropic/claude-fable-5::off
+2024 DI_MIT_MEF_107-2024,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2024 DI_MIT_MEF_349_2024,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2024 DM MIT 330.20-12-2024,ok,0,0,0,0,0,anthropic/claude-fable-5::off
+2024 DM MIT 334-2024,ok,37,36,35,2,1,anthropic/claude-fable-5::off
+2024 delibera CIPE del 19 dicembre 2024,parse_error,1,0,0,1,0,anthropic/claude-fable-5::off
+2025 DD MIT 141-2025,ok,1,2,0,1,2,anthropic/claude-fable-5::off
+2025 DM MIT 131-2025,ok,1,0,0,1,0,anthropic/claude-fable-5::off
+2021 DM mit 464-2021,ok,5,5,5,0,0,deepseek/deepseek-v4-pro-0813::off
+2022 DD MIT 454-2022,ok,2,5,1,1,4,deepseek/deepseek-v4-pro-0813::off
+2022 DDG 128 del 02-05-22,ok,6,0,0,6,0,deepseek/deepseek-v4-pro-0813::off
+2022 DI MIT-MEF 390-2022,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2022 DI Mims Mef 97 20.04.2022,ok,24,15,14,10,1,deepseek/deepseek-v4-pro-0813::off
+2022 DM  8.14-01-2022,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2022 DM 410.23-12-2022,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2022 DM MIMS 342-2022,ok,1,1,1,0,0,deepseek/deepseek-v4-pro-0813::off
+2022 DM MIT 409-2022,ok,2,2,2,0,0,deepseek/deepseek-v4-pro-0813::off
+2023 DI MIT-MEF 286-2023,ok,1,1,1,0,0,deepseek/deepseek-v4-pro-0813::off
+2023 DI MIT-MEF n.362 del 30-12-2023,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM 343.22-12-2023,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 191-2023,ok,9,9,1,8,8,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 270-2023,ok,43,43,43,0,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 342-2023,ok,31,0,0,31,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 344-2023,ok,62,0,0,62,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 345 - 2023,ok,39,2,2,37,0,deepseek/deepseek-v4-pro-0813::off
+2023 DM MIT 346-2023,ok,6,5,4,2,1,deepseek/deepseek-v4-pro-0813::off
+2024 DI_MIT_MEF_107-2024,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2024 DI_MIT_MEF_349_2024,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2024 DM MIT 330.20-12-2024,ok,0,0,0,0,0,deepseek/deepseek-v4-pro-0813::off
+2024 DM MIT 334-2024,ok,37,0,0,37,0,deepseek/deepseek-v4-pro-0813::off
+2024 delibera CIPE del 19 dicembre 2024,ok,1,6,0,1,6,deepseek/deepseek-v4-pro-0813::off
+2025 DD MIT 141-2025,ok,1,2,0,1,2,deepseek/deepseek-v4-pro-0813::off
+2025 DM MIT 131-2025,ok,1,0,0,1,0,deepseek/deepseek-v4-pro-0813::off

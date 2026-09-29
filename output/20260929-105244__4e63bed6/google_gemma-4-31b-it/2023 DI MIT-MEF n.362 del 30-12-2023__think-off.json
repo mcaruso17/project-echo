@@ -1,0 +1,58 @@
+{
+  "decree_file": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF n.362 del 30-12-2023.pdf",
+  "model_slug": "google/gemma-4-31b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:18:28",
+  "received_at": "2026-09-29T11:18:36",
+  "latency_seconds": 8.043,
+  "prompt_tokens": 9339,
+  "completion_tokens": 357,
+  "reasoning_tokens": 0,
+  "cached_tokens": 3,
+  "total_tokens": 9696,
+  "cost_usd_api": 0.00145026,
+  "cost_usd_reconstructed": 0.00096189,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790673509-YiseUF2Mqj5n2YTtK8oA",
+    "provider": "Crusoe",
+    "model": "google/gemma-4-31b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "rimodulazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell’economia e delle finanze, 20 aprile 2022, n. 97",
+        "relazione": "rimodula"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1",
+      "Allegato 2"
+    ],
+    "note_estrazione": "L'atto dispone esclusivamente la rimodulazione di termini temporali (cronoprogrammi e scadenze OGV) per i progetti elencati negli allegati. Non sono presenti azioni di finanziamento, assegnazioni di risorse, impegni di spesa o variazioni di importi euro. In conformità alla regola R2 (Evento Contabile), non essendo state disposte movimentazioni finanziarie ma solo modifiche di termini amministrativi, non sono stati generati record."
+  },
+  "records": [],
+  "raw_content": "```json\n{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": \"Ministero dell'Economia e delle Finanze\",\n  \"natura_atto\": \"rimodulazione\",\n  \"atti_collegati\": [\n    {\n      \"estremi\": \"decreto del Ministro delle infrastrutture e della mobilità sostenibili, di concerto con il Ministro dell’economia e delle finanze, 20 aprile 2022, n. 97\",\n      \"relazione\": \"rimodula\"\n    }\n  ],\n  \"allegati_richiamati\": [\n    \"Allegato 1\",\n    \"Allegato 2\"\n  ],\n  \"allegati_presenti_nel_testo\": [\n    \"Allegato 1\",\n    \"Allegato 2\"\n  ],\n  \"record\": [],\n  \"note_estrazione\": \"L'atto dispone esclusivamente la rimodulazione di termini temporali (cronoprogrammi e scadenze OGV) per i progetti elencati negli allegati. Non sono presenti azioni di finanziamento, assegnazioni di risorse, impegni di spesa o variazioni di importi euro. In conformità alla regola R2 (Evento Contabile), non essendo state disposte movimentazioni finanziarie ma solo modifiche di termini amministrativi, non sono stati generati record.\"\n}\n```"
+}

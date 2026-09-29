@@ -1,0 +1,105 @@
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/manuale/v002.json
+  versione: v002   fingerprint: 6ea9abc6
+--docs-file -> 5 documento/i su 25 (elenco di 5 stem).
+5 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260928-122533__6ea9abc6
+
+[2022 DD MIT 454-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 8969->1050 tok, $0.0032, 14.683s
+[2022 DD MIT 454-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 8969->809 tok, $0.0010, 18.203s
+[2022 DD MIT 454-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 8912->947 tok, $0.0009, 18.808s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 2 record, 8836->1005 tok, $0.0038, 5.318s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 9488->1122 tok, $0.0114, 24.415s
+    ok: 2 record, 9061->1134 tok, $0.0012, 15.239s
+    ok: 2 record, 9263->1097 tok, $0.0013, 14.219s
+    ok: 2 record, 9264->999 tok, $0.0010, 53.172s
+[2022 DDG 128 del 02-05-22.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 5 record, 10214->1816 tok, $0.0012, 28.379s
+[2022 DDG 128 del 02-05-22.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 10757->2139 tok, $0.0100, 29.332s
+[2022 DDG 128 del 02-05-22.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 10214->2126 tok, $0.0053, 35.302s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 0 record, 11511->3 tok, $0.0086, 0.658s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 6 record, 10416->2675 tok, $0.0017, 56.066s
+    ok: 3 record, 11563->1380 tok, $0.0008, 23.412s
+    ok: 13 record, 10122->4967 tok, $0.0090, 42.146s
+    PARSE_ERROR: 0 record, 11259->32000 tok, $0.0331, 170.386s
+    ATTENZIONE: output troncato (alzare MAX_OUTPUT_TOKENS).
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 15 record, 18356->5867 tok, $0.0313, 83.415s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 15 record, 17408->5757 tok, $0.0133, 93.062s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 15 record, 17023->5282 tok, $0.0091, 21.192s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 15 record, 18001->6216 tok, $0.0080, 31.309s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 19 record, 17278->6592 tok, $0.0037, 137.959s
+    ok: 19 record, 18304->6739 tok, $0.0039, 64.318s
+    ok: 15 record, 17408->5341 tok, $0.0028, 244.308s
+    ok: 19 record, 18303->6913 tok, $0.0042, 206.035s
+[2023 DM MIT 342-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 4 record, 30854->1743 tok, $0.0071, 42.116s
+[2023 DM MIT 342-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 22 record, 32141->7385 tok, $0.0500, 49.252s
+[2023 DM MIT 342-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 34 record, 30971->10491 tok, $0.0073, 50.424s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 4 record, 30515->2327 tok, $0.0095, 11.422s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 16 record, 34033->6738 tok, $0.0101, 35.93s
+    ok: 11 record, 31566->4345 tok, $0.0036, 92.902s
+    ok: 4 record, 34194->1778 tok, $0.0040, 63.013s
+    ok: 16 record, 34195->5804 tok, $0.0048, 113.522s
+[2025 DD MIT 141-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 0 record, 11960->365 tok, $0.0005, 12.096s
+[2025 DD MIT 141-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 12410->1292 tok, $0.0032, 8.175s
+[2025 DD MIT 141-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 11788->1520 tok, $0.0040, 15.264s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    ok: 2 record, 11897->1044 tok, $0.0011, 36.333s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 11937->1377 tok, $0.0040, 42.206s
+    ok: 11 record, 12595->3447 tok, $0.0258, 71.046s
+    ok: 2 record, 12780->1141 tok, $0.0017, 36.564s
+    ok: 14 record, 12832->4636 tok, $0.0016, 56.728s
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-122533__6ea9abc6
+JSONL scritto: results.jsonl (40 righe, tutte le celle)
+
+Spesa totale (API): $0.3081
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.128401
+qwen/qwen3.6-35b-a3b::off             0.055684
+minimax/minimax-m3::off               0.035496
+deepseek/deepseek-v4-pro-0813::off    0.032912
+google/gemma-4-31b-it::off            0.019548
+deepseek/deepseek-v4-flash::off       0.012711
+google/gemma-4-26b-a4b-it::off        0.012274
+z-ai/glm-4.7-flash::off               0.011085
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-122533__6ea9abc6

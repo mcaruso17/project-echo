@@ -1,0 +1,109 @@
+{
+  "decree_file": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "decree_relpath": "2024 delibera CIPE del 19 dicembre 2024.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 23,
+  "status": "ok",
+  "sent_at": "2026-08-06T15:23:52",
+  "received_at": "2026-08-06T15:25:15",
+  "latency_seconds": 82.945,
+  "prompt_tokens": 69701,
+  "completion_tokens": 5647,
+  "reasoning_tokens": 4589,
+  "cached_tokens": 0,
+  "total_tokens": 75348,
+  "cost_usd_api": 0.207166,
+  "cost_usd_reconstructed": 0.207166,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786022632-eYzwTshzOGu8GpeB6T8n",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": "86/2024",
+    "data_decreto": "2024-12-19",
+    "ministero_1": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE",
+    "ministero_2": null,
+    "note_estrazione": "Gli importi estratti rappresentano la formale imputazione della copertura finanziaria del progetto definitivo approvato dalla presente delibera CIPESS. Tali fondi erano stati originariamente stanziati da precedenti decreti MIT citati nel preambolo, ma vengono qui formalmente vincolati al quadro economico del progetto definitivo."
+  },
+  "records": [
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7140",
+      "piano_gestionale": "9",
+      "importo_eur": 95000000.0,
+      "importo_originale": "95.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.1",
+      "note": "a valere sulle somme destinate alla tranvia di Firenze (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "2",
+      "importo_eur": 47000000.0,
+      "importo_originale": "47.000.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.1",
+      "note": "spese per interventi nel settore dei sistemi di trasporto rapido di massa (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": "7423",
+      "piano_gestionale": "1",
+      "importo_eur": 29900000.0,
+      "importo_originale": "29.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.1",
+      "note": "fondo per le reti metropolitane in costruzione in aree metropolitane (MIT)"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 7100598.76,
+      "importo_originale": "7.100.598,76 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.2",
+      "note": "Quota a carico del Comune di Firenze"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 22900000.0,
+      "importo_originale": "22.900.000,00 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.2",
+      "note": "Quota Comune di Firenze - trasferimenti da RFI"
+    },
+    {
+      "cup": "H11J12000200001",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 245577.8,
+      "importo_originale": "245.577,80 euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Punto 1.2.2",
+      "note": "RFI - ulteriore finanziamento (inserito nel 2012)"
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,59 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:08:04",
+  "received_at": "2026-09-29T12:08:26",
+  "latency_seconds": 21.913,
+  "prompt_tokens": 8218,
+  "completion_tokens": 588,
+  "reasoning_tokens": 1,
+  "cached_tokens": 4096,
+  "total_tokens": 8806,
+  "cost_usd_api": 0.00692326,
+  "cost_usd_reconstructed": 0.010159099999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790676489-DBsuSaMvHWuOHLgd9o3f",
+    "provider": "Moonshot AI",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "natura_atto": "altro",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze 20 aprile 2022, n. 97",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 30 dicembre 2023, n. 362",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 17 aprile 2024, n. 107",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1 del D.I. n. 97/2022"
+    ],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto interministeriale (MIT/MEF) privo di numero e data espliciti nell'intestazione (probabilmente in corso di registrazione presso gli Organi di controllo, art. 2). L'atto dispone esclusivamente proroghe di termini (affidamento lavori al 31/12/2025, rideterminazione termini ultimazione, abrogazione obiettivo avanzamento 50%) per due interventi specifici (Skymetro Val Bisagno a Genova e Metropolitana Torino Linea 2 Politecnico-Rebaudengo). Non dispone alcuna azione contabile di assegnazione, impegno, rimodulazione o revoca di importi: non riporta capitoli, piani gestionali, importi né CUP. Gli interventi citati sono meramente elencati per identificare i beneficiari delle proroghe. L'Allegato 1 del D.I. n. 97/2022 è richiamato ma non riprodotto nel testo. Nessun record generabile: l'atto è di natura procedurale-amministrativa (proroghe di termini), non di finanziamento."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\":true,\"numero_decreto\":null,\"data_decreto\":null,\"ministero_1\":\"Ministero delle Infrastrutture e dei Trasporti\",\"ministero_2\":\"Ministero dell'Economia e delle Finanze\",\"natura_atto\":\"altro\",\"atti_collegati\":[{\"estremi\":\"decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze 20 aprile 2022, n. 97\",\"relazione\":\"attua\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 30 dicembre 2023, n. 362\",\"relazione\":\"attua\"},{\"estremi\":\"decreto del Ministro delle infrastrutture e dei Trasporti di concerto con il Ministro dell'economia e delle finanze 17 aprile 2024, n. 107\",\"relazione\":\"attua\"}],\"allegati_richiamati\":[\"Allegato 1 del D.I. n. 97/2022\"],\"allegati_presenti_nel_testo\":[],\"record\":[],\"note_estrazione\":\"L'atto corrente è un decreto interministeriale (MIT/MEF) privo di numero e data espliciti nell'intestazione (probabilmente in corso di registrazione presso gli Organi di controllo, art. 2). L'atto dispone esclusivamente proroghe di termini (affidamento lavori al 31/12/2025, rideterminazione termini ultimazione, abrogazione obiettivo avanzamento 50%) per due interventi specifici (Skymetro Val Bisagno a Genova e Metropolitana Torino Linea 2 Politecnico-Rebaudengo). Non dispone alcuna azione contabile di assegnazione, impegno, rimodulazione o revoca di importi: non riporta capitoli, piani gestionali, importi né CUP. Gli interventi citati sono meramente elencati per identificare i beneficiari delle proroghe. L'Allegato 1 del D.I. n. 97/2022 è richiamato ma non riprodotto nel testo. Nessun record generabile: l'atto è di natura procedurale-amministrativa (proroghe di termini), non di finanziamento.\"}"
+}

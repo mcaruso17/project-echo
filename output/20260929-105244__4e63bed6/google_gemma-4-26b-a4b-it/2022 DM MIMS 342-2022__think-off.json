@@ -1,0 +1,75 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:15:24",
+  "received_at": "2026-09-29T11:15:51",
+  "latency_seconds": 26.492,
+  "prompt_tokens": 11011,
+  "completion_tokens": 690,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11701,
+  "cost_usd_api": 0.00170743,
+  "cost_usd_reconstructed": 0.00119799,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673325-9DGHE9USvTYg32a1RiUH",
+    "provider": "Parasail",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il testo riporta una tabella nel preambolo relativa al capitolo 7400 PG 5 con un totale di € 184.964.094,00, ma si tratta di una citazione di risorse già iscritte in bilancio e non di una disposizione dell'atto corrente; pertanto, tali importi non sono stati trasformati in record. L'atto corrente dispone invece l'assegnazione di una quota residua del fondo (€ 2.041.389,20) al Comune di Rimini."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": null,
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "E’ assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all’articolo 1, comma 95, della legge 145/2018, per l’intervento di manutenzione relativo a “Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)”",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "L'atto non specifica il capitolo/PG per questo specifico nuovo stanziamento, ma cita il fondo della legge 145/2018."
+    }
+  ],
+  "raw_content": null
+}

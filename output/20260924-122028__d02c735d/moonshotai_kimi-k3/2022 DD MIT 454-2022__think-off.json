@@ -1,0 +1,208 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:21:46",
+  "received_at": "2026-09-24T12:22:13",
+  "latency_seconds": 26.671,
+  "prompt_tokens": 8627,
+  "completion_tokens": 2459,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11086,
+  "cost_usd_api": 0.05282323,
+  "cost_usd_reconstructed": 0.062766,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790245306-k9ngNF6czsQ6O25e2jzj",
+    "provider": "Wafer",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili di concerto con il Ministro dell'economia e delle finanze n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Atto direttoriale (Div 2, Direzione generale per il trasporto pubblico locale e regionale e la mobilità pubblica sostenibile) privo di numero e data nel testo fornito; firmato dal Direttore della Div 2 Dr. Raffaele Di Trani. L'atto dispone impegni in attuazione del DM interministeriale n. 498/2014 a favore di Roma Capitale per la tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma (CUP E51I04000010007). Gli importi citati nel preambolo (finanziamento originario di € 155 milioni del DM 498/2014, impegno di € 9.279.359,97 del DD 220/2020, contributo di € 608.690.000,00 del DM 97/2022) non sono azioni dell'atto corrente e non sono stati estratti come record. Nessun allegato è richiamato dall'articolato; la tabella di ripartizione per annualità è contenuta direttamente nell'art. 2."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2021",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "è autorizzato, per il corrente esercizio finanziario, a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007, l'impegno di € 14.000.000,00 in conto residui di lettera F, esercizio di provenienza 2021",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "impegno in conto residui di lettera F, esercizio di provenienza 2021; il campo annualita indica l'esercizio di provenienza dei residui"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga Totale",
+      "passaggio_testuale": "è autorizzato l'impegno, sul capitolo 7426, piano di gestione 1 ... per l'importo complessivo di € 131.000.000,00 a favore di Roma Capitale, per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "importo complessivo dichiarato dall'atto e ripartito per annualità 2022-2025"
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022",
+      "importo_eur": 35000000.0,
+      "importo_originale": "35.000.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "2022 | 35.000.000,00 €",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2023",
+      "importo_eur": 40000000.0,
+      "importo_originale": "40.000.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 2",
+      "passaggio_testuale": "2023 | 40.000.000,00 €",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2024",
+      "importo_eur": 33500000.0,
+      "importo_originale": "33.500.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 3",
+      "passaggio_testuale": "2024 | 33.500.000,00 €",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2025",
+      "importo_eur": 22500000.0,
+      "importo_originale": "22.500.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 4",
+      "passaggio_testuale": "2025 | 22.500.000,00 €",
+      "atto_riferito": "decreto del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze, n. 498 del 14 novembre 2014",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

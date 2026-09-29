@@ -1,0 +1,40 @@
+{
+  "decree_file": "2022 DM 410.23-12-2022.pdf",
+  "decree_relpath": "2022 DM 410.23-12-2022.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro-0813",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-08-14T15:34:19",
+  "received_at": "2026-08-14T15:34:23",
+  "latency_seconds": 3.017,
+  "prompt_tokens": 3535,
+  "completion_tokens": 141,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3676,
+  "cost_usd_api": 0.00522456,
+  "cost_usd_reconstructed": 0.001660395,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786714460-JkjLHs7MhfJsakgLCDac",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro-0813"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento con dettaglio di capitolo, piano gestionale o CUP. Dispone esclusivamente proroghe di termini per obbligazioni giuridicamente vincolanti relative a finanziamenti già disposti da decreti precedenti."
+  },
+  "records": [],
+  "raw_content": "{\n  \"decreto_corrente_identificato\": true,\n  \"numero_decreto\": null,\n  \"data_decreto\": null,\n  \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\",\n  \"ministero_2\": null,\n  \"record\": [],\n  \"note_estrazione\": \"Il decreto corrente non contiene azioni di finanziamento con dettaglio di capitolo, piano gestionale o CUP. Dispone esclusivamente proroghe di termini per obbligazioni giuridicamente vincolanti relative a finanziamenti già disposti da decreti precedenti.\"\n}"
+}

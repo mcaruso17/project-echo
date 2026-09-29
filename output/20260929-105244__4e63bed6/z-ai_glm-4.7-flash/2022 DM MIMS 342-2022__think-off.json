@@ -1,0 +1,75 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T11:14:52",
+  "received_at": "2026-09-29T11:15:32",
+  "latency_seconds": 40.219,
+  "prompt_tokens": 10707,
+  "completion_tokens": 769,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 11476,
+  "cost_usd_api": 0.00082842,
+  "cost_usd_reconstructed": 0.000960727,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790673298-YfDGRNy3pvP5xgejkQCQ",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Atto corrente: decreto del Ministro delle Infrastrutture e della Mobilità Sostenibili (aprile 2021? il testo reca 'aprile 2021' in modo frammentario; data e numero non stampati in modo univoco). L'atto integra il decreto n. 443/2021 includendo il Comune di Rimini tra i beneficiari e posticipa di un anno le scadenze dell'art. 3 di quel decreto. Non sono presenti allegati né tabelle con elenchi di CUP. Le annualità del capitolo 7400 PG 5 nel preambolo ([TABELLA pag.1 n.1]) sono lo stanziamento pluriennale di legge di bilancio (L. 145/2018), non azioni disposte dall'atto corrente: non generano record. L'art. 2, comma 1 rinvia l'impegno contabile a un successivo provvedimento: nessun impegno disposto da questo atto."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20 ... \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\"",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Intervento \"Impianto filoviario Rimini – Riccione: linea di contatto\"; costo totale stimato € 2.250.000,00 (non è un record: valore complessivo dell'intervento). Il capitolo 7400/PG 5 è indicato nel preambolo come capitolo su cui risultano iscritte le risorse del fondo (art. 1, comma 95, L. 145/2018); l'art. 2, comma 1 rinvia l'impegno contabile a un successivo provvedimento. Confidenza media sul collegamento capitolo-record."
+    }
+  ],
+  "raw_content": null
+}

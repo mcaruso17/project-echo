@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_107-2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_107-2024.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:51:44",
+  "received_at": "2026-08-06T14:51:46",
+  "latency_seconds": 1.76,
+  "prompt_tokens": 3515,
+  "completion_tokens": 329,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3844,
+  "cost_usd_api": 0.00340664,
+  "cost_usd_reconstructed": 0.00344179,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020704-ERrCBex1VA4rfdW71ZIn",
+    "provider": "CoreWeave",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministro dell'economia e delle finanze",
+    "note_estrazione": "Il decreto corrente è un decreto di rimodulazione dei termini temporali (cronoprogramma) per l'intervento 'Skymetro Val Bisagno (CUP B39J22001360001)', originariamente finanziato dal decreto n. 97 del 20 aprile 2022. Il decreto dispone esclusivamente la rimodulazione delle scadenze (affidamento 30.06.2025, avanzamento del 50% 31.03.2027, ultimazione 31.12.2029) senza alcuna azione di finanziamento che movimenti risorse economiche (assegnazione, definanziamento o rimodulazione di importi). Non sono presenti capitoli di spesa, piani gestionali né importi nel testo dispositivo o negli allegati. Il CUP B39J22001360001 è citato a titolo di identificazione del progetto oggetto di proroga termini, non come destinazione di nuovi fondi."
+  },
+  "records": [],
+  "raw_content": null
+}

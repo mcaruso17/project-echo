@@ -1,0 +1,62 @@
+{
+  "decree_file": "2023 DM MIT 345 - 2023.pdf",
+  "decree_relpath": "2023 DM MIT 345 - 2023.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:27:11",
+  "received_at": "2026-08-06T14:27:16",
+  "latency_seconds": 5.014,
+  "prompt_tokens": 14753,
+  "completion_tokens": 383,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 15136,
+  "cost_usd_api": 0.00103838,
+  "cost_usd_reconstructed": 0.00103838,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786019231-R9JlWcsLXxm1ABgOLflY",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministro delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [
+    {
+      "cup": "H91F18000260005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 14642359.1,
+      "importo_originale": "€ 14.642.359,10",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 – Nuovi Interventi, riga 'LINEA SIR3 - TRATTA STAZIONE - VOLTABAROZZO'",
+      "note": "Sostituzione dell'intervento di Napoli con quello di Padova"
+    },
+    {
+      "cup": "H21E03000370005",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 1400000000.0,
+      "importo_originale": "1.400 milioni di euro",
+      "tipo_azione": "rimodulazione",
+      "riferimento_fonte": "Considerato, Ritenuto di rimodulare il finanziamento di 1.400 milioni di euro destinato agli interventi di cui all'allegato 2 del D.M. n. 448 del 2021",
+      "note": "Rimodulazione del fondo per interventi a legislazione vigente"
+    }
+  ],
+  "raw_content": null
+}

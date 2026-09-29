@@ -1,0 +1,39 @@
+{
+  "decree_file": "2024 DI_MIT_MEF_349_2024.pdf",
+  "decree_relpath": "2024 DI_MIT_MEF_349_2024.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T14:54:08",
+  "received_at": "2026-08-06T14:54:12",
+  "latency_seconds": 3.315,
+  "prompt_tokens": 3642,
+  "completion_tokens": 133,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 3775,
+  "cost_usd_api": 0.004564544,
+  "cost_usd_reconstructed": 0.00169998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786020848-xNRjKJCewDK9SI0KfUoD",
+    "provider": "Novita",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": "Ministero dell'Economia e delle Finanze",
+    "note_estrazione": "Il decreto non contiene azioni di finanziamento. Dispone esclusivamente proroghe di termini e abrogazione di obiettivi intermedi per interventi già finanziati da precedenti decreti."
+  },
+  "records": [],
+  "raw_content": null
+}

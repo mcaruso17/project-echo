@@ -1,0 +1,11 @@
+﻿modello,gradino,vram,arena,solved,pairtot_F1,cup_F1,pairtot_R,costo,out_tok,lat_s
+anthropic/claude-opus-5.5,SOFFITTO,-,fam.#1,13,0.972,0.996,0.959,4.972,183455,86
+moonshotai/kimi-k3,oltre,"~1,5 TB",-,12,0.961,0.996,0.948,2.626,134853,108
+deepseek/deepseek-v4-flash,2-4 GPU,~160 GB,-,11,0.846,0.922,0.749,0.044,77470,125
+deepseek/deepseek-v4-pro-0813,oltre,~900 GB,-,10,0.827,0.994,0.723,0.59,109147,65
+google/gemma-4-31b-it,1 GPU,~20 GB,#35,9,0.807,0.991,0.694,0.107,102335,109
+minimax/minimax-m3,?,da accertare,#32,9,0.777,0.996,0.668,0.192,115510,57
+moonshotai/kimi-k2.6,8 GPU,~550 GB,#27,8,0.76,0.994,0.712,0.539,114443,117
+google/gemma-4-26b-a4b-it,1 GPU,~16 GB,-,5,0.594,0.784,0.465,0.045,103229,78
+qwen/qwen3.6-35b-a3b,1 GPU,~20 GB,-,5,0.362,0.946,0.229,0.091,105507,71
+z-ai/glm-4.7-flash,1 GPU,~18 GB,-,4,0.321,0.991,0.325,0.058,108247,133

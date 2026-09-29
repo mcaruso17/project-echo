@@ -1,0 +1,65 @@
+{
+  "decree_file": "2025 DM MIT 131-2025.pdf",
+  "decree_relpath": "2025 DM MIT 131-2025.pdf",
+  "model_slug": "z-ai/glm-4.7-flash",
+  "model_family": "zai",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-29T12:17:57",
+  "received_at": "2026-09-29T12:18:33",
+  "latency_seconds": 35.503,
+  "prompt_tokens": 9178,
+  "completion_tokens": 557,
+  "reasoning_tokens": 0,
+  "cached_tokens": 2432,
+  "total_tokens": 9735,
+  "cost_usd_api": 0.00065188,
+  "cost_usd_reconstructed": 0.0007826579999999999,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790677087-uXTa6OFvAwDZWRZUertb",
+    "provider": "Venice",
+    "model": "z-ai/glm-4.7-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "natura_atto": "attuazione",
+    "atti_collegati": [
+      {
+        "estremi": "Convenzione 7 novembre 2019 (MIT - DgTPL Divisione 5 - Comune di Milano - Regione Lombardia)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 381 del 5 dicembre 2019",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Atto modificativo della Convenzione del 7 novembre 2019, sottoscritto il 24 gennaio 2024",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto direttoriale n. 108 del 25 marzo 2024",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025",
+        "relazione": "attua"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto direttoriale del Direttore Generale DgTPL che approva il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 (art. 1) e ne quantifica il contributo complessivo in € 915.000.000,00 (art. 2). Nessun numero/data di adozione del decreto è stampato nel testo. L'art. 2 non dispone nuovi impegni o assegnazioni: si limita a richiamare importi già impegnati con decreti direttoriali n. 381/2019 (€ 900.000.000,00 su cap. 7418 pg 4) e n. 108/2024 (€ 15.000.000,00 sul medesimo capitolo), che pertanto non generano record ai sensi di R2. Il CUP B21F19000040009 compare solo nel preambolo (CONSIDERATO) e non è associato a un'azione disposta dall'atto corrente. Nessun allegato richiamato o presente."
+  },
+  "records": [],
+  "raw_content": "{\"decreto_corrente_identificato\": true, \"numero_decreto\": null, \"data_decreto\": null, \"ministero_1\": \"Ministero delle Infrastrutture e dei Trasporti\", \"ministero_2\": null, \"natura_atto\": \"attuazione\", \"atti_collegati\": [{\"estremi\": \"Convenzione 7 novembre 2019 (MIT - DgTPL Divisione 5 - Comune di Milano - Regione Lombardia)\", \"relazione\": \"richiama\"}, {\"estremi\": \"decreto direttoriale n. 381 del 5 dicembre 2019\", \"relazione\": \"richiama\"}, {\"estremi\": \"Atto modificativo della Convenzione del 7 novembre 2019, sottoscritto il 24 gennaio 2024\", \"relazione\": \"richiama\"}, {\"estremi\": \"decreto direttoriale n. 108 del 25 marzo 2024\", \"relazione\": \"richiama\"}, {\"estremi\": \"Secondo Atto Modificativo della Convenzione del 7 novembre 2019, sottoscritto il 13 febbraio 2025\", \"relazione\": \"attua\"}], \"allegati_richiamati\": [], \"allegati_presenti_nel_testo\": [], \"record\": [], \"note_estrazione\": \"L'atto corrente è un decreto direttoriale del Direttore Generale DgTPL che approva il Secondo Atto Modificativo della Convenzione del 7 novembre 2019 (art. 1) e ne quantifica il contributo complessivo in € 915.000.000,00 (art. 2). Nessun numero/data di adozione del decreto è stampato nel testo. L'art. 2 non dispone nuovi impegni o assegnazioni: si limita a richiamare importi già impegnati con decreti direttoriali n. 381/2019 (€ 900.000.000,00 su cap. 7418 pg 4) e n. 108/2024 (€ 15.000.000,00 sul medesimo capitolo), che pertanto non generano record ai sensi di R2. Il CUP B21F19000040009 compare solo nel preambolo (CONSIDERATO) e non è associato a un'azione disposta dall'atto corrente. Nessun allegato richiamato o presente.\"}"
+}

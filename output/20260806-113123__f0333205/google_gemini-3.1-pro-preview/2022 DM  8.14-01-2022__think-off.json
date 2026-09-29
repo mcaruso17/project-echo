@@ -1,0 +1,42 @@
+{
+  "decree_file": "2022 DM  8.14-01-2022.pdf",
+  "decree_relpath": "2022 DM  8.14-01-2022.pdf",
+  "model_slug": "google/gemini-3.1-pro-preview",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 2,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:33:39",
+  "received_at": "2026-08-06T12:33:49",
+  "latency_seconds": 9.64,
+  "prompt_tokens": 2548,
+  "completion_tokens": 1147,
+  "reasoning_tokens": 1008,
+  "cached_tokens": 0,
+  "total_tokens": 3695,
+  "cost_usd_api": 0.01886,
+  "cost_usd_reconstructed": 0.01886,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786012419-2GvU2hkA9Pi3DrUngcVE",
+    "provider": "Google",
+    "model": "google/gemini-3.1-pro-preview"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto dispone esclusivamente una proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (al 31 dicembre 2022). Non sono presenti nuove azioni di finanziamento, capitoli di spesa, CUP o importi."
+  },
+  "records": [],
+  "raw_content": null
+}

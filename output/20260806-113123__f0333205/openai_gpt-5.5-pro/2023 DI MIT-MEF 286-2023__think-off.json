@@ -1,0 +1,54 @@
+{
+  "decree_file": "2023 DI MIT-MEF 286-2023.pdf",
+  "decree_relpath": "2023 DI MIT-MEF 286-2023.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 21,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:49:21",
+  "received_at": "2026-08-06T12:50:43",
+  "latency_seconds": 82.137,
+  "prompt_tokens": 4422,
+  "completion_tokens": 2737,
+  "reasoning_tokens": 2408,
+  "cached_tokens": 0,
+  "total_tokens": 7159,
+  "cost_usd_api": 0.62532,
+  "cost_usd_reconstructed": 0.62532,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786013361-Ij1s67xKrrdYWxFH0pR6",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": "Ministero dell'economia e delle finanze",
+    "note_estrazione": "Nel testo fornito non sono indicati numero e data del decreto corrente; non sono indicati capitolo di spesa o piano gestionale."
+  },
+  "records": [
+    {
+      "cup": "B81I06000000003",
+      "cup_valido": true,
+      "capitolo": null,
+      "piano_gestionale": null,
+      "importo_eur": 75000000.0,
+      "importo_originale": "15 milioni di euro per ciascuno degli anni dal 2023 al 2027, per complessivi 75 milioni di euro",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1, comma 1",
+      "note": "Assegnazione al Comune di Milano per la copertura del fabbisogno della linea M4 della metropolitana di Milano; contributi annuali 2023-2027. Il testo dettaglia il fabbisogno in aumento costi materiali 35 milioni, tecnica del congelamento 10 milioni, varianti/maggiori opere 17 milioni, spese generali COVID 7 milioni e oneri sicurezza inerziali 6 milioni."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,51 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "moonshotai/kimi-k3",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:42:55",
+  "received_at": "2026-08-06T12:42:58",
+  "latency_seconds": 3.279,
+  "prompt_tokens": 7392,
+  "completion_tokens": 463,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 7855,
+  "cost_usd_api": 0.029121,
+  "cost_usd_reconstructed": 0.029121,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786012975-NVBOnaKhJAqpB2Qt27Wn",
+    "provider": "Modal",
+    "model": "moonshotai/kimi-k3"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "note_estrazione": "Il testo fornito non riporta l'intestazione completa del decreto con numero e data di adozione (è presente solo la firma 'IL MINISTRO'); nel preambolo compare il riferimento all'intesa della Conferenza Unificata del 28 settembre 2022, ma non la data del decreto. Il CUP indicato nel testo ('PROV0000026838') è riportato così come stampato, pur avendo 14 caratteri anziché 15. Il decreto n. 443/2021 citato nel preambolo è un decreto precedente e non è stato utilizzato come numero_decreto."
+  },
+  "records": [
+    {
+      "cup": "PROV0000026838",
+      "cup_valido": false,
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Articolo 1, comma 1",
+      "note": "Contributo assegnato al Comune di Rimini per l'intervento 'Impianto filoviario Rimini – Riccione: linea di contatto'. Il capitolo 7400 e piano gestionale 5 sono richiamati nel preambolo come sede di iscrizione delle risorse del fondo ex art. 1, comma 95, L. 145/2018. Il CUP riportato nel testo ('PROV0000026838') ha 14 caratteri, non 15."
+    }
+  ],
+  "raw_content": null
+}

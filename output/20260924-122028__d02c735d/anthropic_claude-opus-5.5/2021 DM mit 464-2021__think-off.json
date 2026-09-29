@@ -1,0 +1,210 @@
+{
+  "decree_file": "2021 DM mit 464-2021.pdf",
+  "decree_relpath": "2021 DM mit 464-2021.pdf",
+  "model_slug": "anthropic/claude-opus-5.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 10,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:20:55",
+  "received_at": "2026-09-24T12:21:34",
+  "latency_seconds": 39.531,
+  "prompt_tokens": 17748,
+  "completion_tokens": 4842,
+  "reasoning_tokens": 1137,
+  "cached_tokens": 0,
+  "total_tokens": 22590,
+  "cost_usd_api": 0.167832,
+  "cost_usd_reconstructed": 0.167832,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790245255-DfxuZb44UMnzyO5rOMx6",
+    "provider": "Claude Platform on AWS",
+    "model": "anthropic/claude-opus-5.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "AVVISO n. 2 per la presentazione di istanze per accesso alle risorse destinate al Trasporto Rapido di Massa ad Impianti Fissi, pubblicato il 16 maggio 2019, e relativo Addendum prot. n. 466 del 4 febbraio 2020",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Addendum all'AVVISO 2, prot. n. 466 del 4 febbraio 2020 (termine per l'obbligazione giuridicamente vincolante rinviato dal 31 dicembre 2022 al 31 dicembre 2023)",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "DPCM 23 dicembre 2020 (riparto Fondo art. 1, comma 14, L. 160/2019)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DPCM 11 giugno 2019 (riparto Fondo art. 1, comma 95, L. 145/2018)",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto ministeriale 3 febbraio 202[sic], n. 144",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "decreto ministeriale 27 dicembre 2019, n. 607",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "relazione DG TPL n. 8259 del 22 ottobre 2021",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Intesa Conferenza unificata, seduta straordinaria 11 novembre 2021",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [
+      "Allegato 1"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato 1"
+    ],
+    "note_estrazione": "Atto: decreto del Ministro delle Infrastrutture e della Mobilità Sostenibili, piano di riparto delle risorse per il Trasporto Rapido di Massa (Avviso n. 2). Numero e data del decreto non presenti nel testo. La parte dispositiva inizia con 'DECRETA', Articolo 1. L'Allegato 1 è presente e il totale dichiarato di 660.660.678,33 corrisponde alla somma delle cinque righe. Per questo il totale di tabella/art. 1 non genera un record autonomo: riguarda tutti i CUP e duplicherebbe le righe. La colonna si intitola 'FINANZIAMENTO AMMESSO', ma l'art. 1 dispone la ripartizione e gli artt. 2-5 parlano di 'risorse assegnate'/'contributo assegnato'; per questo lo stato è 'assegnato'. L'impegno contabile è demandato a successivo provvedimento (art. 1, comma 2). Risorse disponibili dichiarate nelle premesse: 634.174.000,00 sul PG 7 e 114.902.425,07 sul PG 1, per un totale di 749.076.425,07. Il residuo non ripartito di 88.415.746,74 è indicato solo nelle premesse (CONSIDERATA l'urgenza...), non nella parte dispositiva, e quindi non è estratto come record 'non_allocato'. Le premesse riportano per il PG 1 una disponibilità di 115.602.425 e poi di 114.902.425,07: la differenza di 700.000 è verosimilmente collegata al DL 121/2021, ma l'atto non lo esplicita. Refusi nel testo: 'decreto ministeriale 3 febbraio 202, n. 144' (anno incompleto); frammento isolato 'dell'8 aprile 2021;' nelle premesse; numerazione degli articoli che passa da 8 a 10 (manca l'art. 9); rinvii interni incoerenti (art. 5 richiama il Quadro Economico dell'art. 8 e il contributo dell'art. 4). L'art. 3 fissa al 31 dicembre 2023 il termine per l'obbligazione giuridicamente vincolante, in luogo del 31 dicembre 2022 previsto dall'Addendum."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 97154124.1,
+      "importo_originale": "97.154.124,10",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 1",
+      "passaggio_testuale": "SISTEMA INTERMEDIO A RETE DELLA CITTA' DI H94I19000130004 TRANVIA 335.211.901,76 97.154.124,10",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": "L'art. 1 ripartisce risorse del cap. 7400 PG 7 e PG 1 senza indicare il piano gestionale per singolo intervento.",
+      "note": "Comune di Padova, Linea SIR 2 del tram. Costo totale intervento 335.211.901,76 (non genera record). Le premesse indicano che l'intervento è già ammesso nella Misura M2C2 - 4.2 PNRR per 238.057.777,66; l'importo completa la copertura. Impegno contabile rinviato a successivo provvedimento (art. 1, comma 2)."
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 359545887.07,
+      "importo_originale": "359.545.887,07",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 2",
+      "passaggio_testuale": "C81B21013200005 TRANVIA 363.288.528,40 359.545.887,07",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": "L'art. 1 ripartisce risorse del cap. 7400 PG 7 e PG 1 senza indicare il piano gestionale per singolo intervento.",
+      "note": "Comune di Brescia, nuova linea tranviaria Pendolina-Fiera (T2). Costo totale intervento 363.288.528,40 (non genera record). Impegno contabile rinviato a successivo provvedimento."
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 159466174.12,
+      "importo_originale": "159.466.174,12",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 3",
+      "passaggio_testuale": "J80J18000000001 METRO 159.466.174,12 159.466.174,12",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": "L'art. 1 ripartisce risorse del cap. 7400 PG 7 e PG 1 senza indicare il piano gestionale per singolo intervento.",
+      "note": "Roma Capitale, rinnovo materiale linee A e B-B1 della metropolitana. Costo totale intervento 159.466.174,12 (non genera record). Impegno contabile rinviato a successivo provvedimento."
+    },
+    {
+      "cup": [
+        "C11B21008720001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 9408502.67,
+      "importo_originale": "9.408.502,67",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 4",
+      "passaggio_testuale": "PRESSO OSPEDALE MARTINI E MODIFICA C11B21008720001 TRANVIA 9.408.502,67 9.408.502,67",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": "L'art. 1 ripartisce risorse del cap. 7400 PG 7 e PG 1 senza indicare il piano gestionale per singolo intervento.",
+      "note": "Comune di Torino, attestamento linea tranviaria 15 presso Ospedale Martini. Costo totale intervento 9.408.502,67 (non genera record). Impegno contabile rinviato a successivo provvedimento."
+    },
+    {
+      "cup": [
+        "D81E20000410007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": null,
+      "annualita": null,
+      "importo_eur": 35085990.37,
+      "importo_originale": "35.085.990,37",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "FINANZIAMENTO AMMESSO (€)",
+      "riferimento_fonte": "art. 1, comma 1; Allegato 1 / [TABELLA pag.10 n.1], riga 5",
+      "passaggio_testuale": "D81E20000410007 METRO 35.085.990,37 35.085.990,37",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": "L'art. 1 ripartisce risorse del cap. 7400 PG 7 e PG 1 senza indicare il piano gestionale per singolo intervento.",
+      "note": "Comune di Torino, Metropolitana Linea 1, prolungamento ovest Collegno - Cascine Vica, nuovo fabbricato deposito treni. Costo totale intervento 35.085.990,37 (non genera record). Impegno contabile rinviato a successivo provvedimento."
+    }
+  ],
+  "raw_content": null
+}

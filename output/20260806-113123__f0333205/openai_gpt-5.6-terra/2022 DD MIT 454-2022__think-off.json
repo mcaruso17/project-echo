@@ -1,0 +1,95 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "openai/gpt-5.6-terra",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "sent_at": "2026-08-06T11:44:20",
+  "received_at": "2026-08-06T11:44:25",
+  "latency_seconds": 4.938,
+  "prompt_tokens": 4718,
+  "completion_tokens": 677,
+  "reasoning_tokens": 0,
+  "cached_tokens": 1481,
+  "total_tokens": 5395,
+  "cost_usd_api": 0.0082556,
+  "cost_usd_reconstructed": 0.02195,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786009461-L8HCD3Nfeo35UozwDG9E",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.6-terra"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il testo non riporta numero né data del decreto corrente; sono pertanto null."
+  },
+  "records": [
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 1",
+      "note": "Impegno in conto residui di lettera F, esercizio di provenienza 2021, a favore di Roma Capitale."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 35000000.0,
+      "importo_originale": "35.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, anno 2022",
+      "note": "Impegno a favore di Roma Capitale."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 40000000.0,
+      "importo_originale": "40.000.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, anno 2023",
+      "note": "Impegno a favore di Roma Capitale."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 33500000.0,
+      "importo_originale": "33.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, anno 2024",
+      "note": "Impegno a favore di Roma Capitale."
+    },
+    {
+      "cup": "E51I04000010007",
+      "cup_valido": true,
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "importo_eur": 22500000.0,
+      "importo_originale": "22.500.000,00 €",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "art. 2, anno 2025",
+      "note": "Impegno a favore di Roma Capitale."
+    }
+  ],
+  "raw_content": null
+}

@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "anthropic/claude-haiku-4.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:36:41",
+  "received_at": "2026-08-06T13:36:46",
+  "latency_seconds": 5.861,
+  "prompt_tokens": 29306,
+  "completion_tokens": 393,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 29699,
+  "cost_usd_api": 0.031271,
+  "cost_usd_reconstructed": 0.031271,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016201-E7CsIrAhNalD0K1RmMzo",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-haiku-4.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il documento non contiene un numero di decreto né una data esplicita nella parte dispositiva. Il testo inizia con 'Il Ministro delle infrastrutture e dei trasporti' ma manca l'intestazione formale con numero e data del decreto corrente. L'articolo 1 dichiara che il presente decreto 'rettifica l'Allegato 3 del decreto del Ministro delle infrastrutture e della mobilità sostenibili del 23 settembre 2021, n. 364', ma non assegna nuove risorse: modifica solo importi già stanziati in precedenti decreti (correzioni di errori materiali per Veneto ed Emilia-Romagna). Gli Allegati 1, 2 e 3 contengono tabelle di interventi, ma questi rappresentano l'aggiornamento e la sostituzione degli allegati del DM 364/2021, non nuove assegnazioni disposte dal decreto corrente. Pertanto, non sono state identificate azioni di finanziamento nuove nel senso richiesto (assegnazioni, definanziamenti o rimodulazioni disposte dal presente decreto), ma solo correzioni di importi e recepimento di rimodulazioni già approvate da decreti direttoriali precedenti."
+  },
+  "records": [],
+  "raw_content": null
+}

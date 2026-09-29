@@ -1,0 +1,139 @@
+{
+  "decree_file": "2023 DM MIT 191-2023.pdf",
+  "decree_relpath": "2023 DM MIT 191-2023.pdf",
+  "model_slug": "anthropic/claude-sonnet-5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 7,
+  "status": "ok",
+  "sent_at": "2026-08-06T12:59:39",
+  "received_at": "2026-08-06T13:00:00",
+  "latency_seconds": 20.248,
+  "prompt_tokens": 12249,
+  "completion_tokens": 2208,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 14457,
+  "cost_usd_api": 0.046578,
+  "cost_usd_reconstructed": 0.046578,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786013979-4cplAzZPuKdbnvdlWdKg",
+    "provider": "Amazon Bedrock",
+    "model": "anthropic/claude-sonnet-5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "La tabella dell'Allegato 1 presenta una struttura complessa con colonne 'Costo Subintervento', 'Costo totale intervento', 'Cofinanziamento disponibile' e 'Finanziamento ammesso'. Per alcuni CUP (es. F47D17000140005, F47C19000380001, B34J18000230001, F47C19000360001) non è chiaro se il valore riportato nella colonna 'Finanziamento ammesso' si riferisca al singolo CUP o all'intero intervento; in diversi casi la colonna riporta '-' o è vuota per il sub-CUP, mentre il totale intervento è riportato una sola volta. Ho estratto gli importi di finanziamento ammesso quando chiaramente attribuibili a un singolo CUP, e ho segnalato come 'altro' con importo null i casi ambigui dove il valore sembra riferirsi all'intervento nel suo complesso piuttosto che al singolo sub-CUP. Il totale complessivo del riparto (362.137.535,13) corrisponde alla somma dei valori 'Finanziamento ammesso' per intervento come indicato nell'art. 1 del decreto."
+  },
+  "records": [
+    {
+      "cup": "C11J22000000001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 221721410.41,
+      "importo_originale": "221.721.410,41",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Torino - Prolungamento linea tranviaria 12 all'Allianz Stadium e recupero trincea ferroviaria Torino-Ceres"
+    },
+    {
+      "cup": "F47C19000370001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2000000.0,
+      "importo_originale": "2.000.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Metropolitana Linea M3: Nuovi impianti di rivelazione e segnalazione degli incendi"
+    },
+    {
+      "cup": "F47D17000140005",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Rifacimento impianto diffusione sonora Linea 3; finanziamento ammesso indicato come '-' (nessun contributo aggiuntivo)"
+    },
+    {
+      "cup": "F47C19000380001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 0.0,
+      "importo_originale": "-",
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Nuovi cavi fibra ottica; finanziamento ammesso indicato come '-'"
+    },
+    {
+      "cup": "F47C19000390001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 2100000.0,
+      "importo_originale": "2.100.000,00",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Interventi di ammodernamento SSE Duomo"
+    },
+    {
+      "cup": "F47C19000350001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 45000000.07,
+      "importo_originale": "45.000.000,07",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Metropolitana Linee M1+M2: completamento opere civili di compartimentazione e resistenza antincendio (importo riferito all'intervento complessivo, che include anche CUP F47C19000360001)"
+    },
+    {
+      "cup": "F47C19000360001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Milano - Adeguamento impianti GE, cabine elettriche e sostituzione cavi; nessun importo di finanziamento ammesso specifico riportato nella tabella per questo sub-CUP, il totale intervento (45.000.000,07) è condiviso con F47C19000350001"
+    },
+    {
+      "cup": "B31J23000240001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": 74516124.63,
+      "importo_originale": "74.516.124,63",
+      "tipo_azione": "assegnazione",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Genova - Tratta Canepari-Rivarolo (importo riferito all'intervento complessivo, che include anche CUP B34J18000230001)"
+    },
+    {
+      "cup": "B34J18000230001",
+      "cup_valido": true,
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "importo_eur": null,
+      "importo_originale": null,
+      "tipo_azione": "altro",
+      "riferimento_fonte": "Allegato 1 - Piano di riparto",
+      "note": "Comune di Genova - Completamento della stazione di Martinez/Terralba; nessun importo di finanziamento ammesso specifico riportato per questo sub-CUP, il totale intervento (74.516.124,63) è condiviso con B31J23000240001"
+    }
+  ],
+  "raw_content": null
+}

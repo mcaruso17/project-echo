@@ -1,0 +1,116 @@
+Parallelismo: 4 celle per volta dentro ogni documento.
+Prompt da file: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/cicli/manuale/v003.json
+  versione: v003   fingerprint: 4e63bed6
+--docs-file -> 5 documento/i su 25 (elenco di 5 stem).
+5 PDF x 8 modelli -> 8 celle-modello per documento
+Run: 20260928-164253__4e63bed6
+
+[2022 DD MIT 454-2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DD MIT 454-2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 9210->920 tok, $0.0010, 7.394s
+[2022 DD MIT 454-2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 9207->1207 tok, $0.0127, 11.358s
+[2022 DD MIT 454-2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 9214->998 tok, $0.0024, 10.438s
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DD MIT 454-2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 9039->1118 tok, $0.0040, 12.51s
+    ok: 2 record, 9723->1215 tok, $0.0141, 24.09s
+    ok: 2 record, 9462->1094 tok, $0.0013, 32.44s
+    ok: 2 record, 9124->1147 tok, $0.0010, 56.168s
+[2022 DDG 128 del 02-05-22.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DDG 128 del 02-05-22.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 5 record, 10452->2021 tok, $0.0163, 16.087s
+[2022 DDG 128 del 02-05-22.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 5 record, 10990->2154 tok, $0.0158, 36.342s
+[2022 DDG 128 del 02-05-22.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 5 record, 10432->1641 tok, $0.0012, 41.274s
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2022 DDG 128 del 02-05-22.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 10325->2446 tok, $0.0047, 31.841s
+    ok: 5 record, 10628->1877 tok, $0.0014, 101.946s
+    ok: 8 record, 11711->3246 tok, $0.0028, 81.139s
+    OK_REPAIRED: 1 record, 11459->32000 tok, $0.0337, 261.545s
+    ATTENZIONE: output troncato (alzare MAX_OUTPUT_TOKENS).
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    HTTP 429, retry 1/4 tra 2.4641374847207063s
+    ok: 19 record, 17649->6733 tok, $0.0017, 35.142s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 15 record, 17646->5636 tok, $0.0342, 39.598s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 20 record, 17226->6998 tok, $0.0135, 20.728s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 15 record, 18568->4818 tok, $0.0337, 81.076s
+[2022 DI Mims Mef 97 20.04.2022.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 15 record, 18201->5586 tok, $0.0083, 52.281s
+    ok: 15 record, 18502->5472 tok, $0.0048, 93.9s
+    ok: 19 record, 18502->6867 tok, $0.0039, 112.13s
+    ok: 15 record, 17490->4880 tok, $0.0030, 259.032s
+[2023 DM MIT 342-2023.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2023 DM MIT 342-2023.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 34 record, 31095->11935 tok, $0.0030, 54.501s
+[2023 DM MIT 342-2023.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 26 record, 31092->9964 tok, $0.0549, 66.438s
+[2023 DM MIT 342-2023.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 22 record, 30718->7791 tok, $0.0185, 25.198s
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+    ERRORE: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2023 DM MIT 342-2023.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 5 record, 34393->2219 tok, $0.0041, 39.785s
+    ok: 26 record, 32374->8614 tok, $0.0620, 135.073s
+    ok: 26 record, 34233->8996 tok, $0.0141, 84.53s
+    ok: 22 record, 31778->7534 tok, $0.0049, 287.087s
+[2025 DD MIT 141-2025.pdf] -> z-ai_glm-4.7-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> moonshotai_kimi-k2.6 [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-flash [OFF]
+[2025 DD MIT 141-2025.pdf] -> deepseek_deepseek-v4-pro-0813 [OFF]
+    ok: 2 record, 12178->1195 tok, $0.0006, 8.305s
+[2025 DD MIT 141-2025.pdf] -> qwen_qwen3.6-35b-a3b [OFF]
+    ok: 2 record, 12175->1217 tok, $0.0154, 11.857s
+[2025 DD MIT 141-2025.pdf] -> minimax_minimax-m3 [OFF]
+    ok: 2 record, 12828->1125 tok, $0.0135, 20.551s
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-31b-it [OFF]
+    HTTP 400 -> rimuovo 'response_format' e riprovo
+    ok: 2 record, 12610->1461 tok, $0.0034, 14.027s
+    HTTP 400 -> rimuovo 'reasoning' e riprovo
+[2025 DD MIT 141-2025.pdf] -> google_gemma-4-26b-a4b-it [OFF]
+    ok: 2 record, 11991->1417 tok, $0.0053, 14.057s
+    ok: 2 record, 12109->1479 tok, $0.0013, 44.455s
+    ok: 2 record, 12979->1201 tok, $0.0023, 53.449s
+    ok: 5 record, 12980->2113 tok, $0.0025, 78.738s
+
+Fatto. Risultati in: /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__4e63bed6
+JSONL scritto: results.jsonl (40 righe, tutte le celle)
+
+Spesa totale (API): $0.4213
+Costo per cella-modello:
+cell
+moonshotai/kimi-k2.6::off             0.139019
+deepseek/deepseek-v4-pro-0813::off    0.133543
+qwen/qwen3.6-35b-a3b::off             0.061899
+minimax/minimax-m3::off               0.046008
+google/gemma-4-26b-a4b-it::off        0.014643
+z-ai/glm-4.7-flash::off               0.011635
+deepseek/deepseek-v4-flash::off       0.007491
+google/gemma-4-31b-it::off            0.007077
+
+CSV scritti in /Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__4e63bed6
+/Users/matteocaruso/Library/CloudStorage/OneDrive-mef.gov.it/File di Olivieri Giuseppe - AAAA Previsioni di Spesa/5. LLMs/output/20260928-164253__4e63bed6

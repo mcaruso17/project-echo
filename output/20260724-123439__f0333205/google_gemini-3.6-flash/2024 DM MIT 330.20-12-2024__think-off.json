@@ -1,0 +1,42 @@
+{
+  "decree_file": "2024 DM MIT 330.20-12-2024.pdf",
+  "decree_relpath": "2024 DM MIT 330.20-12-2024.pdf",
+  "model_slug": "google/gemini-3.6-flash",
+  "model_family": "google",
+  "model_kind": "commercial",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "sent_at": "2026-07-24T12:48:01",
+  "received_at": "2026-07-24T12:48:08",
+  "latency_seconds": 6.741,
+  "prompt_tokens": 4284,
+  "completion_tokens": 1143,
+  "reasoning_tokens": 990,
+  "cached_tokens": 0,
+  "total_tokens": 5427,
+  "cost_usd_api": 0.0149985,
+  "cost_usd_reconstructed": 0.0149985,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1784890082-xaNelsHYlZef4fuvzwMK",
+    "provider": "Google",
+    "model": "google/gemini-3.6-flash"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto analizzato dispone esclusivamente la proroga dei termini per il conseguimento delle obbligazioni giuridicamente vincolanti (OGV) al 31/12/2025 per gli interventi riportati nell'Allegato 1, senza disporre nuove assegnazioni, definanziamenti o movimentazioni finanziarie."
+  },
+  "records": [],
+  "raw_content": null
+}

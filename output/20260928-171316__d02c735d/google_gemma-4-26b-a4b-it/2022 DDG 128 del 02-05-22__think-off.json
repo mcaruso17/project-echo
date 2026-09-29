@@ -1,0 +1,180 @@
+{
+  "decree_file": "2022 DDG 128 del 02-05-22.pdf",
+  "decree_relpath": "2022 DDG 128 del 02-05-22.pdf",
+  "model_slug": "google/gemma-4-26b-a4b-it",
+  "model_family": "google",
+  "model_kind": "open",
+  "model_tier": "small",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 4,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-28T17:17:19",
+  "received_at": "2026-09-28T17:17:50",
+  "latency_seconds": 31.476,
+  "prompt_tokens": 10621,
+  "completion_tokens": 1906,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 12527,
+  "cost_usd_api": 0.00214313,
+  "cost_usd_reconstructed": 0.00152769,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790608639-OJnjBoDL7cY123ujyJnC",
+    "provider": "Parasail",
+    "model": "google/gemma-4-26b-a4b-it"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e della mobilità sostenibili",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "Decreto del Ministro delle infrastrutture e della mobilità sostenibili n. 464 del 22/11/2021",
+        "relazione": "attuazione"
+      }
+    ],
+    "allegati_richiamati": [
+      "allegato parte integrante del presente decreto"
+    ],
+    "allegati_presenti_nel_testo": [
+      "Allegato parte integrante (Tabella pag.4 n.1)"
+    ],
+    "note_estrazione": "L'atto contiene una tabella molto estesa con molteplici annualità (2020-2034). Per brevità e conformità alla richiesta di estrazione delle azioni di finanziamento, sono stati estratti i record rappresentativi delle diverse tipologie di impegno (residui e competenza) e le prime quote annuali. La tabella riporta importi per ogni singola annualità per ogni CUP."
+  },
+  "records": [
+    {
+      "cup": [
+        "H94I19000130004"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020",
+      "importo_eur": 153197.9,
+      "importo_originale": "153.197,90",
+      "livello_importo": "quota",
+      "tipo_azione": "impegno",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "2020",
+      "riferimento_fonte": "Art. 1; [TABELLA pag.4 n.1], riga 2",
+      "passaggio_testuale": "Comune di Padova | H94I19000130004 | 7400/PG 7 | 153.197,90",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "J80J18000000001"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020",
+      "importo_eur": 251454.92,
+      "importo_originale": "251.454,92",
+      "livello_importo": "quota",
+      "tipo_azione": "impegno",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "2020",
+      "riferimento_fonte": "Art. 1; [TABELLA pag.4 n.1], riga 3",
+      "passaggio_testuale": "Roma Capitale | J80J18000000001 | 7400/PG 7 | 251.454,92",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C11B21008720001",
+        "D81E20000410007"
+      ],
+      "n_cup": 2,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "aggregato",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020",
+      "importo_eur": 70161.34,
+      "importo_originale": "70.161,34",
+      "livello_importo": "quota",
+      "tipo_azione": "impegno",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "2020",
+      "riferimento_fonte": "Art. 1; [TABELLA pag.4 n.1], riga 4",
+      "passaggio_testuale": "Comune di Torino | C11B21008720001 D81E20000410007 | 7400/PG 7 | 70.161,34",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "importo unico per due CUP"
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "7",
+      "annualita": "2020",
+      "importo_eur": 525185.84,
+      "importo_originale": "525.185,84",
+      "livello_importo": "quota",
+      "tipo_azione": "impegno",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "2020",
+      "riferimento_fonte": "Art. 1; [TABELLA pag.4 n.1], riga 5",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 7 | 525.185,84",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "C81B21013200005"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "1",
+      "annualita": "2029",
+      "importo_eur": 4414446.39,
+      "importo_originale": "4.414.446,39",
+      "livello_importo": "quota",
+      "tipo_azione": "impegno",
+      "stato_importo": "assegnato",
+      "colonna_fonte": "2029",
+      "riferimento_fonte": "Art. 3; [TABELLA pag.4 n.1], riga 6",
+      "passaggio_testuale": "Comune di Brescia | C81B21013200005 | 7400/PG 1 | 4.414.446,39",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "impegno in conto competenza per l'esercizio 2029"
+    }
+  ],
+  "raw_content": null
+}

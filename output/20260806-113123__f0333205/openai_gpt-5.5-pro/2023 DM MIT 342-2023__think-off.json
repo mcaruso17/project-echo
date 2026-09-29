@@ -1,0 +1,42 @@
+{
+  "decree_file": "2023 DM MIT 342-2023.pdf",
+  "decree_relpath": "2023 DM MIT 342-2023.pdf",
+  "model_slug": "openai/gpt-5.5-pro",
+  "model_family": "openai",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 11,
+  "status": "parse_error",
+  "sent_at": "2026-08-06T13:38:38",
+  "received_at": "2026-08-06T13:42:07",
+  "latency_seconds": 209.104,
+  "prompt_tokens": 26008,
+  "completion_tokens": 8000,
+  "reasoning_tokens": 8000,
+  "cached_tokens": 0,
+  "total_tokens": 34008,
+  "cost_usd_api": 2.22024,
+  "cost_usd_reconstructed": 2.22024,
+  "finish_reason": "length",
+  "truncated": true,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1786016318-y4RwbHQYX3b6zJ44U5WR",
+    "provider": "OpenAI",
+    "model": "openai/gpt-5.5-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": null,
+    "ministero_2": null,
+    "note_estrazione": null
+  },
+  "records": [],
+  "raw_content": ""
+}

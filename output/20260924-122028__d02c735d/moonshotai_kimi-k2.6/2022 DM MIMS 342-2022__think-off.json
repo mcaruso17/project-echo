@@ -1,0 +1,103 @@
+{
+  "decree_file": "2022 DM MIMS 342-2022.pdf",
+  "decree_relpath": "2022 DM MIMS 342-2022.pdf",
+  "model_slug": "moonshotai/kimi-k2.6",
+  "model_family": "moonshot",
+  "model_kind": "open",
+  "model_tier": "medium",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 6,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:48:10",
+  "received_at": "2026-09-24T12:48:28",
+  "latency_seconds": 18.349,
+  "prompt_tokens": 10429,
+  "completion_tokens": 959,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 11388,
+  "cost_usd_api": 0.01577901,
+  "cost_usd_reconstructed": 0.013743549999999998,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1790246890-sl1NI5TEw4SDpXt1RdxF",
+    "provider": "Phala",
+    "model": "moonshotai/kimi-k2.6"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e della Mobilità Sostenibili",
+    "ministero_2": null,
+    "natura_atto": "assegnazione",
+    "atti_collegati": [
+      {
+        "estremi": "decreto del Presidente del Consiglio dei ministri 11 giugno 2019",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro dell'economia e delle finanze 4 ottobre 2019, n. 195790",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "decreto del Ministro delle infrastrutture e della mobilità sostenibili 12 novembre 2021, n. 443",
+        "relazione": "integra"
+      },
+      {
+        "estremi": "relazione n. 7651 del 1° ottobre 2021 della Direzione generale per il trasporto pubblico locale e regionale e la mobilità pubblica sostenibile",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "nota n. 1212 del 21 febbraio 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "nota n. 1831 del 16 marzo 2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "nota n. 0382350 del 2 dicembre 2021 del Comune di Rimini",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "nota n. 77839 del 17 marzo 2020 del Comune di Rimini",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "Il decreto non riporta un numero o una data espliciti nell'intestazione o nella parte dispositiva. Il numero_decreto e data_decreto risultano null. Il decreto attuale integra il decreto n. 443/2021 assegnando risorse residue non allocate precedentemente. La tabella [TABELLA pag.1 n.1] riporta il quadro pluriennale del capitolo 7400 PG 5 ma non contiene azioni di finanziamento specifiche (è un prospetto informativo dello stanziamento complessivo già previsto). Le tabelle [TABELLA pag.5 n.1] e [TABELLA pag.6 n.1] riproducono le modalità di erogazione (percentuali di anticipo, acconti e saldo) e non costituiscono azioni di finanziamento con importi specifici. Non sono presenti allegati richiamati esplicitamente nell'articolato."
+  },
+  "records": [
+    {
+      "cup": [
+        "PROV0000026838"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "provvisorio",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7400",
+      "piano_gestionale": "5",
+      "annualita": null,
+      "importo_eur": 2041389.2,
+      "importo_originale": "€ 2.041.389,20",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "assegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1, comma 1",
+      "passaggio_testuale": "E' assegnato al Comune di Rimini il contributo di € 2.041.389,20, a valere sul fondo di cui all'articolo 1, comma 95, della legge 145/2018, per l'intervento di manutenzione relativo a \"Impianto filoviario Rimini – Riccione: linea di contatto (CUP: PROV0000026838)\" il cui costo totale è stimato in € 2.250.000,00.",
+      "atto_riferito": null,
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Il costo totale dell'intervento è stimato in € 2.250.000,00; il contributo assegnato è di € 2.041.389,20. CUP provvisorio PROV0000026838 esplicitamente indicato nel testo dell'articolo 1."
+    }
+  ],
+  "raw_content": null
+}

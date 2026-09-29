@@ -1,0 +1,219 @@
+{
+  "decree_file": "2022 DD MIT 454-2022.pdf",
+  "decree_relpath": "2022 DD MIT 454-2022.pdf",
+  "model_slug": "anthropic/claude-opus-5.5",
+  "model_family": "anthropic",
+  "model_kind": "commercial",
+  "model_tier": "flagship",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 3,
+  "status": "ok",
+  "json_repaired": false,
+  "sent_at": "2026-09-24T12:22:21",
+  "received_at": "2026-09-24T12:22:47",
+  "latency_seconds": 26.008,
+  "prompt_tokens": 11176,
+  "completion_tokens": 3349,
+  "reasoning_tokens": 449,
+  "cached_tokens": 0,
+  "total_tokens": 14525,
+  "cost_usd_api": 0.111684,
+  "cost_usd_reconstructed": 0.111684,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [
+    "response_format",
+    "reasoning"
+  ],
+  "response_meta": {
+    "id": "gen-1790245342-3vE11fmQ3gRiXra2P5ZX",
+    "provider": "Claude Platform on AWS",
+    "model": "anthropic/claude-opus-5.5"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle infrastrutture e dei trasporti",
+    "ministero_2": null,
+    "natura_atto": "impegno",
+    "atti_collegati": [
+      {
+        "estremi": "DM MIT di concerto con MEF 14 novembre 2014, n. 498",
+        "relazione": "attua"
+      },
+      {
+        "estremi": "Decreto-legge 12 settembre 2014, n. 133, conv. L. 11 novembre 2014, n. 164",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "Delibera CIPE 20 dicembre 2019, n. 76",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DD n. 220 del 10/07/2020",
+        "relazione": "richiama"
+      },
+      {
+        "estremi": "DM MIMS di concerto con MEF n. 97 del 20/04/2022",
+        "relazione": "richiama"
+      }
+    ],
+    "allegati_richiamati": [],
+    "allegati_presenti_nel_testo": [],
+    "note_estrazione": "L'atto corrente è un decreto direttoriale di impegno della Div. 2 della DG TPL (firmato Dr. Raffaele Di Trani). Numero e data non sono presenti nel testo. Non sono richiamati allegati: la tabella dell'art. 2 è inserita nell'articolato. Il preambolo appare lacunoso: il paragrafo che inizia con \"destinato € 9.279.359,97...\" è privo della parte iniziale, probabilmente riferita alla delibera CIPE n. 76/2019. Gli importi citati nel preambolo (155 mln del DM 498/2014, 9.279.359,97 del DD 220/2020, 608.690.000,00 del DM 97/2022) sono meramente richiamati e non generano record."
+  },
+  "records": [
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 14000000.0,
+      "importo_originale": "€ 14.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": null,
+      "riferimento_fonte": "art. 1",
+      "passaggio_testuale": "a favore di Roma Capitale per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007, l'impegno di € 14.000.000,00 in conto residui",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Impegno per il corrente esercizio finanziario, non indicato esplicitamente nel testo. Si tratta di residui di lettera F con esercizio di provenienza 2021. Beneficiario: Roma Capitale. Missione 13, programma 6, Azione 4, CRA 3."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": null,
+      "importo_eur": 131000000.0,
+      "importo_originale": "€ 131.000.000,00",
+      "livello_importo": "totale",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 5 (Totale)",
+      "passaggio_testuale": "per l'importo complessivo di € 131.000.000,00 a favore di Roma Capitale, per l'intervento \"Tratta Colosseo - Piazza Venezia della Linea C della metropolitana di Roma\" CUP E51I04000010007",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": "Importo complessivo pluriennale 2022-2025, beneficiario Roma Capitale."
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2022",
+      "importo_eur": 35000000.0,
+      "importo_originale": "35.000.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 1",
+      "passaggio_testuale": "2022 | 35.000.000,00 €",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2023",
+      "importo_eur": 40000000.0,
+      "importo_originale": "40.000.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 2",
+      "passaggio_testuale": "2023 | 40.000.000,00 €",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2024",
+      "importo_eur": 33500000.0,
+      "importo_originale": "33.500.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 3",
+      "passaggio_testuale": "2024 | 33.500.000,00 €",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    },
+    {
+      "cup": [
+        "E51I04000010007"
+      ],
+      "n_cup": 1,
+      "cup_valido": true,
+      "cup_tipo": "definitivo",
+      "cup_master": null,
+      "attribuzione_importo": "singolo",
+      "capitolo": "7426",
+      "piano_gestionale": "1",
+      "annualita": "2025",
+      "importo_eur": 22500000.0,
+      "importo_originale": "22.500.000,00 €",
+      "livello_importo": "quota",
+      "tipo_azione": "assegnazione",
+      "stato_importo": "impegnato",
+      "colonna_fonte": "Importo",
+      "riferimento_fonte": "art. 2; [TABELLA pag.3 n.1], riga 4",
+      "passaggio_testuale": "2025 | 22.500.000,00 €",
+      "atto_riferito": "DM MIT-MEF 14 novembre 2014, n. 498",
+      "confidenza": "alta",
+      "ambiguita": null,
+      "note": null
+    }
+  ],
+  "raw_content": null
+}

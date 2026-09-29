@@ -1,0 +1,39 @@
+{
+  "decree_file": "2023 DM MIT 270-2023.pdf",
+  "decree_relpath": "2023 DM MIT 270-2023.pdf",
+  "model_slug": "deepseek/deepseek-v4-pro",
+  "model_family": "deepseek",
+  "model_kind": "open",
+  "model_tier": "frontier",
+  "thinking": "off",
+  "reasoning_mode": "optional",
+  "n_pages": 25,
+  "status": "ok",
+  "sent_at": "2026-08-06T13:36:24",
+  "received_at": "2026-08-06T13:36:35",
+  "latency_seconds": 10.759,
+  "prompt_tokens": 42581,
+  "completion_tokens": 251,
+  "reasoning_tokens": 0,
+  "cached_tokens": 0,
+  "total_tokens": 42832,
+  "cost_usd_api": 0.0281116575,
+  "cost_usd_reconstructed": 0.018741105,
+  "finish_reason": "stop",
+  "truncated": false,
+  "stripped_params": [],
+  "response_meta": {
+    "id": "gen-1786016184-XrUs5qjCdqAdfU3utCkf",
+    "provider": "StreamLake",
+    "model": "deepseek/deepseek-v4-pro"
+  },
+  "decree_meta": {
+    "numero_decreto": null,
+    "data_decreto": null,
+    "ministero_1": "Ministero delle Infrastrutture e dei Trasporti",
+    "ministero_2": null,
+    "note_estrazione": "Il decreto corrente non contiene azioni di finanziamento che assegnano nuove risorse o definanziano fondi. L'articolo 1 specifica che il decreto effettua una 'riprogrammazione degli interventi ritenuti originariamente ammissibili a finanziamento dal medesimo decreto ministeriale' (DM 182/2020), aggiornando e sostituendo l'allegato 1. L'allegato 1 elenca gli interventi riprogrammati con i relativi CUP e importi, ma questi importi rappresentano la ripartizione di risorse già stanziate dal DM 182/2020, non nuove assegnazioni dal decreto corrente. Non sono presenti capitoli di spesa o piani gestionali nel testo del decreto corrente."
+  },
+  "records": [],
+  "raw_content": null
+}
