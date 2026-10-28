@@ -1,8 +1,4 @@
-# Esclusi dalla replica di Dropbox "5. LLMs"
-letteratura/
-0. Backup/
-__pycache__/
-*.pyc
-*.bak
-.Rhistory
-.env
+.venv/
+input/*
+!input/.gitkeep
+__pycache__
